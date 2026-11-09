@@ -6,10 +6,26 @@ Part of the [Kit Perform](https://github.com/kitperform) family of performance-a
 
 ## What is in this repo
 
-- `data-model.md` — the current (first-pass) normalised data model, derived from reading the Wikipedia series pages
+- `data-model.md` — the first-pass normalised data model, derived from reading the Wikipedia series pages (superseded by `docs/data-model-v2.md`, kept for the record)
 - `data-modelling-thinking.md` — notes comparing the hand-devised model with a Google Gemini suggestion
-- `data/wikipedia/` — raw `curl` captures of the Wikipedia pages (main article plus one page per series) that everything is derived from
+- `docs/` — the research and design documents (see below)
+- `data/wikipedia/series/0NN/` — rendered HTML captures of the Wikipedia page for each series (1–24), plus `data/wikipedia/main/` for the main article
+- `data/wikipedia/wikitext/` — raw wikitext of the same pages fetched through the MediaWiki Action API, with `MANIFEST.csv` recording page id, revision id, revision timestamp and sha1 for every capture
+- `data/wikipedia/parsoid/` — Parsoid HTML of series 24 at the same revision as its wikitext
+- `scripts/fetch-wikipedia.sh` (HTML) and `scripts/fetch-wikitext.py` (wikitext + manifest, optional `--parsoid N`) — reproducible fetchers
+- `prototypes/` — parser prototypes that established the approach (`prototypes/README.md`)
 - `scraping-evaluation.ipynb`, `four-tens-experimentation.ipynb` — early Jupyter experiments (merged in from the former `strictly-jupyter` fork)
+
+## Documentation
+
+| Document | What it covers |
+|---|---|
+| [`docs/data-model-v2.md`](docs/data-model-v2.md) | The proposed data model: entities, fields, enumerations, rule tables, worked examples, coverage of every catalogued corner case, Drupal and CSV mappings, open questions |
+| [`docs/wikipedia-source-analysis.md`](docs/wikipedia-source-analysis.md) | What a series page contains, every table type and its quirks, identity resolution, the two HTML dialects, parser prototype results and the recommended parsing approach |
+| [`docs/wikipedia-anomaly-register.md`](docs/wikipedia-anomaly-register.md) | 257 catalogued anomalies (A001–A257) across series 1–24 with their Wikipedia encoding and modelling implication |
+| [`docs/series-summaries.md`](docs/series-summaries.md) | One structured summary per series: format, judges, scoring, notable events |
+| [`docs/data-access-options.md`](docs/data-access-options.md) | How to get Wikipedia data without screen-scraping rendered pages, existing datasets, licensing, live-series tracking |
+| [`docs/architecture-and-hosting.md`](docs/architecture-and-hosting.md) | Drupal modelling, API options for Pandas, ingestion pipeline, hosting options and costs, traffic strategy, domain layout, local development, roadmap |
 
 ## Project stage
 
