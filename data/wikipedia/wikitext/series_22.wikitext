@@ -1,0 +1,1895 @@
+{{pp|small=yes}}
+{{Short description|None}}
+{{Use dmy dates|date=July 2023}}
+{{Use British English|date=July 2023}}
+{{Infobox television season
+| bgcolor              = #f5d0ca
+| series_number        = 22
+| module1              = {{Infobox reality competition season
+| celebrity_winner    = [[Chris McCausland]]
+| professional_winner = [[Dianne Buswell]]
+| presenter = [[Tess Daly]]<br>[[Claudia Winkleman]]
+| judges    = [[Shirley Ballas]]<br>[[Anton Du Beke]]<br>[[Motsi Mabuse]]<br>[[Craig Revel Horwood]]
+}}
+| num_episodes         = 25
+| network              = [[BBC One]]
+| first_aired          = {{Start date|2024|9|14|df=y}}
+| last_aired           = {{End date|2024|12|14|df=y}}
+}}
+
+''[[Strictly Come Dancing]]'' returned for its twenty-second series with a launch show on 14 September 2024 on [[BBC One]], with the live shows beginning on 21 September.<ref>{{cite web |last1=Crick |first1=Claire |title=Strictly Come Dancing 2024: line-up rumours, professional dancers, hosts, judges and everything we know |url=https://www.whattowatch.com/watching-guides/strictly-come-dancing-2024-celebrity-line-up-rumours-and-everything-we-know |website=[[What to Watch]] |access-date=14 July 2024 |language=en |date=23 April 2024}}</ref><ref>{{cite web |url=https://uk.news.yahoo.com/strictly-come-dancing-line-up-2024-start-date-165216388.html |title=Everything we know about Strictly Come Dancing 2024 |last=Bland |first=Simon |publisher=[[Yahoo!]] |work=[[Yahoo! News]] |access-date=20 August 2024 |date=22 August 2024 |language=en-gb }}</ref> A special episode to commemorate the programme's twentieth anniversary was also confirmed.<ref>{{cite web |title=Strictly Come Dancing celebrates 20 years of dance magic on the BBC with brand new anniversary show |url=https://www.bbc.co.uk/mediacentre/2024/strictly-come-dancing-at-20 |website=[[BBC Media Centre]] |access-date=14 July 2024 |language=en}}</ref> [[Tess Daly]] and [[Claudia Winkleman]] returned as hosts, whilst [[Janette Manrara]] and [[Fleur East]] returned to host ''[[Strictly Come Dancing: It Takes Two]]''.<ref>{{cite web |title=Strictly's Tess Daly hoping for special surprises for 20th anniversary |url=https://www.radiotimes.com/tv/entertainment/strictly-come-dancing-tess-daly-surprises-20th-anniversary-newsupdate/ |website=[[Radio Times]] |access-date=14 July 2024 |language=en}}</ref> [[Craig Revel Horwood]], [[Motsi Mabuse]], [[Shirley Ballas]] and [[Anton Du Beke]] returned to the judging panel for their 22nd, 6th, 8th, and 4th series respectively.<ref>{{cite web |title=Strictly Come Dancing celebrates two decades of dance as Presenters, Judges and Professional Dancers for 2024 are confirmed |url=https://www.bbc.com/mediacentre/2024/strictly-come-dancing-presenters-judges-professional-dancers-confirmed |website=[[BBC News]] |access-date=14 July 2024 |language=en}}</ref>
+
+Comedian [[Chris McCausland]] and his partner [[Dianne Buswell]] were announced as the winners on 14 December,<ref>{{cite news|url=https://www.bbc.com/news/articles/cn8g4d8yxlzo|title=Strictly winners crowned after glitzy live final|work=BBC News|first=Noor|last=Nanji|date=14 December 2024|accessdate=14 December 2024}}</ref> while [[Sarah Hadland]] and [[Vito Coppola]], [[JB Gill]] and [[Lauren Oakley]], and [[Tasha Ghouri]] and [[Aljaž Škorjanec]] were the runners-up.
+
+== Format ==
+{{Further|Strictly Come Dancing#Format}}
+{{Multiple image
+ | align        = right
+ | total_width  = 550
+
+ | header       = Hosts and Judges for ''Strictly Come Dancing'' Series 22
+
+ | image1       = Tess Daly Cropped.jpg
+ | alt1         =
+ | caption1     = [[Tess Daly]]
+
+ | image2       = Claudia Winkleman at BAFTA 2026 01.jpg
+ | alt2         =
+ | caption2     = [[Claudia Winkleman]]
+
+ | image3       = Craig-Revel-Horwood-2022.png
+ | alt3         = 
+ | caption3     = [[Craig Revel Horwood]]
+
+ | image4       = 2022-06-22-Motsi Mabuse LEA Live Entertainment Award 15 -0167.jpg
+ | alt4         =
+ | caption4     = [[Motsi Mabuse]]
+
+ | image5       = Shirley_Ballas_20241205.jpg
+ | alt5         =
+ | caption5     = [[Shirley Ballas]]
+
+ | image6       = Anton_Du_Beke_in_2019.png
+ | alt6         =
+ | caption6     = [[Anton Du Beke]]
+}}
+
+The couples dance each week in a live show. The judges score each performance out of ten. After all the couples have danced they are then ranked according to the judges' scores and given points according to their rank, with the highest ranked couple receiving a number of points equal to the number of couples dancing that week e.g. 7 points where there are seven couples dancing. When there are no tied scores the lowest scored couple will receive one point. However in the event of a tie where two or more couples obtain the same judges score, the couple below those in the tie will be awarded one point below the points awarded to each of the tied couples. So, for example, if two couples obtain the same rank and obtain 7 points each, the couple immediately below them will be awarded 6 points. When couples are ranked equally by the judges the scoring of all other couples underneath will follow in the same descending order. Should there be any tied scores the lowest scored couple will therefore receive more than one point from the judges scores. The public are also invited to vote for their favourite couples, and the couples are ranked again according to the number of votes they receive, again receiving points; The couple with the most votes receiving the most points. Again in the unlikely  event of a tie in the public vote the points are awarded in the same way as the points from the judges score.
+
+The points for judges' score and public vote are then added together, and the two couples with the fewest points are placed in the bottom two. If two couples have equal points, the points from the public vote are given precedence.<ref>{{Cite web |title=BBC One – Strictly Come Dancing – About |url=https://www.bbc.co.uk/programmes/articles/16rGc8M34fT0wWYmrSMc8Cp/about |access-date=2024-12-01 |website=BBC |language=en-GB}}</ref>
+
+As with the previous series, the bottom two couples have to perform a dance-off on the results show. Based on that performance alone, each judge then votes on which couple should stay and which couple should leave, with [[Shirley Ballas]], as head judge, having the last and [[Casting vote|deciding vote]], if needed.
+
+== Professional dancers ==
+In June 2024, the BBC announced that [[Dianne Buswell]], [[Nadiya Bychkova]], [[Vito Coppola]], [[Graziano Di Prima]], [[Amy Dowden]], [[Carlos Gu]], [[Karen Hauer]], [[Katya Jones]], [[Neil Jones (dancer)|Neil Jones]], [[Nikita Kuzmin]], [[Gorka Márquez]], [[Luba Mushtuk]], [[Lauren Oakley]], [[Jowita Przystał]], [[Johannes Radebe]], [[Michelle Tsiakkas]], [[Kai Widdrington]] and [[Nancy Xu]] would be returning to the series.<ref>{{cite web |title=Strictly Come Dancing confirms 2024 professionals |url=https://www.radiotimes.com/tv/entertainment/strictly-come-dancing-2024-professionals-newsupdate/ |website=[[Radio Times]] |access-date=14 July 2024}}</ref> It was confirmed that [[Giovanni Pernice]] would not be returning to the show, following misconduct allegations regarding his dance teaching methods.<ref name="auto">{{cite web |title=Strictly star Giovanni rejects claims over teaching methods |url=https://www.bbc.co.uk/news/entertainment-arts-69034518 |website=[[BBC News]] |access-date=8 July 2024 |date=19 May 2024}}</ref><ref>{{cite web |title=BBC promises 'fairness' after Strictly Come Dancing complaint reports |url=https://www.bbc.co.uk/news/articles/clkk2dvrkgzo |website=[[BBC News]] |access-date=14 July 2024 |language=en-gb |date=29 May 2024}}</ref><ref>{{cite news |title='It's not going to go away': Strictly Come Dancing row could take shine off 20th anniversary {{!}} Strictly Come Dancing {{!}} The Guardian |url=https://theguardian.com/tv-and-radio/article/2024/jul/13/strictly-come-dancing-row-could-take-shine-off-20th-anniversary |website=[[The Guardian]] |date=13 July 2024 |access-date=14 July 2024 |last1=Topping |first1=Alexandra }}</ref> Pernice, however, denied "any suggestion of abusive or threatening behaviour".<ref>{{cite web |title=Giovanni Pernice will not return to Strictly Come Dancing |url=https://www.bbc.co.uk/news/articles/cgeedq2zjjeo.amp |website=[[BBC News]] |access-date=8 July 2024 |language=en-gb |date=10 June 2024}}</ref><ref name="auto"/> 
+
+In July 2024, it was announced that [[Aljaž Škorjanec]] would be returning as a professional after a two-year hiatus, following his departure in March 2022, having last appeared in the [[Strictly Come Dancing series 19|nineteenth series]].<ref>{{cite web |title=Aljaž Škorjanec returns to the Strictly Come Dancing Ballroom as a Professional Dancer |url=https://www.bbc.co.uk/mediacentre/2024/aljaz-skorjanec-returns-to-strictly-come-dancing |website=[[BBC News]] |access-date=14 July 2024 |language=en}}</ref><ref>{{cite web |title=Aljaž Škorjanec returns to Strictly Come Dancing |url=https://www.bbc.com/news/articles/c3g65wd9537o |website=[[BBC News]] |access-date=14 July 2024 |language=en-gb |date=9 July 2024}}</ref> Later that same month, despite initially being confirmed to return for the series, it was subsequently announced that Graziano Di Prima would not be returning to the show, following allegations of misconduct against him towards [[Zara McDermott]], his partner from the [[Strictly Come Dancing series 21|previous series]].<ref>{{cite web |title=Strictly star axed by BBC after 'deeply regretful' event |url=https://www.independent.co.uk/arts-entertainment/tv/news/strictly-graziano-di-prima-zara-mcdermott-bbc-b2579463.html |website=[[The Independent]] |access-date=14 July 2024 |language=en |date=14 July 2024}}</ref> In a statement, Di Prima said that he "deeply regretted" the events that led to his departure from the show.<ref>{{cite web |title=Graziano Di Prima out of Strictly Come Dancing line-up |url=https://www.bbc.co.uk/news/articles/c4ngl4qkjgeo |website=[[BBC News]] |access-date=13 July 2024 |date=13 July 2024}}</ref><ref>{{cite web |title=Strictly Come Dancing star Graziano Di Prima leaves BBC show |url=https://news.sky.com/story/strictly-come-dancing-star-graziano-di-prima-leaves-bbc-show-amid-reports-of-alleged-misconduct-13177469 |website=[[Sky News]] |access-date=14 July 2024 |language=en}}</ref>
+
+During the launch show, Michelle Tsiakkas received a celebrity partner for the first time, while Carlos Gu, Lauren Oakley and Kai Widdrington did not receive a partner. The rest of the pros were paired to a celebrity, including Neil Jones, who did not have a celebrity partner for the last two series.<ref>{{cite web|url=https://www.bbc.com/mediacentre/2024/strictly-come-dancing-couples-revealed-launch-show|title=Strictly Come Dancing 2024 couples revealed in launch show featuring epic performances and Amy Dowden's momentous return to the ballroom|publisher=[[BBC]]|date=2024-09-14|access-date=2024-09-17|language=en-gb}}</ref><ref>{{cite web|url=https://uk.news.yahoo.com/strictly-disappointment-pros-snubbed-092907894.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAAF_9R5YVwdHH06RO7A6Vvk_oo_FQSu0D9LqRw9lUZ0kf8fhANq_94w-3WLtEmRVRczf-dP2_TnMGwXJHg-f19XJP7Znb9K6zK1mHhQ_Mx0TCfh5f-mPzRQs_MrqSKZ_UbI6WbWRbg5Jnx7D925AXdK4D1rhlaroKK91YUJlISnu|title=Strictly disappointment as three pros snubbed and no same-sex couple|publisher=[[Yahoo]]|website=[[Yahoo News]]|first=Lily|last=Waddell|date=2024-09-16|access-date=2024-09-17|language=en-gb}}</ref>
+
+On 4 November 2024, it was announced that due to a foot injury, Amy Dowden would no longer compete in the series. Oakley took over from Dowden as [[JB Gill]]'s professional partner.<ref>{{cite web|url=https://www.bbc.com/news/articles/c7741vn5myko|title=Amy Dowden will not return to Strictly this year|publisher=[[BBC]]|first=Noor|last=Nanji|date=4 November 2024|access-date=7 November 2024|language=en-gb}}</ref>
+
+==Couples==
+On 1 August 2024, prior to the official BBC announcements, [[Tom Dean (swimmer)|Tom Dean]] confirmed himself as the first participant in the series, during an interview at the [[2024 Summer Olympics]] after competing in the [[Swimming at the 2024 Summer Olympics – Men's 4 × 200 metre freestyle relay|4 × 200 metre freestyle relay]].<ref>{{cite web |title=Strictly Come Dancing 2024: Olympic swimmer Tom Dean to join show |url=https://www.bbc.com/news/articles/cgr5rdjz7gvo |website=[[BBC News]] |access-date=2 August 2024}}</ref> The official announcements began on 5 August, with [[Chris McCausland]] and [[JB Gill]] announced, the former becoming the first blind contestant to appear on the show.<ref>{{cite web |title=Strictly Come Dancing 2024: Chris McCausland and JB Gill announced as first two celebrity contestants |url=https://www.bbc.co.uk/news/articles/c39kklz2nzxo |website=[[BBC News]] |access-date=5 August 2024 |language=en-gb |date=5 August 2024}}</ref> Celebrity contestants continued to be revealed until 12 August 2024, when the full line-up was announced.<ref>{{cite web|url=https://www.express.co.uk/showbiz/tv-radio/1935197/strictly-come-dancing-final-3-celebrities-line-up|title=Strictly Come Dancing confirm final 3 celebrity contestants – completing 2024 line-up|work=[[Daily Express]]|first=Hayley|last=Anderson|date=12 August 2024|access-date=12 August 2024|language=en-gb}}</ref><ref>{{cite web|url=https://www.standard.co.uk/showbiz/celebrity-news/bbc-one-diy-sos-actor-gladiators-adam-peaty-b1176142.html|title=Strictly Come Dancing 2024 contestants: Full line-up revealed|work=[[Evening Standard]]|first=Charlotte|last=McLaughlin|date=12 August 2024|access-date=12 August 2024|language=en-gb}}</ref>
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! scope="col" | Celebrity
+! scope="col" class="unsortable"| Notability
+! scope="col" | Professional partner
+! scope="col" | Status
+|-
+! scope="row" | [[Tom Dean (swimmer)|Tom Dean]]
+| [[Swimming at the Summer Olympics|Olympic swimmer]]
+| [[Nadiya Bychkova]]
+| style="background:#f4c7b8;"|Eliminated 1st<br><small>{{nowrap|on 29 September 2024}}</small>
+|-
+! scope="row" | [[Toyah Willcox]]
+| Singer, actress & television presenter
+| [[Neil Jones (dancer)|Neil Jones]]
+| style="background:#f4c7b8;"|Eliminated 2nd<br><small>on 6 October 2024</small>
+|-
+! scope="row" | [[Nick Knowles]]
+| Television presenter
+| [[Luba Mushtuk]]
+| style="background:#f4c7b8;"|Eliminated 3rd<br><small>on 13 October 2024</small>
+|-
+! scope="row" | [[Paul Merson]]
+| [[England national football team|England]] footballer & pundit
+| [[Karen Hauer]]
+| style="background:#f4c7b8;"|Eliminated 4th<br><small>on 20 October 2024</small>
+|-
+! scope="row" | {{nowrap|[[Punam Krishan|Dr. Punam Krishan]]}}
+| ''[[Morning Live]]'' doctor & author
+| [[Gorka Márquez]]
+| style="background:#f4c7b8;"|Eliminated 5th<br><small>on 27 October 2024</small>
+|-
+! scope="row" | [[Sam Quek]]
+| {{nowrap|[[Field hockey at the Summer Olympics|Olympic field hockey player]] & television presenter}}
+| [[Nikita Kuzmin]]
+| style="background:#f4c7b8;" |Eliminated 6th<br><small>on 3 November 2024</small>
+|-
+! scope="row" | [[Shayne Ward]]
+| Singer & actor 
+| [[Nancy Xu]]
+| style="background:#f4c7b8;" |Eliminated 7th<br><small>on 10 November 2024</small>
+|-
+! scope="row" | [[Wynne Evans]]
+| Opera singer & [[BBC Radio Wales]] presenter
+| [[Katya Jones]]
+|style="background:#f4c7b8;" |Eliminated 8th<br><small>on 17 November 2024</small>
+|-
+! scope="row" | [[Jamie Borthwick]]
+| ''[[EastEnders]]'' actor
+| [[Michelle Tsiakkas]]
+| style="background:#f4c7b8;" |Eliminated 9th<br><small>on 24 November 2024</small>
+|-
+! scope="row" | [[Montell Douglas]]
+| [[Athletics at the Summer Olympics|Olympic sprinter]], [[Bobsleigh at the Winter Olympics|bobsledder]] & ''[[Gladiators (2024 British TV series)|Gladiators]]'' star
+| {{nowrap|[[Johannes Radebe]]}}
+| style="background:#f4c7b8;" |Eliminated 10th<br><small>on 1 December 2024</small>
+|-
+! scope="row" | [[Pete Wicks]]
+| Television personality
+| [[Jowita Przystał]]
+|style="background:#f4c7b8;" |Eliminated 11th<br><small>on 8 December 2024</small>
+|-
+! scope="row" | [[JB Gill]]
+| [[JLS]] singer & television presenter
+| [[Amy Dowden]] ''(Weeks 1–6)''<br>[[Lauren Oakley]] ''(Weeks 7–13)''
+| rowspan="3" style="background:silver" |Runners-up<br><small>on 14 December 2024</small>
+|-
+! scope="row" | [[Sarah Hadland]]
+| Stage & screen actress
+| [[Vito Coppola]]
+|-
+! scope="row" | [[Tasha Ghouri]]
+| ''[[Love Island (2015 TV series)|Love Island]]'' finalist & model
+| [[Aljaž Škorjanec]]
+|-
+! scope="row" | [[Chris McCausland]]
+| Stand-up comedian & actor
+| [[Dianne Buswell]]
+| style="background:gold" |'''Winners'''<br><small>on 14 December 2024</small>
+|}
+
+==Scoring chart==
+The highest score each week is indicated in {{fontcolor|#004600|'''bold green'''}} with a dagger ({{dagger}}), while the lowest score each week is indicated in {{fontcolor|#800000|''italicized red''}} with a double-dagger ({{double-dagger}}).
+
+'''Color key:'''
+{{columns-list|colwidth=20em|
+{{legend|gold|Winners}}
+{{legend|silver|Co-runners-up}}
+{{legend|lightblue|Bottom two}}
+{{legend|#fff383|Excused from competition for the week}}
+{{legend|#f4c7b8|Eliminated}}
+}}
+{| class="wikitable nowrap sortable" style="text-align:center; font-size:95%"
+|+''Strictly Come Dancing'' series 22 – Weekly scores
+|-
+! rowspan="2" scope="col" | Couple
+! rowspan="2" scope="col" | {{Abbr|Pl.|Place}}
+! colspan="14" | Week
+|-
+! scope="col" | 1
+! scope="col" | 2
+! scope="col" | 1+2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" | 5
+! scope="col" | 6
+! scope="col" | 7
+! scope="col" | 8
+! scope="col" | 9
+! scope="col" | 10
+! scope="col" | 11
+! scope="col" | 12
+! scope="col" | 13
+|-
+! scope="row" | Chris & Dianne
+| 1st
+| 23
+| 29
+| 52
+| 30
+| 30
+| 35
+| {{fontcolor|#800000|''26''}}{{double-dagger}}
+| 29
+| 33
+| 37
+| 33+1=34
+| 32
+| {{sort|69|}} 33+36=69
+| bgcolor="gold" |38+38+40={{fontcolor|#800000|''116''}}{{double-dagger}}
+|-
+! scope="row" | JB & Amy/Lauren
+| rowspan="3" |2nd
+| {{fontcolor|#004600|'''31'''}}{{dagger}}
+| 27
+| 58
+| 32
+| 30
+| bgcolor="lightblue" | 30{{efn|name=Bottom2|This couple was in the bottom two, but was not eliminated.}}
+| 32
+| {{fontcolor|#004600|'''39'''}}{{dagger}}
+| {{fontcolor|#004600|'''37'''}}{{dagger}}
+| 35
+| 39+7={{fontcolor|#004600|'''46'''}}{{dagger}}
+| {{fontcolor|#004600|'''39'''}}{{dagger}}
+| {{sort|79|}} 39+40={{fontcolor|#004600|'''79'''}}{{dagger}} 
+| bgcolor="silver" |40+39+40={{fontcolor|#004600|'''119'''}}{{dagger}} 
+|-
+! scope="row" | Sarah & Vito
+| 30
+| 32
+| 62
+| 33
+| 27
+| 32
+| {{fontcolor|#004600|'''38'''}}{{dagger}}
+| 37
+| 33
+| {{fontcolor|#004600|'''39'''}}{{dagger}}
+| 36+4=40
+| 38
+| {{sort|72|}} 36+36=72
+| bgcolor="silver" |39+39+40=118
+|-
+! scope="row" | Tasha & Aljaž
+| 30
+| {{fontcolor|#004600|'''35'''}}{{dagger}}
+| {{fontcolor|#004600|'''65'''}}{{dagger}}
+| {{fontcolor|#004600|'''34'''}}{{dagger}}
+| {{fontcolor|#004600|'''39'''}}{{dagger}}
+| 34
+| 37
+| {{fontcolor|#004600|'''39'''}}{{dagger}}
+| {{fontcolor|#004600|'''37'''}}{{dagger}}
+| {{fontcolor|#004600|'''39'''}}{{dagger}}
+| 40+6={{fontcolor|#004600|'''46'''}}{{dagger}}
+| bgcolor="lightblue" | 38{{efn|name=Bottom2|This couple was in the bottom two, but was not eliminated.}}
+| bgcolor="lightblue" | {{sort|75|}} 35+40=75{{efn|name=Bottom2|This couple was in the bottom two, but was not eliminated.}}
+| bgcolor="silver" |39+40+40={{fontcolor|#004600|'''119'''}}{{dagger}}
+|-
+! scope="row" | Pete & Jowita
+| 5th
+| 17
+| 22
+| 39
+| 26
+| 29
+| 22
+| 31
+| {{fontcolor|#800000|''22''}}{{double-dagger}}
+| 36
+| {{fontcolor|#800000|''27''}}{{double-dagger}}
+| 29+3={{fontcolor|#800000|''32''}}{{double-dagger}}
+| {{fontcolor|#800000|''26''}}{{double-dagger}}
+| bgcolor="f4c7b8"|{{sort|65|}} 32+33={{fontcolor|#800000|''65''}}{{double-dagger}}{{efn|name=Elim|This couple was eliminated.}}
+| bgcolor=darkgray|
+|-
+! scope="row" | Montell & Johannes
+| 6th
+| 26
+| 30
+| 56
+| 28
+| 33
+| {{fontcolor|#004600|'''39'''}}{{dagger}}
+| 35
+| bgcolor="lightblue" | 35{{efn|name=Bottom2|This couple was in the bottom two, but was not eliminated.}}
+| 36
+| bgcolor="lightblue" | 35{{efn|name=Bottom2|This couple was in the bottom two, but was not eliminated.}}
+| bgcolor="lightblue" | 37+5=42{{efn|name=Bottom2|This couple was in the bottom two, but was not eliminated.}}
+| bgcolor="f4c7b8" | 32{{efn|name=Elim|This couple was eliminated.}}
+| colspan="2" bgcolor="darkgray" |
+|-
+! scope="row" | Jamie & Michelle
+| 7th
+| 23
+| 27
+| 50
+| 30
+| 34
+| {{fontcolor|#004600|'''39'''}}{{dagger}}
+| {{fontcolor|#004600|'''38'''}}{{dagger}}
+| 31
+| {{fontcolor|#800000|''30''}}{{double-dagger}}
+| 33
+| bgcolor="f4c7b8" | 32+2=34{{efn|name=Elim|This couple was eliminated.}}
+| colspan=3 bgcolor=darkgray|
+|-
+! scope="row" | Wynne & Katya
+| 8th
+| 26
+| 30
+| 56
+| 30
+| 34
+| 33
+| 31
+| 30
+| bgcolor="lightblue" | 32{{efn|name=Bottom2|This couple was in the bottom two, but was not eliminated.}}
+| bgcolor="f4c7b8" | 31{{efn|name=Elim|This couple was eliminated.}}
+| colspan=4 bgcolor=darkgray|
+|-
+! scope="row" | Shayne & Nancy
+| 9th
+| 21
+| 31
+| 52
+| 33
+| bgcolor="lightblue" | 30{{efn|name=Bottom2|This couple was in the bottom two, but was not eliminated.}}
+| 31
+| bgcolor="lightblue" | 31{{efn|name=Bottom2|This couple was in the bottom two, but was not eliminated.}}
+| 35
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''30''}}{{double-dagger}}{{efn|name=Elim|This couple was eliminated.}}
+| colspan=5 bgcolor="darkgray" |
+|-
+! scope="row" | Sam & Nikita
+| 10th
+| 23
+| 22
+| 45
+| 30
+| 28
+| 26
+| 31
+| bgcolor="f4c7b8" | 29{{efn|name=Elim|This couple was eliminated.}}
+| colspan=6 bgcolor="darkgray" |
+|-
+! scope="row" | Dr. Punam & Gorka
+| 11th
+| 19
+| 18
+| 37
+| 33
+| {{fontcolor|#800000|''20''}}{{double-dagger}}
+| 21
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''26''}}{{double-dagger}}{{efn|name=Elim|This couple was eliminated.}}
+| colspan=7 bgcolor="darkgray" |
+|-
+! scope="row" | Paul & Karen
+| 12th
+| 17
+| {{fontcolor|#800000|''15''}}{{double-dagger}}
+| 32
+| bgcolor="lightblue" | 19{{efn|name=Bottom2|This couple was in the bottom two, but was not eliminated.}}
+| 23
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''19''}}{{double-dagger}}{{efn|name=Elim|This couple was eliminated.}}
+| colspan=8 bgcolor="darkgray" |
+|-
+! scope="row" | Nick & Luba
+| 13th
+| 18
+| 21
+| 39
+| bgcolor="fff383" | {{efn|name=OutSick|This couple was excused from competition due to illness or injury, and was granted a [[Bye (sports)|bye]] to the following week.}}
+| bgcolor="f4c7b8" | 21{{efn|name=Elim|This couple was eliminated.}}
+| colspan=9 bgcolor="darkgray" |
+|-
+! scope="row" | Toyah & Neil
+| 14th
+| {{fontcolor|#800000|''12''}}{{double-dagger}}
+| 18
+| bgcolor="lightblue" | {{fontcolor|#800000|''30''}}{{double-dagger}}{{efn|name=Bottom2|This couple was in the bottom two, but was not eliminated.}}
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''15''}}{{double-dagger}}{{efn|name=Elim|This couple was eliminated.}}
+| colspan=10 bgcolor="darkgray" |
+|-
+! scope="row" | Tom & Nadiya
+| 15th
+| 23
+| 20
+| bgcolor="f4c7b8" | 43{{efn|name=Elim|This couple was eliminated.}}
+| colspan=11 bgcolor="darkgray" |
+|}
+{{notelist}}
+
+===Average chart===
+
+Additional points received for the Samba-thon in Week 10 are not included in this chart.
+
+{| class="wikitable sortable" style="text-align:center; font-size:95%"
+|-
+! scope="col" | Couple
+! scope="col" | Rank by<br>average
+! scope="col" | Total<br>points
+! scope="col" | Number of<br>dances
+! scope="col" | Total<br>average
+|-
+! scope="row" | Tasha & Aljaž
+| 1st
+| 596
+| rowspan="3" | 16
+| 37.3
+|-
+! scope="row" | JB & Amy/Lauren
+| 2nd
+| 569
+| 35.6
+|-
+! scope="row" | Sarah & Vito
+| 3rd
+| 565
+| 35.3
+|-
+! scope="row" | Montell & Johannes
+| 4th
+| 366
+| 11
+| 33.3
+|-
+! scope="row" | Chris & Dianne
+| 5th
+| 522
+| 16
+| 32.6
+|-
+! scope="row" | Jamie & Michelle
+| 6th
+| 317
+| 10
+| 31.7
+|-
+! scope="row" | Wynne & Katya
+| 7th
+| 277
+| 9
+| 30.8
+|-
+! scope="row" | Shayne & Nancy
+| 8th
+| 242
+| 8
+| 30.3
+|-
+! scope="row" | Pete & Jowita
+| 9th
+| 352
+| 13
+| 27.1
+|-
+! scope="row" | Sam & Nikita
+| 10th
+| 189
+| 7
+| 27.0
+|-
+! scope="row" | Dr. Punam & Gorka
+| 11th
+| 137
+| 6
+| 22.8
+|-
+! scope="row" | Tom & Nadiya
+| 12th
+| 43
+| 2
+| 21.5
+|-
+! scope="row" | Nick & Luba
+| 13th
+| 60
+| 3
+| 20.0
+|-
+! scope="row" | Paul & Karen
+| 14th
+| 93
+| 5
+| 18.6
+|-
+! scope="row" | Toyah & Neil
+| 15th
+| 45
+| 3
+| 15.0
+|}
+
+==Weekly scores==
+''Unless indicated otherwise, individual judges scores in the charts below (given in parentheses) are listed in this order from left to right: [[Craig Revel Horwood]], [[Motsi Mabuse]], [[Shirley Ballas]], [[Anton Du Beke]]''.
+
+===Launch show===
+*Musical guests: [[Clean Bandit]] & [[Anne-Marie]] — "[[Cry Baby (Clean Bandit, Anne-Marie and David Guetta song)|Cry Baby]]"<ref>{{cite web|url=https://www.bbc.co.uk/newsround/articles/c7030r19plgo|title=Strictly Come Dancing 2024: Clean Bandit performs in Saturday launch|publisher=[[BBC]]|date=13 September 2023|accessdate=16 September 2023|language=en-GB}}</ref>
+
+===Week 1===
+There was no elimination this week; all scores carried over to the following week. Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2024/sep/21/strictly-come-dancing-week-one-live|title=Strictly Come Dancing: week one – as it happened|website=[[The Guardian]]|first=Michael|last=Hogan|date=2024-09-21|access-date=2024-09-22|language=en-GB}}</ref>
+! class="unsortable" scope="col" |Dance<ref name="Week1Songs">{{Cite web|url=https://www.independent.co.uk/arts-entertainment/tv/news/strictly-come-dancing-2024-live-show-week-one-news-b2616294.html|title=Strictly Come Dancing live: BBC confirms week one songs ahead of first live show|work=[[The Independent]]|first=Ellie|last=Muir|date=2024-09-20|access-date=2024-09-20|language=en-gb}}</ref>
+! class="unsortable" scope="col" |Music<ref name="Week1Songs" />
+|-
+! scope="row" |Nick & Luba
+| {{nowrap|18 (3, 5, 5, 5)}}
+|Jive
+| "[[We Built This City]]" — [[Starship (band)|Starship]]
+|-
+! scope="row" |Sam & Nikita
+| {{nowrap|23 (6, 6, 6, 5)}}
+|Foxtrot
+| "[[Where Did Our Love Go]]" — [[The Supremes]]
+|-
+! scope="row" |Shayne & Nancy
+|{{nowrap|21 (4, 6, 5, 6)}}
+|Samba
+| "[[Do I Do]]" — [[Stevie Wonder]]
+|-
+! scope="row" |Toyah & Neil
+|{{nowrap|12 (2, 4, 2, 4)}}
+|Tango
+| "[[Ray of Light (song)|Ray of Light]]" — [[Madonna]]
+|-
+! scope="row" |Tasha & Aljaž 
+|{{nowrap|30 (8, 8, 7, 7)}}
+|Cha-cha-cha
+| "[[Espresso (song)|Espresso]]" — [[Sabrina Carpenter]]
+|-
+! scope="row" |JB & Amy
+|{{nowrap|31 (7, 8, 8, 8)}}
+|Waltz
+| "[[When I Need You]]" — [[Leo Sayer]]
+|-
+! scope="row" |Pete & Jowita 
+| {{nowrap|17 (4, 5, 3, 5)}}
+|Paso doble
+| "[[Breathe (The Prodigy song)|Breathe]]" — [[The Prodigy]]
+|-
+! scope="row" |Sarah & Vito
+| {{nowrap| 30 (8, 8, 7, 7)}}
+|Quickstep
+| "[[9 to 5 (Dolly Parton song)|9 to 5]]" — [[Dolly Parton]]
+|-
+! scope="row" |Tom & Nadiya
+|{{nowrap|23 (5, 6, 6, 6)}}
+|Tango
+| "[[Golden (Harry Styles song)|Golden]]" — [[Harry Styles]]
+|-
+! scope="row" |Dr. Punam & Gorka
+| {{nowrap|19 (4, 5, 5, 5)}}
+|Cha-cha-cha
+| "[[Love at First Sight (Kylie Minogue song)|Love at First Sight]]" — [[Kylie Minogue]]
+|-
+! scope="row" |Paul & Karen
+| {{nowrap|17 (2, 4, 5, 6)}}
+|American Smooth
+| "[[Vindaloo (song) |Vindaloo]]" — [[Fat Les]]
+|-
+! scope="row" |Jamie & Michelle
+| {{nowrap|23 (6, 6, 5, 6)}}
+|Viennese waltz
+| "[[Beautiful Things (Benson Boone song)|Beautiful Things]]" — [[Benson Boone]]
+|-
+! scope="row" |Chris & Dianne
+| {{nowrap|23 (4, 6, 6, 7)}}
+|Cha-cha-cha
+| "[[Twist and Shout#The Beatles version|Twist and Shout]]" — [[The Beatles]]
+|-
+! scope="row" |Montell & Johannes
+| {{nowrap|26 (6, 7, 6, 7)}}
+|Foxtrot
+| "[[Is You Is or Is You Ain't My Baby]]" — [[Dinah Washington]] 
+|-
+! scope="row" |Wynne & Katya
+| {{nowrap|26 (6, 6, 7, 7)}}
+|Samba
+| "[[Help Yourself (Tom Jones song)|Help Yourself]]" — [[Tom Jones (singer)|Tom Jones]]
+|}
+
+===Week 2===
+*Musical guests: [[Ezra Collective]] & Yazmin Lacey — "God Gave Me Feet for Dancing"<ref>{{cite web|url=https://uk.news.yahoo.com/strictly-tom-nadiya-eliminated-190033311.html|title=Strictly fans turn the tables on Craig Revel Horwood as Olympian is eliminated|publisher=[[Yahoo]]|website=[[Yahoo News]]|first=Dan|last=Seddon|date=2024-09-29|access-date=2024-10-03|language=en-GB}}</ref>
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+! scope="col" | Couple
+! scope="col" | Scores<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2024/sep/28/strictly-come-dancing-week-two-live|title=Strictly Come Dancing: week two – as it happened|website=[[The Guardian]]|first=Michael|last=Hogan|date=2024-09-29|access-date=2024-09-29|language=en-GB}}</ref>
+! scope="col" class="unsortable" | Dance<ref name="Week2Songs">{{Cite web|url=https://www.digitalspy.com/tv/reality-tv/a62345956/strictly-2024-songs-dances-week-2/|title=Strictly 2024 confirms week two songs and dances|work=[[Digital Spy]]|first=Joe|last=Anderton|date=2024-09-24|access-date=2024-09-24|language=en-gb}}</ref>
+! scope="col" class="unsortable" | Music<ref name="Week2Songs" />
+! scope="col" class="unsortable" | Result<ref>{{cite web|url=https://www.somersetlive.co.uk/news/celebs-tv/tom-dean-exits-strictly-come-9590435|title=Tom Dean exits Strictly Come Dancing becoming the first celebrity to leave the 2024 show|website=[[SomersetLive]]|first1=Shania|last1=King-Soyza|first2=Naomi|last2=Clarke|date=2024-09-29|access-date=2024-09-30|language=en-GB}}</ref>
+|-
+! scope="row" |Tom & Nadiya
+| {{nowrap|20 (3, 6, 5, 6)}}
+| Cha-cha-cha
+| "[[Boogie Wonderland]]" — [[Earth, Wind & Fire]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" |Dr. Punam & Gorka
+| {{nowrap|18 (4, 5, 4, 5)}}
+| Foxtrot
+| "[[Man! I Feel Like a Woman!]]" — [[Shania Twain]]
+| Safe
+|-
+! scope="row" |Paul & Karen
+| {{nowrap|15 (2, 4, 4, 5)}}
+| Salsa
+| "[[Fireball (Pitbull song)|Fireball]]" — [[Pitbull (rapper)|Pitbull]] feat. [[John Ryan (songwriter)|John Ryan]]
+| Safe
+|-
+! scope="row" |Wynne & Katya
+| {{nowrap|30 (7, 7, 8, 8)}}
+| Viennese waltz
+| "[[The Blue Danube]]" — [[Johann Strauss II]]
+| Safe
+|-
+! scope="row" |JB & Amy
+| {{nowrap|27 (7, 7, 6, 7)}}
+| Cha-cha-cha
+| "[[Closer (Ne-Yo song)|Closer]]" — [[Ne-Yo]]
+| Safe
+|-
+! scope="row" |Sam & Nikita
+| {{nowrap|22 (4, 6, 6, 6)}}
+| Charleston
+| "[[Charleston (1923 song)|The Charleston]]" — [[Bob Wilson (singer)|Bob Wilson]] & His Varsity Rhythm Boys
+| Safe
+|-
+! scope="row" |Chris & Dianne
+| {{nowrap|29 (6, 7, 8, 8)}}
+| Foxtrot
+| "[[Be Young, Be Foolish, Be Happy]]" — [[The Tams]]
+| Safe
+|-
+! scope="row" |Jamie & Michelle
+| {{nowrap|27 (6, 7, 7, 7)}}
+| Rumba
+| "[[Ain't No Sunshine]]" — [[Bill Withers]]
+| Safe
+|-
+! scope="row"| Toyah & Neil
+| {{nowrap|18 (3, 5, 5, 5)}}
+| Jive
+| "[[Nutbush City Limits]]" — [[Ike & Tina Turner]] 
+| bgcolor="lightblue"|Bottom two
+|-
+! scope="row" |Nick & Luba 
+| {{nowrap|21 (5, 5, 5, 6)}}
+| American Smooth
+| "[[Parklife (song)|Parklife]]" — [[Blur (band)|Blur]]
+| Safe
+|-
+! scope="row" |Montell & Johannes
+| {{nowrap|30 (8, 7, 7, 8)}}
+| Samba
+| "[[Fuego (Eleni Foureira song)|Fuego]]" — [[Eleni Foureira]]
+| Safe
+|-
+! scope="row" |Tasha & Aljaž
+| {{nowrap|35 (8, 9, 9, 9)}}
+| Viennese waltz
+| "[[Misty Blue#Dorothy Moore cover version|Misty Blue]]" — [[Dorothy Moore]]
+| Safe
+|-
+! scope="row" |Shayne & Nancy
+| {{nowrap|31 (7, 8, 8, 8)}}
+| Tango
+| "[[The Door (Teddy Swims song)|The Door]]" — [[Teddy Swims]]
+| Safe
+|-
+! scope="row" |Pete & Jowita 
+| {{nowrap|22 (4, 6, 6, 6)}}
+| American Smooth
+| "[[I Had Some Help]]" — [[Post Malone]] & [[Morgan Wallen]]
+| Safe
+|-
+! scope="row" |Sarah & Vito
+| {{nowrap|32 (8, 8, 8, 8)}}
+| Paso doble
+| "[[Freed from Desire]]" — [[Gala (singer)|Gala]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Toyah & Neil
+*Mabuse: Toyah & Neil
+*Du Beke: Tom & Nadiya
+*Ballas: Toyah & Neil
+
+===Week 3: Movie Week===
+*Musical guests: [[Alexis Ffrench]] — "The Heart Asks Pleasure First" (from ''[[The Piano]]'')<ref>{{cite web|url=https://www.chroniclelive.co.uk/news/tv/alexis-ffrench-strictly-come-dancing-30081145|title=Who is Alexis Ffrench? Strictly Come Dancing sign up star for guest appearance|website=[[Evening Chronicle]]|first=Simon|last=Duke|date=2024-10-06|access-date=2024-10-09|language=en-GB}}</ref>
+
+Couples are listed in the order they performed. 
+
+Nick and Luba announced that they would be unable to perform on the live show after Nick sustained a knee injury. Under the rules of the show, they were granted a [[Bye (sports)|bye]] to the following week.<ref>{{cite web|url=https://www.standard.co.uk/showbiz/bbc-strictly-come-dancing-nick-knowles-quits-live-show-injury-b1185985.html|title=BBC Strictly Come Dancing's Nick Knowles forced to quit live show after second injury|website=[[Evening Standard]]|first=Sami|last=Quadri|date=2024-10-04|access-date=2024-10-05|language=en-GB}}</ref>
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+! scope="col" | Couple
+! scope="col" | Scores<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2024/oct/05/strictly-come-dancing-week-two-live|title=Strictly Come Dancing: week three – as it happened|website=[[The Guardian]]|first=Michael|last=Hogan|date=2024-10-05|access-date=2024-10-05|language=en-GB}}</ref>
+! class="unsortable" scope="col" | Dance<ref name="Week3Songs">{{cite web|url=https://www.digitalspy.com/tv/reality-tv/a62465678/strictly-come-dancing-2024-movie-week-dances/|title=Strictly Come Dancing confirms Movie Week songs and dances|work=[[Digital Spy]]|first=Sam|last=Warner|date=2024-10-01|access-date=2024-10-01|language=en-gb}}</ref>
+! class="unsortable" scope="col" | Music<ref name="Week3Songs" />
+! class="unsortable" scope="col" | Film<ref name="Week3Songs" />
+! class="unsortable" scope="col" | Result<ref>{{cite web|url=https://metro.co.uk/2024/10/06/second-celebrity-eliminated-strictly-come-dancing-2024-21743035/|title=Second celebrity eliminated from Strictly Come Dancing 2024 revealed|website=[[Metro (British newspaper)|Metro]]|first=Meghna|last=Amin|date=2024-10-06|access-date=2024-10-12|language=en-GB}}</ref>
+|-
+! scope="row" | Montell & Johannes
+| 28 (7, 7, 7, 7)
+| Tango
+| "[[One Night Only (song)|One Night Only]]"
+| ''[[Dreamgirls (film)|Dreamgirls]]''
+| Safe
+|-
+! scope="row" | Toyah & Neil
+| 15 (3, 4, 4, 4)
+| Samba
+| "[[Poor Unfortunate Souls]]"
+| ''[[The Little Mermaid (2023 film)|The Little Mermaid]]''
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Chris & Dianne
+| 30 (7, 7, 8, 8)
+| Jive
+| "[[Wayne's World: Music from the Motion Picture|Wayne's World Theme]]"
+| ''[[Wayne's World (film)|Wayne's World]]''
+| Safe
+|-
+! scope="row" | Tasha & Aljaž
+| 34 (8, 8, 9, 9)
+| Rumba
+| "[[What Was I Made For?]]"
+| ''[[Barbie (film)|Barbie]]''
+| Safe
+|-
+! scope="row" | Paul & Karen
+| 19 (3, 5, 5, 6)
+| Cha-cha-cha
+| "[[The Magnificent Seven#Music|The Magnificent Seven]]"
+| ''[[The Magnificent Seven]]''
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Sarah & Vito
+| 33 (8, 9, 8, 8)
+| Viennese waltz
+| "[[Hedwig's Theme]]"
+| ''[[Harry Potter (film series)|Harry Potter]]''
+| Safe
+|-
+! scope="row" | Pete & Jowita
+| 26 (6, 6, 7, 7)
+| Samba
+| "[[George of the Jungle (film)|George of the Jungle]]"
+| ''[[George of the Jungle (film)|George of the Jungle]]''
+| Safe
+|-
+! scope="row" | JB & Amy
+| 32 (7, 8, 8, 9)
+| American Smooth
+| "[[Pure Imagination]]"
+| ''[[Wonka (film)|Wonka]]''
+| Safe
+|-
+! scope="row" | Sam & Nikita
+| 30 (7, 8, 7, 8)
+| Paso doble
+| "[[Elevation (song)|Elevation (Tomb Raider Mix)]]"
+| ''[[Lara Croft: Tomb Raider]]''
+| Safe
+|-
+! scope="row" | Shayne & Nancy
+| 33 (8, 9, 8, 8)
+| Viennese waltz
+| "[[If I Can Dream]]"
+| ''[[Elvis (2022 film)|Elvis]]''
+| Safe
+|-
+! scope="row" | Wynne & Katya
+| 30 (7, 7, 8, 8)
+| Cha-cha-cha
+| "[[Papa's Got a Brand New Bag]]"
+| ''[[Mrs. Doubtfire]]''
+| Safe
+|-
+! scope="row" | Dr. Punam & Gorka
+| 33 (8, 9, 8, 8)
+| Couple's choice
+| "[[Kabhi Khushi Kabhie Gham#Soundtrack|Bole Chudiyan]]"
+| ''[[Kabhi Khushi Kabhie Gham]]''
+| Safe
+|-
+! scope="row" | Jamie & Michelle
+| 30 (8, 8, 7, 7)
+| Quickstep
+| "[[I'm Still Standing]]"
+| ''[[Rocketman (film)|Rocketman]]''
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Paul & Karen
+*Mabuse: Paul & Karen
+*Du Beke: Paul & Karen
+*Ballas: ''Did not vote, but would have voted to save Paul & Karen''
+
+===Week 4===
+*Musical guests: [[Snow Patrol]] — "Everything's Here and Nothing's Lost"<ref>{{cite web|url=https://www.msn.com/en-us/entertainment/news/northern-irish-band-snow-patrol-makes-epic-comeback-on-one-of-tv-s-biggest-shows/ar-AA1s8ErW|title=Northern Irish band Snow Patrol makes epic comeback on one of TV's biggest shows|website=[[Microsoft Start]]|first1=Susan|last1=Knox|first2=Hannah|last2=McGreevy|date=2024-10-12|access-date=2024-10-13|language=en-GB}}</ref>
+
+Couples are listed in the order they performed. 
+
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+! scope="col" | Couple
+! scope="col" | Scores<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2024/oct/12/strictly-come-dancing-week-four-live|title=Strictly Come Dancing: week four – as it happened|website=[[The Guardian]]|first=Michael|last=Hogan|date=2024-10-12|access-date=2024-10-12|language=en-GB}}</ref>
+! class="unsortable" scope="col" | Dance<ref name="Week4Songs">{{cite web|url=https://www.digitalspy.com/tv/reality-tv/a62553811/strictly-2024-week-4-songs-dances/|title=Strictly confirms week 4 songs and dances|work=[[Digital Spy]]|first=Emily|last=Stedman|date=2024-10-09|access-date=2024-10-09|language=en-gb}}</ref>
+! class="unsortable" scope="col" | Music<ref name="Week4Songs" />
+! class="unsortable" scope="col" | Result<ref>{{cite web|url=https://www.radiotimes.com/tv/entertainment/who-left-strictly-week-four-nick-knowles-newsupdate/|title=Who left Strictly 2024? Third celebrity to be voted out revealed|work=[[Radio Times]]|first=James|last=Hibbs|date=2024-10-13|access-date=2024-10-13|language=en-GB}}</ref>
+|-
+! scope="row" |Shayne & Nancy
+| 30 (7, 8, 7, 8)
+| Cha-cha-cha
+| "[[Ain't No Love (Ain't No Use)]]" — [[Sub Sub]], feat. [[Melanie Williams]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" |Sarah & Vito
+| 27 (6, 7, 7, 7)
+| Foxtrot
+| "[[Birds of a Feather (Billie Eilish song)|Birds of a Feather]]" — [[Billie Eilish]]
+| Safe
+|-
+! scope="row" | Nick & Luba
+| 21 (4, 6, 5, 6)
+| Charleston
+| "[[Paddington 2 (soundtrack)|Rain on the Roof]]" — ''from [[Paddington 2]]''
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" |Jamie & Michelle
+| 34 (8, 9, 9, 8)
+| Salsa
+| "[[Danza Kuduro]]" — [[Don Omar]] & [[Lucenzo]]
+| Safe
+|-
+! scope="row" |Wynne & Katya
+| 34 (8, 9, 9, 8)
+| Tango
+| "[[Money, Money, Money]]" — [[ABBA]]
+| Safe
+|-
+! scope="row" |Dr. Punam & Gorka
+| 20 (4, 5, 5, 6)
+| Jive
+| "[[2 Be Loved (Am I Ready)]]" — [[Lizzo]]
+| Safe
+|-
+! scope="row" |Paul & Karen
+| 23 (4, 6, 6, 7)
+| Quickstep
+| "[[I Won't Dance]]" — [[Fred Astaire]]
+| Safe
+|-
+! scope="row" |JB & Amy
+| 30 (7, 8, 7, 8)
+| Rumba
+| "[[You Might Need Somebody]]" — Kara Marni
+| Safe
+|-
+! scope="row" |Chris & Dianne
+| 30 (6, 8, 8, 8)
+| Salsa
+| "[[Down Under (song)|Down Under]]" — [[Men at Work]]
+| Safe
+|-
+! scope="row" |Montell & Johannes
+| 33 (8, 8, 8, 9)
+| Viennese waltz
+| "[[Nobody Gets Me]]" — [[SZA]]
+| Safe
+|-
+! scope="row" |Sam & Nikita
+| 28 (7, 7, 7, 7)
+| Samba
+| "[[Hips Don't Lie]]" — [[Shakira]] feat. [[Wyclef Jean]]
+| Safe
+|-
+! scope="row" |Pete & Jowita
+| 29 (7, 7, 8, 7)
+| Quickstep
+| "[[Town Called Malice]]" — [[The Jam]]
+| Safe
+|-
+! scope="row" |Tasha & Aljaž
+| 39 (9, 10, 10, 10)
+| Charleston
+| "[[Unhealthy (song)|Unhealthy]]" — [[Anne-Marie]], feat. [[Shania Twain]]
+| Safe
+|}
+;Judges' votes to save
+* Horwood: Shayne & Nancy
+* Mabuse: Shayne & Nancy
+* Du Beke: Shayne & Nancy
+* Ballas: ''Did not vote, but would have voted to save Shayne & Nancy''
+
+===Week 5===
+*Musical guests: [[Sophie Ellis-Bextor]] — "[[Freedom of the Night]]"<ref>{{cite web|url=https://www.manchestereveningnews.co.uk/news/tv/sophie-ellis-bextor-returns-strictly-30188180|title=Sophie Ellis-Bextor returns to Strictly Come Dancing after saying show was 'like a cult'|website=[[Manchester Evening News]]|first1=Liv|last1=Clarke |first2=David|last2=Stephenson |first3=Zara|last3=Woodcock |first4=Victoria|last4=Johns|date=2024-10-20|access-date=2024-10-20|language=en-GB}}</ref>
+
+Couples are listed in the order they performed. 
+
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+! scope="col" | Couple
+! scope="col" | Scores<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2024/oct/19/strictly-come-dancing-week-five-live|title=Strictly Come Dancing: week five results – live|website=[[The Guardian]]|first=Michael|last=Hogan|date=2024-10-20|access-date=2024-10-20|language=en-GB}}</ref>
+! class="unsortable" scope="col" | Dance<ref name="Week5Songs">{{cite web|url=https://www.tvzoneuk.com/post/strictly-week5-songsdances|title=Strictly Come Dancing: Week 5 Songs and Dances Revealed|work=TV Zone|first=|last=|date=2024-10-15|access-date=2024-10-15|language=en-gb}}</ref>
+! class="unsortable" scope="col" | Music<ref name="Week5Songs" />
+! class="unsortable" scope="col" | Result<ref>{{cite web|url=https://www.independent.co.uk/arts-entertainment/tv/news/strictly-eliminated-week-five-paul-merson-b2632337.html|title=Fourth Strictly Come Dancing star eliminated after shock dance off|website=[[The Independent]]|first=Jacob|last=Stolworthy|date=2024-10-20|access-date=2024-10-20|language=en-GB}}</ref>
+|-
+! scope="row" |JB & Amy
+| 30 (7, 8, 7, 8)
+| Jive
+| "[[Hey Ya!]]" — [[Outkast]]
+| bgcolor="lightblue"|Bottom two
+|-
+! scope="row" |Dr. Punam & Gorka
+| 21 (4, 6, 5, 6)
+| Viennese waltz
+| "[[She's Always a Woman]]" — [[Billy Joel]]
+| Safe
+|-
+! scope="row" | Jamie & Michelle
+| 39 (9, 10, 10, 10)
+| Paso doble
+| "[[Malagueña (song)|Malagueña]]" – [[Ernesto Lecuona]]
+| Safe
+|-
+! scope="row" |Chris & Dianne
+| 35 (8, 9, 9, 9)
+| Waltz
+| "[[You'll Never Walk Alone]]" — [[Gerry and the Pacemakers]]
+| Safe
+|-
+! scope="row" |Tasha & Aljaž
+| 34 (8, 9, 8, 9)
+| Tango
+| "[[Dog Days Are Over]]" — [[Florence and the Machine]]
+| Safe
+|-
+! scope="row" |Paul & Karen
+| 19 (3, 5, 5, 6)
+| Samba
+| "[[Car Wash (song)|Car Wash]]" — [[Rose Royce]]
+| bgcolor="f4c7b8"|Eliminated
+|-
+! scope="row" |Sam & Nikita
+| 26 (6, 7, 6, 7)
+| Quickstep
+| "[[Unwritten (song)|Unwritten]]" — [[Natasha Bedingfield]]
+| Safe
+|-
+! scope="row" |Pete & Jowita
+| 22 (4, 5, 6, 7)
+| Rumba
+| "[[Don't Look Back in Anger]]" — [[Oasis (band)|Oasis]]
+| Safe
+|-
+! scope="row" |Sarah & Vito
+| 32 (8, 8, 8, 8)
+| Samba
+| "[[Do It, Do It Again]]" — [[Raffaella Carrà]]
+| Safe
+|-
+! scope="row" |Shayne & Nancy
+| 31 (7, 8, 8, 8)
+| American Smooth
+| "[[Get Here]]" — [[Sam Smith]]
+| Safe
+|-
+! scope="row" |Wynne & Katya
+| 33 (7, 9, 9, 8)
+| Quickstep
+| "[[Mr. Blue Sky]]" — [[Electric Light Orchestra]]
+| Safe
+|-
+! scope="row" |Montell & Johannes
+| 39 (9, 10, 10, 10)
+| Couple's choice
+| "Skeleton Move" — [[Master KG]] & [[Zanda Zakuza]]
+| Safe
+|}
+
+;Judges' votes to save
+* Horwood: JB & Amy
+* Mabuse: JB & Amy
+* Du Beke: JB & Amy
+* Ballas: ''Did not vote, but would have voted to save JB & Amy''
+
+===Week 6: Halloween Week===
+*Musical guests: [[Lady Blackbird]] — "Reborn"<ref>{{cite web|url=https://www.manchestereveningnews.co.uk/news/tv/bbc-strictly-come-dancing-who-30241444|title=BBC Strictly Come Dancing: Who is Lady Blackbird as singer performs on results show|website=[[Manchester Evening News]]|first=Shawna|last=Healey|date=2024-10-27|access-date=2024-10-27|language=en-GB}}</ref>
+
+Amy Dowden didn't appear in the results show due to her collapsing backstage following the main show, so JB appeared alone. She was transported to Barnet Hospital as a precautionary measure, but was later reported to be feeling better.
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+! scope="col" | Couple
+! scope="col" | Scores<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2024/oct/26/strictly-come-dancing-week-six-live|title=Strictly Come Dancing: week six results – live|website=[[The Guardian]]|first=Michael|last=Hogan|date=2024-10-26|access-date=2024-10-26|language=en-GB}}</ref>
+! class="unsortable" scope="col" | Dance<ref name="Week6Songs">{{cite web|url=https://www.standard.co.uk/culture/tvfilm/strictly-come-dancing-halloween-songs-dances-2024-b1189539.html|title=Strictly Come Dancing Halloween Week 2024 songs and dances revealed|work=[[Evening Standard]]|first=Rachel|last=McGrath|date=2024-10-22|access-date=2024-10-23|language=en-gb}}</ref>
+! class="unsortable" scope="col" | Music<ref name="Week6Songs" />
+! class="unsortable" scope="col" | Result<ref>{{cite web|url=https://entertainment-focus.com/2024/10/27/dr-punam-krishan-leaves-strictly-come-dancing-2024/|title=Dr. Punam Krishan leaves 'Strictly Come Dancing' 2024|website=Entertainment Focus|first=Pip|last=Ellwood-Hughes|date=2024-10-27|access-date=2024-10-27|language=en-GB}}</ref>
+|-
+! scope="row" | Chris & Dianne
+| 26 (5, 7, 7, 7)
+| Samba
+| "[[Stayin' Alive]]" — [[Bee Gees]]
+| Safe
+|-
+! scope="row" | Pete & Jowita
+| 31 (7, 8, 8, 8)
+| Viennese waltz
+| "[[That's Life (song)|That's Life]]" — [[Frank Sinatra]]
+| Safe
+|-
+! scope="row" | Montell & Johannes	
+| 35 (9, 9, 9, 8)
+| Cha-cha-cha
+| "[[Love Potion No. 9 (song)|Love Potion No. 9]]" — [[The Clovers]]
+| Safe
+|-
+! scope="row" | Dr. Punam & Gorka
+| 26 (6, 7, 6, 7)
+| Tango
+| "[[Sweet Dreams (Are Made of This)|Sweet Dreams]]" — [[Eurythmics]]
+| bgcolor="f4c7b8"|Eliminated
+|-
+! scope="row" | Wynne & Katya
+| 31 (7, 8, 8, 8)
+| Salsa
+| "[[Canned Heat (song)|Canned Heat]]" — [[Jamiroquai]]
+| Safe
+|-
+! scope="row" | JB & Amy
+| 32 (7, 9, 8, 8)
+| Foxtrot
+| "[[Dancing in the Moonlight]]" — [[Toploader]]
+| Safe
+|-
+! scope="row" | Tasha & Aljaž
+| 37 (9, 9, 9, 10)
+| Samba
+| "[[I Like to Move It]]" — [[Reel 2 Real]]
+| Safe
+|-
+! scope="row" | Shayne & Nancy
+| 31 (8, 8, 7, 8)
+| Paso doble
+| "[[In the Hall of the Mountain King]]" — [[Edvard Grieg]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Jamie & Michelle
+| 38 (9, 10, 10, 9)
+| American Smooth
+| "[[The Addams Family Theme]]" — [[Vic Mizzy]]
+| Safe
+|-
+! scope="row" | Sarah & Vito
+| 38 (9, 10, 9, 10)
+| Argentine tango
+| "[[Ready or Not (Fugees song)|Ready or Not]]" — [[Fugees]]
+| Safe
+|-
+! scope="row" |Sam & Nikita
+| 31 (7, 8, 8, 8)
+| Jive
+| "[[Time Warp (song)|Time Warp]]" — [[The Rocky Horror Picture Show]]
+| Safe
+|}
+;Judges' votes to save
+* Horwood: Shayne & Nancy
+* Mabuse: Shayne & Nancy
+* Du Beke: Shayne & Nancy
+* Ballas: ''Did not vote, but would have voted to save Shayne & Nancy''
+
+===Week 7: Icons Week===
+*Musical guests: Dear Alice — "Best Day of Our Lives"<ref>{{cite web|url=https://www.chroniclelive.co.uk/news/tv/who-dear-alice-boyband-strictly-30289120|title=Who are Dear Alice? Strictly sign up 'hottest new boyband' for Icons Week results show|website=[[Evening Chronicle]]|first=Simon|last=Duke|date=2024-11-03|access-date=2024-11-03|language=en-GB}}</ref>
+
+Each couple danced to a song by a popular musical icon, with the celebrity appearing in the guise of their icon. Due to an illness, Amy Dowden was unable to perform. [[Lauren Oakley]] therefore danced with JB Gill instead.<ref>{{cite web|url=https://www.bbc.co.uk/newsround/articles/cx2yvk5m9lno|title=Lauren Oakley stepping in for Strictly dancer Amy Dowden on Saturday|publisher=[[BBC]]|date=28 October 2024|access-date=30 October 2024|language=en-gb}}</ref>
+
+Couples are listed in the order they performed.
+
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+! scope="col" | Couple
+! scope="col" | Scores<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2024/nov/02/strictly-come-dancing-week-seven-live|title=Strictly Come Dancing: week seven – live|website=[[The Guardian]]|first=Michael|last=Hogan|date=2024-11-02|access-date=2024-11-02|language=en-GB}}</ref>
+! class="unsortable" scope="col" | Dance<ref name="Week7Songs">{{cite web|url=https://www.standard.co.uk/culture/tvfilm/strictly-come-dancing-icons-week-songs-dances-b1190860.html|title=Strictly Come Dancing's Icons Week: full song and dance line-up for themed episode|work=[[Evening Standard]]|first=Jordan|last=Page|date=2024-10-30|access-date=2024-10-30|language=en-gb}}</ref>
+! class="unsortable" scope="col" | Music<ref name="Week7Songs" />
+! class="unsortable" scope="col" | Icon<ref name="Week7Songs" />
+! class="unsortable" scope="col" | Result<ref>{{cite web|url=https://www.rte.ie/entertainment/2024/1103/1478856-sam-quek-and-nikita-kuzmin-are-eliminated-from-strictly/|title=Sam Quek and Nikita Kuzmin are eliminated from Strictly|website=[[RTÉ.ie]]|date=2024-11-03|access-date=2024-11-03|language=en-GB}}</ref>
+|-
+! scope="row" | Pete & Jowita
+| 22 (4, 6, 6, 6)
+| Salsa
+| "[[Another One Bites the Dust]]" — [[Queen (band)|Queen]] 
+| [[Freddie Mercury]]
+| Safe
+|-
+! scope="row" | Wynne & Katya
+| 30 (7, 7, 8, 8)
+| Rumba
+| "[[This Is My Life (Shirley Bassey album)|This Is My Life]]" 
+| [[Shirley Bassey]]
+| Safe
+|-
+! scope="row" |Sam & Nikita
+| 29 (6, 8, 7, 8)
+| American Smooth
+| "[[Love Story (Taylor Swift song)|Love Story]]" 
+| [[Taylor Swift]]
+| bgcolor="f4c7b8"|Eliminated
+|-
+! scope="row" | Chris & Dianne
+| 29 (6, 7, 8, 8)
+| Tango
+| "[[Rock and Roll All Nite]]" — [[Kiss (band)|Kiss]] 
+| [[Gene Simmons]]
+| Safe
+|-
+! scope="row" | Sarah & Vito
+| 37 (9, 9, 9, 10)
+| Cha-cha-cha
+| "[[Like a Prayer (song)|Like a Prayer]]" 
+| [[Madonna]]
+| Safe
+|-
+! scope="row" | JB & Lauren
+| 39 (9, 10, 10, 10)
+| Couple's choice
+| "[[Uptown Funk]]", "[[Treasure (song)|Treasure]]" & "[[24K Magic (song)|24K Magic]]" 
+| [[Bruno Mars]]
+| Safe
+|-
+! scope="row" | Montell & Johannes	
+| 35 (8, 9, 9, 9)
+| Waltz
+| "[[I Will Always Love You (Whitney Houston recording)|I Will Always Love You]]" 
+| [[Whitney Houston]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Jamie & Michelle
+| 31 (7, 8, 8, 8)
+| Samba
+| "[[Faith (George Michael song)|Faith]]" 
+| [[George Michael]]
+| Safe
+|-
+! scope="row" | Tasha & Aljaž
+| 39 (9, 10, 10, 10)
+| Couple's choice
+| "[[What About Us (Pink song)|What About Us]]" 
+| [[Pink (singer)|Pink]]
+| Safe
+|-
+! scope="row" | Shayne & Nancy
+| 35 (8, 9, 9, 9)
+| Quickstep
+| "[[Help! (song)|Help!]]" & "[[Hey Jude]]" — [[The Beatles]] 
+| [[John Lennon]]
+| Safe
+|}
+;Judges' votes to save
+* Horwood: Montell & Johannes
+* Mabuse: Montell & Johannes
+* Du Beke: Montell & Johannes
+* Ballas: ''Did not vote, but would have voted to save Montell & Johannes''
+
+===Week 8===
+*Musical guests: [[Michael Ball]] & [[Alfie Boe]] — "[[He Ain't Heavy, He's My Brother]]"<ref>{{cite web|url=https://entertainment-focus.com/2024/11/10/strictly-come-dancing-2024-week-8-results-show-preview/|title=‘Strictly Come Dancing’ 2024 week 8 results show preview|website=Entertainment Focus|first=Pip|last=Ellwood-Hughes|date=2024-11-10|access-date=2024-11-10|language=en-GB}}</ref>
+
+After being unable to perform last week, Amy Dowden was confirmed to withdraw due to injury. [[Lauren Oakley]] continued to dance with JB Gill for the remainder of the series.<ref>{{cite web|url=https://news.sky.com/story/amy-dowden-sadly-leaves-this-years-strictly-come-dancing-13248481|title=Amy Dowden 'heartbroken' as she leaves this year's Strictly Come Dancing|publisher=[[Sky News]]|date=4 November 2024|access-date=9 November 2024|language=en-gb}}</ref>
+
+Couples are listed in the order they performed.
+
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+! scope="col" | Couple
+! scope="col" | Scores<ref>{{cite web|url=https://www.telegraph.co.uk/tv/2024/11/09/strictly-come-dancing-2024-week-8-live-chris-sarah-tasha/|title=Strictly Come Dancing, week 8: Wynne Evans and Shayne Ward at risk of missing out on Blackpool|website=[[The Daily Telegraph|The Telegraph]]|first=Kat|last=Brown|date=2024-11-09|access-date=2024-11-09|language=en-GB}}</ref>
+! class="unsortable" scope="col" | Dance<ref name="Week8Songs">{{cite web|url=https://www.standard.co.uk/culture/tvfilm/strictly-come-dancing-week-8-songs-dances-b1192653.html|title=Strictly Come Dancing's week 8 songs and dances as Lauren Oakley replaces Amy Dowden|work=[[Evening Standard]]|first=Jordan|last=Page|date=2024-11-07|access-date=2024-11-08|language=en-gb}}</ref>
+! class="unsortable" scope="col" | Music<ref name="Week8Songs" />
+! class="unsortable" scope="col" | Result<ref>{{cite web|url=https://www.manchestereveningnews.co.uk/news/tv/heartbreak-bbc-strictly-come-dancings-30340033|title=Heartbreak for BBC Strictly Come Dancing's Shayne Ward after sharing why he wanted to get to Blackpool|website=[[Manchester Evening News]]|first=Jessica|last=Sansome|date=2024-11-10|access-date=2024-11-10|language=en-GB}}</ref>
+|-
+! scope="row" | Tasha & Aljaž
+| 37 (8, 10, 10, 9)
+| Quickstep
+| "[[Fantasy (Mariah Carey song)|Fantasy]]" — [[Mariah Carey]]
+| Safe
+|-
+! scope="row" | Shayne & Nancy
+| 30 (7, 8, 7, 8)
+| Rumba
+| "[[Time After Time (Cyndi Lauper song)|Time After Time]]" — [[Cyndi Lauper]]
+| bgcolor=#f4c7b8|Eliminated 
+|-
+! scope="row" | Sarah & Vito
+| 33 (8, 8, 8, 9)
+| American Smooth
+| "[[Proud (Heather Small song)|Proud]]" — [[Heather Small]]
+| Safe
+|-
+! scope="row" | Pete & Jowita
+| 36 (8, 9, 10, 9)
+| Couple's choice
+| "[[The Best (song)|The Best]]" — Nicotine Dolls
+| Safe
+|-
+! scope="row" | JB & Lauren
+| 37 (9, 9, 9, 10)
+| Samba
+| "[[Mas que Nada]]" — [[Sérgio Mendes]]
+| Safe
+|-
+! scope="row" | Jamie & Michelle
+| 30 (7, 8, 7, 8)
+| Argentine tango
+| "[[Do I Wanna Know?]]" — [[Arctic Monkeys]]
+| Safe
+|-
+! scope="row" | Wynne & Katya
+| 32 (7, 8, 8, 9)
+| American Smooth
+| "[[Grace Kelly (song)|Grace Kelly]]" — [[Mika (singer)|Mika]]
+| bgcolor=lightblue|Bottom two
+|-
+! scope="row" | Montell & Johannes	
+| 36 (9, 9, 9, 9)
+| Paso doble
+| "[[Lola's Theme]]" — [[The Shapeshifters]]
+| Safe
+|-
+! scope="row" | Chris & Dianne
+| 33 (7, 8, 9, 9)
+| Couple's choice
+| "[[Instant Karma!|Instant Karma! (We All Shine On)]]" — [[John Lennon]]
+| Safe
+|}
+;Judges' votes to save
+* Horwood: Shayne & Nancy
+* Mabuse: Shayne & Nancy
+* Du Beke: Wynne & Katya
+* Ballas: Wynne & Katya
+
+===Week 9: Blackpool Week===
+
+*Musical guest: [[Pet Shop Boys]] — Medley of their hits and "[[All the Young Dudes]]"<ref>{{cite web|url=https://www.bbc.co.uk/mediacentre/mediapacks/strictly-come-dancing-blackpool-week-2024-celebrities-pro-dancers|title=Strictly Come Dancing Blackpool 2024 celebrities and pro dancers reveal behind the scenes Tower Ballroom secrets and their special good luck charms|website=BBC|date=2024-11-16|access-date=2024-11-16|language=en-GB}}</ref>
+
+This week's episode was staged in the [[Blackpool Tower#Tower Ballroom|Tower Ballroom]] at the [[Blackpool Tower]] in [[Blackpool, Lancashire]]. Couples are listed in the order they performed.
+
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+! scope="col" | Couple
+! scope="col" | Scores<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2024/nov/16/strictly-come-dancing-week-nine-live|title=Strictly Come Dancing: week nine – live|website=[[The Guardian]]|first=Michael|last=Hogan|date=2024-11-16|access-date=2024-11-16|language=en-GB}}</ref>
+! class="unsortable" scope="col" | Dance<ref name="Week9Songs">{{cite web|url=https://www.digitalspy.com/tv/reality-tv/a62883804/strictly-week-9-songs-dances-blackpool/|title=Strictly confirms week 9 songs and dances|work=[[Digital Spy]]|first=George|last=Lewis|date=2024-11-12|access-date=2024-11-12|language=en-gb}}</ref>
+! class="unsortable" scope="col" | Music<ref name="Week9Songs"/>
+! class="unsortable" scope="col" | Result<ref>{{cite web|url=https://www.independent.co.uk/arts-entertainment/tv/news/strictly-wynne-evans-eliminated-b2648795.html|title=Eighth Strictly Come Dancing star eliminated from series|work=[[The Independent]]|first=Jacob|last=Stolworthy|date=2024-11-18|access-date=2024-11-18|language=en-gb}}</ref>
+|-
+! scope="row" | Chris & Dianne
+| 37 (8, 9, 10, 10)
+| American Smooth
+| "[[Jump (Van Halen song)|Jump]]" — [[Paul Anka]]
+| Safe
+|-
+! scope="row" | Montell & Johannes	
+| 35 (8, 9, 9, 9)
+| Salsa
+| "[[Don't Leave Me This Way]]" — [[Thelma Houston]]
+| bgcolor=lightblue|Bottom two
+|-
+! scope="row" | Sarah & Vito
+| 39 (9, 10, 10, 10)
+| Couple's choice
+| "[[Padam Padam (song)|Padam Padam]]" & "[[Can't Get You Out of My Head]]"<ref>{{cite web |title=BBC One – Strictly Come Dancing, Series 22, Blackpool Special, Sarah and Vito Couple's Choice |url=https://www.bbc.co.uk/programmes/p0k53bvy |website=BBC |access-date=23 November 2024 |date=16 November 2024}}</ref> — [[Kylie Minogue]]
+| Safe
+|-
+! scope="row" | Wynne & Katya
+| 31 (7, 8, 8, 8)
+| Charleston
+| "[[Toreador Song|Les toréadors]]" — [[Georges Bizet]]
+| bgcolor=#f4c7b8|Eliminated
+|-
+! scope="row" | Pete & Jowita
+| 27 (4, 7, 8, 8)
+| Cha-cha-cha
+| "[[I'm Too Sexy]]" — [[Right Said Fred]]
+| Safe
+|-
+! scope="row" | JB & Lauren
+| 35 (8, 9, 9, 9)
+| Quickstep
+| "[[Never Gonna Give You Up]]" — [[Rick Astley]]
+| Safe
+|-
+! scope="row" | Tasha & Aljaž
+| 39 (9, 10, 10, 10)
+| Paso doble
+| "Torn" — Nathan Lanier
+| Safe
+|-
+! scope="row" | Jamie & Michelle
+| 33 (8, 8, 8, 9)
+| Jive
+| "[[The Ketchup Song (Aserejé)]]" — [[Las Ketchup]]
+| Safe
+|}
+;Judges' votes to save
+* Horwood: Montell & Johannes
+* Mabuse: Montell & Johannes
+* Du Beke: Montell & Johannes
+* Ballas: ''Did not vote, but would have voted to save Montell & Johannes''
+
+===Week 10===
+Musical guest: [[Sugababes]] — "[[Overload (Sugababes song)|Overload]]", "[[Freak like Me (Sugababes song)|Freak like Me]]" & "[[Push the Button (Sugababes song)|Push the Button]]"<ref>{{cite web |title=Strictly Come Dancing 2024 Samba-Thon celebrities reveal what they've learned about their pro partners in training and their desert island dances |url=https://www.bbc.co.uk/mediacentre/mediapacks/strictly-come-dancing-samba-thon-celebrities |website=[[BBC Media Centre]] |access-date=23 November 2024}}</ref>
+
+Each couple performed one routine and then all couples participated in a [[Samba (ballroom dance)|samba]] marathon for additional points, during which they were asked by Horwood to leave the floor once eliminated. The winners were announced separately from the floor. Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2024/nov/23/strictly-come-dancing-week-10-live|title=Strictly Come Dancing: week 10 – live|website=[[The Guardian]]|first=Michael|last=Hogan|date=2024-11-23|access-date=2024-11-23|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Dance<ref name="Week10Songs">{{cite web|url=https://www.digitalspy.com/tv/reality-tv/a62953292/strictly-2024-week-10-songs-dances/|title=Strictly confirms week 10 songs and dances|work=[[Digital Spy]]|first=Sara|last=Baalla|date=2024-11-19|access-date=2024-11-20|language=en-gb}}</ref>
+! scope="col" class="unsortable"|Music<ref name="Week10Songs" />
+! scope="col" class="unsortable"|Result<ref>{{cite web|url=https://www.chroniclelive.co.uk/news/tv/strictly-result-jamie-borthwick-montell-30441703|title=Strictly Come Dancing result 'travesty' as Jamie Borthwick eliminated from BBC show|work=[[Evening Chronicle]]|first=Simon|last=Duke|date=2024-11-24|access-date=2024-11-24|language=en-gb}}</ref>
+|-
+! scope="row" | Pete & Jowita
+| 29 (6, 7, 8, 8)
+| Tango
+| "[[Easy Lover]]" — [[Philip Bailey]] & [[Phil Collins]]
+| Safe
+|-
+! scope="row" | Sarah & Vito
+| 36 (8, 8, 10, 10)
+| Rumba
+| "[[Chains (Tina Arena song)|Chains]]" — [[Tina Arena]]
+| Safe
+|-
+! scope="row" | JB & Lauren
+| 39 (9, 10, 10, 10)
+| Charleston
+| "[[Yes Sir, That's My Baby (song)|Yes Sir, That's My Baby]]" — [[Firehouse Five Plus Two]]
+| Safe
+|-
+! scope="row" | Jamie & Michelle
+| 32 (8, 8, 7, 9)
+| Foxtrot
+| "[[Stand by Me (Ben E. King song)|Stand by Me]]" — [[Ben E. King]]
+| bgcolor=#f4c7b8|Eliminated
+|-
+! scope="row" | Chris & Dianne
+| 33 (7, 8, 9, 9) 
+| Paso doble
+| "[[El gato montés]]" — [[Manuel Penella]]
+| Safe
+|-
+! scope="row" | Montell & Johannes
+| 37 (8, 10, 9, 10)
+| Quickstep
+| "[[Get Happy (song)|Get Happy]]" — [[Ella Fitzgerald]]
+| bgcolor=lightblue| Bottom two
+|-
+! scope="row" | Tasha & Aljaž
+| 40 (10, 10, 10, 10)
+| American Smooth
+| "[[Someone You Loved]]" — [[Lewis Capaldi]]
+| Safe
+|-
+! scope="row" | Chris & Dianne
+| 1
+| rowspan="7" | Samba-thon<br>''(Samba Marathon)''
+| colspan="2" rowspan="7" | "[[Conga (song)|Samba]]" — [[Gloria Estefan]] &<br>"[[La Vida Es Un Carnaval]]" — [[Celia Cruz]]
+|-
+! scope="row" | Jamie & Michelle
+| 2
+|-
+! scope="row" | Pete & Jowita
+| 3
+|-
+! scope="row" | Sarah & Vito
+| 4
+|-
+! scope="row" | Montell & Johannes
+| 5
+|-
+! scope="row" | Tasha & Aljaž
+| 6
+|-
+! scope="row" | JB & Lauren
+| 7
+|}
+;Judges' votes to save
+* Horwood: Montell & Johannes
+* Mabuse: Montell & Johannes
+* Du Beke: Montell & Johannes
+* Ballas: ''Did not vote, but would have voted to save Montell & Johannes''
+
+===Week 11: Musicals Week (Quarter-final)===
+Musical guests: ''[[Hamilton (musical)|Hamilton]]'' —  "[[The Schuyler Sisters]]"<ref>{{cite web|url=https://www.whatsonstage.com/news/strictly-come-dancing-reveal-musicals-week-song-choices-and-performances_1653567/|title=Strictly Come Dancing reveal Musicals Week song choices and performances|work=[[WhatsOnStage.com]]|first=Tanyel|last=Gumushan|date=2024-11-26|access-date=2024-11-27|language=en-gb}}</ref>
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=https://www.telegraph.co.uk/tv/2024/11/30/strictly-come-dancing-week-11-musicals-wicks-mccausland/|title=Strictly Come Dancing, week 11: Musicals Week sees JB Gill stake his claim for the trophy|website=[[The Daily Telegraph]]|first=Kat|last=Brown|date=2024-11-30|access-date=2024-11-30|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Dance<ref name="Week11Songs">{{cite web|url=https://www.digitalspy.com/tv/reality-tv/a63024018/strictly-songs-dances-musicals-week/|title=Strictly confirms songs and dances for Musicals week|work=[[Digital Spy]]|first=Emily|last=Stedman|date=2024-11-26|access-date=2024-11-27|language=en-gb}}</ref>
+! scope="col" class="unsortable"|Music<ref name="Week11Songs" />
+! scope="col" class="unsortable"|Musical<ref name="Week11Songs" />
+! scope="col" class="unsortable"|Result<ref>{{cite web|url=https://www.harwichandmanningtreestandard.co.uk/news/national/uk-today/24763676.left-strictly-come-dancing-montell-douglas-eliminated/|title=Who left Strictly Come Dancing? Montell Douglas eliminated|work=Harwich and Manningtree Standard|first=Patrick|last=Glover|date=2024-12-01|access-date=2024-12-01|language=en-gb}}</ref>
+|-
+! scope="row" | Sarah & Vito
+| 38 (9, 9, 10, 10)
+| Charleston
+| "[[Popular (Wicked song)|Popular]]"
+| ''[[Wicked (musical)|Wicked]]''
+|Safe
+|-
+! scope="row" | Montell & Johannes
+| 32 (7, 8, 8, 9)
+| Rumba
+| "I'm Here"
+| ''[[The Color Purple (musical)|The Color Purple]]''
+|bgcolor=#f4c7b8|Eliminated
+|-
+! scope="row" | Tasha & Aljaž
+| 38 (9, 10, 9, 10)
+| Argentine tango
+| "Ex-Wives" 
+| ''[[Six (musical)|Six]]''
+|bgcolor=lightblue| Bottom two
+|-
+! scope="row" | Chris & Dianne
+| 32 (7, 8, 8, 9)
+| Quickstep
+| "[[You're the Top]]"
+| ''[[Anything Goes]]''
+| Safe
+|-
+! scope="row" | Pete & Jowita
+| 26 (5, 7, 7, 7)
+| Waltz
+| "[[Somewhere (song)|Somewhere]]" 
+| ''[[West Side Story]]''
+| Safe
+|-
+! scope="row" | JB & Lauren
+| 39 (9, 10, 10, 10)
+| Viennese waltz
+| "[[Let's Go Fly a Kite]]" 
+| ''[[Mary Poppins (musical)|Mary Poppins]]''
+|Safe
+|}
+;Judges’ votes to save
+* Horwood: Tasha & Aljaž
+* Mabuse: Tasha & Aljaž
+* Du Beke: Tasha & Aljaž
+* Ballas: ''Did not vote, but would have voted to save Tasha & Aljaž''
+
+===Week 12: Semi-final===
+Musical guests:<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2024/dec/07/strictly-come-dancing-the-semi-final-live|title=Strictly Come Dancing: semi-final results – as it happened|website=[[The Guardian]]|first=Michael|last=Hogan|date=2024-12-08|access-date=2024-12-08|language=en-GB}}</ref>
+*[[Becky Hill]] — "Indestructible"
+*[[Raye]] — "Genesis Pt III."
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col"|Couple
+! scope="col"|Scores<ref>{{cite web|url=https://www.telegraph.co.uk/tv/2024/12/07/strictly-come-dancing-2024-semi-finals-tasha-pete-sarah/|title=Strictly Come Dancing semi-finals: Tasha Ghouri and JB Gill score perfect 40s|website=[[The Daily Telegraph]]|first=Kat|last=Brown|date=2024-12-03|access-date=2024-12-07|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Dance<ref name="Week12Songs">{{cite web|url=https://www.digitalspy.com/tv/reality-tv/a63083848/strictly-2024-semi-final-songs-dances/|title=Strictly Come Dancing confirms songs and dances for 2024 semi-final|work=[[Digital Spy]]|first=Joe|last=Anderton|date=2024-12-03|access-date=2024-12-07|language=en-gb}}</ref>
+! scope="col" class="unsortable"|Music<ref name="Week12Songs" />
+! scope="col" class="unsortable"|Result<ref>{{cite web|url=https://www.heraldscotland.com/news/national/uk-today/24779931.left-strictly-come-dancing-2024-pete-wicks-eliminated/|title=Who left Strictly Come Dancing 2024? Pete Wicks eliminated|work=[[The Herald (Glasgow)|The Herald]]|first=Carlo|last=Simone|date=2024-12-08|access-date=2024-12-08|language=en-gb}}</ref>
+|-
+! rowspan="2" scope="row"|Tasha & Aljaž
+| 35 (8, 9, 9, 9)
+| Salsa
+| "[[Something New (Girls Aloud song)|Something New]]" — [[Girls Aloud]]
+|bgcolor=lightblue rowspan="2"|Bottom two
+|-
+| 40 (10, 10, 10, 10)
+| Waltz
+| "[[(You Make Me Feel Like) A Natural Woman]]" — [[Aretha Franklin]]
+|-
+! rowspan="2" scope="row"|JB & Lauren
+| 39 (9, 10, 10, 10)
+| Paso doble
+| "[[Lux Aeterna (Mansell)|Requiem for a Tower]]" — [[Clint Mansell]]
+| rowspan="2"| Safe
+|-
+| 40 (10, 10, 10, 10)
+| Salsa
+| "[[Red Alert (song)|Red Alert]]" — [[Basement Jaxx]]
+|-
+! rowspan="2" scope="row"|Chris & Dianne
+| 33 (7, 8, 9, 9)
+| Charleston
+| "[[When You're Smiling]]" — The Blue Vipers of Brooklyn
+| rowspan="2"|Safe 
+|-
+| 36 (9, 9, 9, 9)
+| Viennese waltz
+| "[[Nothing Else Matters]]" — [[Metallica]]
+|-
+! rowspan="2" scope="row"|Sarah & Vito
+| 36 (9, 9, 9, 9)
+| Tango
+| "[[Big Love (Fleetwood Mac song)|Big Love]]" — [[Fleetwood Mac]]
+| rowspan="2"|Safe
+|-
+| 36 (9, 9, 9, 9)
+| Jive
+| "[[I'm So Excited]]" — [[The Pointer Sisters]]
+|-
+! rowspan="2" scope="row"|Pete & Jowita
+| 32 (7, 8, 9, 8)
+| Foxtrot
+| "[[Beyond the Sea (song)|Beyond the Sea]]" — [[Bobby Darin]]
+| bgcolor=f4c7b8 rowspan="2"| Eliminated
+|-
+| 33 (7, 8, 9, 9)
+| Argentine tango
+| "[[Bitter Sweet Symphony]]" — [[The Verve]]
+|}
+;Judges' votes to save
+* Horwood: Tasha & Aljaž
+* Mabuse:  Tasha & Aljaž
+* Du Beke: Tasha & Aljaž
+* Ballas: ''Did not vote, but would have voted to save Tasha & Aljaž''
+
+===Week 13: Final===
+Musical guest: [[Raye]] — "Oscar Winning Tears"<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2024/dec/14/strictly-come-dancing-the-final-live|title=Strictly Come Dancing: the final – as it happened|website=[[The Guardian]]|first=Michael|last=Hogan|date=2024-12-14|access-date=2024-12-14|language=en-GB}}</ref>
+
+Each couple performed three routines: one chosen by the judges, their showdance routine, and their favourite dance of the series. Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col"|Couple
+! scope="col"|Scores<ref>{{cite web|url=https://www.telegraph.co.uk/tv/2024/12/14/strictly-come-dancing-final-2024-live-chris-sarah-tasha-jb/|title=Strictly Come Dancing final: Chris McCausland and Dianne Buswell win Strictly 2024|website=[[The Daily Telegraph]]|first=Kat|last=Brown|date=2024-12-14|access-date=2024-12-14|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Dance<ref name="Week13Songs">{{cite web|url=https://www.digitalspy.com/tv/reality-tv/a63149024/strictly-songs-dances-2024-final/|title=Strictly reveals songs and dances for 2024 final|work=[[Digital Spy]]|first=George|last=Lewis|date=2024-12-10|access-date=2024-12-10|language=en-gb}}</ref>
+! scope="col" class="unsortable"|Music<ref name="Week13Songs" />
+! scope="col" class="unsortable"|Result<ref>{{cite web|url=https://www.independent.co.uk/arts-entertainment/tv/news/strictly-come-dancing-winner-2024-chris-mccausland-b2664420.html|title=Strictly Come Dancing announces winner for 2024 series|website=[[The Independent]]|first=Ellie|last=Muir|date=2024-12-14|access-date=2024-12-14|language=en-GB}}</ref>
+|-
+! scope="row" rowspan="3"|JB & Lauren
+| 40 (10, 10, 10, 10)
+| Viennese waltz
+| "[[Let's Go Fly a Kite]]" — [[Sherman Brothers]]
+| bgcolor=silver rowspan="6"|Runners-up
+|-
+| 39 (9, 10, 10, 10)
+| Showdance
+| "[[Uptight (Everything's Alright)]]" — [[Stevie Wonder]],<br>"[[Dancing in the Street|Dancing In the Street]]" — [[Martha and the Vandellas|Martha & The Vandellas]]<br>& "[[Ain't No Mountain High Enough]]" — [[Diana Ross]]
+|-
+| 40 (10, 10, 10, 10)
+| Samba
+| "[[Mas que nada]]" — [[Sérgio Mendes]]
+|-
+! scope="row" rowspan="3"|Tasha & Aljaž
+| 39 (9, 10, 10, 10)
+| Couple's choice
+| "[[What About Us (Pink song)|What About Us]]" — [[Pink (singer)|Pink]]
+|-
+| 40 (10, 10, 10, 10)
+| Showdance
+| "[[Sing, Sing, Sing (With a Swing)]]" — [[Benny Goodman]]
+|-
+| 40 (10, 10, 10, 10)
+| American Smooth
+| "[[Someone You Loved]]" — [[Lewis Capaldi]]
+|-
+! scope="row" rowspan="3"|Chris & Dianne
+| 38 (8, 10, 10, 10)
+| Couple's choice
+| "[[Instant Karma!|Instant Karma! (We All Shine On)]]" — [[John Lennon]]
+| bgcolor=gold rowspan="3"|'''Winners'''
+|-
+| 38 (8, 10, 10, 10)
+| Showdance
+| "[[You Get What You Give (song)|You Get What You Give]]" — [[New Radicals]]
+|-
+| 40 (10, 10, 10, 10)
+| Waltz
+| "[[You'll Never Walk Alone]]" — [[Gerry and the Pacemakers]]
+|-
+! scope="row" rowspan="3"|Sarah & Vito
+| 39 (9, 10, 10, 10)
+| American Smooth
+| "[[Proud (Heather Small song)|Proud]]" — [[Heather Small]]
+| bgcolor=silver rowspan="3"|Runners-up
+|-
+| 39 (9, 10, 10, 10)
+| Showdance
+| "[[Cabaret (Cabaret song)|Cabaret]]" — [[Metropole Orkest]]
+|-
+| 40 (10, 10, 10, 10)
+| Cha-cha-cha
+| "[[Like a Prayer (song)|Like a Prayer]]" — [[Madonna]]
+|}
+
+==Dance chart==
+*Weeks 1–9 and 11: One unlearned dance
+*Week 10: One unlearned dance and Samba-thon
+*Week 12: Two unlearned dances
+*Week 13 (Finals): Judges' choice, showdance & favourite dance of the series
+
+{| class="wikitable unsortable" style="text-align:center; font-size:85%; line-height:20px"
+|+''Strictly Come Dancing'' (series 22) – Dance chart
+! rowspan="2" | Couple
+! colspan="17" | Week
+|-
+! scope="col" | 1 
+! scope="col" | 2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" | 5
+! scope="col" | 6
+! scope="col" | 7
+! scope="col" | 8
+! scope="col" | 9
+! scope="col" colspan="2"| 10
+! scope="col" | 11
+! scope="col" colspan="2"| 12
+! scope="col" colspan="3"| 13
+|-
+! scope="row" | Chris & Dianne
+| Cha-cha-cha
+| Foxtrot
+| Jive
+| Salsa
+| Waltz 
+| Samba 
+| Tango
+| Couple's choice
+| American Smooth
+| Paso doble
+| rowspan="7" | Samba-thon
+| Quickstep
+| Charleston 
+| Viennese waltz 
+| Couple's choice
+| Showdance
+| Waltz
+|-
+! scope="row" | JB & Amy/Lauren
+| Waltz
+| Cha-cha-cha
+| American Smooth
+| Rumba
+| Jive 
+| Foxtrot
+| Couple's choice
+| Samba
+| Quickstep
+| Charleston 
+| Viennese waltz
+| Paso doble 
+| Salsa 
+| Viennese waltz
+| Showdance
+| Samba
+|-
+! scope="row" | Sarah & Vito
+| Quickstep
+| Paso doble
+| Viennese waltz
+| Foxtrot 
+| Samba 
+| Argentine tango
+| Cha-cha-cha
+| American Smooth
+| Couple's choice
+| Rumba 
+| Charleston
+| Tango
+| Jive
+| American Smooth
+| Showdance
+| Cha-cha-cha
+|-
+! scope="row" | Tasha & Aljaž
+| Cha-cha-cha
+| Viennese waltz
+| Rumba
+| Charleston
+| Tango
+| Samba
+| Couple's choice
+| Quickstep
+| Paso doble
+| American Smooth 
+| Argentine tango
+| Salsa
+| Waltz 
+| Couple's choice
+| Showdance
+| American Smooth
+|-
+! scope="row" | Pete & Jowita
+| Paso doble
+| American Smooth
+| Samba
+| Quickstep
+| Rumba 
+| Viennese waltz
+| Salsa
+| Couple's choice
+| Cha-cha-cha
+| Tango 
+| Waltz
+| Foxtrot 
+| Argentine tango 
+| rowspan="11" colspan="3" bgcolor="lightgrey" |
+|-
+! scope="row" | Montell & Johannes
+| Foxtrot
+| Samba
+| Tango
+| Viennese waltz
+| Couple's choice
+| Cha-cha-cha
+| Waltz
+| Paso doble
+| Salsa 
+| Quickstep 
+| Rumba 
+| rowspan="10" colspan="2" bgcolor="lightgrey" |
+|-
+! scope="row" | Jamie & Michelle
+| Viennese waltz
+| Rumba
+| Quickstep
+| Salsa
+| Paso doble 
+| American Smooth
+| Samba
+| Argentine tango
+| Jive 
+| Foxtrot 
+| rowspan="9" bgcolor="lightgrey" |
+|-
+! scope="row" | Wynne & Katya
+| Samba
+| Viennese waltz
+| Cha-cha-cha
+| Tango
+| Quickstep
+| Salsa
+| Rumba
+| American Smooth
+| Charleston 
+| rowspan="8" colspan="2" bgcolor="lightgrey" |
+|- 
+! scope="row" | Shayne & Nancy
+| Samba
+| Tango
+| Viennese waltz
+| Cha-cha-cha
+| American Smooth 
+| Paso doble
+| Quickstep
+| Rumba
+| rowspan="7" bgcolor="lightgrey" |
+|-
+! scope="row" | Sam & Nikita
+| Foxtrot
+| Charleston
+| Paso doble
+| Samba
+| Quickstep 
+| Jive
+| American Smooth
+| rowspan="6" bgcolor="lightgrey" |
+|-
+! scope="row" | Dr. Punam & Gorka
+| Cha-cha-cha
+| Foxtrot
+| Couple's choice
+| Jive
+| Viennese waltz
+| Tango
+| rowspan="5" bgcolor="lightgrey" |
+|-
+! scope="row" | Paul & Karen
+| American Smooth
+| Salsa
+| Cha-cha-cha
+| Quickstep
+| Samba 
+| rowspan="4" bgcolor="lightgrey" |
+|-
+! scope="row" | Nick & Luba
+| Jive
+| American Smooth
+| bgcolor="lightgrey" | {{efn|name=OutSick|This couple was excused from competition due to illness or injury, and was granted a [[Bye (sports)|bye]] to the following week.}}
+| Charleston
+| rowspan="3" bgcolor="lightgrey" |
+|-
+! scope="row" | Toyah & Neil
+| Tango
+| Jive
+| Samba
+| rowspan="2" bgcolor="lightgrey" |
+|-
+! scope="row" | Tom & Nadiya
+| Tango
+| Cha-cha-cha
+| bgcolor="lightgrey" |
+|}
+{{notelist}}
+
+==Ratings==
+Weekly ratings for each show on [[BBC One]]. All ratings are provided by [[Barb Audiences|BARB]].<ref>{{cite web |url=https://www.barb.co.uk/viewing-data/as-viewed-top-50 |title=Weekly top 50 shows |publisher=[[BARB]] |access-date=12 October 2025}}</ref>
+{| class="wikitable sortable" style="text-align:center"
+|-
+! scope="col"|Episode
+! scope="col"|Date
+! scope="col"|Official rating<br />(millions)
+! scope="col"|Weekly rank<br />for BBC One
+! scope="col"|Weekly rank<br />for all UK TV
+|-
+! scope="row"|Launch show
+| {{dts|14 September}} || 6.91 || 1 || 1
+|-
+! scope="row"|Week 1
+| {{dts|21 September}} || 8.13 || 1 || 1
+|-
+! scope="row"|Week 2
+| {{dts|28 September}} || 7.86 || 1 || 1
+|-
+! scope="row"|Week 2 results
+| {{dts|29 September}} || 7.04 || 2 || 3
+|-
+! scope="row"|Week 3
+| {{dts|5 October}} || 8.40 || 1 || 1
+|-
+! scope="row"|Week 3 results
+| {{dts|6 October}} || 7.44 || 2 || 3
+|-
+! scope="row"|Week 4
+| {{dts|12 October}} || 7.95 || 1 || 1
+|-
+! scope="row"|Week 4 results
+| {{dts|13 October}} || 7.33 || 2 || 3
+|-
+! scope="row"|Week 5
+| {{dts|19 October}} || 8.10 || 1 || 1
+|-
+! scope="row"|Week 5 results
+| {{dts|20 October}} || 7.58 || 2 || 2
+|-
+! scope="row"|Week 6
+| {{dts|26 October}} || 8.28 || 1 || 1
+|-
+! scope="row"|Week 6 results
+| {{dts|27 October}} || 7.54 || 2 || 2
+|-
+! scope="row"|Week 7
+| {{dts|2 November}} || 8.65 || 1 || 1
+|-
+! scope="row"|Week 7 results
+| {{dts|3 November}} || 7.90 || 2 || 2
+|-
+! scope="row"|Week 8
+| {{dts|9 November}} || 8.73 || 1 || 1
+|-
+! scope="row"|Week 8 results
+| {{dts|10 November}} || 8.18 || 2 || 2
+|-
+! scope="row"|Week 9
+| {{dts|16 November}} || 9.17 || 1 || 2
+|-
+! scope="row"|Week 9 results
+| {{dts|17 November}} || 8.05 || 2 || 3
+|-
+! scope="row"|Week 10
+| {{dts|23 November}} || 9.17 || 1 || 2
+|-
+! scope="row"|Week 10 results
+| {{dts|24 November}} || 7.94 || 2 || 9
+|-
+! scope="row"|Week 11
+| {{dts|30 November}} || 9.02 || 1 || 1
+|-
+! scope="row"|Week 11 results
+| {{dts|1 December}} || 8.08 || 2 || 8
+|-
+! scope="row"|Week 12
+| {{dts|7 December}} || 8.53 || 1 || 2
+|-
+! scope="row"|Week 12 results
+| {{dts|8 December}} || 8.02 || 2 || 7
+|-
+! scope="row"|Week 13
+| {{dts|14 December}} || 9.94 || 1 || 1
+|-
+! Series average<br>(excl. launch show)
+! 2024
+! 8.21
+! {{N/A}}
+! {{N/A}}
+|}
+
+==References==
+{{Reflist}}
+
+== External links ==
+* {{BBC Online|id=strictlycomedancing|title=''Strictly Come Dancing''}}
+
+{{Strictly Come Dancing}}
+
+[[Category:2024 British television seasons]]
+[[Category:Strictly Come Dancing series]]

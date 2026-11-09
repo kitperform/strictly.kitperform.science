@@ -1,0 +1,1750 @@
+{{short description|2021 series of Strictly Come Dancing}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox television season
+| module1       = {{Infobox reality competition season
+ | celebrity_winner    = [[Rose Ayling-Ellis]]
+ | professional_winner = [[Giovanni Pernice]]
+| presenter = [[Tess Daly]]<br>[[Claudia Winkleman]]
+| judges    = [[Shirley Ballas]]<br>[[Anton Du Beke]]<br>[[Motsi Mabuse]]<br>[[Craig Revel Horwood]]<br>[[Cynthia Erivo]] (guest)
+}}
+| bgcolor       = #EC6C92
+| network       = [[BBC One]]
+| first_aired   = {{start date|df=y|2021|09|18}}
+| last_aired    = {{end date|df=y|2021|12|18}}
+| num_episodes  = 25
+| series_number = 19
+| prev_series   = [[Strictly Come Dancing series 18|Series 18]]
+}}
+
+'''''[[Strictly Come Dancing]]''''' returned for its '''nineteenth series''' with a launch show on 18 September 2021 on BBC One, and the live shows beginning on 25 September.<ref>{{cite web|url=https://www.radiotimes.com/tv/entertainment/strictly-come-dancing-2021-launch-date-confirmed-newsupdate/|title=Strictly Come Dancing 2021 launch date is officially confirmed|work=[[Radio Times]]|last=Carr|first=Flora|date=3 September 2021|access-date=8 September 2021}}</ref> [[Tess Daly]] and [[Claudia Winkleman]] returned as hosts, while [[Rylan Clark]] returned to host ''[[Strictly Come Dancing: It Takes Two|Strictly: It Takes Two]]'' alongside new presenter [[Janette Manrara]], who replaced [[Zoe Ball]].<ref name="presenters">{{Cite web|title=Janette Manrara to join BBC Two's Strictly: It Takes Two as new host|url=http://bbc.com/mediacentre/2021/janette-manrara-strictly-it-takes-two/|access-date=2021-06-10|website=bbc.com|language=en}}</ref> In June 2021, the [[BBC]] announced that [[Shirley Ballas]], [[Motsi Mabuse]], and [[Craig Revel Horwood]] would return to the judging panel. [[Anton Du Beke]], who served as a guest judge in the [[Strictly Come Dancing series 18|previous series]], joined the panel in place of [[Bruno Tonioli]], who did not return for the second year in a row due to travel restrictions imposed by the [[COVID-19 pandemic]].<ref>{{Cite web|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2F7b8eaad9-0009-4b62-afaa-ac7c338eb6f1|title=Judges revealed for Strictly 2021!|website=[[BBC]]|date=2021-06-24|access-date=2021-06-24}}</ref><ref name=judges>{{Cite news|url=https://www.bbc.com/news/entertainment-arts-57592468|title=Anton Du Beke to join Strictly judges for new series|work=BBC News|date=24 June 2021}}</ref>
+
+In July 2021, the show's executive producer, Sarah James, said the show would return for a "full-length series", with fifteen celebrities, themed weeks, pre-recorded professional group dances, and a Christmas special, but no Blackpool [[Blackpool Tower#Tower Ballroom|Tower Ballroom]] special.<ref name="beginning">{{Cite web |last=Methven |first=Nicola |date=27 July 2021 |title=Strictly Come Dancing fans to get 'full fix' this year apart from Blackpool week |url=https://www.mirror.co.uk/tv/tv-news/strictly-come-dancing-full-fix-24630687 |website=mirror}}</ref> For this series, the contestants were no longer restricted to perform one of the "couple's choice" categories — [[Contemporary dance|contemporary]], [[Jazz dance|theatre/jazz]], or [[Street dance|street/commercial]] — and could instead incorporate the routine however they wished.<ref>{{Cite web|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2F98e84a5d-4b13-4ba2-9ce8-8e3872a638d3|title=Week Eight is going to be great!|website=[[BBC]]|date=13 November 2021|access-date=13 November 2021}}</ref> In September, a row broke out over whether dancers should be vaccinated against [[COVID-19]]. Reports had suggested that three dancers had refused to be vaccinated, with one unnamed celebrity already having to self-isolate since the show's launch night had been filmed.<ref>{{Cite web|url=https://www.walesonline.co.uk/whats-on/whats-on-news/strictly-come-dancings-craig-revel-21678843|title=Strictly's Craig Revel Horwood says not having Covid vaccine is 'ridiculous'|first=Matt|last=Jackson|date=25 September 2021|website=WalesOnline}}</ref>
+
+''[[EastEnders]]'' actress [[Rose Ayling-Ellis]] and [[Giovanni Pernice]] were announced as the winners on 18 December,<ref>{{cite web |author=PA Media |date=18 December 2021 |title=History made as Strictly Come Dancing winners crowned |url=https://www.theguardian.com/tv-and-radio/2021/dec/18/history-made-as-strictly-come-dancing-winners-crowned |accessdate=19 December 2021 |work=[[The Guardian]] |language=en-GB}}</ref> while [[John Whaite]] and [[Johannes Radebe]] — the first male same-sex couple to compete on the programme — finished in second place.
+
+== Format ==
+{{Further|Strictly Come Dancing#Format}}
+{{Multiple image
+ | align        = right
+ | total_width  = 550
+
+ | header       = Hosts and Judges for Strictly Come Dancing Series 19
+
+ | image1       = Tess Daly Cropped.jpg
+ | alt1         =
+ | caption1     = [[Tess Daly]]
+
+ | image2       = Claudia Winkleman at BAFTA 2026 01.jpg
+ | alt2         =
+ | caption2     = [[Claudia Winkleman]]
+
+ | image3       = Craig-Revel-Horwood-2022.png
+ | alt3         = 
+ | caption3     = [[Craig Revel Horwood]]
+
+ | image4       = 2022-06-22-Motsi Mabuse LEA Live Entertainment Award 15 -0167.jpg
+ | alt4         =
+ | caption4     = [[Motsi Mabuse]]
+
+ | image5       = Shirley Ballas 20241205.jpg
+ | alt5         =
+ | caption5     = [[Shirley Ballas]]
+
+ | image6       = Anton_Du_Beke_in_2019.png
+ | alt6         =
+ | caption6     = [[Anton Du Beke]]
+
+ | image7       = Cynthia Erivo (82023) (cropped).jpg
+ | alt7         =
+ | caption7     = [[Cynthia Erivo]] (Guest)
+}}
+
+The couples dance each week in a live show. The judges score each performance out of ten. The couples are then ranked according to the judges' scores and given points according to their rank, with the lowest scored couple receiving one point, and the highest scored couple receiving the most points (the maximum number of points available depends on the number of couples remaining in the competition). The public are also invited to vote for their favourite couples, and the couples are ranked again according to the number of votes they receive, again receiving points; the couple with the fewest votes receiving one point, and the couple with the most votes receiving the most points.
+
+The points for judges' score and public vote are then added together, and the two couples with the fewest points are placed in the bottom two. If two couples have equal points, the points from the public vote are given precedence. As with the previous series, the bottom two couples have to perform a dance-off on the results show. Based on that performance alone, each judge then votes on which couple should stay and which couple should leave, with [[Shirley Ballas]], as head judge, having the last and [[Casting vote|deciding vote]].
+
+==Professional dancers==
+In March 2021, the [[BBC]] announced that all sixteen professional dancers from the eighteenth series would return in 2021.<ref>{{Cite web |title=Strictly Come Dancing's 2021 professional dancers revealed |url=https://www.bbc.co.uk/mediacentre/2021/strictly-professional-dancers-revealed |website=www.bbc.co.uk}}</ref> However, in June, the BBC revealed that [[Janette Manrara]] and [[Anton Du Beke]] would not be reprising their dancing roles: Manrara was announced as a new co-host of ''[[Strictly Come Dancing: It Takes Two|It Takes Two]]'', succeeding [[Zoe Ball]], while Du Beke would replace [[Bruno Tonioli]] on the judging panel.<ref name=presenters /><ref name=judges />
+
+In July 2021, the BBC announced that four new professional dancers would be joining the cast: Italian Latin and Ballroom Champion [[Nikita Kuzmin]], who was also a professional dancer on the [[Let's Dance (German TV series)|German version of the show]] in 2020; South African Latin Champion Cameron Lombard, who was also a finalist on ''[[SA's Got Talent|South Africa's Got Talent]]'' in 2012; Polish Open Latin Champion [[Jowita Przystał]], who won ''[[The Greatest Dancer]]'' in 2020; and World Junior Latin American Champion [[Kai Widdrington]], who was also a former professional on the [[Dancing with the Stars (Irish TV series)|Irish version of the show]].<ref>{{Cite web|url=https://www.bbc.co.uk/mediacentre/2021/new-strictly-pros-announced-2021|title=Four new professional dancers announced for Strictly Come Dancing 2021|website=www.bbc.co.uk}}</ref>
+
+[[Graziano Di Prima]] received a celebrity partner for the first time since the [[Strictly Come Dancing (series 16)|sixteenth series]], while [[Nadiya Bychkova]] and [[Neil Jones (dancer)|Neil Jones]] received a celebrity partner for the first time since the [[Strictly Come Dancing (series 17)|seventeenth series]]. [[Nancy Xu]] received a celebrity partner for the first time, as did Nikita Kuzmin and Kai Widdrington, while [[Luba Mushtuk]], Cameron Lombard, and Jowita Przystał did not receive a partner.<ref name="couples">{{cite web|url=https://www.darlingtonandstocktontimes.co.uk/news/national/uk-today/19591439.couples-strictly-come-dancing-2021/|title=Who are the couples for Strictly Come Dancing 2021? See the full list|work=[[Darlington & Stockton Times]]|first=Carlo|last=Simone|date=19 September 2021|accessdate=20 September 2021}}</ref><ref>{{cite web|url=https://www.express.co.uk/showbiz/tv-radio/1493277/Strictly-snub-luba-Mushtuk-no-celebrity-partner|title=Strictly snub: Why did Luba Mushtuk not get a celebrity partner?|work=[[Daily Express]]|first=Charlie|last=Milward|date=18 September 2021|accessdate=20 September 2021}}</ref>
+
+==Couples==
+This series featured fifteen celebrity contestants. On 4 August 2021, the first three celebrities participating were announced: [[Tom Fletcher]], [[AJ Odudu]], and [[Robert Webb]].<ref>{{cite web|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2F65bfb869-3a3e-4698-9304-d496d9952121|title=Meet our first three Strictly celebrities of 2021!|website=BBC One|date=4 August 2021|access-date=4 August 2021|language=en}}</ref> The following day, it was announced that [[John Whaite]] would be paired as part of the first male same-sex couple in ''[[Strictly Come Dancing]]'' history.<ref>{{cite web|url=https://www.bbc.com/news/entertainment-arts-58089932|title=Strictly Come Dancing: John Whaite to be in first all-male partnership|publisher=[[BBC News]]|date=5 August 2021|access-date=5 August 2021|language=en}}</ref> Celebrity contestants continued to be revealed until 13 August 2021, when the full line-up was announced.<ref name="couples"/> [[Rose Ayling-Ellis]] was also the first deaf contestant to appear on the programme.<ref>{{cite news|url=https://www.bbc.co.uk/news/entertainment-arts-59599740|accessdate=15 January 2024|title=Strictly Come Dancing 2021: Rose Ayling-Ellis becomes first deaf winner|work=[[BBC]]|publisher=BBC|date=19 December 2023}}</ref> On 13 October, it was announced that Robert Webb had been advised to withdraw from the competition due to health problems.<ref name="robert">{{Cite web|url=https://www.bbc.com/news/entertainment-arts-58905864|title=Robert Webb withdraws from Strictly Come Dancing|date=13 October 2021|website=BBC News|access-date=13 October 2021}}</ref> On 17 December, the day before the final, it was announced that [[AJ Odudu]] had withdrawn from the competition after suffering ligament damage in her right ankle.<ref name="aj">{{Cite web|url=https://www.bbc.co.uk/news/entertainment-arts-59696209|title=Strictly Come Dancing: AJ Odudu ruled out of final with ankle injury|date=17 December 2021|website=BBC News|access-date=17 December 2021}}</ref>
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! scope="col" | Celebrity
+! scope="col" class="unsortable"| Notability
+! scope="col" | Professional partner
+! scope="col" | Status
+|-
+! scope="row" | [[Nina Wadia]]
+| Stage & screen actress
+| [[Neil Jones (dancer)|Neil Jones]]
+| bgcolor="f4c7b8" | Eliminated 1st<br /><small>on 3 October 2021</small>
+|-
+! scope="row" | [[Katie McGlynn]]
+| ''[[Coronation Street]]'' actress
+| [[Gorka Márquez]]
+| bgcolor="f4c7b8" | Eliminated 2nd<br /><small>on 10 October 2021</small>
+|-
+! scope="row" | [[Robert Webb]]
+| Comedian & actor
+| [[Dianne Buswell]]
+| bgcolor="lightgreen" | Withdrew<br /><small>on 13 October 2021</small>
+|-
+! scope="row" | [[Greg Wise]]
+| Film & television actor
+| [[Karen Hauer]]
+| bgcolor="f4c7b8" | Eliminated 3rd<br /><small>on 17 October 2021</small>
+|-
+! scope="row" | [[Ugo Monye]]
+| [[England national rugby union team|England]] rugby player & pundit
+| [[Oti Mabuse]]
+| bgcolor="f4c7b8" | Eliminated 4th<br /><small>on 24 October 2021</small>
+|-
+! scope="row" | [[Judi Love]]
+| Comedian & ''[[Loose Women]]'' panellist
+| [[Graziano Di Prima]]
+| bgcolor="f4c7b8" | Eliminated 5th<br /><small>on 31 October 2021</small>
+|-
+! scope="row" | [[Adam Peaty]]
+| [[Swimming at the Summer Olympics|Olympic swimmer]]
+| [[Katya Jones]]
+| bgcolor="f4c7b8" | Eliminated 6th<br /><small>on 7 November 2021</small>
+|-
+! scope="row" | [[Sara Davies]]
+| ''[[Dragons' Den (British TV programme)|Dragons' Den]]'' investor & businesswoman
+| [[Aljaž Škorjanec]]
+| bgcolor="f4c7b8" | Eliminated 7th<br /><small>on 14 November 2021</small>
+|-
+! scope="row" | [[Tom Fletcher]]
+| [[McFly]] singer
+| [[Amy Dowden]]
+| bgcolor="f4c7b8" | Eliminated 8th<br /><small>on 21 November 2021</small>
+|-
+! scope="row" | [[Tilly Ramsay]]
+| Chef & television presenter 
+| [[Nikita Kuzmin]]
+| bgcolor="f4c7b8" | Eliminated 9th<br /><small>{{nowrap|on 28 November 2021}}</small>
+|-
+! scope="row" | [[Dan Walker (broadcaster)|Dan Walker]]
+| ''[[BBC Breakfast]]'' presenter & journalist
+| [[Nadiya Bychkova]]
+| style="background:#f4c7b8"|Eliminated 10th<br /><small>on 5 December 2021</small>
+|-
+! scope="row" | {{nowrap|[[Rhys Stephenson]]}}
+| [[CBBC (TV channel)|CBBC]] presenter
+| [[Nancy Xu]]
+| bgcolor="f4c7b8" | Eliminated 11th<br /><small>on 12 December 2021</small>
+|-
+! scope="row" | [[AJ Odudu]]
+| Television presenter
+| [[Kai Widdrington]]
+| bgcolor="lightgreen" | Withdrew<br /><small>on 17 December 2021</small>
+|-
+! scope="row" | [[John Whaite]]
+| Baker & television presenter 
+| [[Johannes Radebe]]
+| bgcolor="silver" | Runners-up<br /><small>on 18 December 2021</small>
+|-
+! scope="row" | [[Rose Ayling-Ellis]]
+| ''[[EastEnders]]'' actress
+| [[Giovanni Pernice]]
+| bgcolor="gold" | '''Winners<br />'''<small>on 18 December 2021</small>
+|}
+
+==Scoring chart==
+The highest score each week is indicated in {{fontcolor|#004600|'''bold green'''}} with a dagger ({{dagger}}), while the lowest score each week is indicated in {{fontcolor|#800000|''italicized red''}} with a double-dagger ({{double-dagger}}).
+
+'''Color key:'''
+{{columns-list|colwidth=20em|
+{{legend|gold|Winners}}
+{{legend|silver|Runners-up}}
+{{legend|lightblue|Bottom two}}
+{{legend|#fff383|Excused from competition for the week}}
+{{legend|lightgreen|Withdrew from competition}}
+{{legend|#f4c7b8|Eliminated}}
+}}
+{| class="wikitable sortable" style="text-align:center; font-size:90%"
+|+''Strictly Come Dancing'' (series 19) - Weekly scores
+|-
+! rowspan="2" scope="col" | Couple
+! rowspan="2" scope="col" | {{Abbr|Pl.|Place}}
+! colspan="14" | Week
+|-
+! scope="col" | 1
+! scope="col" | 2
+! scope="col" | 1+2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" | 5
+! scope="col" | 6
+! scope="col" | 7
+! scope="col" | 8
+! scope="col" | 9
+! scope="col" | 10
+! scope="col" | 11
+! scope="col" | 12
+! scope="col" | 13
+|-
+! scope="row" | Rose & Giovanni
+| 1st
+| 22
+| 26
+| 48
+| 36
+| 27
+| 37
+| {{fontcolor|#004600|'''40'''}}{{dagger|alt=This was the highest score of the night.}}
+| 32
+| 39
+| 37
+| 33
+| {{fontcolor|#004600|'''39'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|79|}} | 39+40={{fontcolor|#004600|'''79'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|119|}} bgcolor="gold" | 39+40+40={{fontcolor|#004600|'''119'''}}{{dagger|alt=This was the highest score of the night.}}{{efn|This couple finished in first place.}}
+|-
+! scope="row" | {{nowrap|John & Johannes}}
+| 2nd
+| 30
+| 31
+| 61
+| {{fontcolor|#004600|'''39'''}}{{dagger|alt=This was the highest score of the night.}}
+| 29
+| {{fontcolor|#004600|'''38'''}}{{dagger|alt=This was the highest score of the night.}}
+| 33
+| 35
+| 38
+| 32
+| {{fontcolor|#004600|'''39'''}}{{dagger|alt=This was the highest score of the night.}}
+| 32
+| {{sort|78|}} bgcolor="lightblue" | 39+39=78{{efn|name=Bottom2|This couple was in the bottom two, but was not eliminated.}}
+| {{sort|119|}} bgcolor="silver" | 39+40+40={{fontcolor|#004600|'''119'''}}{{dagger|alt=This was the highest score of the night.}}{{efn|name=2nd|This couple finished in second place.}}
+|-
+! scope="row" | AJ & Kai
+| 3rd
+| {{fontcolor|#004600|'''34'''}}{{dagger|alt=This was the highest score of the night.}}
+| 31
+| {{fontcolor|#004600|'''65'''}}{{dagger|alt=This was the highest score of the night.}}
+| 35
+| 28
+| 35
+| 37
+| {{fontcolor|#004600|'''39'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#800000|''28''}}{{double-dagger|alt=This was the lowest score of the night.}} 
+| 38
+| 36
+| bgcolor="lightblue" | {{fontcolor|#800000|''30''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Bottom2}}
+| {{sort|79|}} | 40+39={{fontcolor|#004600|'''79'''}}{{dagger|alt=This was the highest score of the night.}}
+| bgcolor="lightgreen" | {{efn|name=WD|This couple withdrew from the competition.}}
+|-
+! scope="row" | Rhys & Nancy
+| 4th
+| 27
+| 30
+| 57
+| 37
+| 31
+| bgcolor="lightblue" | 32{{efn|name=Bottom2}}
+| 33
+| 34
+| {{fontcolor|#004600|'''40'''}}{{dagger|alt=This was the highest score of the night.}}
+| bgcolor="lightblue" | 32{{efn|name=Bottom2}}
+| bgcolor="lightblue" | 35{{efn|name=Bottom2}}
+| {{fontcolor|#004600|'''39'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|74|}} bgcolor="f4c7b8" | 36+38={{fontcolor|#800000|''74''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="12" bgcolor="darkgray" |
+|-
+! scope="row" | Dan & Nadiya
+| 5th
+| 24
+| 26
+| 50
+| 21
+| 26
+| 28
+| 27
+| 28
+| 29
+| {{fontcolor|#800000|''31''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| 31
+| bgcolor="f4c7b8" | 31{{efn|name=Elim}}
+| rowspan="11" bgcolor="darkgray" |
+|-
+! scope="row" | Tilly & Nikita
+| 6th
+| 21
+| {{fontcolor|#004600|'''34'''}}{{dagger|alt=This was the highest score of the night.}}
+| 55
+| 27
+| 32
+| 36
+| 35
+| bgcolor="lightblue" | 31{{efn|name=Bottom2}}
+| bgcolor="lightblue" | 29{{efn|name=Bottom2}}
+| {{fontcolor|#004600|'''40'''}}{{dagger|alt=This was the highest score of the night.}}
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''30''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="10" bgcolor="darkgray" |
+|-
+! scope="row" | Tom & Amy
+| 7th
+| 21
+| colspan="2" bgcolor="fff383" | {{efn|name=OutSick|This couple was excused from competition due to illness or injury, and was granted a [[Bye (sports)|bye]] to the following week.}}
+| 32
+| 29
+| 34
+| 29
+| 38
+| 30
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''31''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="9" bgcolor="darkgray" |
+|-
+! scope="row" | Sara & Aljaž
+| 8th
+| {{fontcolor|#800000|''17''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{fontcolor|#004600|'''34'''}}{{dagger|alt=This was the highest score of the night.}}
+| 51
+| 28
+| {{fontcolor|#004600|'''36'''}}{{dagger|alt=This was the highest score of the night.}}
+| 25
+| {{fontcolor|#800000|''23''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| 33
+| bgcolor="f4c7b8" | 32{{efn|name=Elim}}
+| rowspan="8" bgcolor="darkgray" |
+|-
+! scope="row" | Adam & Katya
+| 9th
+| 30
+| 19
+| 49
+| {{fontcolor|#800000|''20''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| 32
+| 29
+| bgcolor="lightblue" | 29{{efn|name=Bottom2}}
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''27''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="7" bgcolor="darkgray" |
+|-
+! scope="row" | Judi & Graziano
+| 10th
+| 24
+| 25
+| 49
+| bgcolor="lightblue" | 24{{efn|name=Bottom2}}
+| bgcolor="lightblue" | 24{{efn|name=Bottom2}}
+| bgcolor="fff383" | {{efn|name=OutSick}}
+| bgcolor="f4c7b8" | 25{{efn|name=Elim}}
+| rowspan="6" bgcolor="darkgray" |
+|-
+! scope="row" | Ugo & Oti
+| 11th
+| 18
+| 25
+| 43
+| 31
+| bgcolor="fff383" | {{efn|name=OutSick}}
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''20''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="5" bgcolor="darkgray" |
+|-
+! scope="row" | Greg & Karen
+| 12th
+| 24
+| 23
+| 47
+| 26
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''19''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="4" bgcolor="darkgray" |
+|-
+! scope="row" | Robert & Dianne
+| 13th
+| 20
+| 27
+| 47
+| 25
+| bgcolor="lightgreen" | {{efn|name=WD}}
+|-
+! scope="row" | Katie & Gorka
+| 14th
+| 22
+| 21
+| bgcolor="lightblue" | 43{{efn|name=Bottom2}}
+| bgcolor="f4c7b8" | 24{{efn|name=Elim}}
+| rowspan="2" bgcolor="darkgray" |
+|-
+! scope="row" | Nina & Neil
+| 15th
+| 24
+| {{fontcolor|#800000|''18''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''42''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim|This couple was eliminated.}}
+| bgcolor="darkgray" |
+|}
+;Notes
+{{notelist}}
+
+===Average chart===
+This table only counts for dances scored on a traditional 40-point scale.
+{| class="wikitable sortable" style="text-align:center; font-size:95%"
+|-
+! scope="col" | Couple
+! scope="col" | Rank by<br>average
+! scope="col" | Total<br>points
+! scope="col" | Number of<br>dances
+! scope="col" | Total<br>average
+|-
+! scope="row" | John & Johannes
+| 1st
+| 573
+| rowspan="2" | 16
+| 35.8
+|-
+! scope="row" | Rose & Giovanni
+| 2nd
+| 566
+| 35.4
+|-
+! scope="row" | AJ & Kai
+| 3rd
+| 450
+| rowspan="2" | 13
+| 34.6
+|-
+! scope="row" | Rhys & Nancy
+| 4th
+| 444
+| 34.2
+|-
+! scope="row" | Tilly & Nikita
+| 5th
+| 315
+| 10
+| 31.5
+|-
+! scope="row" | Tom & Amy
+| 6th
+| 244
+| rowspan="2" | 8
+| 30.5
+|-
+! scope="row" | Sara & Aljaž
+| 7th
+| 228
+| 28.5
+|-
+! scope="row" | Dan & Nadiya
+| 8th
+| 302
+| 11
+| 27.5
+|-
+! scope="row" | Adam & Katya
+| 9th
+| 186
+| 7
+| 26.6
+|-
+! scope="row" | Judi & Graziano
+| 10th
+| 122
+| 5
+| 24.4
+|-
+! scope="row" | Robert & Dianne
+| 11th
+| 72
+| 3
+| 24.0
+|-
+! scope="row" | Ugo & Oti
+| 12th
+| 94
+| rowspan="2" | 4
+| 23.5
+|-
+! scope="row" | Greg & Karen
+| 13th
+| 92
+| 23.0
+|-
+! scope="row" | Katie & Gorka
+| 14th
+| 67
+| 3
+| 22.3
+|-
+! scope="row" | Nina & Neil
+| 15th
+| 42
+| 2
+| 21.0
+|}
+
+==Weekly scores==
+''Unless indicated otherwise, individual judges scores in the charts below (given in parentheses) are listed in this order from left to right: [[Craig Revel Horwood]], [[Motsi Mabuse]], [[Shirley Ballas]], [[Anton Du Beke]]''.
+
+===Week 1===
+There was no elimination this week; all scores and votes carried over to the following week. Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{Cite web|url=https://www.liverpoolecho.co.uk/news/tv/strictly-come-dancing-leaderboard-week-21678721|title=Strictly Come Dancing leaderboard: Week 1 results as AJ Odudu gets highest score|work=[[Liverpool Echo]]|author=Lottie Gibbons|date=25 September 2021|accessdate=27 September 2021|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Dance<ref name="week1" />
+! scope="col" class="unsortable"|Music<ref name="week1">{{Cite web|url=https://www.birminghammail.co.uk/news/showbiz-tv/bbc-strictly-come-dancing-week-21658397|title=BBC Strictly Come Dancing week one songs and dances announced|work=[[Birmingham Mail]]|author=Laura Williams|date=23 September 2021|accessdate=27 September 2021|language=en-GB}}</ref>
+|-
+! scope="row" | Tom & Amy
+| 21 (4, 7, 5, 5)
+| Cha-cha-cha
+| "[[September (Earth, Wind & Fire song)|September]]" — [[Earth, Wind & Fire]]
+|-
+! scope="row" | Tilly & Nikita
+| 21 (5, 5, 6, 5)
+| Waltz
+| "[[Consequences (song)|Consequences]]" — [[Camila Cabello]]
+|-
+! scope="row" | Ugo & Oti
+| 18 (3, 5, 5, 5)
+| Samba
+| "[[Iko Iko#Justin Wellington version|Iko Iko (My Bestie)]]" — [[Justin Wellington]], feat. Small Jam
+|-
+! scope="row" | Rhys & Nancy
+| 27 (6, 7, 7, 7)
+| Viennese waltz
+| "[[End of the Road (Boyz II Men song)|End of the Road]]" — [[Boyz II Men]]
+|-
+! scope="row" | Sara & Aljaž
+| 17 (3, 5, 5, 4)
+| Cha-cha-cha
+| "[[The Boss (Diana Ross song)|The Boss]]" — [[Diana Ross]]
+|-
+! scope="row" | Dan & Nadiya
+| 24 (5, 5, 7, 7)
+| Quickstep
+| "[[Everybody Needs Somebody to Love]]" — [[The Blues Brothers]]
+|-
+! scope="row" | Rose & Giovanni
+| 22 (6, 6, 4, 6)
+| Jive
+| "[[Shake It Off]]" — [[Taylor Swift]]
+|-
+! scope="row" | Katie & Gorka
+| 22 (6, 5, 5, 6)
+| Tango
+| "[[Black Hole (song)|Black Hole]]" — [[Griff (singer)|Griff]]
+|-
+! scope="row" | Robert & Dianne
+| 20 (6, 4, 4, 6)
+| Cha-cha-cha
+| "[[Rasputin (song)|Rasputin]]" — [[Boney M.]]
+|-
+! scope="row" | Greg & Karen
+| 24 (6, 6, 5, 7)
+| American Smooth
+| "[[That's Life (song)#Frank Sinatra version|That's Life]]" — [[Frank Sinatra]]
+|-
+! scope="row" | Nina & Neil
+| 24 (5, 5, 7, 7)
+| Samba
+| "[[Mi Gente (J Balvin and Willy William song)#Beyoncé remix|Mi Gente]]" — [[J Balvin]] & [[Willy William]], feat. [[Beyoncé]]
+|-
+! scope="row" | John & Johannes
+| 30 (7, 7, 8, 8)
+| Tango
+| "[[Blue Monday (New Order song)|Blue Monday]]" — [[New Order (band)|New Order]]
+|-
+! scope="row" | Judi & Graziano
+| 24 (6, 6, 6, 6)
+| American Smooth
+| "[[Chain of Fools]]" — [[Aretha Franklin]]
+|-
+! scope="row" | AJ & Kai
+| 34 (8, 8, 9, 9)
+| Jive
+| "[[Gold Dust (DJ Fresh song)|Gold Dust]]" — [[DJ Fresh]]
+|-
+! scope="row" | Adam & Katya
+| 30 (7, 7, 8, 8)
+| Cha-cha-cha
+| "[[Beggin'#Måneskin version|Beggin']]" — [[Måneskin]]
+|}
+
+===Week 2===
+Musical guests:<ref>{{Cite web|url=https://www.manchestereveningnews.co.uk/news/tv/strictly-come-dancing-fans-make-21752134|title=Strictly Come Dancing fans make same demand over 'pointless' part of show|work=[[Manchester Evening News]]|author=Jessica Sansome|date=4 October 2021|accessdate=4 October 2021|language=en-GB}}</ref>
+*[[Tom Grennan]] — "[[Evering Road|Something Better]]"
+*[[Griff (singer)|Griff]] — "One Night"
+After [[Tom Fletcher]] and [[Amy Dowden]] tested positive for [[COVID-19]], they were unable to perform on the live show. Under the rules of the show, he was granted a [[Bye (sports)|bye]] to the following week.<ref>{{Cite web |author=Charlie Moloney |date=26 September 2021 |title=Tom Fletcher and Strictly partner test positive for Covid |url=https://www.theguardian.com/tv-and-radio/2021/sep/26/tom-fletcher-and-strictly-come-dancing-partner-test-positive-for-covid |accessdate=28 September 2021 |work=[[The Guardian]] |language=en-GB}}</ref>
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{Cite web|url=https://tellymix.co.uk/reality-tv/595968-strictly-come-dancing-2021-recap-watch-all-of-week-twos-performances.html|title=Strictly Come Dancing 2021 recap! Watch all of week two's performances|work=TellyMix|author=Kayleigh Jade|date=3 October 2021|accessdate=3 October 2021|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Dance<ref name="week2"/>
+! scope="col" class="unsortable"|Music<ref name="week2">{{Cite web|url=https://www.southwalesargus.co.uk/news/19612317.strictly-come-dancing-song-dance-routines-revealed-ahead-live-bbc-show/|title=Strictly Come Dancing song and dance routines revealed|work=[[South Wales Argus]]|author=Rebecca Carey|date=29 September 2021|accessdate=3 October 2021|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Rhys & Nancy
+| 30 (7, 8, 8, 7)
+| Cha-cha-cha
+| "[[Reach Out I'll Be There]]" — [[Human Nature (band)|Human Nature]]
+| Safe
+|-
+! scope="row" | Nina & Neil
+| 18 (3, 5, 5, 5)
+| Tango
+| "[[Would I Lie to You? (Eurythmics song)|Would I Lie to You?]]" — [[Eurythmics]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Adam & Katya
+| 19 (4, 5, 5, 5)
+| Quickstep
+| "[[Are You Gonna Be My Girl]]" — [[Jet (Australian band)|Jet]]
+| Safe
+|-
+! scope="row" | Katie & Gorka
+| 21 (4, 6, 5, 6)
+| Jive
+| "[[Good 4 U]]" — [[Olivia Rodrigo]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Greg & Karen
+| 23 (3, 6, 7, 7)
+| Couple's choice
+| "[[If You Could Read My Mind]]" — [[Ultra Naté]], [[Amber (Dutch singer)|Amber]] & [[Jocelyn Enriquez]]
+| Safe 
+|-
+! scope="row" | John & Johannes 
+| 31 (8, 8, 8, 7)
+| Cha-cha-cha
+| "[[Starstruck (Years & Years song)|Starstruck]]" — [[Years & Years]]
+| Safe
+|-
+! scope="row" | AJ & Kai
+| 31 (7, 9, 7, 8)
+| Foxtrot 
+| "[[Tears Dry on Their Own]]" — [[Amy Winehouse]]
+| Safe
+|-
+! scope="row" | Judi & Graziano
+| 25 (6, 7, 6, 6)
+| Samba
+| "[[Get Busy]]" — [[Sean Paul]]
+| Safe
+|-
+! scope="row" | Robert & Dianne
+| 27 (7, 7, 6, 7)
+| Tango
+| "[[La cumparsita]]" — [[Octavio Brunetti#Biography|Machiko Ozawa]]
+| Safe
+|-
+! scope="row" | Rose & Giovanni
+| 26 (6, 7, 6, 7)
+| Salsa
+| "[[Cuba (song)|Cuba]]" — [[Gibson Brothers]]
+| Safe
+|-
+! scope="row" | Sara & Aljaž
+| 34 (8, 8, 9, 9)
+| Foxtrot
+| "[[Dream a Little Dream of Me]]" — [[Cass Elliot]]
+| Safe
+|-
+! scope="row" | Dan & Nadiya
+| 26 (7, 6, 6, 7)
+| Paso doble
+| "[[Giant (Calvin Harris and Rag'n'Bone Man song)|Giant]]" — [[Calvin Harris]] & [[Rag'n'Bone Man]]
+| Safe
+|-
+! scope="row" | Ugo & Oti
+| 25 (5, 7, 7, 6)
+| Quickstep
+| "[[Bring Me Sunshine]]" — [[The Jive Aces]]
+| Safe
+|-
+! scope="row" | Tilly & Nikita
+| {{nowrap|34 (8, 9, 9, 8)}}
+| Charleston
+| "[[Yes Sir, That's My Baby (song)|Yes Sir, That's My Baby]]" — [[Firehouse Five Plus Two]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Katie & Gorka
+*Mabuse: Katie & Gorka
+*Du Beke: Nina & Neil 
+*Ballas: Katie & Gorka
+
+===Week 3: Movie Week===
+Musical guest: [[Ben Platt]] — "[[You Will Be Found]]" ''(from [[Dear Evan Hansen (film)|Dear Evan Hansen]])''<ref>{{Cite web|url=https://www.whatsonstage.com/london-theatre/news/watch-ben-platt-sing-dear-evan-hansen-strictly_55097.html|title=Watch Ben Platt sing Dear Evan Hansen on Strictly Come Dancing|work=[[WhatsOnStage.com]]|author=Alex Wood|date=11 October 2021|accessdate=11 October 2021|language=en-GB}}</ref>
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{Cite web|url=https://www.radiotimes.com/tv/entertainment/strictly-come-dancing-live-blog-week-three/|title=Strictly Come Dancing 2021 live: All the action from Week Three as it happened|work=[[Radio Times]]|author=Grace Henry|date=9 October 2021|accessdate=11 October 2021|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Dance<ref name="week3"/>
+! scope="col" class="unsortable"|Music<ref name="week3">{{Cite web|url=https://www.huffingtonpost.co.uk/entry/strictly-come-dancing-2021-movie-week-songs-dances_uk_615c341be4b050254237a1e5|title=Strictly Come Dancing Movie Week Songs And Dances Revealed|work=[[HuffPost]]|author=Ash Percival|date=5 October 2021|accessdate=11 October 2021|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Film
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Judi & Graziano
+| 24 (4, 7, 7, 6)
+| Charleston 
+| "When You're Good to Mama"
+| [[Chicago (2002 film)|''Chicago'']]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Dan & Nadiya
+| 21 (3, 5, 7, 6)
+| Foxtrot
+| "[[Once Upon a Dream (Sleeping Beauty song)|Once Upon a Dream]]"
+| [[Sleeping Beauty (1959 film)|''Sleeping Beauty'']]
+| Safe
+|-
+! scope="row" | Sara & Aljaž
+| 28 (7, 7, 7, 7)
+| Samba
+| "[[Best Years of Our Lives (song)|Best Years of Our Lives]]"
+| ''[[Shrek]]''
+| Safe
+|-
+! scope="row" | AJ & Kai
+| 35 (8, 9, 9, 9)
+| American Smooth
+| "[[I Have Nothing]]"
+| [[The Bodyguard (1992 film)|''The Bodyguard'']]
+| Safe
+|-
+! scope="row" | Robert & Dianne
+| 25 (6, 6, 7, 6)
+| Quickstep
+| "''The Muppet Show'' Theme"
+| [[The Muppets (2011 film)|''The Muppets'']]
+| Safe 
+|-
+! scope="row" | Greg & Karen
+| 26 (6, 6, 7, 7)
+| Paso doble
+| "[[James Bond Theme]]"
+| [[Dr. No (film)|''Dr. No'']]
+| Safe
+|-
+! scope="row" | Tilly & Nikita
+| 27 (6, 7, 7, 7)
+| Jive
+| "The Nicest Kids in Town"
+| [[Hairspray (2007 film)|''Hairspray'']]
+| Safe
+|-
+! scope="row" | Rose & Giovanni
+| 36 (9, 9, 9, 9)
+| Foxtrot
+| "Rose's Theme"
+| [[Titanic (1997 film)|''Titanic'']]
+| Safe
+|-
+! scope="row" | Ugo & Oti 
+| 31 (7, 8, 8, 8)
+| Couple's choice 
+| "You're Welcome" 
+| [[Moana (2016 film)|''Moana'']]
+| Safe
+|-
+! scope="row" | Tom & Amy
+| 32 (8, 8, 8, 8)
+| Jive
+| "[[Johnny B. Goode]]"
+| ''[[Back to the Future]]''
+| Safe
+|-
+! scope="row" | Adam & Katya
+| 20 (4, 5, 5, 6)
+| Rumba
+| "[[I See You (Theme from Avatar)|I See You]]"
+| [[Avatar (2009 film)|''Avatar'']]
+| Safe
+|-
+! scope="row" | Katie & Gorka
+| 24 (5, 7, 6, 6)
+| American Smooth 
+| "Cruella de Vil"
+| [[Cruella (film)|''Cruella'']]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Rhys & Nancy
+| 37 (9, 10, 9, 9)
+| Couple's choice 
+| "[[Spider-Man (theme song)|Spider-Man]]" 
+| ''[[Spider-Man: Into the Spider-Verse|Spider-Man:<br>Into the Spider-Verse]]''
+| Safe
+|-
+! scope="row" | John & Johannes
+| {{nowrap|39 (9, 10, 10, 10)}}
+| Paso doble 
+| "[[He's a Pirate]]"
+| ''[[Pirates of the Caribbean: The Curse of the Black Pearl|Pirates of the Caribbean:<br>The Curse of the Black Pearl]]''
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Judi & Graziano
+*Mabuse: Judi & Graziano
+*Du Beke: Katie & Gorka
+*Ballas: Judi & Graziano
+
+===Week 4===
+Musical guest: [[Westlife]] — "[[Starlight (Westlife song)|Starlight]]"<ref>{{Cite web|url=https://www.sundayworld.com/showbiz/irish-showbiz/westlife-to-perform-new-single-starlight-on-strictly-come-dancing-40957519.html|title=Westlife to perform new single Starlight on Strictly Come Dancing|work=[[Sunday World]]|author=Neasa Cumiskey|date=17 October 2021|accessdate=17 October 2021|language=en-GB}}</ref>
+
+After [[Ugo Monye]] sustained a back injury, he was unable to perform on the live show. Under the rules of the show, he was granted a [[Bye (sports)|bye]] to the following week.<ref name="auto4">{{Cite web |author=Amy Coles |date=14 October 2021 |title=Strictly Come Dancing: Ugo Monye 'gutted' to miss Saturday's show due to back problems |url=https://news.sky.com/story/strictly-come-dancing-ugo-monye-gutted-to-miss-saturdays-show-due-to-back-problems-12433961 |accessdate=17 October 2021 |publisher=[[Sky News]] |language=en-GB}}</ref> Additionally, [[Robert Webb]] and [[Dianne Buswell]] withdrew from the competition earlier in the week due to Webb's ill health.<ref name="robert" />
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{Cite web|url=https://www.radiotimes.com/tv/entertainment/strictly-come-dancing-live-blog-week-4/|title=Strictly Come Dancing 2021 live: All the action from Week Four as it happened|work=[[Radio Times]]|author=Huw Fullerton|date=16 October 2021|accessdate=17 October 2021|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Dance<ref name="week4"/>
+! scope="col" class="unsortable"|Music<ref name="week4">{{Cite web|url=https://www.digitalspy.com/tv/reality-tv/a37973170/strictly-come-dancing-week-4-songs-dances/|title=Strictly Come Dancing announces songs and dances for week 4|work=[[Digital Spy]]|author=Dan Seddon|date=15 October 2021|accessdate=17 October 2021|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Rose & Giovanni
+| 27 (7, 6, 6, 8)
+| Cha-cha-cha
+| "[[Raspberry Beret]]" — [[Prince (musician)|Prince]] & [[The Revolution (band)|The Revolution]]
+| Safe
+|-
+! scope="row" | Tom & Amy
+| 29 (7, 8, 7, 7)
+| Foxtrot
+| "[[Fly Me to the Moon]]" — [[Frank Sinatra]]
+| Safe
+|-
+! scope="row" | Tilly & Nikita
+| 32 (6, 8, 9, 9)
+| Paso doble
+| "Diablo Rojo" — [[Rodrigo y Gabriela]]
+| Safe
+|-
+! scope="row" | Greg & Karen
+| 19 (3, 5, 5, 6)
+| Samba
+| "[[Macarena]]" — [[Los del Río]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | John & Johannes
+| 29 (6, 7, 8, 8)
+| American Smooth 
+| "[[I Knew You Were Waiting (For Me)]]" — [[Aretha Franklin]] & [[George Michael]]
+| Safe
+|-
+! scope="row" | Rhys & Nancy
+| 31 (8, 8, 7, 8)
+| Salsa
+| "[[Butter (song)|Butter]]" — [[BTS]]
+| Safe
+|-
+! scope="row" | Sara & Aljaž
+| 36 (9, 9, 9, 9)
+| Tango
+| "[[Por una Cabeza]]" — [[Carlos Gardel]]
+| Safe
+|-
+! scope="row" | Dan & Nadiya
+| 26 (5, 7, 7, 7)
+| Cha-cha-cha
+| "[[U Can't Touch This]]" — [[MC Hammer]]<br>& "[[Super Freak]]" — [[Rick James]]
+| Safe
+|-
+! scope="row" | Judi & Graziano
+| 24 (4, 6, 7, 7)
+| Waltz
+| "[[Hero (Mariah Carey song)|Hero]]" — [[Mariah Carey]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Adam & Katya
+| {{nowrap|32 (8, 8, 8, 8)}}
+| Argentine tango
+| "[[Tango in the Night (song)|Tango in the Night]]" — [[Fleetwood Mac]]
+| Safe
+|-
+! scope="row" | AJ & Kai
+| 28 (5, 7, 8, 8)
+| Samba
+| "[[Don't Go Yet]]" — [[Camila Cabello]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Judi & Graziano
+*Mabuse: Judi & Graziano 
+*Du Beke: Judi & Graziano 
+*Ballas: ''Did not vote, but would have voted to save Greg & Karen''
+
+===Week 5===
+Musical guests: [[Craig David]] & [[MNEK]] — "[[Who You Are (Craig David and MNEK song)|Who You Are]]"<ref>{{Cite web|url=https://entertainment-focus.com/2021/10/24/ugo-monye-is-the-fourth-celebrity-to-leave-strictly-come-dancing-2021/|title=Ugo Monye Is The Fourth Celebrity To Leave 'Strictly Come Dancing' 2021|work=Entertainment Focus|author=Pip Ellwood-Hughes|date=24 October 2021|accessdate=24 October 2021|language=en-GB}}</ref>
+
+After [[Judi Love]] tested positive for [[COVID-19]], she was unable to perform on the live show. Under the rules of the show, she was granted a [[Bye (sports)|bye]] to the following week.<ref>{{cite news |date=21 October 2021 |title=Strictly Come Dancing: Judi Love to miss this week's show with Covid-19 |work=BBC News |url=https://www.bbc.co.uk/news/entertainment-arts-59002666 |access-date=21 October 2021 |ref=Yes}}</ref>
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{Cite web|url=https://www.radiotimes.com/tv/entertainment/strictly-come-dancing-live-blog-week-5/|title=Strictly Come Dancing 2021 live: All the action from Week Five as it happened|work=[[Radio Times]]|author=Lidia Molina-Whyte|date=23 October 2021|accessdate=23 October 2021|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Dance<ref name="week5"/>
+! scope="col" class="unsortable"|Music<ref name="week5">{{Cite web|url=https://www.walesonline.co.uk/lifestyle/tv/strictly-couples-dances-this-weekend-21937121|title=Strictly Come Dancing 2021 couples' dances and songs for the fifth weekend|work=[[WalesOnline]]|author=Kathryn Williams|date=22 October 2021|accessdate=23 October 2021|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Dan & Nadiya 
+| 28 (7, 7, 7, 7)
+| Viennese waltz 
+| "[[She's Always a Woman]]" — [[Billy Joel]]
+| Safe
+|-
+! scope="row" | Adam & Katya
+| 29 (7, 7, 8, 7)
+| Samba
+| "[[Faith (George Michael song)|Faith]]" — [[George Michael]]
+| Safe
+|-
+! scope="row" | Sara & Aljaž
+| 25 (4, 7, 7, 7)
+| Rumba
+| "[[You're Still the One]]" — [[Shania Twain]]
+| Safe
+|-
+! scope="row" | Tom & Amy
+| 34 (8, 9, 9, 8)
+| Salsa
+| "[[Watermelon Sugar]]" — [[Harry Styles]]
+| Safe
+|-
+! scope="row" | Tilly & Nikita
+| 36 (9, 9, 9, 9)
+| Foxtrot
+| "[[Little Things (One Direction song)|Little Things]]" — [[One Direction]]
+| Safe
+|-
+! scope="row" | AJ & Kai
+| 35 (8, 8, 10, 9)
+| Argentine tango
+| "[[Edge of Seventeen]]" — [[Stevie Nicks]]
+| Safe
+|-
+! scope="row" | Ugo & Oti
+| 20 (3, 6, 5, 6)
+| Rumba
+| "[[Leave the Door Open (song)|Leave the Door Open]]" — [[Silk Sonic]]
+| bgcolor="f4c7b8" | Eliminated 
+|-
+! scope="row" | John & Johannes
+| 38 (9, 9, 10, 10)
+| Charleston
+| "[[Milord (song)|Milord]]" — [[Édith Piaf]]
+| Safe
+|-
+! scope="row" | Rose & Giovanni
+| 37 (9, 10, 9, 9)
+| Viennese waltz
+| "[[Fallin' (Alicia Keys song)|Fallin']]" — [[Alicia Keys]]
+| Safe
+|-
+! scope="row" | Rhys & Nancy
+| 32 (8, 8, 8, 8)
+| American Smooth
+| "[[I've Got the World on a String]]" — [[Michael Bublé]]
+| bgcolor="lightblue" | Bottom two
+|}
+;Judges' votes to save
+*Horwood: Rhys & Nancy
+*Mabuse: Rhys & Nancy
+*Du Beke: Rhys & Nancy
+*Ballas: ''Did not vote, but would have voted to save Rhys & Nancy''
+
+===Week 6: Halloween Week===
+Musical guest: [[Gregory Porter]] — "Dry Bones"<ref>{{Cite web|url=https://www.chroniclelive.co.uk/news/tv/who-gregory-porter-strictly-performance-22024765|title=Who is Gregory Porter? Strictly performance beckons for Grammy winner|work=[[Evening Chronicle]]|author=Simon Duke|date=31 October 2021|accessdate=31 October 2021|language=en-GB}}</ref>
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{Cite web|url=https://www.radiotimes.com/tv/entertainment/strictly-come-dancing-live-blog-week-6/|title=Strictly Come Dancing 2021 live: All the action from Week 6 as it happens|work=[[Radio Times]]|author=Patrick Cremona|date=30 October 2021|accessdate=31 October 2021|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Dance<ref name="week6"/>
+! scope="col" class="unsortable"|Music<ref name="week6">{{Cite web|url=https://metro.co.uk/2021/10/30/strictly-come-dancing-2021-full-list-of-songs-and-dances-tonight-15515010/|title=Strictly Come Dancing 2021: Full list of Halloween Week songs and dances tonight|work=[[Metro (British newspaper)|Metro]]|author=Sabrina Barr|date=30 October 2021|accessdate=31 October 2021|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | John & Johannes
+| 33 (8, 8, 9, 8)
+| Quickstep
+| "[[Bad Moon Rising]]" — [[Creedence Clearwater Revival]]
+| Safe
+|-
+! scope="row" | AJ & Kai
+| 37 (9, 10, 9, 9)
+| Viennese waltz
+| "[[Dangerous Woman (song)|Dangerous Woman]]" — [[Ariana Grande]]
+| Safe
+|-
+! scope="row" | Dan & Nadiya
+| 27 (5, 8, 7, 7)
+| Jive
+| "[[Rock Lobster]]" — [[The B-52's]]
+| Safe
+|-
+! scope="row" | Rhys & Nancy
+| 33 (7, 9, 9, 8)
+| Paso doble
+| "[[Jeff Wayne's Musical Version of The War of the Worlds#Track listing|The Eve of the War]]" — [[Jeff Wayne]]
+| Safe
+|-
+! scope="row" | Sara & Aljaž
+| 23 (4, 7, 6, 6)
+| Couple's choice
+| "[[Queen of the Night (song)|Queen of the Night]]" — [[Whitney Houston]]
+| Safe
+|-
+! scope="row" | Rose & Giovanni 
+| 40 (10, 10, 10, 10)
+| Tango 
+| "[[Shivers (Ed Sheeran song)|Shivers]]" — [[Ed Sheeran]]
+| Safe
+|-
+! scope="row" | Tilly & Nikita
+| 35 (8, 9, 9, 9)
+| Cha-cha-cha
+| "Spooky Movies" — [[Gary S. Paxton]]
+| Safe
+|-
+! scope="row" | Adam & Katya 
+| 29 (6, 8, 8, 7)
+| Viennese waltz 
+| "[[Moonlight Sonata]]" — [[Ludwig van Beethoven]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Judi & Graziano
+| 25 (4, 7, 7, 7)
+| Cha-cha-cha
+| "[[Physical (Olivia Newton-John song)|Physical]]" — [[Olivia Newton-John]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Tom & Amy
+| 29 (7, 8, 7, 7)
+| Tango
+| "[[Highway to Hell (song)|Highway to Hell]]" — [[AC/DC]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Adam & Katya
+*Mabuse: Adam & Katya
+*Du Beke: Adam & Katya
+*Ballas: ''Did not vote, but would have voted to save Adam & Katya''
+
+===Week 7===
+Musical guest: [[The Script]] — "[[Superheroes (song)|Superheroes]]"<ref>{{Cite web|url=https://www.manchestereveningnews.co.uk/news/tv/strictly-viewers-spot-gentleman-during-22097991|title=Strictly viewers spot 'gentleman' during Sunday night's result show|work=[[Manchester Evening News]]|author=Jessica Sansome|date=8 November 2021|accessdate=13 November 2021|language=en-GB}}</ref>
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{Cite web|url=https://www.theguardian.com/tv-and-radio/live/2021/nov/06/strictly-come-dancing-2021-week-seven-live|title=Strictly Come Dancing 2021: week seven – as it happened|work=[[The Guardian]]|author=Heidi Stephens|date=6 November 2021|accessdate=6 November 2021|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Dance<ref name="week7"/>
+! scope="col" class="unsortable"|Music<ref name="week7">{{Cite web|url=https://www.walesonline.co.uk/lifestyle/tv/strictly-come-dancing-2021-couples-22075513|title=Strictly Come Dancing 2021 couples' dances and songs for November 6|work=[[WalesOnline]]|author=Stephanie Colderick|date=5 November 2021|accessdate=6 November 2021|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Adam & Katya
+| 27 (6, 7, 7, 7)
+| Jive
+| "[[Little Bitty Pretty One]]" — [[Frankie Lymon]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Rose & Giovanni
+| 32 (8, 8, 8, 8)
+| Samba
+| "[[Cinema Italiano]]" — [[Kate Hudson]]
+| Safe
+|-
+! scope="row" | Tom & Amy
+| 38 (9, 10, 10, 9)
+| Paso doble
+| "[[Amparito Roca]]" — [[Jaime Teixidor]]
+| Safe
+|-
+! scope="row" | Rhys & Nancy
+| 34 (7, 9, 9, 9)
+| Quickstep
+| "[[What a Man Gotta Do]]" — [[Jonas Brothers]]
+| Safe 
+|-
+! scope="row" | Tilly & Nikita
+| 31 (8, 8, 7, 8)
+| Tango
+| "[[Kings & Queens (Ava Max song)|Kings & Queens]]" — [[Ava Max]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Dan & Nadiya
+| 28 (6, 7, 8, 7)
+| Couple's choice
+| "[[Classic (MKTO song)|Classic]]" — [[MKTO]]
+| Safe
+|-
+! scope="row" | John & Johannes
+| 35 (8, 8, 10, 9)
+| Rumba
+| "[[Shape of My Heart (Sting song)|Shape of My Heart]]" — [[Sting (musician)|Sting]]
+| Safe
+|-
+! scope="row" | AJ & Kai
+| 39 (9, 10, 10, 10)
+| Charleston
+| "[[Don't Bring Lulu]]" — [[Dorothy Provine]]
+| Safe 
+|-
+! scope="row" | Sara & Aljaž
+| 33 (8, 8, 8, 9)
+| Quickstep
+| "[[9 to 5 (Dolly Parton song)|9 to 5]]" — [[Dolly Parton]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Tilly & Nikita
+*Mabuse: Tilly & Nikita
+*Du Beke: Tilly & Nikita
+*Ballas: ''Did not vote, but would have voted to save Adam & Katya''
+
+===Week 8===
+Musical guest: [[James Blunt]] — "[[Goodbye My Lover]]"<ref name="wk8 results">{{Cite web|url=https://www.bbc.co.uk/programmes/m0011nfg|title=Strictly Come Dancing: Week 8 Results|work=[[BBC]]|date=14 November 2021|accessdate=14 November 2021}}</ref>
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{Cite web|url=https://www.theguardian.com/tv-and-radio/live/2021/nov/13/strictly-come-dancing-2021-week-eight-live|title=Strictly Come Dancing 2021: week eight – as it happened|work=[[The Guardian]]|author=Heidi Stephens|date=13 November 2021|accessdate=14 November 2021|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Dance<ref name="week8"/>
+! scope="col" class="unsortable"|Music<ref name="week8">{{Cite web|url=https://www.digitalspy.com/tv/reality-tv/a38198762/strictly-come-dancing-songs-dance-routines-week-8/|title=Strictly Come Dancing announces songs and dance routines for week 8|work=[[Digital Spy]]|author=Rianne Houghton|date=9 November 2021|accessdate=14 November 2021|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Tilly & Nikita
+| 29 (7, 7, 7, 8)
+| Quickstep
+| "[[I Won't Dance]]" — [[Damita Jo DeBlanc|Damita Jo]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | AJ & Kai
+| 28 (6, 7, 7, 8)
+| Paso doble
+| "Game of Survival" — [[Ruelle (singer)|Ruelle]]
+| Safe
+|-
+! scope="row" | Dan & Nadiya
+| 29 (4, 8, 8, 9)
+| American Smooth
+| "[[King of the Road (song)|King of the Road]]" — [[The Proclaimers]]
+| Safe
+|-
+! scope="row" | Rhys & Nancy
+| {{nowrap|40 (10, 10, 10, 10)}}
+| Charleston
+| "[[Charleston (1923 song)|The Charleston]]" — [[Bob Wilson (singer)|Bob Wilson]] and his Varsity Rhythm Boys
+| Safe
+|-
+! scope="row" | Sara & Aljaž
+| 32 (7, 8, 8, 9)
+| Argentine tango
+| "[[No More Tears (Enough Is Enough)]]" — [[Barbra Streisand]] & [[Donna Summer]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | John & Johannes
+| 38 (9, 10, 10, 9)
+| Samba
+| "[[Gotcha! (album)|Acuyuyé]]" — [[Dark Latin Groove]]
+| Safe
+|-
+! scope="row" | Tom & Amy
+| 30 (7, 8, 7, 8)
+| Viennese waltz
+| "[[Iris (song)|Iris]]" — [[Goo Goo Dolls]]
+| Safe
+|-
+! scope="row" | Rose & Giovanni
+| 39 (9, 10, 10, 10)
+| Couple's choice
+| "[[Symphony (Clean Bandit song)|Symphony]]" — [[Clean Bandit]], feat. [[Zara Larsson]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Tilly & Nikita
+*Mabuse: Tilly & Nikita
+*Du Beke: Tilly & Nikita
+*Ballas: ''Did not vote, but would have voted to save Tilly & Nikita''
+
+===Week 9: Musicals Week===
+''Individual judges scores in the chart below (given in parentheses) are listed in this order from left to right: Cynthia Erivo, Motsi Mabuse, Shirley Ballas, Anton Du Beke.''
+
+Musical guests: [[Max Harwood]] & [[The Feeling]] — "[[Everybody's Talking About Jamie#Musical numbers|Out of the Darkness (A Place Where We Belong)]]" ''(from [[Everybody's Talking About Jamie]])''<ref>{{Cite web|url=https://www.whatsonstage.com/london-theatre/news/strictly-come-dancing-musicals-week_55328.html|title=Strictly Come Dancing announces plans for musicals week|date=12 November 2021|website=[[WhatsOnStage.com]]|accessdate=14 November 2021}}</ref>
+
+On 15 November, it was announced that [[Craig Revel Horwood]] had tested positive for [[COVID-19]] and was self-isolating following the latest government guidelines.<ref name="CVH-C19">{{Cite web |date=15 November 2021 |title=Strictly judge Craig Revel Horwood to miss show with Covid |url=https://www.bbc.co.uk/news/entertainment-arts-59298891 |access-date=15 November 2021 |website=[[BBC News]]}}</ref> On 19 November, it was announced that [[Cynthia Erivo]] would replace him on the judging panel for the week.<ref name="CE">{{cite web |date=19 November 2021 |title=Cynthia Erivo joins our Judges for Musicals Week |url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2F484015bc-0dc8-4494-91a0-6ea529ee51b9 |access-date=19 November 2021 |website=BBC |language=en |ref=Yes}}</ref>
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{Cite web|url=https://www.radiotimes.com/tv/entertainment/strictly-come-dancing-live-blog-week-9/|title=Strictly Come Dancing 2021 live: All the action from Week 9 as it happened|work=[[Radio Times]]|author=David Craig|date=20 November 2021|accessdate=20 November 2021|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Dance<ref name="week9"/>
+! scope="col" class="unsortable"|Music<ref name="week9">{{Cite web|url=https://www.digitalspy.com/tv/reality-tv/a38265324/strictly-come-dancing-songs-dances-week-9-musicals/|title=Strictly Come Dancing announces songs and dances for week 9|work=[[Digital Spy]]|author=Sam Warner|date=16 November 2021|accessdate=20 November 2021|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Musical
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | AJ & Kai
+| 38 (9, 10, 10, 9)
+| Waltz 
+| "[[Edelweiss (song)|Edelweiss]]"
+| ''[[The Sound of Music]]''
+| Safe
+|-
+! scope="row" | Rhys & Nancy
+| 32 (8, 8, 8, 8)
+| Jive
+| "[[Footloose (song)|Footloose]]"
+| ''[[Footloose (musical)|Footloose]]''
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Tom & Amy
+| 31 (7, 8, 8, 8)
+| Couple's choice
+| "[[On My Own (Les Misérables song)|On My Own]]"
+| ''[[Les Misérables (musical)|Les Misérables]]''
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Rose & Giovanni
+| 37 (10, 9, 9, 9)
+| Quickstep
+| "[[Love Is an Open Door]]"
+| ''[[Frozen (musical)|Frozen]]''
+| Safe
+|-
+! scope="row" | John & Johannes
+| 32 (8, 8, 8, 8)
+| Viennese waltz
+| "[[Chim Chim Cher-ee]]"
+| ''[[Mary Poppins (musical)|Mary Poppins]]''
+| Safe
+|-
+! scope="row" | Tilly & Nikita
+| 40 (10, 10, 10, 10)
+| Couple's choice 
+| "[[Revolting Children]]"
+| ''[[Matilda the Musical]]''
+| Safe
+|-
+! scope="row" | Dan & Nadiya 
+| 31 (7, 7, 9, 8)
+| Charleston
+| "[[Good Morning (1939 song)|Good Morning]]"
+| ''[[Singin' in the Rain (musical)|Singin' in the Rain]]''
+| Safe
+|}
+;Judges' votes to save
+*Erivo: Rhys & Nancy
+*Mabuse: Rhys & Nancy 
+*Du Beke: Rhys & Nancy
+*Ballas: ''Did not vote, but would have voted to save Tom & Amy''
+
+===Week 10===
+''Individual judges scores in the chart below (given in parentheses) are listed in this order from left to right: Craig Revel Horwood, Cynthia Erivo, Shirley Ballas, Anton Du Beke.''
+
+Musical guests: [[Years & Years]] — "Sweet Talker"<ref>{{cite web|url=https://www.rte.ie/entertainment/2021/1128/1263619-ninth-celebrity-eliminated-from-strictly-come-dancing/|title=Another one bites the glitter dust on Strictly Come Dancing|work=[[Raidió Teilifís Éireann]]|date=28 November 2021|accessdate=28 November 2021|language=en-GB}}</ref>
+
+On 26 November, it was announced that [[Motsi Mabuse]] had come into contact with someone who had tested positive for [[COVID-19]]. While Mabuse was doubly vaccinated, which would have allowed an exemption from the self-isolation guidelines, the British government did not recognise her vaccines, so she could not travel back from Germany. [[Cynthia Erivo]] returned to the judging panel for the week.<ref name="MM-C19">{{cite news |date=26 November 2021 |title=Motsi Mabuse to miss Strictly Come Dancing after Covid contact |publisher=bbc.co.uk |url=https://www.bbc.co.uk/news/entertainment-arts-59433988 |access-date=27 November 2021}}</ref>
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{Cite web|url=https://www.theguardian.com/tv-and-radio/live/2021/nov/27/strictly-come-dancing-2021-week-ten-live|title=Strictly Come Dancing 2021: week 10 results – as it happened|work=[[The Guardian]]|author=Heidi Stephens|date=28 November 2021|accessdate=28 November 2021|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Dance<ref name="week10"/>
+! scope="col" class="unsortable"|Music<ref name="week10">{{Cite web|url=https://www.digitalspy.com/tv/reality-tv/a38332048/strictly-come-dancing-songs-dances-week-10-confirmed/|title=Strictly Come Dancing announces songs and dances for week 10|work=[[Digital Spy]]|author=Susannah Alexander|date=23 November 2021|accessdate=28 November 2021|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Rose & Giovanni 
+| 33 (8, 8, 8, 9)
+| Paso doble 
+| "[[California Dreamin']]" — [[Sia]]
+| Safe
+|-
+! scope="row" | Dan & Nadiya
+| 31 (6, 9, 8, 8)
+| Rumba
+| "[[Desperado (Eagles song)|Desperado]]" — [[Eagles (band)|Eagles]]
+| Safe
+|-
+! scope="row" | AJ & Kai
+| 36 (9, 8, 10, 9)
+| Couple's choice 
+| "[[Make Me Feel (Janelle Monáe song)|Make Me Feel]]" — [[Janelle Monáe]]
+| Safe
+|-
+! scope="row" | Rhys & Nancy 
+| 35 (7, 9, 10, 9)
+| Waltz 
+| "[[You Light Up My Life (song)|You Light Up My Life]]" — [[Whitney Houston]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Tilly & Nikita
+| 30 (7, 7, 8, 8)
+| Samba
+| "[[Levitating (song)|Levitating]]" — [[Dua Lipa]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | John & Johannes
+| 39 (9, 10, 10, 10)
+| Argentine tango
+| "[[A Fifth of Beethoven|The 5th]]" — [[David Garrett]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Rhys & Nancy
+*Erivo: Rhys & Nancy 
+*Du Beke: Rhys & Nancy
+*Ballas: ''Did not vote, but would have voted to save Rhys & Nancy''
+
+=== Week 11: Quarter-final ===
+Musical guest: [[JLS]] — "Postcard"<ref name="wk11 results">{{Cite web|url=https://www.bbc.co.uk/programmes/m00129ld|title=Strictly Come Dancing: Week 11 Results|work=[[BBC]]|date=5 December 2021|accessdate=5 December 2021}}</ref>
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{Cite web|url=https://theguardian.com/tv-and-radio/live/2021/dec/04/strictly-come-dancing-2021-quarter-final-live|title=Strictly Come Dancing 2021: quarter-final results – as it happened|work=[[The Guardian]]|author=Heidi Stephens|date=6 December 2021|accessdate=6 December 2021|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Dance<ref name="week11">{{Cite web|url=https://www.digitalspy.com/tv/reality-tv/a38390390/strictly-come-dancing-quarter-final-songs-dances/|title=Strictly Come Dancing announces songs and dances for quarter-final|work=[[Digital Spy]]|author=Susannah Alexander|date=6 December 2021|accessdate=6 December 2021|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Music<ref name="week11"/>
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | John & Johannes
+| 32 (7, 8, 8, 9)
+| Salsa
+| "[[We Are Family (song)|We Are Family]]" — [[Sister Sledge]]
+| Safe
+|-
+! scope="row" | Rhys & Nancy
+| {{nowrap|39 (9, 10, 10, 10)}}
+| Argentine tango
+| "[[In the Air Tonight]]" — [[Phil Collins]]
+| Safe
+|-
+! scope="row" | Rose & Giovanni
+| 39 (9, 10, 10, 10)
+| American Smooth
+| "[[This Will Be (An Everlasting Love)]]" — [[Natalie Cole]]
+| Safe
+|-
+! scope="row" | Dan & Nadiya
+| 31 (7, 8, 9, 7)
+| Tango
+| "[[Santa Maria (Gotan Project song)|Santa María (del Buen Ayre)]]" — [[Gotan Project]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | AJ & Kai
+| 30 (7, 8, 8, 7)
+| Salsa
+| "[[Rhythm Is Gonna Get You]]" & "[[Get on Your Feet]]" — [[Gloria Estefan]]
+| bgcolor="lightblue" | Bottom two
+|}
+;Judges' votes to save
+*Horwood: AJ & Kai
+*Mabuse: AJ & Kai
+*Du Beke: AJ & Kai
+*Ballas: ''Did not vote, but would have voted to save AJ & Kai''
+
+===Week 12: Semi-final===
+Each couple performed two routines, and are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{Cite web|url=https://www.theguardian.com/tv-and-radio/live/2021/dec/11/strictly-come-dancing-2021-the-semi-final-live|title=Strictly Come Dancing 2021: the semi-final results – as it happened|work=[[The Guardian]]|author=Heidi Stephens|date=12 December 2021|accessdate=13 December 2021|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Dance<ref name="week12">{{Cite web|url=https://www.digitalspy.com/tv/reality-tv/a38447467/strictly-come-dancing-semi-final-songs-dances/|title=Strictly Come Dancing reveals song and dance choices as semi-finalists take on two routines|work=[[Digital Spy]]|author=Jess Lee|date=7 December 2021|accessdate=13 December 2021|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Music<ref name="week12"/>
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" rowspan=2 | Rhys & Nancy
+| 36 (9, 9, 9, 9)
+| Tango
+| "[[One Vision]]" — [[Queen (band)|Queen]]
+| rowspan=2 bgcolor="f4c7b8" | Eliminated
+|-
+| 38 (9, 10, 10, 9)
+| Samba
+| "[[It Had Better Be Tonight (Meglio stasera)]]" — [[Michael Bublé]]
+|-
+! scope="row" rowspan=2 | AJ & Kai
+| 40 (10, 10, 10, 10)
+| Quickstep 
+| "[[Sing, Sing, Sing (With a Swing)]]" — [[Benny Goodman]]
+| rowspan=2 | Safe
+|-
+| 39 (9, 10, 10, 10)
+| Rumba
+| "[[Show Me Heaven]]" — [[Maria McKee]]
+|-
+! scope="row" rowspan=2 | John & Johannes
+| rowspan="2" | 39 (9, 10, 10, 10)
+| Couple's choice
+| "[[Hometown Glory]]" — [[Adele]]
+| rowspan=2 bgcolor="lightblue" | Bottom two
+|-
+| Jive
+| "[[Higher Power (Coldplay song)|Higher Power]]" — [[Coldplay]]
+|-
+! scope="row" rowspan=2 | Rose & Giovanni
+| 39 (9, 10, 10, 10)
+| Waltz
+| "[[How Long Will I Love You?]]" — [[Ellie Goulding]]
+| rowspan=2 | Safe
+|-
+| 40 (10, 10, 10, 10)
+| Argentine tango
+| "A Evaristo Carriego" — Eduardo Rovira
+|}
+;Judges' votes to save
+*Horwood: John & Johannes
+*Mabuse: John & Johannes
+*Du Beke: John & Johannes
+*Ballas: ''Did not vote, but would have voted to save John & Johannes''
+
+===Week 13: Final===
+Musical guest: [[Ed Sheeran]] — "[[Bad Habits (Ed Sheeran song)|Bad Habits]]"<ref>{{cite web|url=https://www.manchestereveningnews.co.uk/news/showbiz-news/strictly-viewers-distracted-ed-sheerans-22509066|title=Strictly viewers distracted from Ed Sheeran's performance in the final|work=[[Manchester Evening News]]|first=Katie|last=Fitzpatrick|date=20 December 2021|accessdate=20 December 2021|language=en-GB}}</ref>
+
+[[AJ Odudu]] and [[Kai Widdrington]] withdrew from the final after Odudu suffered ligament damage in her right ankle.<ref>{{Cite web |date=17 December 2021 |title=AJ Odudu and Kai Widdrington are unable to compete in the Final |url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2Fddacd847-3dff-433d-9776-0b0857bfbdd5 |access-date=18 December 2021 |publisher=BBC Strictly}}</ref>
+
+Each couple performed three routines: one chosen by the judges, their favourite dance of the season, and their showdance routine. Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=https://www.radiotimes.com/tv/entertainment/strictly-come-dancing-2021-live-all-the-action-from-the-final-as-it-happens/|title=Strictly Come Dancing 2021 live: All the action from the final as it happens|work=[[Radio Times]]|first=Grace|last=Henry|date=18 December 2021|accessdate=20 December 2021|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Dance<ref name="week13">{{Cite web|url=https://www.walesonline.co.uk/lifestyle/tv/strictly-come-dancing-final-2021-22506517|title=Strictly Come Dancing final 2021: Couples' dances and songs for week 13|work=[[WalesOnline]]|first=Kathryn|last=Williams|date=18 December 2021|accessdate=20 December 2021|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Music<ref name="week13"/>
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" rowspan=3 | Rose & Giovanni
+| 39 (9, 10, 10, 10)
+| Quickstep
+| "[[Love Is an Open Door]]" — from ''[[Frozen (musical)|Frozen]]''
+| rowspan=3 bgcolor="gold" | '''Winners'''
+|-
+| {{nowrap|40 (10, 10, 10, 10)}}
+| Couple's choice
+| "[[Symphony (Clean Bandit song)|Symphony]]" — [[Clean Bandit]], feat. [[Zara Larsson]]
+|-
+| 40 (10, 10, 10, 10)
+| Showdance
+| "[[The Rose (song)|The Rose]]" — [[Bette Midler]]
+|-
+! scope="row" rowspan=3 | John & Johannes
+| 39 (9, 10, 10, 10)
+| Rumba
+| "[[Shape of My Heart (Sting song)|Shape of My Heart]]" — [[Sting (musician)|Sting]]
+| rowspan=3 bgcolor="silver" | Runners-up
+|-
+| 40 (10, 10, 10, 10)
+| Paso doble
+| "[[He's a Pirate]]" — from ''[[Pirates of the Caribbean: The Curse of the Black Pearl]]''
+|-
+| 40 (10, 10, 10, 10)
+| Showdance
+| "[[You've Got the Love]]" — [[Florence and the Machine]]
+|}
+
+==Dance chart==
+The couples performed the following each week:
+*Weeks 1–11: One unlearned dance
+*Week 12 (Semi-final): Two unlearned dances
+*Week 13 (Final): Judges' choice, favourite dance & showdance
+
+{| class="wikitable unsortable" style="text-align:center; font-size:85%; line-height:20px"
+|+''Strictly Come Dancing'' (series 19) - Dance chart
+! rowspan="2" |Couple
+! colspan="16" |Week
+|-
+! scope="col" | 1
+! scope="col" | 2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" | 5
+! scope="col" | 6
+! scope="col" | 7
+! scope="col" | 8
+! scope="col" | 9
+! scope="col" | 10
+! scope="col" | 11
+! scope="col" colspan=2| 12
+! scope="col" colspan=3| 13
+|-
+! scope="row" | Rose & Giovanni
+| Jive
+| Salsa
+| Foxtrot 
+| Cha-cha-cha
+| Viennese waltz
+| Tango
+| Samba
+| Couple's choice
+| Quickstep
+| Paso doble
+| American Smooth
+| Waltz
+| Argentine tango
+| Quickstep
+| Couple's choice
+| Showdance
+|-
+! scope="row" | John & Johannes
+| Tango
+| Cha-cha-cha
+| Paso doble
+| American Smooth
+| Charleston
+| Quickstep
+| Rumba
+| Samba
+| Viennese waltz
+| Argentine tango
+| Salsa
+| Couple's choice
+| Jive
+| Rumba
+| Paso doble
+| Showdance
+|-
+! scope="row" | AJ & Kai
+| Jive
+| Foxtrot
+| American Smooth
+| Samba
+| Argentine tango
+| Viennese waltz
+| Charleston
+| Paso doble
+| Waltz
+| Couple's choice
+| Salsa
+| Quickstep
+| Rumba
+| colspan="3" rowspan="13" bgcolor="darkgray" |
+|-
+! scope="row" | Rhys & Nancy
+| Viennese waltz
+| Cha-cha-cha
+| Couple's choice
+| Salsa
+| American Smooth
+| Paso doble
+| Quickstep
+| Charleston
+| Jive
+| Waltz
+| Argentine tango
+| Tango
+| Samba
+|-
+! scope="row" | Dan & Nadiya
+| Quickstep
+| Paso doble
+| Foxtrot
+| Cha-cha-cha
+| Viennese waltz
+| Jive
+| Couple's choice
+| American Smooth
+| Charleston
+| Rumba
+| Tango
+| colspan="2" rowspan="11" bgcolor="darkgray" |
+|-
+! scope="row" | Tilly & Nikita
+| Waltz
+| Charleston
+| Jive
+| Paso doble
+| Foxtrot
+| Cha-cha-cha
+| Tango
+| Quickstep
+| Couple's choice
+| Samba
+| rowspan="10" bgcolor="darkgray" |
+|-
+! scope="row" | Tom & Amy
+| Cha-cha-cha
+| bgcolor="darkgray" |
+| Jive
+| Foxtrot
+| Salsa
+| Tango
+| Paso doble
+| Viennese waltz
+| Couple's choice
+| rowspan="9" bgcolor="darkgray" |
+|-
+! scope="row" | Sara & Aljaž
+| Cha-cha-cha
+| Foxtrot
+| Samba
+| Tango
+| Rumba
+| Couple's choice
+| Quickstep
+| Argentine tango
+| rowspan="8" bgcolor="darkgray" |
+|-
+! scope="row" | Adam & Katya
+| Cha-cha-cha
+| Quickstep
+| Rumba
+| Argentine tango
+| Samba
+| Viennese waltz
+| Jive
+| rowspan="7" bgcolor="darkgray" |
+|-
+! scope="row" | Judi & Graziano
+| American Smooth
+| Samba
+| Charleston
+| Waltz
+| bgcolor="darkgray" |
+| Cha-cha-cha
+| rowspan="6" bgcolor="darkgray" |
+|-
+! scope="row" | Ugo & Oti
+| Samba
+| Quickstep
+| Couple's choice 
+| bgcolor="darkgray" |
+| Rumba
+| rowspan="5" bgcolor="darkgray" |
+|-
+! scope="row" | Greg & Karen
+| American Smooth
+| Couple's choice
+| Paso doble
+| Samba
+| rowspan="4" bgcolor="darkgray" |
+|-
+! scope="row" | Robert & Dianne
+| Cha-cha-cha
+| Tango
+| Quickstep 
+| rowspan="3" bgcolor="darkgray" |
+|-
+! scope="row" | Katie & Gorka
+| Tango
+| Jive
+| American Smooth
+|-
+! scope="row" | Nina & Neil
+| Samba
+| Tango
+| bgcolor="darkgray" |
+|}
+
+==Reception==
+Series 19 received positive reviews from fans and critics. Lottie Townend of ''[[Glasgow University Guardian]]'' said that "the series provided a place of escape and comfort from the difficulties of the outside world. You become personally invested in each contestant’s journey, root for their success and feel the warmth through their shared love for dance".<ref>{{cite news|url=https://glasgowguardian.co.uk/2022/03/18/review-strictly-come-dancing-2021/ |title=Review: Strictly Come Dancing 2021 |website=glasgowguardian.co.uk |date=2022-03-18}}</ref> Jane Rackham of ''[[Radio Times]]'' was positive towards this season's unpredictability, writing: "This must be the most unpredictable series of ''Strictly'' ever. And not only because several participants had to miss a show after testing positive for Covid".<ref>{{cite web |url=https://www.radiotimes.com/programme/b-93o97j/strictly-come-dancing-season-19/ |title=Strictly Come Dancing Season 19 |website=radiotimes.com |access-date=2022-10-08}}</ref>
+
+==Ratings==
+Weekly ratings for each show on [[BBC One]]. All ratings are provided by BARB.<ref>{{cite web|url=https://www.barb.co.uk/viewing-data/four-screen-dashboard/|title=Four-screen dashboard (7-day data)|publisher=[[BARB]]|access-date=24 September 2022}}</ref>
+{| class="wikitable sortable" style="text-align:center"
+|-
+! scope="col"|Episode
+! scope="col"|Date
+! scope="col"|Official rating<br />(millions)
+! scope="col"|Weekly rank<br />for BBC One
+! scope="col"|Weekly rank<br />for all UK TV
+! scope="col"|Share
+|-
+! scope="row"|Launch show
+| {{dts|18 September}} || 8.51 || 2 || 2 || 44.7%<ref>{{cite web|url=https://metro.co.uk/2021/09/19/strictly-come-dancing-2021-launch-suffers-rating-drop-as-pairs-revealed-15281965/|title=Strictly Come Dancing 2021 launch suffers rating drop as pairings revealed|work=[[Metro (British newspaper)|Metro]]|first=Cydney|last=Yeates|date=19 September 2021|accessdate=20 September 2021}}</ref>
+|-
+! scope="row"|Week 1
+| {{dts|25 September}} || 9.61 || 2 || 2 || 47.9%<ref>{{Cite web|url=https://www.independent.ie/entertainment/strictly-come-dancing-ratings-rise-as-aj-odudu-impresses-the-judges-40889566.html|title=Strictly Come Dancing ratings rise as AJ Odudu impresses the judges|work=[[Irish Independent]]|author=Tom Horton|date=26 September 2021|accessdate=28 September 2021|language=en-GB}}</ref>
+|-
+! scope="row"|Week 2
+| {{dts|2 October}} || 9.57 || 1 || 1 || 48.5%<ref>{{Cite web|url=https://www.independent.ie/entertainment/strictly-come-dancing-ratings-continue-to-rise-40912269.html|title=Strictly Come Dancing ratings continue to rise|work=[[Irish Independent]]|author=Tom Horton|date=3 October 2021|accessdate=3 October 2021|language=en-GB}}</ref>
+|-
+! scope="row"|Week 2 results
+| {{dts|3 October}} || 8.14 || 2 || 3 || 43.6%<ref name="share2">{{cite web|url=https://www.thinkbox.tv/research/barb-data/top-programmes-report/|title=Top programmes report|publisher=Thinkbox|date=2 April 2018|archive-url=https://web.archive.org/web/20211014122543/https://www.thinkbox.tv/research/barb-data/top-programmes-report/|accessdate=25 October 2021|archive-date=2021-10-14|language=en-GB}}</ref>
+|-
+! scope="row"|Week 3
+| {{dts|9 October}} || 10.07 || 1 || 1 || 51.1%<ref name="share3">{{cite web|url=https://www.thinkbox.tv/research/barb-data/top-programmes-report/|title=Top programmes report|publisher=Thinkbox|date=2 April 2018|archive-url=https://web.archive.org/web/20211020022925/https://www.thinkbox.tv/research/barb-data/top-programmes-report/|accessdate=25 October 2021|archive-date=2021-10-20|language=en-GB}}</ref>
+|-
+! scope="row"|Week 3 results
+| {{dts|10 October}} || 8.38 || 2 || 3 || 44.2%<ref name="share3"/>
+|-
+! scope="row"|Week 4
+| {{dts|16 October}} || 10.25 || 1 || 1 || 51.0%<ref>{{Cite tweet|number=1449693055368503299|user=LiamHamilton16|title=#StrictlyComeDancing above 50% of all tv viewers during its time slot for the first time this season, a new high of 8.7million, 51% share... not giving much for #GregWise survival chances tonight mind you, a certainty for the dance off?!|author=Liam Hamilton|date=17 October 2021}}</ref>
+|-
+! scope="row"|Week 4 results
+| {{dts|17 October}} || 8.22 || 2 || 3 || 43.2%<ref name="share4">{{cite web|url=https://www.thinkbox.tv/research/barb-data/top-programmes-report/|title=Top programmes report|publisher=Thinkbox|date=2 April 2018|archive-url=https://web.archive.org/web/20211025195055/https://www.thinkbox.tv/research/barb-data/top-programmes-report/|accessdate=25 October 2021|archive-date=2021-10-25|language=en-GB}}</ref>
+|-
+! scope="row"|Week 5
+| {{dts|23 October}} || 10.46 || 1 || 1  || 52.0%<ref>{{Cite tweet|number=1452244700929437709|user=LiamHamilton16|title=#StrictlyComeDancing goes above 9million viewers for the first time this season & with a 52% audience share for almost two hours helped BBC1 hugely to achieve a quarter of all viewing across Saturday, a higher all-time share than ITV, BBC2, C4 & C5 added together|author=Liam Hamilton|date=24 October 2021}}</ref>
+|-
+! scope="row"|Week 5 results
+| {{dts|24 October}} || 8.81 || 2 || 2  || 43.1%<ref name="share5">{{cite web|url=https://www.thinkbox.tv/research/barb-data/top-programmes-report/|title=Top programmes report|publisher=Thinkbox|date=2 April 2018|archive-url=https://web.archive.org/web/20211108103341/https://www.thinkbox.tv/research/barb-data/top-programmes-report/|accessdate=1 November 2021|archive-date=2021-11-08|language=en-GB}}</ref>
+|-
+! scope="row"|Week 6
+| {{dts|30 October}} || 10.58 || 1 || 1 || 52.5%<ref name="share6">{{cite web|url=https://www.thinkbox.tv/research/barb-data/top-programmes-report/|title=Top programmes report|publisher=Thinkbox|date=2 April 2018|archive-url=https://web.archive.org/web/20211115110907/https://www.thinkbox.tv/research/barb-data/top-programmes-report/|accessdate=9 November 2021|archive-date=2021-11-15|language=en-GB}}</ref>
+|-
+! scope="row"|Week 6 results
+| {{dts|31 October}} || 8.72 || 2 || 3 || 43.7%<ref name="share6"/>
+|-
+! scope="row"|Week 7
+| {{dts|6 November}} || 10.15 || 1 || 1 || 53.5%<ref name="share7">{{cite web|url=https://www.thinkbox.tv/research/barb-data/top-programmes-report/|title=Top programmes report|publisher=Thinkbox|date=2 April 2018|archive-url=https://web.archive.org/web/20211122102237/https://www.thinkbox.tv/research/barb-data/top-programmes-report/|accessdate=15 November 2021|archive-date=2021-11-22|language=en-GB}}</ref>
+|-
+! scope="row"|Week 7 results
+| {{dts|7 November}} || 8.81 || 2 || 3 || 41.8%<ref name="share7"/>
+|-
+! scope="row"|Week 8
+| {{dts|13 November}} || 10.09 || 1 || 1 || 51.6%<ref name="share8">{{cite web|url=https://www.thinkbox.tv/research/barb-data/top-programmes-report/|title=Top programmes report|publisher=Thinkbox|date=2 April 2018|archive-url=https://web.archive.org/web/20211129085900/https://www.thinkbox.tv/research/barb-data/top-programmes-report/|accessdate=22 November 2021|archive-date=2021-11-29|language=en-GB}}</ref>
+|-
+! scope="row"|Week 8 results
+| {{dts|14 November}} || 9.18 || 2 || 2 || 45.8%<ref name="share8"/>
+|-
+! scope="row"|Week 9
+| {{dts|20 November}} || 10.72 || 1 || 2 || 52.3%<ref name="share9">{{cite web|url=https://www.thinkbox.tv/research/barb-data/top-programmes-report/|title=Top programmes report|publisher=Thinkbox|date=2 April 2018|archive-url=https://web.archive.org/web/20211206094634/https://www.thinkbox.tv/research/barb-data/top-programmes-report/|accessdate=29 November 2021|archive-date=2021-12-06|language=en-GB}}</ref>
+|-
+! scope="row"|Week 9 results
+| {{dts|21 November}} || 8.72 || 2 || 4 || 39.1%<ref name="share9"/>
+|-
+! scope="row"|Week 10
+| {{dts|27 November}} || 10.99 || 1 || 1 || 53.9%<ref name="share10">{{cite web|url=https://www.thinkbox.tv/research/barb-data/top-programmes-report/|title=Top programmes report|publisher=Thinkbox|date=2 April 2018|archive-url=https://web.archive.org/web/20211213100244/https://www.thinkbox.tv/research/barb-data/top-programmes-report/|accessdate=7 December 2021|archive-date=2021-12-13|language=en-GB}}</ref>
+|-
+! scope="row"|Week 10 results
+| {{dts|28 November}} || 9.59 || 2 || 4  || 45.6%<ref name="share10"/>
+|-
+! scope="row"|Week 11
+| {{dts|4 December}} || 10.16 || 1 || 1 || 50.7%<ref name="share11">{{cite web |url=https://www.thinkbox.tv/research/barb-data/top-programmes-report/ |title=Top programmes report |publisher=Thinkbox |date=2 April 2018 |accessdate=14 December 2021 |language=en-GB |archive-url=https://web.archive.org/web/20211220112330/https://www.thinkbox.tv/research/barb-data/top-programmes-report/ |archive-date=20 December 2021 |url-status=dead}}</ref>
+|-
+! scope="row"|Week 11 results
+| {{dts|5 December}} || 8.99 || 2 || 2 || 42.5%<ref name="share11"/>
+|-
+! scope="row"|Week 12
+| {{dts|11 December}} || 10.56 || 1 || 1 || 51.0%<ref name="share12">{{cite web|url=https://www.thinkbox.tv/research/barb-data/top-programmes-report/ |title=Top programmes report |publisher=[[Thinkbox]] |date=2 April 2018| accessdate=20 December 2021 |language=en-GB |archive-url=https://web.archive.org/web/20211227105451/https://www.thinkbox.tv/research/barb-data/top-programmes-report/ |archive-date=27 December 2021 |url-status=dead}}</ref>
+|-
+! scope="row"|Week 12 results
+| {{dts|12 December}} || 10.27 || 2 || 2 || 48.8%<ref name="share12"/>
+|-
+! scope="row"|Week 13
+| {{dts|18 December}} || 12.21 || 1 || 1 || 57.8%<ref>{{Cite web|url=https://www.theguardian.com/tv-and-radio/2021/dec/19/strictly-come-dancing-2021-final-audience-11-million-people|title=Strictly Come Dancing 2021 final watched by 11 million people|work=[[The Guardian]]|first=Caroline|last=Davies|date=19 December 2021|accessdate=20 December 2021|language=en-GB}}</ref>
+|-
+! Series average<br>(excl. launch show)
+! 2021
+! 9.72
+! {{N/A}}
+! {{N/A}}
+! 48.1%
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{BBC Online|id=strictlycomedancing|title=''Strictly Come Dancing''}}
+
+{{Strictly Come Dancing}}
+
+[[Category:2021 British television seasons]]
+[[Category:Strictly Come Dancing series|Series19]]

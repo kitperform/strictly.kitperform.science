@@ -1,0 +1,1478 @@
+{{More citations needed|date=August 2023}}
+{{EngvarB|date=September 2017}}
+{{Use dmy dates|date=September 2017}}
+{{Infobox television season
+| bgcolor      = #C8828A
+| image        =
+| caption      = 
+| module1      = {{Infobox reality competition season
+ | celebrity_winner    = [[Alesha Dixon]]
+ | professional_winner = [[Matthew Cutler]]
+| presenter = [[Bruce Forsyth]]<br>[[Tess Daly]]
+| judges    = [[Len Goodman]]<br>[[Arlene Phillips]]<br>[[Craig Revel Horwood]]<br>[[Bruno Tonioli]]
+}}
+| network      = [[BBC One]]
+| first_aired  = {{start date|2007|10|6|df=y}}
+| last_aired   = {{end date|2007|12|22|df=y}}
+| num_episodes = 24
+| prev_series  = [[Strictly Come Dancing series 4|Series 4]]
+| next_series  = [[Strictly Come Dancing series 6|Series 6]] 
+}}
+'''''[[Strictly Come Dancing]]''''' returned for its '''fifth series''' on 29 September 2007 on [[BBC One]]. [[Bruce Forsyth]] and [[Tess Daly]] returned as co-presenters of the main show on BBC One, while [[Claudia Winkleman]] returned to present spin-off show ''[[Strictly Come Dancing: It Takes Two]]'' on [[BBC Two]]. [[Len Goodman]], [[Arlene Phillips]], [[Craig Revel Horwood]], and [[Bruno Tonioli]] returned to the judging panel.
+
+The first programme was a catch-up show and preview of the new series before the start of the competition on 6 October. In a change to the previous format, the results show aired on Sunday rather than later on Saturday.
+
+[[Mis-Teeq]] singer [[Alesha Dixon]] and [[Matthew Cutler]] were announced as the winners on 22 December, while ''[[EastEnders]]'' actor [[Matt Di Angelo]] and [[Flavia Cacace]] finished in second place.
+
+==Format==
+{{Further|Strictly Come Dancing#Format}}
+{{Multiple image
+ | align        = center
+ | total_width  = 550
+
+ | header       = Hosts and Judges for ''Strictly Come Dancing'' (Series 5)
+
+ | image1       = Bruce Forsyth1 (cropped) (cropped).jpg
+ | alt1         =
+ | caption1     = [[Bruce Forsyth]]
+
+ | image2       = Tess Daly Cropped.jpg
+ | alt2         =
+ | caption2     = [[Tess Daly]]
+
+ | image3       = Craig-Revel-Horwood-2022.png
+ | alt3         = 
+ | caption3     = [[Craig Revel Horwood]]
+
+ | image4       = Arlenephillips@strictly.png
+ | alt4         =
+ | caption4     = [[Arlene Phillips]]
+
+ | image5       = Len_Goodman_1.JPG
+ | alt5         =
+ | caption5     = [[Len Goodman]]
+
+ | image6       = BrunoTonioliin2009strictlytouratwembley.png
+ | alt6         =
+ | caption6     = [[Bruno Tonioli]]
+}}
+{{clear}}
+The couples dance each week in a live show. The judges score each performance out of ten. The couples are then ranked according to the judges' scores and given points according to their rank, with the lowest scored couple receiving one point, and the highest scored couple receiving the most points (the maximum number of points available depends on the number of couples remaining in the competition). The public are also invited to vote for their favourite couples, and the couples are ranked again according to the number of votes they receive, again receiving points; the couple with the fewest votes receiving one point, and the couple with the most votes receiving the most points.
+
+The points for judges' score and public vote are then added together, and the two couples with the fewest points are placed in the bottom two. If two couples have equal points, the points from the public vote are given precedence. The bottom two couples then perform a dance-off on the results show. Based on that performance alone, each judge then votes on which couple should stay and which couple should leave, with [[Len Goodman]], as head judge, having the last and [[casting vote|deciding vote]].<ref>[https://web.archive.org/web/20071011103853/http://www.bbc.co.uk/strictlycomedancing/about/show.shtml About the show], [[BBC]]</ref>
+
+==Couples==
+This series featured fourteen celebrity contestants.
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! scope="col" | Celebrity
+! scope="col" class="unsortable"| Notability
+! scope="col" | Professional partner
+! scope="col" | Status
+|-
+! scope="row" | [[Brian Capron]]
+| ''[[Coronation Street]]'' actor
+| [[Karen Hardy]]
+| bgcolor="f4c7b8" | Eliminated 1st<br /><small>on 7 October 2007</small>
+|-
+! scope="row" | [[Stephanie Beacham]]
+| Stage & screen actress
+| [[Vincent Simone]]
+| bgcolor="f4c7b8" | Eliminated 2nd<br /><small>on 14 October 2007</small>
+|-
+! scope="row" | [[Willie Thorne]]
+| [[Snooker]] player
+| [[Erin Boag]]
+| bgcolor="f4c7b8" | Eliminated 3rd<br /><small>on 21 October 2007</small>
+|-
+! scope="row" | [[Gabby Logan]]
+| ''[[BBC Sport]]'' presenter 
+| [[James Jordan (dancer)|James Jordan]]
+| bgcolor="f4c7b8" | Eliminated 4th<br /><small>on 28 October 2007</small>
+|- 
+! scope="row" | [[Dominic Littlewood]]
+| Journalist & television presenter
+| [[Lilia Kopylova]]
+| bgcolor="f4c7b8" | Eliminated 5th<br /><small>on 4 November 2007</small>
+|-
+! scope="row" | {{nowrap|[[Penny Lancaster|Penny Lancaster-Stewart]]}}
+| Model & photographer
+| [[Ian Waite]]
+| bgcolor="f4c7b8" | Eliminated 6th<br /><small>on 11 November 2007</small>
+|-
+! scope="row" | [[Kate Garraway]]
+| ''[[GMTV]]'' presenter
+| [[Anton Du Beke]]
+| bgcolor="f4c7b8" | Eliminated 7th<br /><small>on 18 November 2007</small>
+|-
+! scope="row" | [[John Barnes (footballer)|John Barnes]]
+| [[England national football team|England]] footballer
+| [[Nicole Cutler]]
+| bgcolor="f4c7b8" | Eliminated 8th<br />{{nowrap|{{small|on 25 November 2007}}}}
+|-
+! scope="row" | [[Kelly Brook]]
+| Model & actress
+| [[Brendan Cole]]
+| bgcolor="lightgreen" | Withdrew <br /><small>on 26 November 2007</small>
+|-
+! scope="row" | [[Kenny Logan]]
+| [[Scotland]] rugby player
+| [[Ola Jordan]]
+| bgcolor="f4c7b8" | Eliminated 9th<br /><small>on 2 December 2007</small>
+|-
+! scope="row" | [[Letitia Dean]]
+| ''[[EastEnders]]'' actress
+| [[Darren Bennett (dancer)|Darren Bennett]]
+| bgcolor="f4c7b8" | Eliminated 10th<br /><small>on 9 December 2007</small>
+|-
+! scope="row" | [[Gethin Jones]]
+| ''[[Blue Peter]]'' presenter
+| [[Camilla Dallerup]]
+| bgcolor="f4c7b8" | Eliminated 11th<br /><small>on 16 December 2007</small>
+|-
+! scope="row" | [[Matt Di Angelo]]
+| ''[[EastEnders]]'' actor
+| [[Flavia Cacace]]
+| bgcolor="silver" | Runners-up<br /><small>on 22 December 2007</small>
+|-
+! scope="row" | [[Alesha Dixon]] 
+| [[Mis-Teeq]] singer
+| [[Matthew Cutler]]
+| bgcolor="gold" | '''Winners'''<br /><small>on 22 December 2007</small>
+|}
+
+==Scoring chart==
+The highest score each week is indicated in {{fontcolor|#004600|'''bold green'''}} with a dagger ({{dagger}}), while the lowest score each week is indicated in {{fontcolor|#800000|''italicized red''}} with a double-dagger ({{double-dagger}}).
+
+'''Color key:'''
+{{columns-list|colwidth=20em|
+{{legend|gold|Winners}}
+{{legend|silver|Runners-up}}
+{{legend|lightblue|Bottom two}}
+{{legend|lightgreen|Withdrew from competition}}
+{{legend|#f4c7b8|Eliminated}}
+}}
+{| class="wikitable sortable" style="text-align:center; font-size:95%"
+|+''Strictly Come Dancing'' (series 5) - Weekly scores
+|-
+! scope="col" rowspan="2" | Couple
+! scope="col" rowspan="2" | {{Abbr|Pl.|Place}}
+! colspan="12" | Week
+|-
+! scope="col" | 1
+! scope="col" | 2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" | 5
+! scope="col" | 6
+! scope="col" | 7
+! scope="col" | 8
+! scope="col" | 9
+! scope="col" | 10 
+! scope="col" | 11
+! scope="col" | 12
+|-
+! scope="row" | Alesha & Matthew
+| 1st
+| {{NA}}
+| 31
+| {{fontcolor|#004600|'''36'''}}{{dagger|alt=This was the highest score of the night.}}
+| 33
+| {{fontcolor|#004600|'''36'''}}{{dagger|alt=This was the highest score of the night.}}
+| 35
+| {{fontcolor|#004600|'''38'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''39'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|74|}} | 38+36={{fontcolor|#004600|'''74'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|74|}} bgcolor="lightblue" | 38+36=74{{efn|name=Bottom2}}
+| {{sort|76|}} | 38+38={{fontcolor|#004600|'''76'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|112|}} bgcolor="gold" | 39+38+35={{fontcolor|#004600|'''112'''}}{{dagger|alt=This was the highest score of the night.}}{{efn|This couple finished in first place.}}
+|-
+! scope="row" | Matt & Flavia
+| 2nd
+| 23
+| {{NA}}
+| 30
+| {{fontcolor|#004600|'''36'''}}{{dagger|alt=This was the highest score of the night.}}
+| 31
+| bgcolor="lightblue" | 29{{efn|name=Bottom2}}
+| 34
+| 38
+| {{sort|65|}} | 32+33=65
+| {{sort|55|}} | 26+29={{fontcolor|#800000|''55''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{sort|75|}} bgcolor="lightblue" | 35+40=75{{efn|name=Bottom2}}
+| {{sort|110|}} bgcolor="silver" | 36+39+35={{fontcolor|#800000|''110''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|This couple finished in second place.}}
+|-
+! scope="row" | Gethin & Camilla
+| 3rd
+| 22
+| {{NA}}
+| 29
+| 26
+| 31
+| {{fontcolor|#004600|'''36'''}}{{dagger|alt=This was the highest score of the night.}}
+| 31
+| 34
+| {{sort|74|}} | 39+35={{fontcolor|#004600|'''74'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|75|}} | 38+37={{fontcolor|#004600|'''75'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|70|}} bgcolor="f4c7b8" | 34+36={{fontcolor|#800000|''70''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="12" style="background:darkgray;" |
+|-
+! scope="row" | Letitia & Darren
+| 4th
+| {{NA}}
+| bgcolor="lightblue" | 23{{efn|name=Bottom2}}
+| 27
+| 31
+| 31
+| 25
+| 34
+| 32
+| {{sort|56|}} bgcolor="lightblue" | 30+26=56{{efn|name=Bottom2}}
+| {{sort|65|}} bgcolor="f4c7b8" | 35+30=65{{efn|name=Elim}}
+| rowspan="11" style="background:darkgray;" |
+|-
+! scope="row" | Kenny & Ola
+| 5th
+| bgcolor="lightblue"|21{{efn|name=Bottom2}}
+| {{NA}}
+| 25
+| 18
+| {{fontcolor|#800000|''21''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| 26
+| 22
+| 30
+| {{sort|53|}} bgcolor="f4c7b8" | 30+23={{fontcolor|#800000|''53''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="10" style="background:darkgray;" |
+|-
+! scope="row" | Kelly & Brendan
+| 6th
+| {{NA}}
+| {{fontcolor|#004600|'''33'''}}{{dagger|alt=This was the highest score of the night.}}
+| 35
+| 34
+| 28
+| {{fontcolor|#004600|'''36'''}}{{dagger|alt=This was the highest score of the night.}}
+| 36
+| bgcolor="lightblue" | 29{{efn|name=Bottom2}}
+| bgcolor="lightgreen" | {{efn|This couple withdrew from the competition.}}
+|-
+! scope="row" | John & Nicole
+| 7th
+| {{fontcolor|#004600|'''26'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{NA}}
+| bgcolor="lightblue" | 27{{efn|name=Bottom2}}
+| 22
+| bgcolor="lightblue" | 24{{efn|name=Bottom2}}
+| {{fontcolor|#004600|'''36'''}}{{dagger|alt=This was the highest score of the night.}}
+| bgcolor="lightblue" | 28{{efn|name=Bottom2}}
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''27''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="8" style="background:darkgray;" |
+|-
+! scope="row" | Kate & Anton
+| 8th
+| {{NA}}
+| {{fontcolor|#800000|''15''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{fontcolor|#800000|''19''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{fontcolor|#800000|''16''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| 26
+| {{fontcolor|#800000|''18''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''21''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="7" style="background:darkgray;" |
+|-
+! scope="row" | Penny & Ian
+| 9th
+| {{NA}}
+| {{fontcolor|#004600|'''33'''}}{{dagger|alt=This was the highest score of the night.}}
+| 25
+| bgcolor="lightblue" | 32{{efn|name=Bottom2|This couple was in the bottom two, but was not eliminated.}}
+| 35
+| bgcolor="f4c7b8" | 25{{efn|name=Elim}}
+| rowspan="6" style="background:darkgray;" |
+|-
+! scope="row" | Dominic & Lilia
+| 10th
+| 25
+| {{NA}}
+| 25
+| 26
+| bgcolor="f4c7b8" | 25{{efn|name=Elim}}
+| rowspan="5" style="background:darkgray;" |
+|-
+! scope="row" | Gabby & James
+| align=center|11th
+| {{NA}}
+| 29
+| 31
+| bgcolor="f4c7b8" | 30{{efn|name=Elim}}
+| rowspan="4" style="background:darkgray;" |
+|-
+! scope="row" | Willie & Erin
+| align=center|12th
+| 24
+| {{NA}}
+| bgcolor="f4c7b8" | 23{{efn|name=Elim}}
+| rowspan="3" style="background:darkgray;" |
+|-
+! scope="row" | {{nowrap|Stephanie & Vincent}}
+| 13th
+| {{NA}}
+| bgcolor="f4c7b8" | 24{{efn|name=Elim}}
+| rowspan="2" style="background:darkgray;" |
+|-
+! scope="row" | Brian & Karen
+| align=center|14th
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''18''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim|This couple was eliminated.}}
+| style="background:darkgray;" |
+|}
+;Notes
+{{notelist}}
+
+===Average chart===
+This table only counts for dances scored on a traditional 40-point scale.
+{| class="wikitable sortable" style="text-align:center; font-size:95%"
+|-
+! scope="col" | Couple
+! scope="col" | Rank by<br>average
+! scope="col" | Total<br>points
+! scope="col" | Number of<br>dances
+! scope="col" | Total<br>average
+|-
+! scope="row" | Alesha & Matthew
+| 1st
+| 584
+| 16
+| 36.5
+|-
+! scope="row" | Kelly & Brendan
+| 2nd
+| 231
+| 7
+| 33.0
+|-
+! scope="row" | Gethin & Camilla
+| rowspan="2" | 3rd
+| 428
+| 13
+| rowspan="2" | 32.9
+|-
+! scope="row" | Matt & Flavia
+| 526
+| 16
+|-
+! scope="row" | Gabby & James
+| rowspan="2" | 4th
+| 90
+| 3
+| rowspan="2" | 30.0
+|-
+! scope="row" | Penny & Ian
+| 150
+| 5
+|-
+! scope="row" | Letitia & Darren
+| 5th
+| 324
+| 11
+| 29.5
+|-
+! scope="row" | John & Nicole
+| 6th
+| 190
+| 7
+| 27.1
+|-
+! scope="row" | Dominic & Lilia
+| 7th
+| 101
+| 4
+| 25.3
+|-
+! scope="row" | Kenny & Ola
+| rowspan="2" | 8th
+| 216
+| 9
+| rowspan="2" | 24.0
+|-
+! scope="row" | Stephanie & Vincent
+| 24
+| 1
+|-
+! scope="row" | Willie & Erin
+| 9th
+| 47
+| 2
+| 23.0
+|-
+! scope="row" | Kate & Anton
+| 10th
+| 115
+| 6
+| 19.2
+|-
+! scope="row" | Brian & Karen
+| 11th
+| 18
+| 1
+| 18.0
+|}
+
+==Weekly scores==
+''Unless indicated otherwise, individual judges scores in the charts below (given in parentheses) are listed in this order from left to right: [[Craig Revel Horwood]], [[Arlene Phillips]], [[Len Goodman]], [[Bruno Tonioli]]''.
+
+===Week 1===
+Only the male celebrities performed this week, and they performed either the [[Cha-cha-cha (dance)|cha-cha-cha]] or the [[waltz]]. The couples who did not compete this week performed a group [[Swing (dance)|swing dance]] that was not scored. Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Matt & Flavia
+| 23 (5, 6, 6, 6)
+| Cha-cha-cha
+| "[[Mama Told Me Not to Come]]" — [[Tom Jones (singer)|Tom Jones]] & [[Stereophonics]]
+| Safe
+|-
+! scope="row" | Brian & Karen
+| 18 (4, 4, 5, 5)
+| Waltz
+| "[[The Godfather (soundtrack)|The Godfather Waltz]]" — [[Royal Philharmonic Orchestra]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Dominic & Lilia
+| 25 (6, 6, 7, 6)
+| Cha-cha-cha
+| "[[The Shoop Shoop Song (It's in His Kiss)]]" — [[Cher]]
+| Safe
+|-
+! scope="row" | Willie & Erin
+| 24 (5, 5, 7, 7)
+| Waltz
+| "[[Run to You (Whitney Houston song)|Run to You]]" — [[Whitney Houston]]
+| Safe
+|-
+! scope="row" | Gethin & Camilla
+| 22 (4, 5, 7, 6)
+| Cha-cha-cha
+| "[[Haven't Stopped Dancing Yet]]" — [[Gonzalez (band)|Gonzalez]]
+| Safe
+|-
+! scope="row" | Kenny & Ola
+| 21 (4, 5, 6, 6)
+| Waltz
+| "[[Are You Lonesome Tonight? (song)|Are You Lonesome Tonight?]]" — [[Elvis Presley]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | John & Nicole
+| 26 (6, 6, 7, 7)
+| Cha-cha-cha
+| "[[Uptight (Everything's Alright)|Uptight]]" — [[Stevie Wonder]]
+| Safe
+|}
+;Judges votes to save:
+*Horwood: Brian & Karen
+*Phillips: Kenny & Ola
+*Tonioli: Kenny & Ola
+*Goodman: Kenny & Ola
+
+===Week 2===
+Only the female celebrities performed this week, and they performed either the [[quickstep]] or the [[Rhumba|rumba]]. The couples who did not compete this week performed a group [[Merengue music|merengue]] that was not scored. Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Stephanie & Vincent
+| 24 (6, 6, 6, 6)
+| Quickstep
+| "[[Suddenly I See]]" — [[KT Tunstall]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Letitia & Darren
+| 23 (4, 6, 7, 6)
+| Rumba
+| "[[How Deep Is Your Love (Bee Gees song)|How Deep Is Your Love]]" — [[Take That]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Kate & Anton
+| 15 (2, 4, 5, 4)
+| Quickstep
+| "[[Love Machine (Girls Aloud song)|Love Machine]]" — [[Girls Aloud]]
+| Safe
+|-
+! scope="row" | Alesha & Matthew
+| 31 (8, 7, 8, 8)
+| Rumba
+| "[[Hurt (Christina Aguilera song)|Hurt]]" — [[Christina Aguilera]]
+| Safe
+|-
+! scope="row" | Penny & Ian
+| 33 (8, 8, 8, 9)
+| Quickstep
+| "[[I'm Sitting on Top of the World]]" — [[Aretha Franklin]]
+| Safe
+|-
+! scope="row" | Kelly & Brendan
+| 33 (8, 9, 8, 8)
+| Rumba
+| "[[She's Like the Wind]]" — [[Patrick Swayze]]
+| Safe
+|-
+! scope="row" | Gabby & James
+| 29 (8, 7, 7, 7)
+| Quickstep
+| "[[Things (Bobby Darin song)|Things]]" — [[Bobby Darin]]
+| Safe
+|}
+;Judges votes to save:
+* Horwood: Letitia & Darren
+* Phillips: Stephanie & Vincent
+* Tonioli: Letitia & Darren
+* Goodman: Letitia & Darren
+
+===Week 3===
+Couples performed either the [[Jive (dance)|jive]] or the [[tango]], and are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Gabby & James
+| 31 (8, 7, 8, 8)
+| Jive
+| "[[Saturday Night's Alright for Fighting]]" — [[Elton John]]
+| Safe
+|-
+! scope="row" | Gethin & Camilla
+| 29 (6, 7, 8, 8)
+| Tango
+| "[[Gold (Spandau Ballet song)|Gold]]" — [[Spandau Ballet]]
+| Safe
+|-
+! scope="row" | Penny & Ian
+| 25 (5, 6, 7, 7)
+| Jive
+| "[[Don't Stop Me Now]]" — [[Queen (band)|Queen]]
+| Safe
+|-
+! scope="row" | Kenny & Ola
+| 25 (6, 6, 7, 6)
+| Tango
+| "[[Call Me (Blondie song)|Call Me]]" — [[Blondie (band)|Blondie]]
+| Safe
+|-
+! scope="row" | Matt & Flavia
+| 30 (7, 7, 8, 8)
+| Jive
+| "[[Shake, Rattle and Roll]]" — [[Bill Haley & His Comets]]
+| Safe
+|-
+! scope="row" | Kate & Anton
+| 19 (4, 5, 5, 5)
+| Tango
+| "[[They (song)|They]]" — [[Jem (singer)|Jem]]
+| Safe
+|-
+! scope="row" | Dominic & Lilia
+| 25 (6, 6, 7, 6)
+| Jive
+| "[[Candyman (Christina Aguilera song)|Candyman]]" — [[Christina Aguilera]]
+| Safe
+|-
+! scope="row" | Letitia & Darren
+| 27 (6, 7, 7, 7)
+| Tango
+| "[[Material Girl]]" — [[Madonna (entertainer)|Madonna]]
+| Safe
+|-
+! scope="row" | John & Nicole
+|27 (6, 7, 7, 7)
+| Jive
+| "[[Reet Petite]]" — [[Jackie Wilson]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Willie & Erin
+| 23 (5, 6, 6, 6)
+| Tango
+| "Obertura" — Lisandro Adrover
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Alesha & Matthew
+| 36 (9, 9, 9, 9)
+| Jive
+| "[[Shake a Tail Feather]]" — [[Ray Charles]]
+| Safe
+|-
+! scope="row" | Kelly & Brendan
+| 35 (9, 9, 8, 9)
+| Tango
+| "[[Gimme! Gimme! Gimme! (A Man After Midnight)]]" — [[ABBA]]
+| Safe
+|}
+;Judges votes to save:
+*Horwood: John & Nicole
+*Phillips: John & Nicole
+*Tonioli: John & Nicole
+*Goodman: ''Did not vote, but would have voted to save John & Nicole''
+
+===Week 4===
+Couples performed either the [[American Smooth]] or the [[Samba (ballroom dance)|samba]], and are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Alesha & Matthew
+| 33 (8, 8, 8, 9)
+| American Smooth
+| "[[Top Hat, White Tie and Tails]]" — [[Tony Bennett]]
+| Safe
+|-
+! scope="row" | Gabby & James
+| 30 (7, 7, 8, 8)
+| Samba
+| "Eso Beso" — [[Paul Anka]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Dominic & Lilia
+| 26 (6, 6, 7, 7)
+| American Smooth
+| "[[Straighten Up and Fly Right]]" — [[Natalie Cole]]
+| Safe
+|-
+! scope="row" | Kate & Anton
+| 16 (3, 3, 6, 4)
+| Samba
+| "[[Dancing Queen]]" — [[ABBA]]
+| Safe
+|-
+! scope="row" | John & Nicole
+| 22 (4, 5, 7, 6)
+| American Smooth
+| "[[Stay with Me Baby]]" — [[Kiki Dee]]
+| Safe
+|-
+! scope="row" | Kenny & Ola
+| 18 (3, 4, 6, 5)
+| Samba
+| "[[Mujer Latina]]" — [[Thalía|Thalia]]
+| Safe
+|-
+! scope="row" | Kelly & Brendan
+| 34 (8, 8, 8, 10)
+| American Smooth
+| "[[Love Is The Tender Trap|(Love Is) The Tender Trap]]" — [[Frank Sinatra]]
+| Safe
+|-
+! scope="row" | Gethin & Camilla
+| 26 (6, 6, 7, 7)
+| Samba
+| "[[More Than a Woman (Bee Gees song)|More Than a Woman]]" — [[Bee Gees]]
+| Safe
+|-
+! scope="row" | Letitia & Darren
+| 31 (7, 8, 8, 8)
+| American Smooth
+| "[[Makin' Whoopee]]" — [[Ella Fitzgerald]]
+| Safe
+|-
+! scope="row" | Penny & Ian
+| 32 (8, 7, 9, 8)
+| Samba
+| "[[These Boots Are Made for Walkin']]" — [[Nancy Sinatra]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Matt & Flavia
+| 36 (9, 9, 9, 9)
+| American Smooth
+| "[[For Once in My Life]]" — [[Michael Bublé]]
+| Safe
+|}
+;Judges' votes to save:
+*Horwood: Gabby & James
+*Phillips: Penny & Ian
+*Tonioli: Penny & Ian
+*Goodman: Penny & Ian
+
+===Week 5===
+Couples performed either the [[foxtrot]] or the [[Pasodoble|paso doble]], and are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Kelly & Brendan
+| 28 (7, 7, 7, 7)
+| Paso doble
+| "[[You Give Love a Bad Name (song)|You Give Love a Bad Name]]" — [[Bon Jovi]]
+| Safe
+|-
+! scope="row" | John & Nicole
+| 24 (4, 6, 7, 7)
+| Foxtrot
+| "[[My Guy]]" — [[Mary Wells]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Letitia & Darren
+| 31 (7, 8, 8, 8)
+| Paso doble
+| "[[Live and Let Die (song)|Live And Let Die]]" — [[Paul McCartney]]
+| Safe
+|-
+! scope="row" | Gethin & Camilla
+|31 (7, 8, 8, 8)
+| Foxtrot
+| "[[Don't It Make My Brown Eyes Blue]]" — [[Crystal Gayle]]
+| Safe
+|-
+! scope="row" | Kenny & Ola
+| 21 (4, 5, 6, 6)
+| Paso doble
+| "[[Take Me Out (song)|Take Me Out]]" — [[Franz Ferdinand (band)|Franz Ferdinand]]
+| Safe
+|-
+! scope="row" | Alesha & Matthew
+| 36 (9, 9, 9, 9)
+| Foxtrot
+| "[[Heaven (Bryan Adams song)|Heaven]]" — [[Bryan Adams]]
+| Safe
+|-
+! scope="row" | Dominic & Lilia
+| 25 (5, 7, 7, 6)
+| Paso doble
+| "[[El Gato Montes]]" — Carlos Begasa
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Kate & Anton
+| 26 (5, 7, 7, 7)
+| Foxtrot
+| "[[I Could Write a Book]]" — [[Frank Sinatra]]
+| Safe
+|-
+! scope="row" | Matt & Flavia
+| 31 (7, 8, 8, 8)
+| Paso doble
+| "[[Smooth Criminal]]" — [[Michael Jackson]]
+| Safe
+|-
+! scope="row" | Penny & Ian
+| 35 (9, 8, 9, 9)
+| Foxtrot
+| "[[This Can't Be Love (song)|This Can't Be Love]]" — [[Nat King Cole]]
+| Safe
+|}
+;Judges' votes to save:
+*Horwood: John & Nicole
+*Phillips: John & Nicole
+*Tonioli: John & Nicole
+*Goodman: ''Did not vote, but would have voted to save John & Nicole''
+
+===Week 6===
+Couples performed either the [[Salsa (dance)|salsa]] or the [[Viennese waltz]], and are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Gethin & Camilla
+| 36 (9, 9, 9, 9)
+| Viennese waltz
+| "[[Fallin' (Alicia Keys song)|Fallin']]" — [[Alicia Keys]]
+| Safe
+|-
+! scope="row" | Penny & Ian
+| 25 (6, 6, 7, 6)
+| Salsa
+| "[[Higher (Gloria Estefan song)|Higher]]" — [[Gloria Estefan]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Matt & Flavia
+| 29 (8, 6, 7, 8)
+| Viennese waltz
+| "[[When a Man Loves a Woman (song)|When a Man Loves a Woman]]" — [[Percy Sledge]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Kate & Anton
+| 18 (3, 4, 6, 5)
+| Salsa
+| "[[Peanut Vendor]]" — [[Dean Martin]]
+| Safe
+|-
+! scope="row" | Letitia & Darren
+| 25 (6, 6, 7, 6)
+| Salsa
+| "[[Pastime Paradise]]" — [[Ray Barretto]]
+| Safe
+|-
+! scope="row" | Kenny & Ola
+| 26 (5, 7, 8, 6)
+| Viennese waltz
+| "[[Flower of Scotland]]" — [[The Corries]]
+| Safe
+|-
+! scope="row" | John & Nicole
+| 36 (8, 9, 10, 9)
+| Salsa
+| "Ran Kan Kan" — [[Tito Puente]]
+| Safe
+|-
+! scope="row" | Kelly & Brendan
+| 36 (9, 9, 9, 9)
+| Viennese waltz
+| "[[Delilah (Tom Jones song)|Delilah]]" — [[Tom Jones (singer)|Tom Jones]]
+| Safe
+|-
+! scope="row" | Alesha & Matthew
+| 35 (9, 8, 9, 9)
+| Salsa
+| "[[Wanna Be Startin' Somethin']]" — [[Michael Jackson]]
+| Safe
+|}
+;Judges' votes to save:
+*Horwood: Matt & Flavia
+*Phillips: Penny & Ian
+*Tonioli: Matt & Flavia
+*Goodman: Matt & Flavia
+
+===Week 7===
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Kelly & Brendan
+| 36 (9, 9, 9, 9)
+| Jive
+| "[[Johnny B. Goode]]" — [[Chuck Berry]]
+| Safe
+|-
+! scope="row" | Letitia & Darren
+| 34 (8, 8, 9, 9)
+| Foxtrot
+| "[[Call Me Irresponsible]]" — [[Bobby Darin]]
+| Safe
+|-
+! scope="row" | Kenny & Ola
+| 22 (4, 5, 7, 6)
+| Cha-cha-cha
+| "[[Billie Jean]]" — [[Michael Jackson]]
+| Safe
+|-
+! scope="row" | Gethin & Camilla
+| 31 (7, 8, 8, 8)
+| Rumba
+| "[[Lost (Michael Bublé song)|Lost]]" — [[Michael Bublé]]
+| Safe
+|-
+! scope="row" | John & Nicole
+| 28 (6, 7, 8, 7)
+| Tango
+| "[[Dance with Me (Debelah Morgan song)|Dance with Me]]" — [[Debelah Morgan]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Kate & Anton
+| 21 (4, 5, 7, 5)
+| Paso doble
+| "[[Somebody Told Me]]" — [[The Killers]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Alesha & Matthew
+| 38 (9, 10, 9, 10)
+| Waltz
+| "[[Love Theme from Romeo and Juliet|A Time for Us]]" — [[Andy Williams]]
+| Safe
+|-
+! scope="row" | Matt & Flavia
+| 34 (8, 9, 8, 9)
+| Quickstep
+| "[[Is You Is or Is You Ain't My Baby]]" — [[Dinah Washington]]
+| Safe
+|}
+;Judges' votes to save:
+*Horwood: John & Nicole
+*Phillips: John & Nicole
+*Tonioli: John & Nicole
+*Goodman: ''Did not vote, but would have voted to save John & Nicole''
+
+===Week 8===
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Gethin & Camilla
+| 34 (8, 9, 9, 8)
+| Quickstep
+| "[[You're the Top]]" — [[Louis Armstrong]]
+| Safe
+|-
+! scope="row" | John & Nicole
+| 27 (7, 6, 7, 7)
+| Samba
+| "[[Sir Duke]]" — [[Stevie Wonder]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Letitia & Darren
+| 32 (8, 8, 7, 9)
+| Viennese waltz
+| "[[She's Always a Woman]]" — [[Billy Joel]]
+| Safe
+|-
+! scope="row" | Kelly & Brendan
+| 29 (7, 7, 7, 8)
+| Samba
+| "[[Stayin' Alive]]" — [[Bee Gees]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Kenny & Ola
+| 30 (6, 8, 8, 8)
+| American Smooth
+| "[[How Sweet It Is (To Be Loved by You)]]" — [[Marvin Gaye]]
+| Safe
+|-
+! scope="row" | Matt & Flavia
+| 38 (9, 10, 9, 10)
+| Salsa
+| "[[Vehicle (song)|Vehicle]]" — [[Ides of March (band)|Ides of March]]
+| Safe
+|-
+! scope="row" | Alesha & Matthew
+| 39 (9, 10, 10, 10)
+| Cha-cha-cha
+| "[[Crazy in Love (Beyoncé song)|Crazy in Love]]" — [[Beyoncé]]
+| Safe
+|}
+;Judges' votes to save:
+*Horwood: Kelly & Brendan
+*Phillips: Kelly & Brendan
+*Tonioli: Kelly & Brendan
+*Goodman: ''Did not vote, but would have voted to save Kelly & Brendan''
+
+===Week 9===
+[[Kelly Brook]] withdrew from the competition earlier in the week after the death of her father.<ref>{{Cite web |last=Wilkinson |first=Neve |date=November 15, 2022 |title=Tony Adams: 9 other celebrities who have withdrawn from Strictly Come Dancing, including Nicola Adams |url=https://www.yorkshireeveningpost.co.uk/people/9-celebrities-who-withdrew-from-strictly-come-dancing-3919389 |access-date=September 24, 2023 |website=Yorkshire Evening Post}}</ref>
+
+Each couple performed two routines, and are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" rowspan=2 | Matt & Flavia
+| 32 (7, 7, 9, 9)
+| Tango
+| "[[What You Waiting For?]]" — [[Gwen Stefani]]
+| rowspan=2 | Safe
+|-
+| 33 (8, 9, 8, 8)
+| Rumba
+| "[[Get Here]]" — [[Oleta Adams]]
+|-
+! scope="row" rowspan=2 | Gethin & Camilla
+| 39 (9, 10, 10, 10)
+| Waltz
+| "If I Were a Painting" — [[Willie Nelson]]
+| rowspan=2 | Safe
+|-
+| 35 (8, 9, 9, 9)
+| Salsa
+| "[[Azúcar (Eddie Palmieri song)|Azúcar]]" — [[Eddie Palmieri]]
+|-
+! scope="row" rowspan=2 | Letitia & Darren
+| 30 (7, 7, 8, 8)
+| Quickstep
+| "[[Walkin' Back to Happiness]]" — [[Helen Shapiro]]
+| rowspan=2 bgcolor="lightblue" | Bottom two
+|-
+| 26 (6, 6, 7, 7)
+| Cha-cha-cha
+| "[[Drive My Car (song)|Drive My Car]]" — [[The Beatles]]
+|-
+! scope="row" rowspan=2 | Kenny & Ola
+| 30 (7, 7, 8, 8)
+| Foxtrot
+| "[[They Can't Take That Away from Me]]" — [[Robbie Williams]]
+| rowspan=2 bgcolor="f4c7b8" | Eliminated
+|-
+| 23 (4, 5, 7, 7)
+| Rumba
+| "[[Fields of Gold]]" — [[Eva Cassidy]]
+|-
+! scope="row" rowspan=2 | Alesha & Matthew
+| 38 (9, 10, 9, 10)
+| Tango
+| "[[Jalousie (Gade)|Jealousy]]" — [[Billy Fury]]
+| rowspan=2 | Safe
+|-
+| 36 (9, 8, 10, 9)
+| Samba
+| "[[Reach Out, I'll Be There]]" — [[The Four Tops]]
+|}
+;Judges' votes to save:
+*Horwood: Letitia & Darren
+*Phillips: Letitia & Darren
+*Tonioli: Letitia & Darren
+*Goodman: ''Did not vote, but would have voted to save Letitia & Darren''
+
+===Week 10: Quarterfinal===
+Each couple performed two routines, and are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" rowspan=2 | Gethin & Camilla
+| 38 (9, 9, 10, 10)
+| American Smooth
+| "[[Green Green Grass of Home]]" — [[Tom Jones (singer)|Tom Jones]]
+| rowspan=2 | Safe
+|-
+| 37 (9, 9, 9, 10)
+| Jive
+| "[[Knock on Wood (Eddie Floyd song)|Knock on Wood]]" — [[Amii Stewart]]
+|-
+! scope="row" rowspan=2 | Alesha & Matthew
+| 38 (9, 9, 10, 10)
+| Viennese waltz
+| "[[Memory (Cats song)|Memory]]" — from ''[[Cats (musical)|Cats]]''
+| rowspan=2 bgcolor="lightblue" | Bottom two
+|-
+| 36 (9, 9, 9, 9)
+| Paso doble
+| "[[Toccata]]" — [[Vanessa Mae]]
+|-
+! scope="row" rowspan=2 | Letitia & Darren
+| 35 (8, 9, 9, 9)
+| Waltz
+| "[[The Impossible Dream (The Quest)]]" — [[Andy Williams]]
+| rowspan=2 bgcolor="f4c7b8" | Eliminated
+|-
+| 30 (7, 7, 8, 8)
+| Jive
+| "[[Dead Ringer for Love]]" — [[Meat Loaf]] & [[Cher]]
+|-
+! scope="row" rowspan=2 | Matt & Flavia
+| 26 (4, 6, 8, 8)
+| Foxtrot
+| "[[Better Together (Jack Johnson song)|Better Together]]" — [[Jack Johnson (singer)|Jack Johnson]]
+| rowspan=2 | Safe
+|-
+| 29 (6, 7, 8, 8)
+| Samba
+| "[[Blame It on the Boogie]]" — [[The Jacksons]]
+|}
+;Judges' votes to save:
+*Horwood: Alesha & Matthew
+*Phillips: Alesha & Matthew
+*Tonioli: Alesha & Matthew
+*Goodman: ''Did not vote, but would have voted to save Alesha & Matthew''
+
+===Week 11: Semifinal===
+Each couple performed two routines, one of which was the [[Argentine tango]], and are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" rowspan=2 | Alesha & Matthew
+| rowspan="2" | 38 (9, 9, 10, 10)
+| Quickstep
+| "[[Valerie (Amy Winehouse song)|Valerie]]" — [[Amy Winehouse]]
+| rowspan=2 | Safe
+|-
+| Argentine tango
+| "[[I'd Be Surprisingly Good For You]]" — from ''[[Evita (musical)|Evita]]''
+|-
+! scope="row" rowspan=2 | Matt & Flavia
+| 35 (8, 9, 9, 9)
+| Argentine tango
+| "[[La Yumba]]" — [[Osvaldo Pugliese]]
+| rowspan=2 bgcolor="lightblue" | Bottom two
+|-
+| 40 (10, 10, 10, 10)
+| Waltz
+| "[[Open Arms (Journey song)|Open Arms]]" — [[Mariah Carey]]
+|-
+! scope="row" rowspan=2 | Gethin & Camilla
+| 34 (8, 8, 10, 8)
+| Paso doble
+| "[[Standing in the Way of Control (song)|Standing in the Way of Control]]" — [[The Gossip]]
+| rowspan=2 bgcolor="f4c7b8" | Eliminated
+|-
+| 36 (9, 9, 9, 9)
+| Argentine tango
+| "[[The World Is Not Enough (song)|The World Is Not Enough]]" — [[Garbage (band)|Garbage]]
+|}
+;Judges' votes to save:
+*Horwood: Matt & Flavia
+*Phillips: Gethin & Camilla
+*Tonioli: Matt & Flavia
+*Goodman: Matt & Flavia
+
+===Week 12: Final===
+Each couple performed four routines: their favourite ballroom dance, their favourite Latin dance, one dance performed to the same song, and their showdance routine. Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" rowspan=4 | Matt & Flavia
+| 36 (9, 9, 9, 9)
+| American Smooth
+| "[[For Once in My Life]]" — [[Michael Bublé]]
+| rowspan=4 bgcolor="silver" | Runners-up
+|-
+| 39 (9, 10, 10, 10)
+| Salsa
+| "[[Vehicle (song)|Vehicle]]" — [[Ides of March (band)|Ides of March]]
+|-
+| 35 (9, 8, 9, 9)
+| Quickstep
+| "[[I Love to Boogie]]" — [[T. Rex (band)|T. Rex]]
+|-
+| bgcolor="lightgray" | ''No scores received''
+| Showdance
+| "[[Are You Gonna Go My Way (song)|Are You Gonna Go My Way]]" — [[Lenny Kravitz]]
+|-
+! scope="row" rowspan=4 | Alesha & Matthew
+| 39 (10, 10, 9, 10)
+| Waltz
+| "A Time for Us" — [[Andy Williams]]
+| rowspan=4 bgcolor="gold" | '''Winners'''
+|-
+| 38 (9, 9, 10, 10)
+| Cha-cha-cha
+| "[[Crazy in Love (Beyoncé song)|Crazy in Love]]" — [[Beyoncé]]
+|-
+| 35 (9, 8, 9, 9)
+| Jive
+| "[[I Love to Boogie]]" — [[T. Rex (band)|T. Rex]]
+|-
+| bgcolor="lightgray" | ''No scores received''
+| Showdance
+| "[[Holding Out for a Hero]]" — [[Bonnie Tyler]]
+|}
+
+==Dance chart==
+The couples performed the following each week:
+*Week 1: One unlearned dance (cha-cha-cha or waltz); group swing dance
+*Week 2: One unlearned dance (quickstep or rumba); group merengue
+*Week 3: One unlearned dance (jive or tango)
+*Week 4: One unlearned dance (American Smooth or samba)
+*Week 5: One unlearned dance (foxtrot or paso doble)
+*Week 6: One unlearned dance (salsa or Viennese waltz)
+*Weeks 7–8: One unlearned dance
+*Week 9: Two unlearned dances
+*Week 10 (Quarterfinal): Two unlearned dances
+*Week 11 (Semifinal): One unlearned dance & Argentine tango
+*Week 12 (Final): Favourite ballroom dance, favourite Latin dance, one new dance & showdance
+
+{| class="wikitable unsortable" style="text-align:center; font-size:85%; line-height:20px"
+|+''Strictly Come Dancing'' (series 5) - Dance chart
+! rowspan="2" | Couple
+! colspan="18" | Week
+|-
+! scope="col" | 1
+! scope="col" | 2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" | 5
+! scope="col" | 6
+! scope="col" | 7
+! scope="col" | 8
+! scope="col" colspan=2 | 9
+! scope="col" colspan=2 | 10
+! scope="col" colspan=2 | 11
+! scope="col" colspan=4 | 12
+|-
+! scope="row" | Alesha & Matthew
+| Group<br>Swing
+| Rumba
+| Jive
+| American Smooth
+| Foxtrot 
+| Salsa
+| Waltz
+| {{nowrap|Cha-cha}}-cha
+| Tango
+| Samba
+| Viennese waltz
+| Paso doble
+| Quickstep 
+| Argentine tango
+| Waltz
+| {{nowrap|Cha-cha}}-cha
+| Jive 
+| Showdance
+|-
+! scope="row" | Matt & Flavia
+| {{nowrap|Cha-cha}}-cha
+| Group<br>Merengue 
+| Jive
+| American Smooth
+| Paso doble
+| Viennese waltz
+| Quickstep
+| Salsa
+| Tango
+| Rumba
+| Foxtrot
+| Samba 
+| Argentine tango
+| Waltz
+| American Smooth
+| Salsa
+| Quickstep
+| Showdance
+|-
+! scope="row" | Gethin & Camilla 
+| Cha-cha-cha
+| Group Merengue
+| Tango
+| Samba
+| Foxtrot
+| Viennese waltz
+| Rumba
+| Quickstep
+| Waltz
+| Salsa
+| American Smooth
+| Jive 
+| Paso doble
+| Argentine tango
+| colspan="4" rowspan="12" bgcolor="darkgray" |
+|-
+! scope="row" | Letitia & Darren
+| Group Swing
+| Rumba 
+| Tango
+| American Smooth
+| Paso doble
+| Salsa
+| Foxtrot
+| Viennese waltz
+| Quickstep
+| {{nowrap|Cha-cha}}-cha
+| Waltz
+| Jive
+| colspan="2" rowspan="11" bgcolor="darkgray" |
+|-
+! scope="row" | Kenny & Ola
+| Waltz
+| Group Merengue
+| Tango
+| Samba
+| Paso doble
+| Viennese waltz
+| {{nowrap|Cha-cha}}-cha
+| American Smooth
+| Foxtrot
+| Rumba
+| colspan="2" rowspan="10" bgcolor="darkgray" |
+|-
+! scope="row" | Kelly & Brendan
+| Group Swing
+| Rumba
+| Tango
+| American Smooth
+| Paso doble
+| Viennese waltz
+| Jive
+| Samba
+| colspan="2" rowspan="9" bgcolor="darkgray" |
+|-
+! scope="row" | John & Nicole 
+| Cha-cha-cha
+| Group Merengue
+| Jive
+| American Smooth
+| Foxtrot
+| Salsa
+| Tango
+| Samba
+|-
+! scope="row" | Kate & Anton
+| bgcolor="darkgray" |
+| Quickstep
+| Tango
+| Samba
+| Foxtrot
+| Salsa
+| Paso doble
+| rowspan="7" bgcolor="darkgray" |
+|-
+! scope="row" | Penny & Ian
+| Group Swing
+| Quickstep
+| Jive
+| Samba
+| Foxtrot
+| Salsa
+| rowspan="6" bgcolor="darkgray" |
+|-
+! scope="row" | Dominic & Lilia
+| Cha-cha-cha
+| Group Merengue
+| Jive
+| American Smooth
+| Paso doble
+| rowspan="5" bgcolor="darkgray" |
+|-
+! scope="row" | Gabby & James
+| Group Swing
+| Quickstep
+| Jive
+| Samba
+| rowspan="4" bgcolor="darkgray" |
+|-
+! scope="row" | Willie & Erin
+| Waltz
+| Group Merengue
+| Tango
+| rowspan="3" bgcolor="darkgray" |
+|-
+! scope="row" | Stephanie & Vincent
+| Group Swing
+| Quickstep
+| rowspan="2" bgcolor="darkgray" |
+|-
+! scope="row" | Brian & Karen
+| Waltz
+| bgcolor="darkgray" |
+|}
+
+==Ratings==
+Weekly ratings for each show on [[BBC One]]. All ratings are provided by [[Barb Audiences|BARB]].<ref>{{cite web|url=https://www.barb.co.uk/viewing-data/four-screen-dashboard/|title=Four-screen dashboard (7-day data)|publisher=[[BARB]]|access-date=17 September 2023}}</ref>
+{| class="wikitable sortable" style="text-align:center"
+|-
+! scope="col"|Episode
+! scope="col"|Date
+! scope="col"|Official rating<br />(millions)
+! scope="col"|Weekly rank<br />for BBC One
+! scope="col"|Weekly rank<br />for all UK TV
+|-
+! scope="row"|Preview
+| {{dts|29 September}} || 4.87 || 20 || 40
+|-
+! scope="row"|Week 1
+| {{dts|6 October}} || 7.68 || 5 || 14
+|-
+! scope="row"|Week 1 results
+| {{dts|7 October}} || 7.03 || 6 || 19
+|-
+! scope="row"|Week 2
+| {{dts|13 October}} || 8.51 || 4 || 10
+|-
+! scope="row"|Week 2 results
+| {{dts|14 October}} || 8.15 || 5 || 11
+|-
+! scope="row"|Week 3
+| {{dts|20 October}} || 7.69 || 4 || 16
+|-
+! scope="row"|Week 3 results
+| {{dts|21 October}} || 6.98 || 5 || 20
+|-
+! scope="row"|Week 4
+| {{dts|27 October}} || 8.28 || 6 || 13
+|-
+! scope="row"|Week 4 results
+| {{dts|28 October}} || 8.42 || 5 || 12
+|-
+! scope="row"|Week 5
+| {{dts|3 November}} || 9.25 || 5 || 11
+|-
+! scope="row"|Week 5 results
+| {{dts|4 November}} || 8.65 || 6 || 13
+|-
+! scope="row"|Week 6
+| {{dts|10 November}} || 9.65 || 2 || 8
+|-
+! scope="row"|Week 6 results
+| {{dts|11 November}} || 8.64 || 6 || 13
+|-
+! scope="row"|Week 7
+| {{dts|17 November}} || 9.41 || 4 || 8
+|-
+! scope="row”|Week 7 results
+| {{dts|18 November}} || 9.06 || 5 || 12
+|-
+! scope="row"|Week 8
+| {{dts|24 November}} || 9.70 || 3 || 8
+|-
+! scope="row”|Week 8 results
+| {{dts|25 November}} || 8.71 || 6 || 13
+|-
+! scope="row"|Week 9
+| {{dts|1 December}} || 10.22 || 2 || 7
+|-
+! scope="row"|Week 9 results
+| {{dts|2 December}} || 8.88 || 5 || 11
+|-
+! scope="row"|Week 10
+| {{dts|8 December}} || 10.45 || 2 || 5
+|-
+! scope="row"|Week 10 results
+| {{dts|9 December}} || 9.16 || 5 || 12
+|-
+! scope="row"|Week 11
+| {{dts|15 December}} || 10.97 || 1 || 5
+|-
+! scope="row"|Week 11 results
+| {{dts|16 December}} || 8.38 || 6 || 15
+|-
+! scope="row"|Week 12
+| {{dts|22 December}} || 11.23 || 2 || 4
+|-
+! scope="row"|Week 12 results
+| {{dts|22 December}} || 12.09 || 1 || 1
+|-
+! Series average<br>(excl. preview)
+! 2007
+! 9.05
+! {{N/A}}
+! {{N/A}}
+|}
+
+==References==
+{{reflist}}
+
+{{Strictly Come Dancing}}
+
+[[Category:Strictly Come Dancing series|Season 05]]
+[[Category:2007 British television seasons]]

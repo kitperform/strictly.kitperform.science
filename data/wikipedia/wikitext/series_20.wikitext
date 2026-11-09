@@ -1,0 +1,1860 @@
+{{Use dmy dates|date=September 2022}}
+{{Use British English|date=September 2022}}
+{{Infobox television season
+| module1       = {{Infobox reality competition season
+ | celebrity_winner    = [[Hamza Yassin]]
+ | professional_winner = [[Jowita Przystał]]
+| presenter = [[Tess Daly]]<br>[[Claudia Winkleman]]
+| judges    = [[Shirley Ballas]]<br>[[Anton Du Beke]]<br>[[Motsi Mabuse]]<br>[[Craig Revel Horwood]]
+}}
+| bgcolour      = #8dc0a7
+| image         = <!-- Do NOT place a non-free image here without complying with WP:NFCC #10c -->
+| caption       =
+| network       = [[BBC One]]
+| first_aired   = {{Start date|2022|09|23|df=y}}
+| last_aired    = {{End date|2022|12|17|df=y}}
+| num_episodes  = 25
+| series_number = 20
+| prev_series   = [[Strictly Come Dancing series 19|Series 19]] 
+}}
+
+'''''[[Strictly Come Dancing]]''''' returned for its '''twentieth series''' with a launch show on 23 September 2022 on BBC One, with live shows beginning the following day on 24 September.<ref>{{cite web | url=https://www.bbc.co.uk/schedules/p00fzl6p/2022/09/24 | title=BBC One London – Schedules, Saturday 24 September 2022 }}</ref> The launch show was originally scheduled to be broadcast on 17 September, but was postponed following the [[death of Queen Elizabeth II]].<ref>{{cite web |title=Strictly Come Dancing postponed after death of the Queen |url=https://theguardian.com/tv-and-radio/2022/sep/13/strictly-come-dancing-postponed-after-death-of-the-queen |website=[[The Guardian]] |access-date=23 September 2022 |date=23 September 2022}}</ref> [[Tess Daly]] and [[Claudia Winkleman]] returned as hosts, while [[Rylan Clark]] and [[Janette Manrara]] returned to host ''[[Strictly Come Dancing: It Takes Two]].''<ref>{{cite web|url=https://www.essexlive.news/news/celebs-tv/strictly-come-dancing-2022-start-7440856|title=Strictly Come Dancing 2022: start date, line-up and judges|website=[[Essex Chronicle]]|first=Sophie|last=Christian|date=9 August 2022|accessdate=9 August 2022|language=en-GB}}</ref>
+
+In May 2022, the BBC announced that [[Shirley Ballas]], [[Anton Du Beke]], [[Motsi Mabuse]], and [[Craig Revel Horwood]] would return to the judging panel.<ref>{{Cite web |date=19 May 2022 |title=Judges revealed for 2022 series of Strictly Come Dancing |url= https://www.bbc.com/mediacentre/2022/strictly-judges-2022 | website=[[BBC]]}}</ref> It was also confirmed that [[Bruno Tonioli]], who had been absent from the two previous series due to travel restrictions resulting from the [[COVID-19 pandemic]], would be permanently leaving the show.<ref>{{Cite web |date=20 May 2022 |title=Bruno Tonioli leaves Strictly Come Dancing for good |url=https://www.bbc.co.uk/news/entertainment-arts-61491630 |website=[[BBC News]]}}</ref>
+
+In August 2022, the BBC confirmed that the show would return to the [[Blackpool Tower Ballroom]] for the first time since the [[Strictly Come Dancing series 17|seventeenth series]].<ref>{{cite news|url=https://www.bbc.co.uk/newsround/62623704 |title=Strictly Come Dancing: Show returns to Blackpool with new BBC-themed week – CBBC Newsround |publisher=[[BBC News]] |accessdate=23 September 2022}}</ref><ref>{{cite web|url=https://www.itv.com/news/2022-08-21/strictly-come-dancing-2022-blackpool-return-and-themed-week-for-bbc-centenary |title=Strictly Come Dancing 2022: Blackpool return and themed week for BBC centenary &#124; ITV News |publisher=[[ITV News]]|date= 21 August 2022|accessdate=23 September 2022}}</ref> It was also announced that there would be a special themed week to celebrate the 100th anniversary of the [[BBC]], with the couples dancing to "a theme tune from an iconic BBC programme or in tribute to one of the BBC's most loved services".<ref>{{cite web|url=https://theguardian.com/tv-and-radio/2022/aug/22/strictly-come-dancing-bbc-centenary-blackpool-tower-ballroom |title=Strictly Come Dancing to celebrate BBC centenary with themed week &#124; Strictly Come Dancing |work=The Guardian |date=2018-01-31 |accessdate=23 September 2022}}</ref><ref>{{cite web|url=https://www.digitalspy.com/tv/reality-tv/a40956437/strictly-come-dancing-2022-bbc-100-theme/ |title=Strictly 2022 confirms one-off special for BBC's 100th birthday |publisher=[[Digital Spy]] |date= 22 August 2022|accessdate=23 September 2022}}</ref>
+
+[[Wildlife]] presenter [[Hamza Yassin]] and [[Jowita Przystał]] were announced as the winners on 17 December,<ref>{{cite web |last=Saunders |first=Emma |date=17 December 2022 |title=Strictly Come Dancing 2022: Hamza Yassin wins glitterball trophy |url=https://www.bbc.com/news/entertainment-arts-63943808 |access-date=18 December 2022 |publisher=[[BBC News]]}}</ref> while singer-songwriter [[Fleur East]] and [[Vito Coppola]], ''[[Nova Jones]]'' actress [[Molly Rainford]] and [[Carlos Gu]], and television presenter [[Helen Skelton]] and [[Gorka Márquez]] were the runners-up.
+
+== Format ==
+{{Further|Strictly Come Dancing#Format}}
+{{Multiple image
+ | align        = right
+ | total_width  = 550
+
+ | header       = Hosts and Judges for Strictly Come Dancing Series 20
+
+ | image1       = Tess Daly Cropped.jpg
+ | alt1         =
+ | caption1     = [[Tess Daly]]
+
+ | image2       = Claudia Winkleman at BAFTA 2026 01.jpg
+ | alt2         =
+ | caption2     = [[Claudia Winkleman]]
+
+ | image3       = Craig-Revel-Horwood-2022.png
+ | alt3         = 
+ | caption3     = [[Craig Revel Horwood]]
+
+ | image4       = 2022-06-22-Motsi Mabuse LEA Live Entertainment Award 15 -0167.jpg
+ | alt4         =
+ | caption4     = [[Motsi Mabuse]]
+
+ | image5       = Shirley Ballas 20241205.jpg
+ | alt5         =
+ | caption5     = [[Shirley Ballas]]
+
+ | image6       = Anton_Du_Beke_in_2019.png
+ | alt6         =
+ | caption6     = [[Anton Du Beke]]
+}}
+
+The couples dance each week in a live show. The judges score each performance out of ten. The couples are then ranked according to the judges' scores and given points according to their rank, with the lowest scored couple receiving one point, and the highest scored couple receiving the most points (the maximum number of points available depends on the number of couples remaining in the competition). The public are also invited to vote for their favourite couples, and the couples are ranked again according to the number of votes they receive, again receiving points; the couple with the fewest votes receiving one point, and the couple with the most votes receiving the most points.
+
+The points for judges' score and public vote are then added together, and the two couples with the fewest points are placed in the bottom two. If two couples have equal points, the points from the public vote are given precedence. As with the previous series, the bottom two couples have to perform a dance-off on the results show. Based on that performance alone, each judge then votes on which couple should stay and which couple should leave, with [[Shirley Ballas]], as head judge, having the last and [[Casting vote|deciding vote]].
+
+== Professional dancers ==
+On 22 February 2022, it was announced that [[Oti Mabuse]] was leaving the series after seven years,<ref>{{Cite web |date=22 February 2022 |title=Oti Mabuse to leave Strictly Come Dancing after seven years |url=https://www.bbc.co.uk/news/entertainment-arts-60476377|website=[[BBC News]]}}</ref> and on 28 March 2022, that [[Aljaž Škorjanec]] was also leaving after nine years (He returned to the show in 2024).<ref>{{Cite web |date=28 March 2022 |title=Aljaž Škorjanec is leaving Strictly Come Dancing |url=https://www.bbc.co.uk/news/entertainment-arts-60899783|website=[[BBC News]]}}</ref> Three days after Škorjanec's departure, the BBC announced that the rest of the current professionals would be returning to the series.<ref>{{Cite web |date=31 March 2022 |title=Professional dancers returning for Strictly Come Dancing Series 20 confirmed |url=https://www.bbc.com/mediacentre/2022/strictly-professional-dancers-returning-for-series-20 |website=[[BBC]]}}</ref>
+
+In July 2022, the BBC announced that four new professional dancers would be joining the cast: European cup winner [[Vito Coppola]], who was also a professional dancer on the [[Ballando con le Stelle|Italian version of the show]] in 2021; Chinese National Champion [[Carlos Gu]]; former Under 21 British National Champion Lauren Oakley; and Latin dance champion Michelle Tsiakkas.<ref>{{Cite web |date=11 July 2022 |title=Four new pros join the show in 2022! |url=https://www.bbc.co.uk/blogs/strictlycomedancing/entries/a8605a54-777e-4688-a243-e562124abee3 |website=[[BBC]]}}</ref><ref>{{Cite web |date=11 July 2022 |title=Strictly Come Dancing reveals new professionals joining for 2022 |url=https://www.radiotimes.com/tv/entertainment/strictly-come-dancing-new-professionals-2022-newsupdate/ |website=[[Radio Times]]}}</ref> [[Jowita Przystał]] received a celebrity partner for the first time, as did new professionals [[Vito Coppola]] and [[Carlos Gu]]; while [[Neil Jones (dancer)|Neil Jones]], [[Cameron Lombard]], [[Luba Mushtuk]], [[Lauren Oakley]], and [[Michelle Tsiakkas]] did not receive a partner.<ref>{{cite web |last1=Jones |first1=Gemma |title=Strictly Come Dancing 2022: Full list of pairings and professionals without partners |url=https://www.liverpoolecho.co.uk/news/tv/strictly-come-dancing-2022-full-25096629 |website=[[Liverpool Echo]] |access-date=15 October 2022 |date=23 September 2022}}</ref>
+
+==Couples==
+This series featured fifteen celebrity contestants. On 4 August 2022, the first two celebrities announced were [[Will Mellor]] and [[Kym Marsh]].<ref>{{cite web|url=https://www.bbc.co.uk/blogs/strictlycomedancing/entries/5ca60ca4-a8ba-46af-991f-927f4f609009|title=Will Mellor is the first celebrity contestant confirmed for Strictly Come Dancing 2022!|date=4 August 2022 }}</ref><ref>{{cite web|url=https://www.bbc.co.uk/blogs/strictlycomedancing/entries/41ad83aa-ca43-4b73-91ca-29cba20bce50|title=Kym Marsh is the second celebrity contestant confirmed for 2022!| date=4 August 2022 }}</ref> Celebrity contestants continued to be revealed until 13 August 2022, when the full line-up was announced.<ref>{{cite web|url=https://www.dailypost.co.uk/news/tv/strictly-come-dancing-full-line-24740012|title=Strictly Come Dancing: The full line-up including soap stars and Loose Women host|website=[[Daily Post (North Wales)|Daily Post]]|first=Alex|last=Whilding|date=13 August 2022|accessdate=13 August 2022|language=en-GB}}</ref><ref>{{cite web|url=https://www.edinburghnews.scotsman.com/read-this/strictly-come-dancing-2022-pairings-full-list-of-couples-for-the-new-series-and-how-to-watch-bbc-one-show-3855318|title=Strictly Come Dancing 2022 pairings: Full list of couples for the new series – and how to watch BBC One show|website=[[Edinburgh Evening News]]|first=Ethan|last=Evans|date=24 September 2022|accessdate=24 September 2022|language=en-GB}}</ref> During the results show on 13 November, after initially being announced as one of the bottom two couples, [[Tony Adams]] and [[Katya Jones]] withdrew from the competition due to Adams having sustained a [[hamstring]] injury during their original performance.<ref name=":0">{{cite web |title=Strictly Come Dancing: Tony Adams withdraws with an injury |url=https://www.bbc.co.uk/news/entertainment-arts-63615618 |website=[[BBC]] |access-date=23 November 2022 |date=13 November 2022}}</ref>
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! scope="col" | Celebrity
+! scope="col" class="unsortable"| Notability
+! scope="col" | Professional partner
+! scope="col" | Status
+|- style="height:50px"
+! scope="row" | [[Kaye Adams]]
+| ''[[Loose Women]]'' panellist & journalist
+| [[Kai Widdrington]]
+| bgcolor="f4c7b8" | Eliminated 1st<br /><small>on 2 October 2022</small>
+|- style="height:50px"
+! scope="row" | {{nowrap|[[Richie Anderson (presenter)|Richie Anderson]]}}
+| Television & radio presenter
+| [[Giovanni Pernice]]
+| bgcolor="f4c7b8" | Eliminated 2nd<br /><small>on 9 October 2022</small>
+|- style="height:50px"
+! scope="row" | [[Matt Goss]]
+| Singer-songwriter
+| [[Nadiya Bychkova]]
+| bgcolor="f4c7b8" | Eliminated 3rd<br /><small>on 16 October 2022</small>
+|- style="height:50px"
+! scope="row" | [[Jayde Adams]]
+| Comedian & actress
+| [[Karen Hauer]]
+| bgcolor="f4c7b8" | Eliminated 4th<br /><small>on 23 October 2022</small>
+|- style="height:50px"
+! scope="row" | [[James Bye]]
+| ''[[EastEnders]]'' actor
+| [[Amy Dowden]]
+| bgcolor="f4c7b8" | Eliminated 5th<br /><small>on 30 October 2022</small>
+|- style="height:50px"
+! scope="row" | [[Ellie Simmonds]]
+| [[Swimming at the Summer Paralympics|Paralympic swimmer]]
+| [[Nikita Kuzmin]]
+| bgcolor="f4c7b8" | Eliminated 6th<br /><small>on 6 November 2022</small>
+|- style="height:50px"
+! scope="row" | [[Tony Adams]]
+| [[England national football team|England]] footballer & manager
+| [[Katya Jones]]
+| bgcolor="lightgreen" | Withdrew<br /><small>on 13 November 2022</small>
+|- style="height:50px"
+! scope="row" | [[Tyler West]]
+| [[Kiss (UK radio station)|Kiss FM]] presenter
+| [[Dianne Buswell]]
+| bgcolor="f4c7b8" | Eliminated 7th<br /><small>on 20 November 2022</small>
+|- style="height:50px"
+! scope="row" | [[Ellie Taylor]]
+| Comedian, actress & television presenter
+| [[Johannes Radebe]]
+| bgcolor="f4c7b8" | Eliminated 8th<br /><small>on 27 November 2022</small>
+|- style="height:50px"
+! scope="row" | [[Kym Marsh]]
+| Actress, singer & ''[[Morning Live]]'' presenter
+| [[Graziano Di Prima]]
+| bgcolor="f4c7b8" | Eliminated 9th<br /><small>on 4 December 2022</small>
+|- style="height:50px"
+! scope="row" | [[Will Mellor]]
+| Stage & screen actor
+| [[Nancy Xu]]
+| bgcolor="f4c7b8" | Eliminated 10th<br /><small>on 11 December 2022</small>
+|- style="height:50px"
+! scope="row" | [[Fleur East]]
+| Singer-songwriter & radio presenter
+| [[Vito Coppola]]
+| rowspan=3 bgcolor="silver" | Runners-up<br /><small>on 17 December 2022</small>
+|- style="height:50px"
+! scope="row" | [[Helen Skelton]]
+| Television presenter
+| [[Gorka Márquez]]
+|- style="height:50px"
+! scope="row" | [[Molly Rainford]]
+| ''[[Nova Jones]]'' actress & singer
+| [[Carlos Gu]]
+|- style="height:50px"
+! scope="row" | [[Hamza Yassin]]
+| [[Wildlife photography|Wildlife cameraman]] & television presenter
+| [[Jowita Przystał]]
+| bgcolor="gold" | '''Winners<br />'''<small>on 17 December 2022</small>
+|}
+
+==Scoring chart==
+The highest score each week is indicated in {{fontcolor|#004600|'''bold green'''}} with a dagger ({{dagger}}), while the lowest score each week is indicated in {{fontcolor|#800000|''italicized red''}} with a double-dagger ({{double-dagger}}).
+
+'''Color key:'''
+{{columns-list|colwidth=20em|
+{{legend|gold|Winners}}
+{{legend|silver|Runners-up}}
+{{legend|lightblue|Bottom two}}
+{{legend|#fff383|Excused from competition for the week}}
+{{legend|lightgreen|Withdrew from competition}}
+{{legend|#f4c7b8|Eliminated}}
+}}
+{| class="wikitable sortable" style="text-align:center; font-size:90%"
+|+''Strictly Come Dancing'' (series 20) – Weekly scores
+|-
+! rowspan="2" scope="col" | Couple
+! rowspan="2" scope="col" | {{Abbr|Pl.|Place}}
+! colspan="14" | Week
+|-
+! scope="col" | 1
+! scope="col" | 2
+! scope="col" | 1+2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" | 5
+! scope="col" | 6
+! scope="col" | 7
+! scope="col" | 8
+! scope="col" | 9
+! scope="col" | 10
+! scope="col" | 11
+! scope="col" | 12
+! scope="col" | 13
+|-
+! scope="row" | Hamza & Jowita
+| 1st
+| {{fontcolor|#004600|'''34'''}}{{dagger|alt=This was the highest score of the night.}}
+| 24
+| 58
+| 25
+| {{fontcolor|#004600|'''39'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''35'''}}{{dagger|alt=This was the highest score of the night.}}
+| 33
+| {{fontcolor|#004600|'''38'''}}{{dagger|alt=This was the highest score of the night.}}
+| 38
+| 38
+| 37
+| 36
+| {{sort|76|}} | 39+37={{fontcolor|#004600|'''76'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|113|}} bgcolor="gold" | 39+34+40={{fontcolor|#800000|''113''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|This couple finished in first place.}}
+|-
+! scope="row" | Fleur & Vito
+| rowspan=3|2nd
+| 29
+| 28
+| 57
+| bgcolor="lightblue" | 29{{efn|name=Bottom2}}
+| 38
+| 32
+| bgcolor="lightblue" | 32{{efn|name=Bottom2}}
+| 35
+| {{fontcolor|#004600|'''39'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''40'''}}{{dagger|alt=This was the highest score of the night.}}
+| bgcolor="lightblue" | 35{{efn|name=Bottom2}}
+| 38
+| {{sort|74|}} bgcolor="lightblue" | 35+39=74{{efn|name=Bottom2}}
+| {{sort|119|}} bgcolor="silver" | 40+39+40={{fontcolor|#004600|'''119'''}}{{dagger|alt=This was the highest score of the night.}}{{efn|name=2nd|This couple finished in second place.}}
+|-
+! scope="row" | Helen & Gorka
+| 26
+| 27
+| 53
+| 31
+| 29
+| {{fontcolor|#004600|'''35'''}}{{dagger|alt=This was the highest score of the night.}}
+| 32
+| 37
+| 32
+| 39
+| 29
+| {{fontcolor|#004600|'''39'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|72|}} | 35+37=72
+| {{sort|116|}} bgcolor="silver" | 39+37+40=116{{efn|name=2nd}}
+|-
+! scope="row" | Molly & Carlos
+| 31
+| {{fontcolor|#004600|'''34'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''65'''}}{{dagger|alt=This was the highest score of the night.}}
+| 34
+| 35
+| bgcolor="lightblue" | 30{{efn|name=Bottom2}}
+| 33
+| bgcolor="lightblue" | 35{{efn|name=Bottom2}}
+| 37
+| bgcolor="lightblue" | 35{{efn|name=Bottom2}}
+| 35
+| bgcolor="lightblue" | 38{{efn|name=Bottom2}}
+| {{sort|75|}} | 36+39=75
+| {{sort|115|}} bgcolor="silver" | 39+37+39=115{{efn|name=2nd}}
+|-
+! scope="row" | Will & Nancy
+| 5th
+| {{fontcolor|#004600|'''34'''}}{{dagger|alt=This was the highest score of the night.}}
+| 26
+| 60
+| 33
+| 23
+| 32
+| 32
+| 33
+| 38
+| 35
+| {{fontcolor|#004600|'''38'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''39'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|70|}} bgcolor="f4c7b8" | 32+38={{fontcolor|#800000|''70''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="11" bgcolor="darkgray" |
+|-
+! scope="row" | Kym & Graziano
+| 6th
+| 23
+| 27
+| 50
+| 33
+| bgcolor="lightblue" | 32{{efn|name=Bottom2}}
+| 27
+| 34
+| 37
+| 31
+| 33
+| bgcolor="fff383" | {{efn|name=OutSick|This couple was excused from competition due to illness or injury, and was granted a [[Bye (sports)|bye]] to the following week.}}
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''34''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="10" bgcolor="darkgray" |
+|-
+! scope="row" | {{nowrap|Ellie T. & Johannes}}
+| 7th
+| 28
+| 23
+| 51
+| 21
+| 30
+| 29
+| {{fontcolor|#004600|'''35'''}}{{dagger|alt=This was the highest score of the night.}}
+| 22
+| 31
+| {{fontcolor|#800000|''31''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''25''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="9" bgcolor="darkgray" |
+|-
+! scope="row" | Tyler & Dianne
+| 8th
+| 22
+| 31
+| 53
+| {{fontcolor|#004600|'''38'''}}{{dagger|alt=This was the highest score of the night.}}
+| 37
+| 32
+| {{fontcolor|#004600|'''35'''}}{{dagger|alt=This was the highest score of the night.}}
+| 29
+| bgcolor="lightblue" | 31{{efn|name=Bottom2}}
+| bgcolor="f4c7b8" | 35{{efn|name=Elim}}
+| rowspan="8" bgcolor="darkgray" |
+|-
+! scope="row" | Tony & Katya
+| 9th
+| {{fontcolor|#800000|''15''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{fontcolor|#800000|''22''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{fontcolor|#800000|''37''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{fontcolor|#800000|''18''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| 26
+| {{fontcolor|#800000|''19''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| 31
+| {{fontcolor|#800000|''21''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| bgcolor="lightgreen" | {{fontcolor|#800000|''24''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|This couple withdrew from the competition.}}
+| rowspan="7" bgcolor="darkgray" |
+|-
+! scope="row" | Ellie S. & Nikita
+| 10th
+| 26
+| 30
+| 56
+| 27
+| 30
+| 30
+| 29
+| bgcolor="f4c7b8" | 33{{efn|name=Elim}}
+| rowspan="6" bgcolor="darkgray" |
+|-
+! scope="row" | James & Amy
+| 11th
+| 22
+| 24
+| 46
+| 22
+| 32
+| 26
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''27''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="5" bgcolor="darkgray" |
+|-
+! scope="row" | Jayde & Karen
+| 12th
+| 23
+| 26
+| 49
+| 29
+| 31
+| bgcolor="f4c7b8" | 28{{efn|name=Elim}}
+| rowspan="4" bgcolor="darkgray" |
+|-
+! scope="row" | Matt & Nadiya
+| 13th
+| 20
+| {{fontcolor|#800000|''22''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| bgcolor="lightblue" | 42{{efn|name=Bottom2|This couple was in the bottom two, but was not eliminated.}}
+| 21
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''20''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="3" bgcolor="darkgray" |
+|-
+! scope="row" | Richie & Giovanni
+| 14th
+| 23
+| 32
+| 55
+| bgcolor="f4c7b8" | 27{{efn|name=Elim}}
+| rowspan="2" bgcolor="darkgray" |
+|-
+! scope="row" | Kaye & Kai
+| 15th
+| 21
+| {{fontcolor|#800000|''22''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| bgcolor="f4c7b8" | 43{{efn|name=Elim|This couple was eliminated.}}
+| bgcolor="darkgray" |
+|}
+;Notes
+{{notelist}}
+
+===Average chart===
+This table only counts for dances scored on a traditional 40-point scale.
+{| class="wikitable sortable" style="text-align:center; font-size:95%"
+|-
+! scope="col" | Couple
+! scope="col" | Rank by<br>average
+! scope="col" | Total<br>points
+! scope="col" | Number of<br>dances
+! scope="col" | Total<br>average
+|-
+! scope="row" | Fleur & Vito
+| 1st
+| 568
+| rowspan="4" | 16
+| 35.5
+|-
+! scope="row" | Molly & Carlos
+| rowspan="2" | 2nd
+| 567
+| rowspan="2" | 35.4
+|-
+! scope="row" | Hamza & Jowita
+| 566
+|-
+! scope="row" | Helen & Gorka
+| 4th
+| 544
+| 34.0
+|-
+! scope="row" | Will & Nancy
+| 5th
+| 433
+| 13
+| 33.3
+|-
+! scope="row" | Tyler & Dianne
+| 6th
+| 290
+| 9
+| 32.2
+|-
+! scope="row" | Kym & Graziano
+| 7th
+| 311
+| 10
+| 31.1
+|-
+! scope="row" | Ellie S. & Nikita
+| 8th
+| 205
+| 7
+| 29.3
+|-
+! scope="row" | Ellie T. & Johannes
+| 9th
+| 275
+| 10
+| 27.5
+|-
+! scope="row" | Jayde & Karen
+| 10th
+| 137
+| 5
+| 27.4
+|-
+! scope="row" | Richie & Giovanni
+| 11th
+| 82
+| 3
+| 27.3
+|-
+! scope="row" | James & Amy
+| 12th
+| 153
+| 6
+| 25.5
+|-
+! scope="row" | Tony & Katya
+| 13th
+| 176
+| 8
+| 22.0
+|-
+! scope="row" | Kaye & Kai
+| 14th
+| 43
+| 2
+| 21.5
+|-
+! scope="row" | Matt & Nadiya
+| 15th
+| 83
+| 4
+| 20.8
+|}
+
+==Weekly scores==
+''Unless indicated otherwise, individual judges scores in the charts below (given in parentheses) are listed in this order from left to right: [[Craig Revel Horwood]], [[Motsi Mabuse]], [[Shirley Ballas]], [[Anton Du Beke]]''.
+
+===Week 1===
+There was no elimination this week; all scores carried over to the following week. Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2022/sep/24/strictly-come-dancing-2022-week-one-live|title=Strictly Come Dancing 2022: week one – as it happened|website=[[The Guardian]]|first=Heidi|last=Stephens|date=24 September 2022|accessdate=24 September 2022|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Dance<ref name="week1"/>
+! scope="col" class="unsortable"|Music<ref name="week1">{{Cite web|url=https://www.radiotimes.com/tv/entertainment/strictly-come-dancing-2022-songs-dances/|title=Strictly Come Dancing songs and dances revealed for week 1|work=[[Radio Times]]|first=James|last=Hibbs|date=24 September 2022|accessdate=24 September 2022|language=en-GB}}</ref>
+|-
+! scope="row" | Kym & Graziano
+| 23 (4, 6, 6, 7)
+| Jive
+| "Yes" — [[Merry Clayton]]
+|-
+! scope="row" | Tyler & Dianne
+| 22 (4, 5, 7, 6)
+| American Smooth
+| "[[Falling (Harry Styles song)|Falling]]" — [[Harry Styles]]
+|-
+! scope="row" | Jayde & Karen
+| 23 (4, 7, 6, 6)
+| Samba
+| "[[Dirrty]]" — [[Christina Aguilera]], feat. [[Redman (rapper)|Redman]]
+|-
+! scope="row" | Kaye & Kai
+| 21 (6, 5, 5, 5)
+| Tango
+| "[[Voulez-Vous]]" — [[ABBA]]
+|-
+! scope="row" | James & Amy
+| 22 (6, 5, 5, 6)
+| Jive
+| "[[What I Like About You (The Romantics song)|What I Like About You]]" — [[The Romantics]]
+|-
+! scope="row" | Richie & Giovanni
+| 23 (5, 5, 6, 7)
+| Cha-cha-cha
+| "[[I'm Your Man (Wham! song)|I'm Your Man]]" — [[Wham!]]
+|-
+! scope="row" | Helen & Gorka
+| 26 (6, 7, 6, 7)
+| American Smooth
+| "[[You Send Me]]" — [[Aretha Franklin]]
+|-
+! scope="row" | Molly & Carlos
+| 31 (7, 8, 8, 8)
+| Samba
+| "[[Kiss My (Uh-Oh)]]" — [[Anne-Marie]] & [[Little Mix]]
+|-
+! scope="row" | Matt & Nadiya
+| 20 (5, 5, 5, 5)
+| Quickstep
+| "[[Sir Duke]]" — [[Stevie Wonder]]
+|-
+! scope="row" | Ellie S. & Nikita
+| 26 (6, 7, 7, 6)
+| Cha-cha-cha
+| "Dance" — [[DNCE]]
+|-
+! scope="row" | Tony & Katya
+| 15 (3, 4, 4, 4)
+| Tango
+| "[[Go West (song)|Go West]]" — [[Village People]]
+|-
+! scope="row" | Will & Nancy
+| 34 (8, 9, 8, 9)
+| Jive
+| "[[Livin' la Vida Loca]]" — [[Ricky Martin]]
+|-
+! scope="row" | Ellie T. & Johannes
+| 28 (6, 7, 7, 8)
+| Quickstep
+| "[[I Am What I Am (Broadway musical song)|I Am What I Am]]" — Klaus Hallen Tanzorchester
+|-
+! scope="row" | Hamza & Jowita
+| 34 (8, 9, 9, 8)
+| Foxtrot
+| "[[Islands in the Stream (song)|Islands in the Stream]]" — [[Kenny Rogers]] & [[Dolly Parton]]
+|-
+! scope="row" | Fleur & Vito
+| 29 (7, 7, 7, 8)
+| Cha-cha-cha
+| "[[Let's Get Loud]]" — [[Jennifer Lopez]]
+|}
+
+===Week 2===
+Musical guest: [[Robbie Williams]] — "[[She's the One (World Party song)|She's the One]]"<ref>{{Cite web|url=https://www.manchestereveningnews.co.uk/news/showbiz-news/bbc-strictly-fans-spot-same-25160538|title=BBC Strictly fans spot same thing about Robbie Williams' bold pink suit as they ask questions about new mullet hair|work=[[Manchester Evening News]]|first=Katie|last=Fitzpatrick|date=2 October 2022|accessdate=8 October 2022|language=en-GB}}</ref>
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{Cite web|url=https://www.liverpoolecho.co.uk/news/tv/strictly-come-dancing-leaderboard-week-25160198|title=Strictly Come Dancing leaderboard: Week 2 results as Molly Rainford scores highest|work=[[Liverpool Echo]]|first=Gemma|last=Jones|date=2 October 2022|accessdate=8 October 2022|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Dance<ref name="week2"/>
+! scope="col" class="unsortable"|Music<ref name="week2">{{Cite web|url=https://www.digitalspy.com/tv/reality-tv/a41407347/strictly-2022-week-2-songs-dances/|title=Strictly Come Dancing week 2 songs and dances announced|work=[[Digital Spy]]|first=Harriet|last=Mitchell|date=27 September 2022|accessdate=8 October 2022|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Result<ref>{{Cite web|url=https://www.radiotimes.com/tv/entertainment/who-left-strictly-come-dancing-week-one-kaye-adams-newsupdate/|title=Who left Strictly Come Dancing 2022? First celebrity to be voted out revealed|work=[[Radio Times]]|first=Lauren|last=Morris|date=2 October 2022|accessdate=8 October 2022|language=en-GB}}</ref>
+|-
+! scope="row" | Will & Nancy
+| 26 (6, 7, 6, 7)
+| Salsa
+| "[[Never Too Much (song)|Never Too Much]]" — [[Luther Vandross]]
+| Safe
+|-
+! scope="row" | James & Amy
+| 24 (5, 6, 6, 7)
+| Tango
+| "[[Bad Habits (Ed Sheeran song)|Bad Habits]]" — [[Ed Sheeran]]
+| Safe
+|-
+! scope="row" | Ellie S. & Nikita
+| 30 (7, 8, 7, 8)
+| Waltz
+| "[[Can't Help Falling in Love]]" — [[Elvis Presley]]
+| Safe
+|-
+! scope="row" | Helen & Gorka
+| 27 (5, 7, 7, 8)
+| Cha-cha-cha
+| "[[Rain on Me (Lady Gaga and Ariana Grande song)|Rain on Me]]" — [[Lady Gaga]] & [[Ariana Grande]]
+| Safe
+|-
+! scope="row" | Tony & Katya
+| 22 (4, 6, 6, 6)
+| Charleston
+| "[[My Old Man's a Dustman]]" — [[Foster and Allen]]
+| Safe
+|-
+! scope="row" | Ellie T. & Johannes
+| 23 (4, 7, 5, 7)
+| Paso doble
+| "[[Toreador Song|Les Toréadors]]" — [[Georges Bizet]]
+| Safe
+|-
+! scope="row" | Richie & Giovanni
+| 32 (8, 8, 8, 8)
+| Quickstep
+| "Dancin' Fool" — [[Barry Manilow]]
+| Safe
+|-
+! scope="row" | Fleur & Vito
+| 28 (7, 8, 6, 7)
+| Viennese waltz
+| "[[Glimpse of Us]]" — [[Joji (musician)|Joji]]
+| Safe
+|-
+! scope="row" | Kaye & Kai
+| 22 (4, 6, 6, 6)
+| Charleston
+| "[[Music! Music! Music!]]" — [[Dorothy Provine]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Hamza & Jowita
+| 24 (4, 7, 6, 7)
+| Jive
+| "[[Blinding Lights]]" — [[the Weeknd]]
+| Safe
+|-
+! scope="row" | Kym & Graziano
+| 27 (6, 7, 7, 7)
+| Viennese waltz
+| "[[Runaway (The Corrs song)|Runaway]]" — [[The Corrs]]
+| Safe
+|-
+! scope="row" | Matt & Nadiya
+| 22 (4, 6, 6, 6)
+| Samba
+| "[[Night Fever]]" — [[Bee Gees]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Tyler & Dianne
+| 31 (7, 8, 8, 8)
+| Jive
+| "[[Hit the Road Jack]]" — [[Ray Charles]]
+| Safe
+|-
+! scope="row" | Jayde & Karen
+| 26 (6, 7, 6, 7)
+| Tango
+| "[[Rumour Has It (Adele song)|Rumour Has It]]" — [[Adele]]
+| Safe
+|-
+! scope="row" | Molly & Carlos
+| 34 (8, 9, 9, 8)
+| Quickstep
+| "[[Love On Top]]" — [[Beyoncé]]
+| Safe
+|}
+;Judges' votes to save
+* Horwood: Matt & Nadiya
+* Mabuse: Matt & Nadiya
+* Du Beke: Matt & Nadiya
+* Ballas: ''Did not vote, but would have voted to save Kaye & Kai''
+
+===Week 3: Movie Week===
+Musical guest: [[Adam Lambert]] — "[[Mad About the Boy (song)|Mad About the Boy]]"<ref>{{Cite web|url=https://entertainment-focus.com/2022/10/07/adam-lambert-releasesmad-about-the-boy-and-confirms-strictly-come-dancing-performance/|title=Adam Lambert Releases 'Mad About The Boy' And Confirms 'Strictly Come Dancing' Performance|work=Entertainment Focus|first=Pip|last=Ellwood-Hughes|date=7 October 2022|accessdate=9 October 2022|language=en-GB}}</ref>
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{Cite web|url=https://www.liverpoolecho.co.uk/news/tv/strictly-come-dancing-leaderboard-live-25214043|title=Strictly Come Dancing leaderboard live: Week 3 scores, results and dances|work=[[Liverpool Echo]]|first=Lottie|last=Gibbons|date=8 October 2022|accessdate=8 October 2022|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Dance<ref name="week3"/>
+! scope="col" class="unsortable"|Music<ref name="week3">{{Cite web|url=https://www.birminghammail.co.uk/news/showbiz-tv/bbc-strictly-come-dancing-week-25212981|title=BBC Strictly Come Dancing week three songs and dances as movie week returns|work=[[Birmingham Mail]]|first=Talya|last=Honebeek|date=8 October 2022|accessdate=8 October 2022|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Film
+! scope="col" class="unsortable"|Result<ref>{{Cite web|url=https://www.edinburghnews.scotsman.com/lifestyle/strictly-come-dancing-2022-movie-week-who-left-the-show-and-how-to-catch-up-3873120|title=Strictly Come Dancing 2022 Movie Week: Who left the show and how to catch-up|work=[[Edinburgh Evening News]]|first=Beth|last=Franklin|date=10 October 2022|accessdate=10 October 2022|language=en-GB}}</ref>
+|-
+! scope="row" | Richie & Giovanni
+| 27 (5, 7, 8, 7)
+| Samba
+| "[[Hakuna Matata (song)|Hakuna Matata]]"
+| ''[[The Lion King]]''
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Molly & Carlos
+| 34 (8, 9, 9, 8)
+| Waltz
+| "[[One Hand, One Heart]]"
+| ''[[West Side Story (1961 film)|West Side Story]]''
+| Safe
+|-
+! scope="row" | Kym & Graziano
+| 33 (7, 9, 8, 9)
+| Charleston 
+| "[[If My Friends Could See Me Now]]"
+| ''[[Sweet Charity (film)|Sweet Charity]]''
+| Safe
+|-
+! scope="row" | Hamza & Jowita
+| 25 (5, 7, 6, 7)
+| Rumba 
+| "Welcome to Jurassic Park"
+| ''[[Jurassic Park (film)|Jurassic Park]]''
+| Safe
+|-
+! scope="row" | Ellie T. & Johannes
+| 21 (4, 6, 5, 6)
+| Cha-cha-cha
+| "[[The Shoop Shoop Song (It's in His Kiss)#Cher version|The Shoop Shoop Song (It's in His Kiss)]]"
+| ''[[Mermaids (1990 film)|Mermaids]]''
+| Safe
+|-
+! scope="row" | Matt & Nadiya
+| 21 (3, 6, 5, 7)
+| Viennese waltz
+| "[[Hold My Hand (Lady Gaga song)|Hold My Hand]]"
+| ''[[Top Gun: Maverick]]''
+| Safe
+|-
+! scope="row" | Tyler & Dianne
+| {{nowrap|38 (9, 10, 10, 9)}}
+| Charleston
+| "Flash, Bang, Wallop"
+| ''[[Half a Sixpence (film)|Half a Sixpence]]''
+| Safe
+|-
+! scope="row" | Fleur & Vito
+| 29 (6, 8, 7, 8)
+| American Smooth
+| "[[Part of Your World]]"
+| ''[[The Little Mermaid (1989 film)|The Little Mermaid]]''
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | James & Amy
+| 22 (4, 6, 6, 6)
+| Cha-cha-cha
+| "[[Hooked on a Feeling (song)|Hooked on a Feeling]]"
+| ''[[Guardians of the Galaxy (film)|Guardians of the Galaxy]]''
+| Safe
+|-
+! scope="row" | Ellie S. & Nikita
+| 27 (6, 7, 7, 7)
+| Quickstep 
+| "Peppy and George"
+| ''[[The Artist (film)|The Artist]]''
+| Safe
+|-
+! scope="row" | Will & Nancy
+| 33 (8, 9, 8, 8)
+| American Smooth
+| "[[Cry to Me]]"
+| ''[[Dirty Dancing]]''
+| Safe
+|-
+! scope="row" | Tony & Katya
+| 18 (2, 6, 4, 6)
+| Samba
+| "[[You Sexy Thing]]"
+| ''[[The Full Monty]]''
+| Safe
+|-
+! scope="row" | Helen & Gorka
+| 31 (7, 8, 8, 8)
+| Viennese waltz
+| "[[Hopelessly Devoted to You]]"
+| ''[[Grease (film)|Grease]]''
+| Safe
+|-
+! scope="row" | Jayde & Karen
+| 29 (7, 8, 7, 7)
+|  Cha-cha-cha
+| "[[Flashdance... What a Feeling]]"
+| ''[[Flashdance]]''
+| Safe
+|}
+;Judges' votes to save
+* Horwood: Fleur & Vito
+* Mabuse: Fleur & Vito
+* Du Beke: Fleur & Vito
+* Ballas: ''Did not vote, but would have voted to save Richie & Giovanni''
+
+===Week 4===
+Musical guest: [[George Ezra]] — "[[Dance All Over Me]]"<ref>{{cite web|url=https://www.walesonline.co.uk/lifestyle/tv/strictly-come-dancings-matt-goss-25277949|title=Strictly Come Dancing's Matt Goss had 'amazing experience' despite elimination|website=[[Wales Online]]|first1=Connie|last1=Evans|first2=Matt|last2=Jackson|date=16 October 2022|access-date=16 October 2022}}</ref>
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=https://theguardian.com/tv-and-radio/live/2022/oct/15/strictly-come-dancing-week-four-live|title=Strictly Come Dancing: week four Results – as it happened|website=[[The Guardian]]|first=Heidi|last=Stephens|date=16 October 2022|access-date=16 October 2022}}</ref>
+! scope="col" class="unsortable"|Dance<ref name="week4"/>
+! scope="col" class="unsortable"|Music<ref name="week4">{{cite web|url=https://entertainment-focus.com/2022/10/12/strictly-come-dancing-2022-week-4-songs-and-dances-revealed/|title='Strictly Come Dancing' 2022 Week 4 Songs And Dances Revealed|work=Entertainment Focus|first=Pip|last=Ellwood-Hughes|date=16 October 2022|access-date=16 October 2022}}</ref>
+! scope="col" class="unsortable"|Result<ref>{{cite web|url=https://www.messengernewspapers.co.uk/news/national/uk-today/23053261.strictly-come-dancing-results-matt-goss-dumped-show/|title=BBC's Strictly Come Dancing Results: Matt Goss dumped from show|website=Messenger Newspapers|first=Lois|last=Mackenzie|date=16 October 2022|access-date=16 October 2022}}</ref>
+|-
+! scope="row" | Ellie S. & Nikita
+| 30 (7, 8, 7, 8)
+| Salsa
+| "[[I Love Your Smile]]" — [[Shanice]]
+| Safe
+|-
+! scope="row" | Will & Nancy
+| 23 (4, 7, 5, 7)
+| Rumba
+| "[[The Joker and the Queen]]" — [[Ed Sheeran]], feat. [[Taylor Swift]]
+| Safe
+|-
+! scope="row" | Matt & Nadiya
+| 20 (3, 6, 5, 6)
+| Jive
+| "[[All Shook Up#Beatles versions|All Shook Up]]" — [[Paul McCartney]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Jayde & Karen
+| 31 (7, 8, 8, 8)
+| American Smooth
+| "[[Wind Beneath My Wings#Bette Midler version|Wind Beneath My Wings]]" — [[Bette Midler]]
+| Safe
+|-
+! scope="row" | Molly & Carlos
+| 35 (8, 9, 9, 9)
+| Cha-cha-cha
+| "Do What I Do" — Lady Bri
+| Safe
+|-
+! scope="row" | James & Amy
+| 32 (8, 8, 8, 8)
+| Quickstep
+| "[[Don't Get Me Wrong]]" — [[The Pretenders]]
+| Safe
+|-
+! scope="row" | Fleur & Vito
+| 38 (9, 10, 9, 10)
+| Argentine tango
+| "[[Paint It, Black]]" — [[Ciara]]
+| Safe
+|-
+! scope="row" | Kym & Graziano
+| 32 (7, 8, 8, 9)
+| Samba
+| "[[Nel blu, dipinto di blu (song)|Volare]]" — [[Gipsy Kings]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Tony & Katya
+| 26 (5, 7, 7, 7)
+| American Smooth
+| "[[With a Little Help from My Friends#Joe Cocker version|With a Little Help from My Friends]]" — [[Joe Cocker]]
+| Safe
+|-
+! scope="row" | Hamza & Jowita
+| {{nowrap|39 (9, 10, 10, 10)}}
+| Salsa
+| "[[Ecuador (song)|Ecuador]]" — [[Sash!]], feat. [[Adrian Rodriguez (DJ)|Rodriguez]]
+| Safe
+|-
+! scope="row" | Helen & Gorka
+| 29 (6, 8, 7, 8)
+| Paso doble
+| "[[Area 52 (album)|Tamacun]]" — [[Rodrigo y Gabriela]]
+| Safe
+|-
+! scope="row" | Ellie T. & Johannes
+| 30 (7, 8, 7, 8)
+| Viennese waltz
+| "[[Boom Bang-a-Bang]]" — [[Lulu (singer)|Lulu]]
+| Safe
+|-
+! scope="row" | Tyler & Dianne
+| 37 (8, 9, 10, 10)
+| Couple's choice
+| "[[A Little Bit of Luck]]" — [[DJ Luck & MC Neat]],<br>"[[21 Seconds]]" — [[So Solid Crew]],<br>"[[Flowers (Sweet Female Attitude song)|Flowers]]" — [[Sweet Female Attitude]] &<br>"[[Re-Rewind (The Crowd Say Bo Selecta)]]" — [[Artful Dodger (duo)|Artful Dodger]], feat. [[Craig David]]
+| Safe
+|}
+;Judges' votes to save
+* Horwood: Kym & Graziano
+* Mabuse: Kym & Graziano
+* Du Beke: Kym & Graziano
+* Ballas: ''Did not vote, but would have voted to save Kym & Graziano''
+
+===Week 5: Celebrating BBC 100 Week===
+Musical guest: [[Becky Hill]] — "[[Crazy What Love Can Do]]", "[[My Heart Goes (La Di Da)]]" & "[[Remember (Becky Hill and David Guetta song)|Remember]]"<ref name="wk5 results">{{cite web |title=Strictly Come Dancing, Series 20, Week 5 Results |url=https://www.bbc.co.uk/programmes/m001dhs8 |website=[[BBC]] |access-date=23 October 2022 |date=23 October 2022}}</ref>
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2022/oct/22/strictly-come-dancing-week-five-live|title=Strictly Come Dancing: week five results – live|website=[[The Guardian]]|first=Heidi|last=Stephens|date=23 October 2022|access-date=25 October 2022}}</ref>
+! scope="col" class="unsortable"|Dance<ref name="week5">{{cite web|url=https://www.birminghammail.co.uk/news/showbiz-tv/strictly-come-dancing-week-5-25320811|title=''Strictly Come Dancing'' week 5 start time and dances for BBC centenary special|work=[[Birmingham Mail]]|first=Talya|last=Honebeek|date=22 October 2022|access-date=25 October 2022}}</ref>
+! scope="col" class="unsortable"|Music<ref name="week5"/>
+! scope="col" class="unsortable"|Celebrating [[BBC]]<ref name="week5"/>
+! scope="col" class="unsortable"|Result<ref>{{cite web|url=https://www.examinerlive.co.uk/news/tv/strictly-come-dancing-tearful-jayde-25336363|title=Strictly Come Dancing tearful Jayde Adams elimination blasted as 'farce' as Tony Adams 'escapes' bottom two again|website=[[Huddersfield Daily Examiner]]|first=Alex|last=Evans|date=23 October 2022|access-date=25 October 2022}}</ref>
+|-
+! scope="row" | Helen & Gorka
+| {{nowrap|35 (8, 9, 9, 9)}}
+| Charleston
+| "[[Blue Peter (instrumental)|Barnacle Bill]]" — Herbert Ashworth-Hope
+| ''[[Blue Peter]]''
+| Safe
+|-
+! scope="row" | Tyler & Dianne
+| 32 (8, 8, 8, 8)
+| Tango
+|  "[[Doctor Who theme music|''Doctor Who'' Theme]]" — [[Segun Akinola]]
+| ''[[Doctor Who]]''
+| Safe
+|-
+! scope="row" | Fleur & Vito
+| 32 (7, 8, 9, 8)
+| Jive
+|  "[[Waterloo (ABBA song)|Waterloo]]" — [[ABBA]]
+| ''[[Eurovision Song Contest]]''
+| Safe
+|-
+! scope="row" | James & Amy
+| 26 (6, 7, 6, 7)
+| Foxtrot
+| "[[Julia's Theme]]" — [[Simon May]]
+| ''[[EastEnders]]''
+| Safe
+|-
+! scope="row" | Ellie S. & Nikita
+| 30 (6, 8, 8, 8)
+| Paso doble
+| "[[Montagues and Capulets]]" — [[Sergei Prokofiev]]
+| ''[[The Apprentice (British TV series)|The Apprentice]]''
+| Safe
+|-
+! scope="row" | Molly & Carlos
+| 30 (6, 8, 8, 8)
+| Couple's choice
+| "[[Chicken Man (theme tune)|Chicken Man]]" — [[Alan Hawkshaw]]
+| ''[[Grange Hill]]''
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Hamza & Jowita
+| 35 (8, 9, 9, 9)
+| Quickstep
+| "[[On Top of the World (Imagine Dragons song)|On Top of the World]]" — [[Imagine Dragons]]
+| [[BBC Nature]]
+| Safe
+|-
+! scope="row" | Ellie T. & Johannes
+| 29 (7, 7, 7, 8)
+| Tango
+| "''Casualty'' Theme" — [[Ken Freeman (composer)|Ken Freeman]]
+| ''[[Casualty (TV series)|Casualty]]''
+| Safe
+|-
+! scope="row" | Jayde & Karen
+| 28 (6, 7, 7, 8)
+| Charleston
+| "The Ballad of Barry & Freda (Let's Do It)" — [[Victoria Wood]]
+| BBC Comedy
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Will & Nancy
+| 32 (8, 8, 8, 8)
+| Viennese waltz
+| "''Line of Duty'' End Title Theme" — [[Carly Paradis]]
+| ''[[Line of Duty]]''
+| Safe
+|-
+! scope="row" | Tony & Katya
+| 19 (3, 6, 4, 6)
+| Cha-cha-cha
+| "''Grandstand'' Theme" — [[Keith Mansfield]]
+| ''[[Grandstand (TV programme)|Grandstand]]''
+| Safe
+|-
+! scope="row" | Kym & Graziano
+| 27 (7, 7, 6, 7)
+| Quickstep
+| "[[Ballroom Blitz]]" — [[Sweet (band)|Sweet]]
+| ''[[Come Dancing]]''
+| Safe
+|}
+;Judges' votes to save
+* Horwood: Molly & Carlos
+* Mabuse: Molly & Carlos
+* Du Beke: Molly & Carlos
+* Ballas: ''Did not vote, but would have voted to save Molly & Carlos''
+
+===Week 6: Halloween Week===
+Musical guest: [[Rina Sawayama]] — "[[This Hell]]"<ref>{{Cite web |title=BBC One – Strictly Come Dancing, Series 20, Week 6 Results |url=https://www.bbc.co.uk/programmes/m001drlx |access-date=2022-10-30 |website=BBC |language=en-GB}}</ref>
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=https://www.examinerlive.co.uk/news/tv/bbc-strictly-come-dancing-2022-25388880|title=BBC ''Strictly Come Dancing'' 2022 week 6 results and votes|work=[[Huddersfield Daily Examiner]]|first=Jamie|last=Kay|date=29 October 2022|access-date=31 October 2022}}</ref>
+! scope="col" class="unsortable"|Dance<ref name="week6-songs">{{cite web|url=https://www.tivysideadvertiser.co.uk/news/23080300.bbc-strictly-come-dancing-halloween-songs-dances-revealed/|title=BBC ''Strictly Come Dancing'' Halloween songs and dances revealed|work=[[Tivyside Advertiser]]|first=Rebecca|last=Carey|date=29 October 2022|access-date=31 October 2022}}</ref>
+! scope="col" class="unsortable"|Music<ref name="week6-songs"/>
+! scope="col" class="unsortable"|Result<ref>{{cite web|url=https://www.liverpoolecho.co.uk/news/tv/bbc-strictly-come-dancing-result-25392881|title=BBC ''Strictly Come Dancing'' result sees James Bye go home after 'ridiculous' bottom two|work=[[Liverpool Echo]]|first=Lottie|last=Gibbons|date=30 October 2022|access-date=31 October 2022}}</ref>
+|-
+! scope="row" | Tony & Katya
+| 31 (7, 8, 8, 8)
+| Quickstep
+| "[[The Devil Went Down to Georgia]]" — [[Charlie Daniels Band]]
+| Safe
+|-
+! scope="row" | Will & Nancy
+| 32 (8, 8, 8, 8)
+| Cha-cha-cha
+| "[[Mama Told Me Not to Come]]" — [[Tom Jones (singer)|Tom Jones]] & [[Stereophonics]]
+| Safe
+|-
+! scope="row" | Kym & Graziano
+| 34 (8, 8, 9, 9)
+| Rumba
+| "[[Frozen (Madonna song)|Frozen]]" — [[Madonna]]
+| Safe
+|-
+! scope="row" | James & Amy
+| 27 (6, 7, 7, 7)
+| Charleston
+| "Bumble Bee" — [[LaVern Baker]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Molly & Carlos
+| 33 (6, 9, 9, 9)
+| Argentine tango
+| "[[Running Up That Hill]]" — [[Kate Bush]]
+| Safe
+|-
+! scope="row" | Tyler & Dianne
+| 35 (7, 9, 9, 10)
+| Cha-cha-cha
+| "[[Day-O (The Banana Boat Song)]]" — Klaus Hallen Tanzorchester
+| Safe
+|-
+! scope="row" | Helen & Gorka
+| 32 (7, 8, 8, 9)
+| Foxtrot
+| "[[Li'l Red Riding Hood]]" — [[Sam the Sham & The Pharaohs]]
+| Safe
+|-
+! scope="row" | Hamza & Jowita
+| 33 (8, 9, 8, 8)
+| Tango
+| "[[Wicked Game]]" — [[Chris Isaak]]
+| Safe
+|-
+! scope="row" | Fleur & Vito
+| 32 (8, 8, 8, 8)
+| Salsa
+| "[[Break My Soul]]" — [[Beyoncé]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Ellie S. & Nikita
+| 29 (6, 8, 7, 8)
+| Foxtrot
+| "Scooby-Doo, Where Are You!" — [[Larry Markes]]
+| Safe
+|-
+! scope="row" | Ellie T. & Johannes
+| 35 (8, 9, 9, 9)
+| Couple's choice
+| "[[I Put a Spell on You]]" — from ''[[Hocus Pocus (1993 film)|Hocus Pocus]]''
+| Safe
+|}
+;Judges' votes to save
+* Horwood: Fleur & Vito
+* Mabuse: Fleur & Vito
+* Du Beke: Fleur & Vito
+* Ballas: ''Did not vote, but would have voted to save Fleur & Vito''
+
+===Week 7===
+Musical guest: [[Luke Evans]] — "[[Bridge over Troubled Water (song)|Bridge over Troubled Water]]"<ref>{{cite web|url=https://www.manchestereveningnews.co.uk/news/tv/bbc-strictly-come-dancing-fans-25450289|title=BBC Strictly Come Dancing fans point out same issue during Luke Evans' 'beautiful' performance|work=[[Manchester Evening News]]|first=Jessica|last=Sansome|date=7 November 2022|access-date=8 November 2022}}</ref>
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2022/nov/05/strictly-come-dancing-week-seven-live|title=Strictly Come Dancing: week seven results – as it happened|website=[[The Guardian]]|first=Heidi|last=Stephens|date=6 November 2022|access-date=8 November 2022}}</ref>
+! scope="col" class="unsortable"|Dance<ref name="week 7 songs">{{cite web|url=https://www.digitalspy.com/tv/reality-tv/a41831257/strictly-songs-dances-week-7/|title=''Strictly Come Dancing'' shares song and dance choices for week 7|work=[[Digital Spy]]|first=Harriet|last=Mitchell|date=1 November 2022|access-date=8 November 2022}}</ref>
+! scope="col" class="unsortable"|Music<ref name="week 7 songs"/>
+! scope="col" class="unsortable"|Result<ref>{{cite web|url=https://www.redditchadvertiser.co.uk/news/national/uk-today/23107977.ellie-simmonds-breaks-silence-bbc-strictly-come-dancing-exit/|title=Ellie Simmonds breaks silence after BBC Strictly Come Dancing exit|website=Redditch Advertiser|first=Rebecca|last=Carey|date=7 November 2022|access-date=8 November 2022}}</ref>
+|-
+! scope="row" | Hamza & Jowita
+| 38 (8, 10, 10, 10)
+| Cha-cha-cha
+| "[[I Can't Help Myself (Sugar Pie Honey Bunch)]]" — [[Four Tops]]
+| Safe
+|-
+! scope="row" | Ellie T. & Johannes
+| 22 (3, 7, 5, 7)
+| Rumba
+| "[[Alone (i-Ten song)#Heart version|Alone]]" — [[Heart (band)|Heart]]
+| Safe
+|-
+! scope="row" | Molly & Carlos
+| 35 (8, 9, 9, 9)
+| Foxtrot
+| "You Make Me Happy" — My Sun and Stars
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Ellie S. & Nikita
+| 33 (7, 9, 8, 9)
+| Charleston
+| "[[Too Darn Hot]]" — from ''[[Kiss Me, Kate]]''
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Tyler & Dianne
+| 29 (7, 7, 7, 8)
+| Viennese waltz
+| "[[I've Been Loving You Too Long]]" — [[Seal (musician)|Seal]]
+| Safe
+|-
+! scope="row" | Kym & Graziano
+| 37 (9, 9, 9, 10)
+| Argentine tango
+| "[[Mr. & Mrs. Smith (2005 film)|Assassin's Tango]]" — [[John Powell (film composer)|John Powell]]
+| Safe
+|-
+! scope="row" | Will & Nancy
+| 33 (8, 8, 8, 9)
+| Quickstep
+| "[[Soda Pop (Robbie Williams song)|Soda Pop]]" — [[Robbie Williams]], feat. [[Michael Bublé]]
+| Safe
+|-
+! scope="row" | Helen & Gorka
+| 37 (9, 9, 9, 10)
+| Jive
+| "[[Tightrope (Janelle Monáe song)|Tightrope]]" — [[Janelle Monáe]]
+| Safe
+|-
+! scope="row" | Fleur & Vito
+| 35 (9, 9, 8, 9)
+| Waltz
+| "[[I Guess That's Why They Call It the Blues]]" — [[Elton John]]
+| Safe
+|-
+! scope="row" | Tony & Katya
+| 21 (4, 6, 5, 6)
+| Salsa
+| "[[I Know You Want Me (Calle Ocho)]]" — [[Pitbull (rapper)|Pitbull]] & "[[The Bomb! (These Sounds Fall into My Mind)|The Bomb! (These Sounds Fall Into My Mind)]]" — [[The Bucketheads]]
+| Safe
+|}
+;Judges' votes to save
+* Horwood: Molly & Carlos
+* Mabuse: Molly & Carlos
+* Du Beke: Molly & Carlos
+* Ballas: ''Did not vote, but would have voted to save Molly & Carlos''
+
+===Week 8===
+Musical guests: [[Sheku Kanneh-Mason]] & [[Zak Abel]] — "Same Boat"<ref>{{cite web |title=Strictly Come Dancing, Series 20, Week 8 Results |url=https://www.bbc.co.uk/programmes/m001f80n |website=[[BBC]] |access-date=13 November 2022 |date=13 November 2022}}</ref>
+
+After initially being announced as one of the bottom two couples, [[Tony Adams]] and [[Katya Jones]] could not compete in the dance-off due to Adams having sustained a [[hamstring]] injury during their original performance. They therefore withdrew from the competition.<ref name=":0" /><ref name="wk8 results" />
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2022/nov/12/strictly-come-dancing-week-eight-live|title=Strictly Come Dancing: week eight results – as it happened|website=[[The Guardian]]|first=Hollie|last=Richardson|date=13 November 2022|access-date=15 November 2022}}</ref>
+! scope="col" class="unsortable"|Dance<ref name="week 8 songs">{{cite web|url=https://www.digitalspy.com/tv/reality-tv/a41898562/strictly-song-choices-dances-week-8/|title=''Strictly Come Dancing'' shares song choices and dances for week 8|work=[[Digital Spy]]|first=Harriet|last=Mitchell|date=8 November 2022|access-date=15 November 2022}}</ref>
+! scope="col" class="unsortable"|Music<ref name="week 8 songs"/>
+! scope="col" class="unsortable"|Result<ref name="wk8 results">{{cite web|url=https://www.theguardian.com/tv-and-radio/2022/nov/13/tony-adams-leaves-strictly-injury|title=Tony Adams leaves Strictly Come Dancing due to injury|website=[[The Guardian]]|first=Haroon|last=Siddique|date=13 November 2022|access-date=15 November 2022}}</ref>
+|-
+! scope="row" | Ellie T. & Johannes
+| 31 (7, 8, 8, 8)
+| Charleston
+| "Friendship" — from ''[[Anything Goes]]''
+| Safe
+|-
+! scope="row" | Tyler & Dianne
+| 31 (6, 8, 8, 9)
+| Paso doble
+| "[[E.S. Posthumus|Unstoppable]]" — [[E.S. Posthumus]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Kym & Graziano
+| 31 (8, 7, 8, 8)
+| American Smooth
+| "[[Chasing Cars]]" — Cinematic Pop
+| Safe
+|-
+! scope="row" | Helen & Gorka
+| 32 (8, 8, 8, 8)
+| Salsa
+| "[[Despacito]]" — [[Luis Fonsi]] & [[Daddy Yankee]], feat. [[Justin Bieber]]
+| Safe
+|-
+! scope="row" | Tony & Katya
+| 24 (4, 6, 7, 7)
+| Jive
+| "[[Land of 1000 Dances]]" — [[Wilson Pickett]]
+| bgcolor="lightgreen" | Withdrew
+|-
+! scope="row" | Molly & Carlos
+| 37 (9, 9, 10, 9)
+| Rumba
+| "[[All The Man That I Need]]" — [[Whitney Houston]]
+| Safe
+|-
+! scope="row" | Fleur & Vito
+| 39 (9, 10, 10, 10)
+| Samba
+| "[[Hot Hot Hot (Arrow song)|Hot Hot Hot]]" — [[Arrow (musician)|Arrow]]
+| Safe
+|-
+! scope="row" | Will & Nancy
+| 38 (9, 10, 10, 9)
+| Waltz
+| "[[Three Times a Lady]]" — [[Commodores]]
+| Safe
+|-
+! scope="row" | Hamza & Jowita
+| 38 (8, 10, 10, 10)
+| Couple's choice
+| "[[Jerusalema]]" — [[Master KG]]
+| Safe
+|}
+
+===Week 9: Blackpool Week===
+Musical guest: [[Sam Ryder]] — "[[You're The Voice]]" & "All The Way Over"<ref name="wk9 results">{{cite web |title=Strictly Come Dancing, Series 20, Week 9 Results |url=https://www.bbc.co.uk/programmes/m001fhm8 |website=[[BBC]] |access-date=13 November 2022 |date=13 November 2022}}</ref>
+
+This week's episode was staged in the [[Tower Ballroom]] at the [[Blackpool Tower]] in [[Blackpool, Lancashire]]. Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2022/nov/19/strictly-come-dancing-week-nine-live|title=Strictly Come Dancing: week nine results – as it happened|website=[[The Guardian]]|first=Heidi|last=Stephens|date=20 November 2022|access-date=23 November 2022}}</ref>
+! scope="col" class="unsortable"|Dance<ref name="week 9 songs">{{cite web|url=https://www.digitalspy.com/tv/reality-tv/a41971941/strictly-2022-blackpool-week-songs-dances/|title=''Strictly Come Dancing'' series 20 reveals songs and dances for Blackpool Week|work=[[Digital Spy]]|first=Justin|last=Harp|date=15 November 2022|access-date=23 November 2022}}</ref>
+! scope="col" class="unsortable"|Music<ref name="week 9 songs"/>
+! scope="col" class="unsortable"|Result<ref>{{cite web|url=https://www.mylondon.news/news/tv/bbc-strictly-come-dancing-tyler-25582758|title=BBC Strictly Come Dancing: Tyler West admits he 'hasn't slept for two nights' since shock elimination|website=MyLondon|first=Ayaan|last=Ali|date=23 November 2022|access-date=23 November 2022}}</ref>
+|-
+! scope="row" | Hamza & Jowita
+| 38 (9, 9, 10, 10)
+| American Smooth
+| "[[New York, New York]]" — [[Frank Sinatra]]
+| Safe
+|-
+! scope="row" | Molly & Carlos
+| 35 (8, 9, 9, 9)
+| Jive
+| "Bandstand Boogie" — [[Barry Manilow]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Kym & Graziano
+| 33 (8, 8, 8, 9)
+| Paso doble
+| "[[Only Girl (In the World)]]" — [[Rihanna]] &<br>"[[We Found Love]]" — Rihanna, feat. [[Calvin Harris]]
+| Safe
+|-
+! scope="row" | Tyler & Dianne
+| 35 (8, 9, 9, 9)
+| Salsa
+| "[[That's the Way (I Like It)]]",<br>"[[(Shake, Shake, Shake) Shake Your Booty]]"<br>& "[[Get Down Tonight]]"<br>— all by [[KC & The Sunshine Band]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Ellie T. & Johannes
+| 31 (7, 8, 8, 8)
+| American Smooth
+| "[[You're My World]]" — [[Cilla Black]]
+| Safe
+|-
+! scope="row" | Helen & Gorka
+| 39 (9, 10, 10, 10)
+| Quickstep
+| "[[Valerie (Zutons song)|Valerie]]" — [[Mark Ronson]], feat. [[Amy Winehouse]]
+| Safe
+|-
+! scope="row" | Fleur & Vito
+| 40 (10, 10, 10, 10)
+| Couple's choice
+| "[[Jumpin', Jumpin']]",<br>"[[Independent Women Part I]]"<br>& "[[Lose My Breath]]"<br>— all by [[Destiny's Child]]
+| Safe
+|-
+! scope="row" | Will & Nancy
+| 35 (8, 9, 9, 9)
+| Samba
+| "[[I Go to Rio]]" — [[Hugh Jackman]]
+| Safe
+|}
+;Judges' votes to save
+* Horwood: Molly & Carlos
+* Mabuse: Molly & Carlos
+* Du Beke: Tyler & Dianne
+* Ballas: Molly & Carlos
+
+===Week 10===
+Musical guests: [[Joel Corry]] & [[Tom Grennan]] — "[[Lionheart (Fearless)]]"<ref>{{cite web |title=Strictly Come Dancing, Series 20, Week 10 Results |url=https://www.bbc.co.uk/programmes/m001fq6y |website=[[BBC]] |access-date=23 November 2022 |date=27 November 2022}}</ref>
+
+After [[Kym Marsh]] tested positive for [[COVID-19]], she was unable to perform on the live show.<ref>{{cite web |date=22 November 2022 |title=Strictly Come Dancing 2022: Kym Marsh tests positive for Covid and will miss BBC show this weekend |url=https://www.edinburghnews.scotsman.com/read-this/strictly-come-dancing-2022-kym-marsh-tests-positive-for-covid-and-will-miss-bbc-show-this-weekend-3927925 |access-date=8 December 2022 |website=[[Edinburgh Evening News]]}}</ref> Under the rules of the show, she was granted a [[Bye (sports)|bye]] to the following week.<ref>{{cite web |date=22 November 2022 |title=Strictly Come Dancing: Kym Marsh tests positive for Covid |url=https://www.bbc.co.uk/news/entertainment-arts-63718895 |access-date=23 November 2022 |website=[[BBC]]}}</ref>
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2022/nov/26/strictly-come-dancing-week-10-live|title=''Strictly Come Dancing'': week 10 results – as it happened|website=[[The Guardian]]|first=Heidi|last=Stephens|date=27 November 2022|access-date=27 November 2022}}</ref>
+! scope="col" class="unsortable"|Dance<ref name="week 10 songs">{{cite web|url=https://www.edinburghnews.scotsman.com/lifestyle/strictly-come-dancing-2022-songs-and-routines-for-week-10-including-billie-eilish-and-sugababes-3928871|title=''Strictly Come Dancing'' 2022: songs and routines for week 10 – including  Billie Eilish and Sugababes|work=[[Edinburgh Evening News]]|first=Beth|last=Franklin|date=23 November 2022|access-date=27 November 2022}}</ref>
+! scope="col" class="unsortable"|Music<ref name="week 10 songs"/>
+! scope="col" class="unsortable"|Result<ref>{{cite web|url=https://www.radiotimes.com/tv/entertainment/who-left-strictly-come-dancing-week-ninth-ellie-taylor/|title=Who left ''Strictly Come Dancing''? Ninth celebrity to be voted out revealed|website=[[Radio Times]]|first=David|last=Craig|date=27 November 2022|access-date=27 November 2022}}</ref>
+|-
+! scope="row" | Will & Nancy
+| 38 (9, 10, 10, 9)
+| Charleston
+| "[[Hush (Billy Joe Royal song)|Hush]]" — [[Kula Shaker]]
+| Safe
+|-
+! scope="row" | Molly & Carlos
+| 35 (8, 9, 9, 9)
+| Tango
+| "[[Bad Guy (Billie Eilish song)|Bad Guy]]" — [[Billie Eilish]]
+| Safe
+|-
+! scope="row" | Ellie T. & Johannes
+| 25 (5, 7, 6, 7)
+| Jive
+| "[[Brown Eyed Girl]]" — [[Van Morrison]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Fleur & Vito
+| 35 (8, 9, 9, 9)
+| Rumba
+| "[[Too Lost in You]]" — [[Sugababes]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Hamza & Jowita
+| 37 (8, 10, 10, 9)
+| Argentine tango
+| "[[Libertango]]" — [[Bond (band)|Bond]]
+| Safe
+|-
+! scope="row" | Helen & Gorka
+| 29 (5, 8, 8, 8)
+| Samba
+| "[[Eso Beso]]" — [[Emma Bunton]]
+| Safe
+|}
+;Judges' votes to save
+* Horwood: Fleur & Vito
+* Mabuse: Fleur & Vito
+* Du Beke: Fleur & Vito
+* Ballas: ''Did not vote, but would have voted to save Fleur & Vito''
+
+===Week 11: Musicals Week (Quarter-final)===
+Musical guests: The cast of ''[[The Cher Show (musical)|The Cher Show]]''<ref>{{cite web |title=Strictly Come Dancing, Series 20, Week 11 Results |url=https://www.bbc.co.uk/programmes/m001fy9l |website=[[BBC]] |access-date=5 December 2022 |date=3 December 2022}}</ref>
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2022/dec/02/strictly-come-dancing-week-11-live|title=''Strictly Come Dancing'': week 11 results – as it happened|website=[[The Guardian]]|first=Heidi|last=Stephens|date=3 December 2022|access-date=5 December 2022}}</ref>
+! scope="col" class="unsortable"|Dance<ref name="week 11 songs">{{cite web|url=https://www.edinburghnews.scotsman.com/lifestyle/strictly-come-dancing-2022-musicals-week-songs-and-routines-including-the-lion-king-cabaret-and-more-3937105|title=''Strictly Come Dancing'' 2022: Musicals Week songs and routines – including The Lion King, Cabaret and more|work=[[Edinburgh Evening News]]|first=Beth|last=Franklin|date=1 December 2022|access-date=5 December 2022}}</ref>
+! scope="col" class="unsortable"|Music<ref name="week 11 songs"/>
+! scope="col" class="unsortable"|Musical
+! scope="col" class="unsortable"|Result<ref>{{cite web|url=https://www.lancs.live/news/celebs-tv/kym-marsh-strictly-come-dancing-25666664|title=Kym Marsh's Strictly Come Dancing goodbye in full as she praises partner Graziano Di Prima|website=Lancs Live|first=Amy|last=Fenton|date=3 December 2022|access-date=5 December 2022}}</ref>
+|-
+! scope="row" | Molly & Carlos
+| 38 (9, 10, 10, 9)
+| Charleston
+| "[[Hot Honey Rag]]"
+| [[Chicago (2002 film)|''Chicago'']]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Hamza & Jowita
+| 36 (9, 9, 9, 9)
+| Samba
+| "[[He Lives in You]]"
+| ''[[The Lion King (musical)|The Lion King]]''
+| Safe
+|-
+! scope="row" | Kym & Graziano
+| 34 (8, 9, 9, 8)
+| Cha-cha-cha
+| "[[Fame (Irene Cara song)|Fame]]"
+| ''[[Fame (musical)|Fame]]''
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Will & Nancy
+| 39 (9, 10, 10, 10)
+| Foxtrot
+| "[[Miss Saigon#Musical numbers|Sun and Moon]]"
+| ''[[Miss Saigon]]''
+| Safe
+|-
+! scope="row" | Helen & Gorka
+| 39 (9, 10, 10, 10)
+| Couple's choice
+| "[[Cabaret (musical)#Musical numbers|Mein Herr]]"
+| ''[[Cabaret (musical)|Cabaret]]''
+| Safe
+|-
+! scope="row" | Fleur & Vito
+| 38 (9, 10, 9, 10)
+| Quickstep
+| "[[I Got Rhythm]]"
+| ''[[An American in Paris (musical)|An American in Paris]]''
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Molly & Carlos
+*Mabuse: Molly & Carlos
+*Du Beke: Kym & Graziano
+*Ballas: Molly & Carlos
+
+===Week 12: Semi-final===
+Musical guest: [[Lewis Capaldi]] — "Pointless"<ref>{{Citation |title=Lewis Capaldi performs Pointless in the Ballroom ✨ BBC Strictly 2022 |url=https://www.youtube.com/watch?v=744K4Qg_dYc |language=en |access-date=2022-12-15}}</ref>
+
+Each couple performed two routines. Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2022/dec/11/strictly-come-dancing-the-semi-final-live|title=''Strictly Come Dancing'': the semi-final results – as it happened|website=[[The Guardian]]|first=Heidi|last=Stephens|date=11 December 2022|access-date=13 December 2022}}</ref>
+! scope="col" class="unsortable"|Dance<ref name="week 12 songs">{{cite web|url=https://www.glasgowworld.com/whats-on/arts-and-entertainment/strictly-songs-and-routines-for-the-semi-final-including-adele-3945804|title=''Strictly Come Dancing'' 2022: Semi-final songs and routines – including Adele, Paulo Nutini and more|work=Glasgow World|first=Will|last=Millar|date=7 December 2022|access-date=12 December 2022}}</ref>
+! scope="col" class="unsortable"|Music<ref name="week 12 songs"/>
+! scope="col" class="unsortable"|Result<ref>{{cite web|url=https://metro.co.uk/2022/12/12/strictly-come-dancing-who-was-eliminated-in-week-12-17922515/|title=Emotional Will Mellor falls at final hurdle and misses out on Strictly Come Dancing final after facing Fleur East in dance-off|website=[[Metro (British newspaper)|Metro]]|first1=Stella|last1=Akinwumi|first2=Emily|last2=Bashfort|date=12 December 2022|access-date=13 December 2022}}</ref>
+|-
+! scope="row" rowspan=2 | Fleur & Vito
+| 35 (8, 9, 8, 10)
+| Paso doble
+| "[[The Time Is Now (Moloko song)|The Time Is Now]]" — [[Moloko]]
+| rowspan=2 bgcolor="lightblue" | Bottom two
+|-
+| 39 (9, 10, 10, 10)
+| Charleston
+| "[[Tu vuò fà l'americano]]" — [[Rosario Fiorello|Fiorello]]
+|-
+! scope="row" rowspan=2 | Helen & Gorka
+| 35 (8, 9, 9, 9)
+| Waltz
+| "[[Only One Road]]" — [[Celine Dion]]
+| rowspan=2 | Safe
+|-
+| 37 (9, 10, 8, 10)
+| Argentine tango
+| "[[Here Comes the Rain Again]]" — [[Eurythmics]]
+|-
+! scope="row" rowspan=2 | Hamza & Jowita
+| 39 (9, 10, 10, 10)
+| Charleston
+| "[[Pencil Full of Lead]]" — [[Paolo Nutini]]
+| rowspan=2 | Safe
+|-
+| 37 (9, 10, 9, 9)
+| Waltz
+| "[[What The World Needs Now]]" — [[Burt Bacharach]]
+|-
+! scope="row" rowspan=2 | Molly & Carlos
+| 36 (8, 9, 9, 10)
+| American Smooth
+| "[[Easy On Me]]" — [[Adele]]
+| rowspan=2 | Safe
+|-
+| 39 (9, 10, 10, 10)
+| Paso doble
+| "[[Survivor (Destiny's Child song)|Survivor]]" — [[2WEI]], feat. Edda Hayes
+|-
+! scope="row" rowspan=2 | Will & Nancy
+| 32 (7, 9, 7, 9)
+| Paso doble
+| "Uccen ([[Dancing with the Stars (American TV series)|DWTS]] Remix)" — Taabli Brothers
+| rowspan=2 bgcolor="f4c7b8" | Eliminated
+|-
+| 38 (9, 10, 9, 10)
+| Couple's choice
+| "Know How" — [[Young MC]],<br>"[[Fools Gold/What the World Is Waiting For|Fools Gold]]" — [[The Stone Roses]]<br>& "[[Step On]]" — [[Happy Mondays]]
+|}
+;Judges' votes to save
+*Horwood: Fleur & Vito
+*Mabuse: Fleur & Vito
+*Du Beke: Will & Nancy
+*Ballas: Fleur & Vito
+
+===Week 13: Final===
+Musical guests: [[Florence and the Machine]] — "[[My Love (Florence and the Machine song)|My Love]]"<ref>{{cite web|url=https://www.birminghammail.co.uk/news/showbiz-tv/bbc-strictly-come-dancing-flooded-25780290|title=BBC Strictly Come Dancing flooded with criticism over Florence and the Machine performance|website=[[Birmingham Mail]]|first=James|last=Rodger|date=17 December 2022|access-date=18 December 2022}}</ref>
+
+Each couple performed three routines: one chosen by the judges, their showdance routine, and their favourite dance of the series. Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2022/dec/17/strictly-come-dancing-the-grand-final-live|title=''Strictly Come Dancing'': the Grand Final – as it happened|website=[[The Guardian]]|first=Heidi|last=Stephens|date=17 December 2022|access-date=18 December 2022}}</ref>
+! scope="col" class="unsortable"|Dance<ref name="week 13 songs">{{cite web|url=https://www.northwalespioneer.co.uk/news/23191234.bbc-strictly-come-dancing-final-songs-dances-revealed/|title=BBC Strictly Come Dancing final songs and dances revealed|work=North Wales Pioneer|first=Katie|last=Collier|date=17 December 2022|access-date=18 December 2022}}</ref>
+! scope="col" class="unsortable"|Music<ref name="week 13 songs"/>
+! scope="col" class="unsortable"|Result<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/2022/dec/17/hamza-yassin-wins-strictly-come-dancing-with-partner-jowita-przysta|title=Hamza Yassin wins Strictly Come Dancing with partner Jowita Przystał|website=[[The Guardian]]|first=Heidi|last=Stephens|date=17 December 2022|access-date=18 December 2022}}</ref>
+|-
+! scope="row" rowspan=3 | Hamza & Jowita
+| 39 (9, 10, 10, 10)
+| Salsa
+| "[[Ecuador (song)|Ecuador]]" — [[Sash!]], feat. [[Adrian Rodriguez (DJ)|Rodriguez]]
+| rowspan=3 bgcolor="gold" | '''Winners'''
+|-
+| 34 (8, 9, 8, 9)
+| Showdance
+| "[[Let's Face the Music and Dance]]" — [[Irving Berlin]]
+|-
+| 40 (10, 10, 10, 10)
+| Couple's choice
+| "[[Jerusalema]]" — [[Master KG]]
+|-
+! scope="row" rowspan=3 | Molly & Carlos
+| 39 (9, 10, 10, 10)
+| Quickstep
+| "[[Love On Top]]" — [[Beyoncé]]
+| rowspan="9" bgcolor="silver" | Runners-up
+|-
+| 37 (8, 10, 9, 10)
+| Showdance
+| "[[Kiss (Prince song)|Kiss]]" & "[[1999 (Prince song)|1999]]" — [[Prince (musician)|Prince]]
+|-
+| 39 (9, 10, 10, 10)
+| Rumba
+| "[[All The Man That I Need]]" — [[Whitney Houston]]
+|-
+! scope="row" rowspan=3 | Fleur & Vito
+| 40 (10, 10, 10, 10)
+| Samba
+| "[[Hot Hot Hot (Arrow song)|Hot Hot Hot]]" — [[Arrow (musician)|Arrow]]
+|-
+| 39 (9, 10, 10, 10)
+| Showdance
+| [[Find Me (Sigma song)|"Find Me"]] — [[Sigma (DJs)|Sigma]], feat. [[Birdy (singer)|Birdy]]
+|-
+| 40 (10, 10, 10, 10)
+| Couple's choice
+| "[[Jumpin', Jumpin']]",<br>"[[Independent Women Part I]]"<br>& "[[Lose My Breath]]"<br>— all by [[Destiny's Child]]
+|-
+! scope="row" rowspan=3 | Helen & Gorka
+| 39 (9, 10, 10, 10)
+| Jive
+| "[[Tightrope (Janelle Monáe song)|Tightrope]]" — [[Janelle Monáe]]
+|-
+| 37 (8, 10, 9, 10)
+| Showdance
+| "Shine" — [[Emeli Sandé]]
+|-
+| 40 (10, 10, 10, 10)
+| Couple's choice
+| "[[Cabaret (musical)#Musical numbers|Mein Herr]]" — from ''[[Cabaret (musical)|Cabaret]]''
+|}
+
+==Dance chart==
+The couples performed the following each week: 
+*Weeks 1–11: One unlearned dance
+*Week 12 (Semifinals): Two unlearned dances
+*Week 13 (Finals): Judges' choice, showdance & favourite dance of the series
+
+{| class="wikitable unsortable" style="text-align:center; font-size:85%; line-height:20px"
+|+''Strictly Come Dancing'' (series 20) – Dance chart
+! rowspan="2" | Couple
+! colspan="16" | Week
+|-
+! scope="col" | 1
+! scope="col" | 2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" | 5
+! scope="col" | 6
+! scope="col" | 7
+! scope="col" | 8
+! scope="col" | 9
+! scope="col" | 10
+! scope="col" | 11
+! scope="col" colspan=2| 12
+! scope="col" colspan=3| 13
+|-
+! scope="row" | Hamza & Jowita
+| Foxtrot
+| Jive
+| Rumba
+| Salsa
+| Quickstep
+| Tango
+| Cha-cha-cha
+| Couple's choice
+| American Smooth
+| Argentine tango
+| Samba
+| Charleston
+| Waltz
+| Salsa
+| Showdance
+| Couple's choice
+|-
+! scope="row" | Fleur & Vito
+| Cha-cha-cha
+| Viennese waltz
+| American Smooth
+| Argentine tango
+| Jive
+| Salsa
+| Waltz
+| Samba
+| Couple's choice
+| Rumba
+| Quickstep
+| Paso doble
+| Charleston
+| Samba
+| Showdance
+| Couple's choice
+|-
+! scope="row" | Helen & Gorka
+| American Smooth
+| Cha-cha-cha
+| Viennese waltz
+| Paso doble
+| Charleston
+| Foxtrot
+| Jive
+| Salsa
+| Quickstep
+| Samba
+| Couple's choice
+| Waltz
+| Argentine tango
+| Jive
+| Showdance
+| Couple's choice
+|-
+! scope="row" | Molly & Carlos
+| Samba
+| Quickstep
+| Waltz
+| Cha-cha-cha
+| Couple's choice
+| Argentine tango
+| Foxtrot
+| Rumba
+| Jive
+| Tango
+| Charleston
+| American Smooth
+| Paso doble
+| Quickstep
+| Showdance
+| Rumba
+|-
+! scope="row" | Will & Nancy
+| Jive
+| Salsa
+| American Smooth
+| Rumba
+| Viennese waltz
+| Cha-cha-cha
+| Quickstep
+| Waltz
+| Samba
+| Charleston
+| Foxtrot
+| Paso doble
+| Couple's choice
+| colspan="3" rowspan="11" style="background:darkgrey;" |
+|-
+! scope="row" | Kym & Graziano
+| Jive
+| Viennese waltz
+| Charleston
+| Samba
+| Quickstep
+| Rumba
+| Argentine tango
+| American Smooth
+| Paso doble
+| bgcolor="darkgray" |
+| Cha-cha-cha
+| colspan="2" rowspan="10" style="background:darkgrey;" |
+|-
+! scope="row" | Ellie T. & Johannes
+| Quickstep
+| Paso doble
+| Cha-cha-cha
+| Viennese waltz
+| Tango
+| Couple's choice
+| Rumba
+| Charleston
+| American Smooth
+| Jive
+| rowspan="9" style="background:darkgrey;" |
+|-
+! scope="row" | Tyler & Dianne
+| American Smooth
+| Jive
+| Charleston
+| Couple's choice
+| Tango
+| Cha-cha-cha
+| Viennese waltz
+| Paso doble
+| Salsa
+| rowspan="8" style="background:darkgrey;" |
+|-
+! scope="row" | Tony & Katya
+| Tango
+| Charleston
+| Samba
+| American Smooth
+| Cha-cha-cha
+| Quickstep
+| Salsa
+| Jive
+| rowspan="7" style="background:darkgrey;" |
+|-
+! scope="row" | Ellie S. & Nikita
+| Cha-cha-cha
+| Waltz
+| Quickstep
+| Salsa
+| Paso doble
+| Foxtrot
+| Charleston
+| rowspan="6" style="background:darkgrey;" |
+|-
+! scope="row" | James & Amy
+| Jive
+| Tango
+| Cha-cha-cha
+| Quickstep
+| Foxtrot
+| Charleston
+| rowspan="5" style="background:darkgrey;" |
+|-
+! scope="row" | Jayde & Karen
+| Samba
+| Tango
+| Cha-cha-cha
+| American Smooth
+| Charleston
+| rowspan="4" style="background:darkgrey;" |
+|-
+! scope="row" | Matt & Nadiya
+| Quickstep
+| Samba
+| Viennese waltz
+| Jive
+| rowspan="3" style="background:darkgrey;" |
+|-
+! scope="row" | Richie & Giovanni
+| Cha-cha-cha
+| Quickstep
+| Samba
+| rowspan="2" style="background:darkgrey;" |
+|-
+! scope="row" | Kaye & Kai
+| Tango
+| Charleston
+| style="background:darkgrey;" |
+|}
+
+==Ratings==
+Weekly ratings for each show on [[BBC One]]. All ratings are provided by BARB.<ref>{{cite web|url=https://www.barb.co.uk/viewing-data/four-screen-dashboard/|title=Four-screen dashboard (7-day data)|publisher=[[BARB]]|access-date=24 September 2022}}</ref>
+{| class="wikitable sortable" style="text-align:center"
+|-
+! scope="col"|Episode
+! scope="col"|Date
+! scope="col"|Official rating<br />(millions)
+! scope="col"|Weekly rank<br />for BBC One
+! scope="col"|Weekly rank<br />for all UK TV
+! scope="col"|Share
+|-
+! scope="row"|Launch show
+| {{dts|23 September}} || 6.68 || 5 || 6 || 35.7%<ref name="share1">{{cite web|url=https://www.thinkbox.tv/research/barb-data/top-programmes-report/|title=Top programmes report week 38, September 19–25|publisher=[[Thinkbox]]|orig-date=2022-04-02|date=2022-10-03|archive-date=2022-10-09|accessdate=2022-12-04|archive-url=https://web.archive.org/web/20221009061908/https://www.thinkbox.tv/research/barb-data/top-programmes-report/|language=en-GB}}</ref>
+|-
+! scope="row"|Week 1
+| {{dts|24 September}} || 9.16 || 3 || 3 || 48.8%<ref name="share1"/>
+|-
+! scope="row"|Week 2
+| {{dts|1 October}} || 8.88 || 1 || 1 || 48.4%<ref name="share2">{{cite web|url=https://www.thinkbox.tv/research/barb-data/top-programmes-report/|title=Top programmes report|website=[[Thinkbox]]|date=2 April 2018|accessdate=10 October 2022|language=en-GB}}</ref>
+|-
+! scope="row"|Week 2 results
+| {{dts|2 October}} || 8.24 || 2 || 2 || 46.2%<ref name="share2"/>
+|-
+! scope="row"|Week 3
+| {{dts|8 October}} || 9.29 || 1 || 1 || 49.7%<ref name="share3">{{cite web|url=https://www.thinkbox.tv/research/barb-data/top-programmes-report/|title=Top programmes report|website=[[Thinkbox]]|date=2 April 2018|accessdate=17 October 2022|language=en-GB}}</ref>
+|-
+! scope="row"|Week 3 results
+| {{dts|9 October}} || 8.30 || 2 || 2 || 44.4%<ref name="share3"/>
+|-
+! scope="row"|Week 4
+| {{dts|15 October}} || 9.22 || 1 || 1 || 47.5%<ref name="share4">{{cite web|url=https://www.thinkbox.tv/research/barb-data/top-programmes-report/|title=Top programmes report|website=[[Thinkbox]]|date=2 April 2018|accessdate=24 October 2022|language=en-GB}}</ref>
+|-
+! scope="row"|Week 4 results
+| {{dts|16 October}} || 8.19 || 2 || 3 || 44.8%<ref name="share4"/>
+|-
+! scope="row"|Week 5
+| {{dts|22 October}} || 9.89 || 1 || 1 || 48.5%<ref name="share5">{{cite web|url=https://www.thinkbox.tv/research/barb-data/top-programmes-report/|title=Top programmes report|website=[[Thinkbox]]|date=2 April 2018|accessdate=31 October 2022|language=en-GB}}</ref>
+|-
+! scope="row"|Week 5 results
+| {{dts|23 October}} || 8.64 || 2 || 2 || 45.9%<ref name="share5"/>
+|-
+! scope="row"|Week 6
+| {{dts|29 October}} || 9.70 || 1 || 1 || 44.6%<ref name="share6">{{cite web|url=https://www.thinkbox.tv/research/barb-data/top-programmes-report/|title=Top programmes report|website=[[Thinkbox]]|date=2 April 2018|accessdate=7 November 2022|language=en-GB}}</ref>
+|-
+! scope="row"|Week 6 results
+| {{dts|30 October}} || 9.09 || 2 || 2 || 30.6%<ref name="share6"/>
+|-
+! scope="row"|Week 7
+| {{dts|5 November}} || 9.91 || 1 || 2 || 53.7%<ref name="share7">{{cite web|url=https://www.thinkbox.tv/research/barb-data/top-programmes-report/|title=Top programmes report|website=[[Thinkbox]]|date=2 April 2018|accessdate=14 November 2022|language=en-GB}}</ref>
+|-
+! scope="row"|Week 7 results
+| {{dts|6 November}} || 8.82 || 2 || 3 || 43.7%<ref name="share7"/>
+|-
+! scope="row"|Week 8
+| {{dts|12 November}} || 9.47 || 1 || 8 || 48.4%<ref name="share8">{{cite web|url=https://www.thinkbox.tv/research/barb-data/top-programmes-report/|title=Top programmes report|website=[[Thinkbox]]|date=2 April 2018|accessdate=21 November 2022|language=en-GB}}</ref>
+|-
+! scope="row"|Week 8 results
+| {{dts|13 November}} || 8.77 || 2 || 9 || 42.3%<ref name="share8"/>
+|-
+! scope="row"|Week 9
+| {{dts|19 November}} || 10.19 || 1 || 8 || 52.1%<ref name="share9">{{cite web|url=https://www.thinkbox.tv/research/barb-data/top-programmes-report/|title=Top programmes report|website=[[Thinkbox]]|date=2 April 2018|accessdate=28 November 2022|language=en-GB}}</ref>
+|-
+! scope="row"|Week 9 results
+| {{dts|20 November}} || 9.09 || 2 || 9 || 46.6%<ref name="share9"/>
+|-
+! scope="row"|Week 10
+| {{dts|26 November}} || 9.66 || 1 || 9 || 45.2%<ref name="share10">{{cite web|url=https://www.thinkbox.tv/research/barb-data/top-programmes-report/|title=Top programmes report|website=[[Thinkbox]]|date=2 April 2018|accessdate=5 December 2022|language=en-GB}}</ref>
+|-
+! scope="row"|Week 10 results
+| {{dts|27 November}} || 8.67 || 2 || 10 || 44.0%<ref name="share10"/>
+|-
+! scope="row"|Week 11
+| {{dts|2 December}} || 8.71 || 2 || 3 || 39.5%<ref name="share11">{{cite web|url=https://www.thinkbox.tv/research/barb-data/top-programmes-report/|title=Top programmes report|website=[[Thinkbox]]|date=2 April 2018|accessdate=12 December 2022|language=en-GB}}</ref>
+|-
+! scope="row"|Week 11 results
+| {{dts|3 December}} || 8.49 || 3 || 4 || 48.8%<ref name="share11"/>
+|-
+! scope="row"|Week 12
+| {{dts|11 December}} || 9.93 || 1 || 2 || 48.1%<ref name="share12">{{cite web|url=https://www.thinkbox.tv/research/barb-data/top-programmes-report/|title=Top programmes report|website=[[Thinkbox]]|date=2 April 2018|accessdate=23 December 2022|language=en-GB}}</ref>
+|-
+! scope="row"|Week 12 results
+| {{dts|12 December}} || 7.22 || 4 || 4 || 33.8%<ref name="share13">{{cite web|url=https://www.thinkbox.tv/research/barb-data/top-programmes-report/|title=Top programmes report|website=[[Thinkbox]]|date=2 April 2018|accessdate=27 December 2022|language=en-GB}}</ref>
+|-
+! scope="row"|Week 13
+| {{dts|17 December}} || 10.61 || 1 || 1 || 55.2%<ref name="share13"/>
+|-
+! Series average<br>(excl. launch show)
+! 2022
+! 9.09
+! {{N/A}}
+! {{N/A}}
+! 44.0%
+|}
+
+==References==
+{{Reflist}}
+
+== External links ==
+* {{BBC Online|id=strictlycomedancing|title=''Strictly Come Dancing''}}
+
+{{Strictly Come Dancing}}
+
+[[Category:2022 British television seasons]]
+[[Category:Strictly Come Dancing series]]
+[[Category:Death and state funeral of Elizabeth II]]
+[[Category:Kym Marsh]]

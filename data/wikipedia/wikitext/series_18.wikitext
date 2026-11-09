@@ -1,0 +1,1256 @@
+{{short description|Established ballroom dancing competition}}
+{{Use dmy dates|date=April 2021}}
+{{Infobox television season
+| module1       = {{Infobox reality competition season
+ | celebrity_winner    = [[Bill Bailey]]
+ | professional_winner = [[Oti Mabuse]]
+| presenter = [[Tess Daly]]<br>[[Claudia Winkleman]]
+| judges    = [[Shirley Ballas]]<br>[[Motsi Mabuse]]<br>[[Craig Revel Horwood]]<br>[[Anton Du Beke]] (guest)
+}}
+| bgcolor       = #84ccec
+| image         = <!-- Do NOT place a non-free image here without complying with WP:NFCC #10c -->
+| caption       =
+| network       = [[BBC One]]
+| first_aired   = {{start date|df=y|2020|10|17}}
+| last_aired    = {{end date|df=y|2020|12|19}}
+| num_episodes  = 17
+| series_number = 18
+| prev_series   = [[Strictly Come Dancing series 17|Series 17]]
+| next_series   =  
+}}
+'''''[[Strictly Come Dancing]]'''''  returned for its '''eighteenth series''' with a launch show on 17 October 2020 on BBC One, and the live shows beginning on 24 October.<ref>{{Cite web|url=https://www.radiotimes.com/news/tv/2020-10-01/strictly-come-dancing-2020-launch-sat-17th-october/|title=Strictly Come Dancing to launch on Saturday 17th October|work=[[Radio Times]]|first=Patrick|last=McLean|date=1 October 2020|access-date=1 October 2020|language=en-GB}}</ref> Due to the [[COVID-19 pandemic]], the series launched a month later than usual and ran for only nine weeks instead of the usual thirteen.<ref>{{Cite news|url=https://www.bbc.com/news/entertainment-arts-53168872|title=Strictly Come Dancing 2020 to be shorter series|work=BBC News|date=24 June 2020|access-date=24 June 2020}}</ref><ref>{{cite web|url=https://www.radiotimes.com/news/tv/2020-07-01/strictly-come-dancing-2020-start-date-blackpool/|title=Strictly start date revealed as Blackpool set to go ahead during shorter series|first=David|last=Craig|work=[[Radio Times]]|date=1 July 2020|access-date=24 August 2020}}</ref><ref>{{cite web|url=https://tellymix.co.uk/reality-tv/strictly-come-dancing/446035-strictly-come-dancing-2020-start-date-revealed-with-a-shorter-series.html|title=Strictly Come Dancing 2020 start date 'revealed' with a shorter series|first=Josh|last=Darvill|work=TellyMix|date=1 July 2020|access-date=24 August 2020}}</ref> [[Tess Daly]] and [[Claudia Winkleman]] returned as hosts, while [[Zoe Ball]] and [[Rylan Clark-Neal]] returned to host ''[[Strictly Come Dancing: It Takes Two]]''.<ref>{{cite web|url=https://metro.co.uk/2020/09/02/how-strictly-come-dancing-2020-going-to-work-13211904/|title=How is Strictly Come Dancing 2020 going to work?|work=[[Metro (British newspaper)|Metro]]|first=Aidan|last=Milan|date=2 September 2020|access-date=18 October 2020|language=en-GB}}</ref> Clark-Neal was replaced by [[Gethin Jones]] for four shows after coming into contact with someone who had tested positive for COVID-19.
+
+On 12 September, it was announced that for the first time since the [[Strictly Come Dancing (series 10)|tenth series]], there would be no live show broadcast from the [[Blackpool Tower Ballroom]] due to the pandemic.<ref>{{Cite web|url=https://www.bbc.com/news/entertainment-arts-54134368|title=Strictly's Blackpool special cancelled for 2020|date=12 September 2020|access-date=12 September 2020|publisher=[[BBC News]]}}</ref> However, it was announced shortly afterwards that there would be four episodes highlighting the best moments from previous series.<ref>{{Cite web|url=https://www.bbc.co.uk/newsround/54092487|title=Strictly Come Dancing: The Best Of series starts in September – CBBC Newsround|publisher=[[BBC]]|date=19 September 2020|access-date=19 September 2020}}</ref> The final episode featured a tribute to 2014 winner [[Caroline Flack]], who had died on 15 February that year.<ref>{{Cite web|url=https://www.digitalspy.com/tv/reality-tv/a34336189/strictly-come-dancing-caroline-flack-tribute/|title=Strictly Come Dancing pays an emotional tribute to Caroline Flack|first=Tasha|last=Hegarty|date=10 October 2020|access-date=10 October 2020|website=[[Digital Spy]]}}</ref>
+
+[[Shirley Ballas]], [[Craig Revel Horwood]], and [[Motsi Mabuse]] returned to the judging panel.<ref>{{cite web|url=https://www.belfasttelegraph.co.uk/entertainment/film-tv/news/in-pictures-a-first-look-at-the-strictly-come-dancing-launch-show-39634651.html|title=In Pictures: A first look at the Strictly Come Dancing launch show|work=[[Belfast Telegraph]]|first=Kerri-Ann|last=Ropper|date=16 October 2020|access-date=18 October 2020|language=en-GB}}</ref> On 21 August 2020, it was announced that [[Bruno Tonioli]] could not be part of the judging panel for this series due to travel restrictions imposed by the [[COVID-19 pandemic]] and his role on ''[[Dancing with the Stars (American TV series)|Dancing with the Stars]]''. Tonioli instead appeared virtually to give his critiques on the performances during the Sunday night results show. Motsi Mabuse had to miss weeks 4 and 5 in accordance with British government guidelines after travelling to Germany due to a break-in at her dance academy;<ref>{{cite web|url=https://twitter.com/MOTSI_MABUSE/status/1326992505037053953|title=Motsi Mabuse on Twitter: "#Strictly"|date=12 November 2020|access-date=13 November 2020}}</ref><ref name="hp">{{cite web|url=https://www.huffingtonpost.co.uk/entry/motsi-mabuse-strictly-come-dancing-dance-school-break-in-germany_uk_5fafa457c5b6c5f3d2f7a6bc|title=Strictly Come Dancing's Motsi Mabuse Reveals Break-In At Her Dance School, Amid Her Return To Germany|access-date=28 November 2020|date=14 November 2020|work=[[Huffington Post]]}}</ref> she was replaced by professional dancer [[Anton Du Beke]], who had previously been eliminated from the competition alongside [[Jacqui Smith]].<ref>{{cite web|url=https://twitter.com/bbcstrictly/status/1327221330039754753|title=BBC Strictly on Twitter: "News: Anton has a new role on #Strictly this weekend!"|date=13 November 2020|access-date=13 November 2020}}</ref><ref name=":0">{{Cite web|url=https://www.bbc.com/news/entertainment-arts-54930079|title=Strictly Come Dancing: Anton Du Beke to replace Motsi Mabuse this weekend|publisher=[[BBC News]]|date=13 November 2020|access-date=14 November 2020|language=en-GB}}</ref> Du Beke became a permanent judge from [[Strictly Come Dancing series 19|the nineteenth series]].
+
+[[Bill Bailey]] and [[Oti Mabuse]] were announced as the winners on 19 December,<ref>{{Cite web |date=19 December 2020 |title=Strictly Come Dancing: Bill Bailey crowned 2020 winner |url=https://www.bbc.co.uk/news/entertainment-arts-55345136 |access-date=19 December 2020 |publisher=[[BBC News]]}}</ref> while [[Hrvy|HRVY]] and [[Janette Manrara]], [[Jamie Laing]] and [[Karen Hauer]], and [[Maisie Smith]] and [[Gorka Márquez]] were the runners-up.
+
+== Format ==
+{{Further|Strictly Come Dancing#Format}}
+
+{{Multiple image
+ | align        = right
+ | total_width  = 550
+
+ | header       = Hosts and Judges for Strictly Come Dancing Series 18
+
+ | image1       = Tess Daly Cropped.jpg
+ | alt1         =
+ | caption1     = [[Tess Daly]]
+
+ | image2       = Claudia Winkleman at BAFTA 2026 01.jpg
+ | alt2         =
+ | caption2     = [[Claudia Winkleman]]
+
+ | image3       = Craig-Revel-Horwood-2022.png
+ | alt3         = 
+ | caption3     = [[Craig Revel Horwood]]
+
+ | image4       = 2022-06-22-Motsi Mabuse LEA Live Entertainment Award 15 -0167.jpg
+ | alt4         =
+ | caption4     = [[Motsi Mabuse]]
+
+ | image5       = Shirley Ballas 20241205.jpg
+ | alt5         =
+ | caption5     = [[Shirley Ballas]]
+
+ | image6       = Anton_Du_Beke_in_2019.png
+ | alt6         =
+ | caption6     = [[Anton Du Beke]] (Guest)
+}}
+
+The couples dance each week in a live show. The judges score each performance out of ten. The couples are then ranked according to the judges' scores and given points according to their rank, with the lowest scored couple receiving one point, and the highest scored couple receiving the most points (the maximum number of points available depends on the number of couples remaining in the competition). The public are also invited to vote for their favourite couples, and the couples are ranked again according to the number of votes they receive, again receiving points; the couple with the fewest votes receiving one point, and the couple with the most votes receiving the most points.
+
+The points for judges' score and public vote are then added together, and the two couples with the fewest points are placed in the bottom two. If two couples have equal points, the points from the public vote are given precedence. As with the previous series, the bottom two couples have to perform a dance-off on the results show. Based on that performance alone, each judge then votes on which couple should stay and which couple should leave, with [[Shirley Ballas]], as head judge, having the last and [[Casting vote|deciding vote]].
+
+==Professional dancers ==
+On 6 March 2020, [[Kevin Clifton]] announced he was leaving the show after seven years.<ref>{{Cite web|url=https://www.digitalspy.com/tv/reality-tv/a31259464/strictly-come-dancing-professional-kevin-clifton-leaves-quit/|title=Strictly Come Dancing professional Kevin Clifton leaves the show|last=Earp|first=Catherine|date=6 March 2020|website=Digital Spy|language=en-GB|access-date=6 March 2020}}</ref> Despite being confirmed in the 2020 professional line-up, on 26 March 2020, [[AJ Pritchard]] announced he was leaving the show after four years.<ref>{{cite news|last=Daly|first=Helen|url=https://www.radiotimes.com/news/tv/2020-03-26/strictly-come-dancing-aj-pritchard-quit/|title=AJ Pritchard quits BBC show – here's why|publisher=Radio Times|date=26 March 2020|access-date=28 March 2020}}</ref> The other professional dancers from 2019 were all confirmed to be returning for the series.<ref>{{Cite web|url=https://www.bbc.co.uk/blogs/strictlycomedancing/entries/355f2acd-1c2a-438f-a0a8-f75245114f91|title=BBC Blogs – Strictly Come Dancing – Pro-dancer line-up for 2020 revealed!|publisher=[[BBC One]]|date=12 March 2020|access-date=28 August 2020}}</ref> [[Neil Jones (dancer)|Neil Jones]] and [[Nadiya Bychkova]] only featured in group dances after having partners the previous year, alongside [[Graziano Di Prima]] and [[Nancy Xu]].<ref>{{Cite web|title=Strictly Come Dancing's Neil Jones benched as pros without partners confirmed|url=https://www.radiotimes.com/news/tv/2020-09-28/strictly-come-dancing-2020-neil-jones-partner/|access-date=28 September 2020|website=Radio Times|language=en}}</ref><ref>{{Cite web|title=Strictly Come Dancing bosses 'recruit BGT star as part of pro dancers for 2020 series'|url=https://www.entertainmentdaily.co.uk/tv/strictly-come-dancing-bosses-recruit-bgt-star-as-part-of-pro-dancers-for-2020-series/|date=19 August 2020|access-date=25 October 2020|website=Entertainment Daily|last=Carter|first=Rebecca|language=en}}</ref>
+
+Due to the pandemic, several changes had to be made in how the professional dancers performed. Firstly, the dancers had to shield at home for two weeks. They then formed a bubble which allowed them to stay in a hotel, where they could practise their routines. All of the group dances were pre-recorded.<ref>{{Cite news|url=https://www.mirror.co.uk/tv/tv-news/inside-strictly-come-dancings-luxury-22867560|title=Inside Strictly Come Dancing's luxury hotel where pros isolated and rehearsed in dance tent|work=[[Daily Mirror]]|first=Lewis|last=Knight|date=19 October 2020|access-date=23 October 2020|language=en-GB}}</ref>
+
+==Couples==
+This series featured twelve celebrity contestants. On 1 September 2020, the first three celebrities announced were [[Caroline Quentin]], [[Jason Bell (American football)|Jason Bell]], and [[Max George]].<ref>{{cite web|url=https://www.bbc.co.uk/blogs/strictlycomedancing/entries/175048bc-6060-4a91-8ffa-66f095c8e478|title=BBC Blogs – Strictly Come Dancing – Meet our first three celebrities for Strictly 2020!|website=BBC One|date=1 September 2020|access-date=1 September 2020|language=en}}</ref> On 2 September 2020, it was announced that Olympic boxer [[Nicola Adams]] would be part of the first same-sex partnership.<ref>{{cite web|url=https://www.bbc.co.uk/news/entertainment-arts-53989693?intlink_from_url=https://www.bbc.co.uk/news/entertainment_and_arts&link_location=live-reporting-story|title=Strictly Come Dancing: Ex-boxer Nicola Adams to have same-sex dance partner|publisher=[[BBC News]]|date=2 September 2020|access-date=2 September 2020|language=en}}</ref> On 3 September 2020, ''[[Made in Chelsea]]'' star [[Jamie Laing]] was confirmed to be participating in the series after having to withdraw from the [[Strictly Come Dancing (series 17)|seventeenth series]] due to a foot injury.<ref>{{cite web|url=https://www.radiotimes.com/news/tv/2020-09-03/jamie-laing-strictly-come-dancing-2020-contestant/|title=Meet Jamie Laing – Strictly Come Dancing 2020 contestant and Made in Chelsea Star|work=[[Radio Times]]|first=Grace|last=Henry|date=3 September 2020|access-date=6 September 2020|language=en}}</ref> Celebrity reveals continued throughout the week until the full line-up was revealed on 4 September 2020.<ref>{{cite web|url=https://www.bt.com/tv/entertainment/strictly-come-dancing-2020-cast-lineup-celebrities|title=Strictly Come Dancing 2020: All the confirmed celebrities – The full list|publisher=[[BT TV]]|first=Alex|last=Fletcher|date=4 September 2020|access-date=6 September 2020|language=en}}</ref> On 12 November 2020, it was announced that [[Katya Jones]] had tested positive for [[Coronavirus disease 2019|COVID-19]], which meant that she and Nicola Adams had to withdraw from the competition due to the government's guidelines on self-isolation.<ref>{{cite web|url=https://www.bbc.co.uk/blogs/strictlycomedancing/entries/6fdf823a-2afa-4803-8a33-a190b3af4019|title=Nicola and Katya leave Strictly 2020|publisher=[[BBC One]]|date=12 November 2020|access-date=12 November 2020|language=en-GB}}</ref>
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! scope="col" | Celebrity
+! scope="col" class="unsortable"| Notability
+! scope="col" | Professional partner
+! scope="col" | Status
+|- style="height:50px"
+! scope="row" | [[Jacqui Smith]]
+| [[Labour Party (UK)|Labour Party]] politician
+| [[Anton Du Beke]]
+| bgcolor="f4c7b8" | Eliminated 1st<br /><small>on 1 November 2020</small>
+|- style="height:50px"
+! scope="row" | [[Jason Bell (American football)|Jason Bell]]
+| [[National Football League|NFL]] player & pundit
+| [[Luba Mushtuk]]
+| bgcolor="f4c7b8" | Eliminated 2nd<br /><small>on 8 November 2020</small>
+|- style="height:50px"
+! scope="row" | [[Nicola Adams]]
+| [[Boxing at the Summer Olympics|Olympic boxer]]
+| [[Katya Jones]]
+| bgcolor="lightgreen" | Withdrew<br /><small>on 12 November 2020</small>
+|- style="height:50px"
+! scope="row" | [[Max George]]
+| [[The Wanted]] singer
+| [[Dianne Buswell]]
+| bgcolor="f4c7b8" | Eliminated 3rd<br /><small>on 15 November 2020</small>
+|- style="height:50px"
+! scope="row" | {{nowrap|[[Caroline Quentin]]}}
+| Actress & television presenter
+| [[Johannes Radebe]]
+| bgcolor="f4c7b8" | Eliminated 4th<br /><small>on 22 November 2020</small>
+|- style="height:50px"
+! scope="row" | [[Clara Amfo]]
+| [[BBC Radio 1]] presenter
+| [[Aljaž Škorjanec]]
+| bgcolor="f4c7b8" | Eliminated 5th<br /><small>on 29 November 2020</small>
+|- style="height:50px"
+! scope="row" | [[JJ Chalmers]]
+| Television presenter & [[Invictus Games]] medallist
+| [[Amy Dowden]]
+| bgcolor="f4c7b8" | Eliminated 6th<br /><small>on 6 December 2020</small>
+|- style="height:50px"
+! scope="row" | [[Ranvir Singh]]
+| ''[[Good Morning Britain (2014 TV programme)|Good Morning Britain]]'' presenter & journalist
+| [[Giovanni Pernice]]
+| bgcolor="f4c7b8" | Eliminated 7th<br /><small>on 13 December 2020</small>
+|- style="height:50px"
+! scope="row" | [[Hrvy|HRVY]]
+| Singer & television presenter
+| [[Janette Manrara]]
+| rowspan=3 bgcolor="silver" | Runners-up<br /><small>on 19 December 2020</small>
+|- style="height:50px"
+! scope="row" | [[Jamie Laing]]
+| ''[[Made in Chelsea]]'' star
+| [[Karen Hauer]]
+|- style="height:50px"
+! scope="row" | [[Maisie Smith]]
+| ''[[EastEnders]]'' actress
+| [[Gorka Márquez]]
+|- style="height:50px"
+! scope="row" | [[Bill Bailey]]
+| Comedian, musician & actor
+| [[Oti Mabuse]]
+| bgcolor="gold" |'''Winners'''<br /><small>on 19 December 2020</small>
+|}
+
+==Scoring chart==
+The highest score each week is indicated in {{fontcolor|#004600|'''bold green'''}} with a dagger ({{dagger}}), while the lowest score each week is indicated in {{fontcolor|#800000|''italicized red''}} with a double-dagger ({{double-dagger}}).
+
+'''Color key:'''
+{{columns-list|colwidth=20em|
+{{legend|gold|Winners}}
+{{legend|silver|Runners-up}}
+{{legend|lightblue|Bottom two}}
+{{legend|lightgreen|Withdrew from competition}}
+{{legend|#f4c7b8|Eliminated}}
+}}
+{| class="wikitable sortable" style="text-align:center; font-size:95%"
+|+''Strictly Come Dancing'' (series 18) - Weekly scores
+|-
+! rowspan="2" scope="col" | Couple
+! rowspan="2" scope="col" | {{Abbr|Pl.|Place}}
+! colspan="10" | Week
+|-
+! scope="col" | 1
+! scope="col" | 2
+! scope="col" | 1+2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" | 5
+! scope="col" | 6
+! scope="col" | 7
+! scope="col" | 8
+! scope="col" | 9
+|-
+! scope="row" | Bill & Oti
+| 1st
+| 15
+| 24
+| 39
+| 26
+| 27
+| 25
+| 24
+| 24
+| {{sort|48|}} | 25+23=48
+| {{sort|88|}} bgcolor="gold" | 29+30+29={{fontcolor|#004600|'''88'''}}{{dagger|alt=This was the highest score of the night.}}{{efn|This couple finished in first place.}}
+|-
+! scope="row" | HRVY & Janette
+| rowspan=3 | 2nd
+| {{fontcolor|#004600|'''25'''}}{{dagger|alt=This was the highest score of the night.}}
+| 24
+| {{fontcolor|#004600|'''49'''}}{{dagger|alt=This was the highest score of the night.}}
+| 21
+| 27
+| 26
+| {{fontcolor|#004600|'''30'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''29'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|53|}} | 23+30=53
+| {{sort|88|}} bgcolor="silver" | 29+29+30={{fontcolor|#004600|'''88'''}}{{dagger|alt=This was the highest score of the night.}}{{efn|name=2nd}}
+|-
+! scope="row" | Jamie & Karen
+| 14
+| 17
+| bgcolor="lightblue" | 31{{efn|name=Bottom2}}
+| 23
+| 25
+| {{fontcolor|#004600|'''29'''}}{{dagger|alt=This was the highest score of the night.}}
+| bgcolor="lightblue" | 24{{efn|name=Bottom2}}
+| bgcolor="lightblue" | 24{{efn|name=Bottom2}}
+| {{sort|48|}} bgcolor="lightblue" | 24+24=48{{efn|name=Bottom2}}
+| {{sort|84|}} bgcolor="silver" | 26+29+29={{fontcolor|#800000|''84''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=2nd|This couple finished in second place.}}
+|-
+! scope="row" | Maisie & Gorka
+| 24
+| {{fontcolor|#004600|'''25'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''49'''}}{{dagger|alt=This was the highest score of the night.}}
+| 24
+| bgcolor="lightblue" | 24{{efn|name=Bottom2}}
+| bgcolor="lightblue" | 27{{efn|name=Bottom2}}
+| 29
+| 28
+| {{sort|59|}} | 30+29={{fontcolor|#004600|'''59'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|88|}} bgcolor="silver" | 29+30+29={{fontcolor|#004600|'''88'''}}{{dagger|alt=This was the highest score of the night.}}{{efn|name=2nd}}
+|-
+! scope="row" | Ranvir & Giovanni
+| 5th
+| 21
+| 21
+| 42
+| {{fontcolor|#004600|'''27'''}}{{dagger|alt=This was the highest score of the night.}}
+| 20
+| 27
+| 24
+| 27
+| {{sort|44|}} bgcolor="f4c7b8" | 26+18={{fontcolor|#800000|''44''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="8" bgcolor="darkgray" |
+|-
+! scope="row" | JJ & Amy
+| 6th
+| 19
+| 17
+| 36
+| 24
+| {{fontcolor|#800000|''17''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| 25
+| 25
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''20''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="7" bgcolor="darkgray" |
+|-
+! scope="row" | Clara & Aljaž
+| 7th
+| 18
+| 17
+| 35
+| 20
+| {{fontcolor|#004600|'''29'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#800000|''18''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''19''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="6" bgcolor="darkgray" |
+|-
+! scope="row" | {{nowrap|Caroline & Johannes}}
+| 8th
+| 21
+| 21
+| 42
+| 21
+| 22
+| bgcolor="f4c7b8" | 24{{efn|name=Elim}}
+| rowspan="5" bgcolor="darkgray" |
+|-
+! scope="row" | Max & Dianne
+| 9th
+| 17
+| 20
+| 37
+| 24
+| bgcolor="f4c7b8" | 20{{efn|name=Elim}}
+| rowspan="4" bgcolor="darkgray" |
+|-
+! scope="row" | Nicola & Katya
+| 10th
+| 21
+| 24
+| 45
+| bgcolor="lightblue" | 19{{efn|name=Bottom2|This couple was in the bottom two, but was not eliminated.}}
+| bgcolor="lightgreen" | {{efn|This couple withdrew from the competition.}}
+|-
+! scope="row" | Jason & Luba
+| 11th
+| 16
+| 18
+| 34
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''12''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="2" bgcolor="darkgray" |
+|-
+! scope="row" | Jacqui & Anton
+| 12th
+| {{fontcolor|#800000|''13''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{fontcolor|#800000|''12''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''25''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim|This couple was eliminated.}}
+| bgcolor="darkgray" |
+|}
+;Notes
+{{notelist}}
+
+===Average chart===
+This table only counts for dances scored on a 30-point scale.
+{| class="wikitable sortable" style="text-align:center; font-size:95%"
+|-
+! scope="col" | Couple
+! scope="col" | Rank by<br>average
+! scope="col" | Total<br>points
+! scope="col" | Number of<br>dances
+! scope="col" | Total<br>average
+|-
+! scope="row" | Maisie & Gorka
+| 1st
+| 328
+| rowspan="4" | 12
+| 27.3
+|-
+! scope="row" | HRVY & Janette
+| 2nd
+| 323
+| 26.9
+|-
+! scope="row" | Bill & Oti
+| 3rd
+| 301
+| 25.1
+|-
+! scope="row" | Jamie & Karen
+| 4th
+| 288
+| 24.0
+|-
+! scope="row" | Ranvir & Giovanni
+| 5th
+| 211
+| 9
+| 23.4
+|-
+! scope="row" | Caroline & Johannes
+| 6th
+| 109
+| 5
+| 21.8
+|-
+! scope="row" | Nicola & Katya
+| 7th
+| 64
+| 3
+| 21.3
+|-
+! scope="row" | JJ & Amy
+| 8th
+| 147
+| 7
+| 21.0
+|-
+! scope="row" | Max & Dianne
+| 9th
+| 81
+| 4
+| 20.3
+|-
+! scope="row" | Clara & Aljaž
+| 10th
+| 121
+| 6
+| 20.2
+|-
+! scope="row" | Jason & Luba
+| 11th
+| 46
+| 3
+| 15.3
+|-
+! scope="row" | Jacqui & Anton
+| 12th
+| 25
+| 2
+| 12.5
+|}
+
+==Weekly scores==
+''Unless indicated otherwise, individual judges' scores in the charts below (given in parentheses) are listed in this order from left to right: [[Craig Revel Horwood]], [[Shirley Ballas]], [[Motsi Mabuse]]''.
+
+===Week 1===
+There was no elimination this week; all scores and votes carried over to the following week. Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=https://www.mirror.co.uk/tv/tv-news/strictly-come-dancing-leaderboard-week-22900711|title=Strictly Come Dancing leaderboard: Week 1 as HRVY beats Maisie Smith to top spot|work=[[Daily Mirror]]|first=Lewis|last=Knight|date=24 October 2020|access-date=24 October 2020|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music<ref>{{cite web|url=https://www.mirror.co.uk/tv/tv-news/what-time-strictly-tonight-dances-22899798|title=What time is Strictly on tonight? Dances and songs unveiled as Week 1 kicks off|work=[[Daily Mirror]]|first=Rose|last=Hill|date=24 October 2020|access-date=24 October 2020|language=en-GB}}</ref>
+|-
+! scope="row" | Jamie & Karen
+| 14 (4, 5, 5)
+| Cha-cha-cha
+| "[[Think About Things]]" — [[Gagnamagnið|Daði og Gagnamagnið]]
+|-
+! scope="row" | Caroline & Johannes
+| 21 (7, 7, 7)
+| American Smooth
+| "[[9 to 5 (Sheena Easton song)|Morning Train (9 to 5)]]" — [[Sheena Easton]]
+|-
+! scope="row" | Max & Dianne
+| 17 (6, 5, 6)
+| Tango
+| "[[Best Fake Smile]]" — [[James Bay (singer)|James Bay]]
+|-
+! scope="row" | Clara & Aljaž
+| 18 (5, 6, 7)
+| Cha-cha-cha
+| "[[Don't Start Now]]" — [[Dua Lipa]]
+|-
+! scope="row" | Jacqui & Anton
+| 13 (3, 5, 5)
+| Foxtrot
+| "[[Always Look on the Bright Side of Life]]" — [[Monty Python]]
+|-
+! scope="row" | JJ & Amy
+| 19 (6, 6, 7)
+| Waltz
+| "[[What a Wonderful World]]" — [[Louis Armstrong]]
+|-
+! scope="row" | Maisie & Gorka
+| 24 (8, 8, 8)
+| Samba
+| "[[Conga (song)|Samba (Conga)]]" — [[Gloria Estefan]]
+|-
+! scope="row" | Jason & Luba
+| 16 (4, 6, 6)
+| American Smooth
+| "[[My Girl (The Temptations song)|My Girl]]" — [[The Temptations]]
+|-
+! scope="row" | Ranvir & Giovanni
+| 21 (7, 7, 7)
+| Paso doble
+| "[[End of Time (Beyoncé song)|End of Time]]" — [[Beyoncé]]
+|-
+! scope="row" | Nicola & Katya
+| 21 (7, 7, 7)
+| Quickstep
+| "[[Get Happy (song)|Get Happy]]" — [[Ella Fitzgerald]]
+|-
+! scope="row" | Bill & Oti
+| 15 (3, 6, 6)
+| Cha-cha-cha
+| "[[Pata Pata]]" — [[Miriam Makeba]]
+|-
+! scope="row" | HRVY & Janette
+| 25 (8, 8, 9)
+| Jive
+| "[[Faith (Stevie Wonder song)|Faith]]" — [[Stevie Wonder]], feat. [[Ariana Grande]]
+|}
+
+===Week 2===
+Musical guest: [[Sam Smith]] — "[[Diamonds (Sam Smith song)|Diamonds]]"<ref>{{Cite magazine |date=21 October 2020 |title=Sam Smith confirmed to perform on Strictly |url=https://theversion.co/2020/10/21/sam-smith-confirmed-to-perform-on-strictly/ |magazine=The Version |access-date=25 October 2020}}</ref>
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=https://www.express.co.uk/showbiz/tv-radio/1354615/Strictly-Come-Dancing-leaderboard-2020-tonight-week-2-Strictly-scores-Maisie-HRVY-evg|title=Strictly Come Dancing leaderboard 2020: Who is at the top of the Strictly leaderboard?|website=[[Daily Express]]|first=Fay|last=Watson|date=31 October 2020|access-date=31 October 2020|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music<ref>{{cite web|url=https://www.bbc.co.uk/blogs/strictlycomedancing/entries/51df3e03-7690-4e53-a0ef-ca5bf445ea7f|title=BBC Blogs – Strictly Come Dancing – Songs and dances: Week Two|publisher=[[BBC One]]|date=27 October 2020|access-date=31 October 2020|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Max & Dianne
+| 20 (6, 7, 7)
+| Jive
+| "[[I'm a Believer]]" — [[The Monkees]]
+| Safe
+|-
+! scope="row" | Clara & Aljaž
+| 17 (5, 6, 6)
+| Viennese waltz
+| "[[You Don't Own Me#Grace version|You Don't Own Me]]" — [[Saygrace|SayGrace]]
+| Safe
+|-
+! scope="row" | Bill & Oti
+| 24 (8, 8, 8)
+| Quickstep
+| "[[Talk to the Animals]]" — [[Bobby Darin]]
+| Safe
+|-
+! scope="row" | JJ & Amy
+| 17 (5, 6, 6)
+| Paso doble
+| "[[Believer (Imagine Dragons song)|Believer]]" — [[Imagine Dragons]]
+| Safe
+|-
+! scope="row" | Jamie & Karen
+| 17 (5, 6, 6)
+| American Smooth
+| "[[Night and Day (song)|Night and Day]]" — [[Frank Sinatra]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Maisie & Gorka
+| 25 (8, 9, 8)
+| Tango
+| "[[Midnight Sky]]" — [[Miley Cyrus]]
+| Safe
+|-
+! scope="row" | Jacqui & Anton
+| 12 (2, 5, 5)
+| Samba
+| "[[Help Yourself (Tom Jones song)|Help Yourself]]" — [[Tom Jones (singer)|Tom Jones]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | HRVY & Janette
+| 24 (7, 8, 9)
+| Viennese waltz
+| "[[Stuck with U]]" — [[Ariana Grande]] & [[Justin Bieber]]
+| Safe
+|-
+! scope="row" | Ranvir & Giovanni
+| 21 (6, 7, 8)
+| Quickstep
+| "[[You Are the Sunshine of My Life]]" — [[Stevie Wonder]]
+| Safe
+|-
+! scope="row" | Nicola & Katya
+| 24 (8, 8, 8)
+| Street/Commercial
+| "[[Shine (Years & Years song)|Shine]]" — [[Years & Years]]
+| Safe
+|-
+! scope="row" | Caroline & Johannes
+| 21 (7, 7, 7)
+| Paso doble
+| "[[El gato montés]]" — Ramon Cortez Pasodoble Orchestra
+| Safe
+|-
+! scope="row" | Jason & Luba
+| 18 (6, 6, 6)
+| Salsa
+| "[[Get Lucky (Daft Punk song)|Get Lucky]]" — [[Daft Punk]], feat. [[Pharrell Williams]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Jamie & Karen
+*Mabuse: Jamie & Karen
+*Ballas: ''Did not vote, but would have voted to save Jamie & Karen''
+
+===Week 3: Movie Week===
+Musical guests: [[Sheku Kanneh-Mason|The Kanneh-Masons]] — "[[Ave Maria (Schubert)|Ave Maria]]"<ref>{{cite web|url=https://www.chroniclelive.co.uk/news/tv/who-kanneh-masons-on-strictly-19245438|title=Who are The Kanneh-Masons on Strictly? Family group perform in results show|website=[[Evening Chronicle]]|first=Simon|last=Duke|date=8 November 2020|access-date=8 November 2020|language=en-GB}}</ref>
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=https://tellymix.co.uk/reality-tv/strictly-come-dancing/501525-strictly-come-dancing-2020-leaderboard-week-3-movie-scores-and-results.html|title=Strictly Come Dancing 2020 leaderboard: Week 3 (Movie) scores and results|website=Telly Mix|first=Josh|last=Darvill|date=7 November 2020|access-date=8 November 2020|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music<ref>{{cite web|url=https://www.bbc.co.uk/blogs/strictlycomedancing/entries/3f6d2fa0-c4d5-4361-bb3b-23c0bcf27674|title=BBC Blogs – Strictly Come Dancing – Songs and dances: Movie Week|publisher=[[BBC One]]|date=3 November 2020|access-date=8 November 2020|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Film
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Nicola & Katya
+| 19 (6, 7, 6)
+| Jive
+| "[[Greased Lightnin' (song)|Greased Lightnin']]"
+| ''[[Grease (film)|Grease]]''
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Maisie & Gorka
+| 24 (8, 7, 9)
+| American Smooth
+| "[[Into the Unknown (Disney song)|Into the Unknown]]"
+| ''[[Frozen II]]''
+| Safe
+|-
+! scope="row" | Caroline & Johannes
+| 21 (6, 7, 8)
+| Theatre/Jazz
+| "[[Everything's Coming Up Roses]]"
+| ''[[Gypsy (1962 film)|Gypsy]]''
+| Safe
+|-
+! scope="row" | Jason & Luba
+| 12 (3, 4, 5)
+| Paso doble
+| "[[Star Wars (Main Title)|Star Wars Theme]]"
+| ''[[Star Wars (film)|Star Wars]]''
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | JJ & Amy
+| 24 (8, 8, 8)
+| Foxtrot
+| "[[Raindrops Keep Fallin' on My Head]]"
+| ''[[Butch Cassidy and the Sundance Kid]]''
+| Safe
+|-
+! scope="row" | HRVY & Janette
+| 21 (6, 7, 8)
+| Cha-cha-cha
+| "[[Don't Go Breaking My Heart]]" 
+| ''[[Gnomeo & Juliet]]''
+| Safe
+|-
+! scope="row" | Ranvir & Giovanni
+| 27 (9, 9, 9)
+| Foxtrot
+| "[[Love You I Do]]"
+| ''[[Dreamgirls (film)|Dreamgirls]]''
+| Safe
+|-
+! scope="row" | Jamie & Karen
+| 23 (7, 8, 8)
+| Charleston
+| "[[Hercules (soundtrack)#Track listing|Zero to Hero]]"
+| ''[[Hercules (1997 film)|Hercules]]''
+| Safe
+|-
+! scope="row" | Clara & Aljaž
+| 20 (7, 6, 7)
+| Tango
+| "[[Lady Marmalade#Moulin Rouge! version|Lady Marmalade]]"
+| ''[[Moulin Rouge!]]''
+| Safe
+|-
+! scope="row" | Max & Dianne
+| 24 (8, 8, 8)
+| Street/Commercial
+| "[[The Simpsons Theme]]"
+| ''[[The Simpsons Movie]]''
+| Safe
+|-
+! scope="row" | Bill & Oti
+| 26 (8, 9, 9)
+| Paso doble
+| "[[The Good, the Bad and the Ugly (theme)|The Good, the Bad and the Ugly]]"
+| ''[[The Good, the Bad and the Ugly]]''
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Nicola & Katya
+*Mabuse: Nicola & Katya
+*Ballas: ''Did not vote, but would have voted to save Nicola & Katya''
+
+===Week 4===
+''Individual judges' scores in the charts below (given in parentheses) are listed in this order from left to right: Craig Revel Horwood, Shirley Ballas, Anton Du Beke''.
+
+Musical guest: [[The Vamps (British band)|The Vamps]] — "[[Married in Vegas]]"<ref>{{Cite magazine |date=3 November 2020 |title=The Vamps to perform on Strictly come Dancing|url=https://theversion.co/2020/11/03/the-vamps-to-perform-on-strictly-come-dancing/|magazine=The Version |access-date=7 November 2020}}</ref>
+
+[[Anton Du Beke]] substituted for [[Motsi Mabuse]], who was forced to miss two weeks due to having travelled outside the United Kingdom.<ref name=":0" />
+
+After [[Katya Jones]] tested positive for [[COVID-19]], she and [[Nicola Adams]] were forced to withdraw from the competition.<ref>{{cite web |date=12 November 2020 |title=Nicola and Katya leave Strictly 2020 |url=https://www.bbc.co.uk/blogs/strictlycomedancing/entries/6fdf823a-2afa-4803-8a33-a190b3af4019 |access-date=12 November 2020 |publisher=[[BBC One]] |language=en-GB}}</ref>
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=https://www.mirror.co.uk/tv/tv-news/strictly-come-dancing-leaderboard-week-23010636|title=Strictly Come Dancing leaderboard: Week 4 results as Clara gets series' highest score|website=[[Daily Mirror]]|first=Will|last=Twigger|date=14 November 2020|access-date=18 November 2020|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music<ref>{{cite web|url= https://www.bbc.co.uk/blogs/strictlycomedancing/entries/ede6746a-3023-4b1e-bbc0-0235f03e9ab5|title=BBC Blogs – Strictly Come Dancing – Songs and dances: Week Four|publisher=BBC One|date=11 November 2020|access-date=11 November 2020}}</ref>
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | HRVY & Janette
+| 27 (8, 10, 9)
+| Salsa
+| "[[Dynamite (BTS song)|Dynamite]]" — [[BTS]]
+| Safe
+|-
+! scope="row" | Ranvir & Giovanni
+| 20 (5, 7, 8)
+| Cha-cha-cha
+| "[[Oye Como Va#Santana version|Oye Como Va]]" — [[Santana (band)|Santana]] &<br>"[[I Like It Like That (Pete Rodriguez song)|I Like It Like That]]" — [[Pete Rodriguez (boogaloo musician)|Pete Rodriguez]]
+| Safe
+|-
+! scope="row" | Max & Dianne
+| 20 (5, 7, 8)
+| American Smooth
+| "[[It Had to Be You (song)|It Had to Be You]]" — [[Harry Connick Jr.]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | JJ & Amy
+| 17 (4, 6, 7)
+| Jive
+| "[[Boogie Woogie Bugle Boy#Bette Midler version|Boogie Woogie Bugle Boy]]" — [[Bette Midler]]
+| Safe
+|-
+! scope="row" | Maisie & Gorka
+| 24 (7, 8, 9)
+| Cha-cha-cha
+| "[[Girls Just Want to Have Fun]]" — [[Cyndi Lauper]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Bill & Oti
+| 27 (8, 10, 9)
+| Street/Commercial
+| "[[Rapper's Delight]]" — [[The Sugarhill Gang]]
+| Safe
+|-
+! scope="row" | Caroline & Johannes
+| 22 (7, 7, 8)
+| Waltz
+| "[[With You I'm Born Again]]" — [[Billy Preston]] & [[Syreeta Wright]]
+| Safe
+|-
+! scope="row" | Jamie & Karen
+| 25 (8, 8, 9)
+| Samba
+| "[[Bamboléo]]" — [[Gipsy Kings]]
+| Safe
+|-
+! scope="row" | Clara & Aljaž
+| 29 (9, 10, 10)
+| Charleston
+| "[[Baby Face (song)|Baby Face]]" — [[Julie Andrews]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Maisie & Gorka
+*Du Beke: Maisie & Gorka
+*Ballas: ''Did not vote, but would have voted to save Max & Dianne''
+
+===Week 5===
+''Individual judges' scores in the charts below (given in parentheses) are listed in this order from left to right: Craig Revel Horwood, Shirley Ballas, Anton Du Beke''.
+
+Musical guest: [[Billy Ocean]] — "[[Love Really Hurts Without You]]", "[[Billy Ocean discography#Singles|Red Light Spells Danger]]" & "[[When the Going Gets Tough, the Tough Get Going (song)|When the Going Gets Tough, the Tough Get Going]]"<ref>{{Cite web|date=22 November 2020 |title=Strictly Come Dancing – The Results|url=https://www.bbc.co.uk/mediacentre/proginfo/2020/47/strictly-the-results|access-date=15 November 2020}}</ref>
+
+[[Anton Du Beke]] again substituted for [[Motsi Mabuse]].<ref name=":0" />
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=http://www.ultimatestrictly.com/series-18-week-5/|title=Series 18 – Week 5|website=Ultimate Strictly|date=21 November 2020|access-date=22 November 2020}}</ref>
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music<ref>{{cite web|url= https://www.bbc.co.uk/blogs/strictlycomedancing/entries/5d18c0b2-76d9-47e8-bd90-a47e5b999312|title=BBC Blogs – Strictly Come Dancing – Songs and dances: Week Five|website=BBC One|date=17 November 2020|access-date=17 November 2020|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Bill & Oti
+| 25 (8, 9, 8)
+| American Smooth
+| "[[I've Got You Under My Skin]]" — [[Frank Sinatra]]
+| Safe
+|-
+! scope="row" | Maisie & Gorka
+| 27 (9, 9, 9)
+| Salsa
+| "[[Better When I'm Dancin']]" — [[Meghan Trainor]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | JJ & Amy
+| 25 (7, 9, 9)
+| Quickstep
+| "[[For Once in My Life]]" — [[Stevie Wonder]]
+| Safe
+|-
+! scope="row" | Clara & Aljaž
+| 18 (5, 6, 7)
+| Samba
+| "[[That's the Way (I Like It)]]" — [[KC and the Sunshine Band]]
+| Safe
+|-
+! scope="row" | Jamie & Karen
+| {{nowrap|29 (9, 10, 10)}}
+| Street/Commercial
+| "[[Gonna Make You Sweat (Everybody Dance Now)]]" — [[C+C Music Factory]]
+| Safe
+|-
+! scope="row" | HRVY & Janette
+| 26 (8, 9, 9)
+| Tango
+| "[[Golden (Harry Styles song)|Golden]]" — [[Harry Styles]]
+| Safe
+|-
+! scope="row" | Caroline & Johannes
+| 24 (8, 8, 8)
+| Cha-cha-cha
+| "[[Rescue Me (Fontella Bass song)|Rescue Me]]" — [[Fontella Bass]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Ranvir & Giovanni
+| 27 (8, 9, 10)
+| Argentine tango
+| "[[When Doves Cry]]" — [[Prince (musician)|Prince]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Maisie & Gorka
+*Du Beke: Maisie & Gorka
+*Ballas: ''Did not vote, but would have voted to save Maisie & Gorka''
+
+===Week 6===
+Musical guest: [[Gary Barlow]] — "[[Elita (song)|Elita]]"<ref>{{cite web|url=https://tellymix.co.uk/reality-tv/strictly-come-dancing/505481-gary-barlow-to-perform-on-strictly-come-dancing-this-weekend.html|title=Gary Barlow to perform on Strictly Come Dancing this weekend|first=Josh|last=Darvill|website=TellyMix|date=24 November 2020|access-date=29 November 2020|language=en-GB}}</ref><br>Dance guests: [[Michael Danilczuk|Michael]] & [[Jowita Przystał|Jowita]] — "[[Spectrum (Say My Name)]]"<ref>{{cite tweet|number=1333134942474280963|user=bbcstrictly|title=You're going to want to watch this until the end. What an incredible performance from The Greatest Dancer winners @JowitaMichael! #Strictly|author=BBC Strictly|date=29 November 2020|access-date=30 November 2020|language=en-GB}}</ref>
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=http://www.ultimatestrictly.com/series-18-week-6/|title=Series 18 – Week 6|website=Ultimate Strictly|date=28 November 2020|access-date=28 November 2020|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music<ref>{{cite web|url=https://www.bbc.co.uk/blogs/strictlycomedancing/entries/f4fa3c60-124f-44a0-a0c8-c56b67770706|title=BBC Blogs – Strictly Come Dancing – Songs and dances: Week Six|publisher=BBC One|date=24 November 2020|access-date=24 November 2020|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Clara & Aljaž
+| 19 (6, 6, 7)
+| Jive
+| "[[River Deep – Mountain High|River Deep, Mountain High]]" — [[Ike & Tina Turner]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Jamie & Karen
+| 24 (8, 8, 8)
+| Tango
+| "Tanguera" — Sexteto Mayor
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | HRVY & Janette
+| 30 (10, 10, 10)
+| Street/Commercial
+| "[[A Sky Full of Stars]]" — [[Coldplay]]
+| Safe
+|-
+! scope="row" | Ranvir & Giovanni
+| 24 (8, 8, 8)
+| American Smooth
+| "[[I Say a Little Prayer#Aretha Franklin version|I Say a Little Prayer]]" — [[Aretha Franklin]]
+| Safe
+|-
+! scope="row" | Bill & Oti
+| 24 (8, 8, 8)
+| Jive
+| "[[One Way or Another]]" — [[Blondie (band)|Blondie]]
+| Safe
+|-
+! scope="row" | JJ & Amy
+| 25 (8, 9, 8)
+| Viennese waltz
+| "[[Rescue (Lauren Daigle song)|Rescue]]" — [[Lauren Daigle]]
+| Safe
+|-
+! scope="row" | Maisie & Gorka
+| 29 (9, 10, 10)
+| Quickstep
+| "[[When You're Smiling]]" — [[Andy Williams]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Clara & Aljaž
+*Mabuse: Jamie & Karen
+*Ballas: Jamie & Karen
+
+===Week 7: Musicals Week (Quarter-final)===
+Musical guest: [[Marisha Wallace]] — "[[Climb Ev'ry Mountain]]" ''(from [[The Sound of Music]])''<ref>{{cite web|url=https://www.chroniclelive.co.uk/news/tv/who-is-marisha-wallace-strictly-19410667|title=Who is Marisha Wallace? Strictly beckons for West End and Broadway star|work=[[Evening Chronicle]]|first=Simon|last=Duke|date=6 December 2020|access-date=14 December 2020|language=en-GB}}</ref>
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=http://www.ultimatestrictly.com/series-18-week-7/|title=Series 18 – Week 7|website=Ultimate Strictly|date=5 December 2020|access-date=5 December 2020|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music<ref>{{cite web|title=Songs and dances: Musicals Week|website=BBC|date=1 December 2020|url=https://www.bbc.co.uk/blogs/strictlycomedancing/entries/c3999e27-011b-4de3-9c44-526a7fa2d1e5|access-date=1 December 2020}}</ref>
+! scope="col" class="unsortable"|Musical
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | JJ & Amy
+| 20 (6, 7, 7)
+| Charleston
+| "[[Chitty Chitty Bang Bang (song)|Chitty Chitty Bang Bang]]"
+| ''[[Chitty Chitty Bang Bang (musical)|Chitty Chitty Bang Bang]]''
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Ranvir & Giovanni
+| 27 (9, 9, 9)
+| Viennese waltz
+| "[[She Used to Be Mine (Sara Bareilles song)|She Used to Be Mine]]"
+| ''[[Waitress (musical)|Waitress]]''
+| Safe
+|-
+! scope="row" | Maisie & Gorka
+| 28 (9, 10, 9)
+| Jive
+| "[[Little Shop of Horrors (musical)#Musical numbers|Little Shop of Horrors]]"
+| ''[[Little Shop of Horrors (musical)|Little Shop of Horrors]]''
+| Safe
+|-
+! scope="row" | Bill & Oti
+| 24 (8, 8, 8)
+| Argentine tango
+| "[[The Phantom of the Opera (Andrew Lloyd Webber song)|The Phantom of the Opera]]"
+| ''[[The Phantom of the Opera (1986 musical)|The Phantom of the Opera]]''
+| Safe
+|-
+! scope="row" | HRVY & Janette
+| {{nowrap|29 (9, 10, 10)}}
+| American Smooth
+| "[[One (A Chorus Line song)|One (Singular Sensation)]]"
+| ''[[A Chorus Line]]''
+| Safe
+|-
+! scope="row" | Jamie & Karen
+| 24 (8, 8, 8)
+| Jive
+| "[[Everybody's Talking About Jamie#Musical numbers|Everybody's Talking About Jamie]]"
+| ''[[Everybody's Talking About Jamie]]''
+| bgcolor="lightblue" | Bottom two
+|}
+;Judges' votes to save
+*Horwood: Jamie & Karen
+*Mabuse: JJ & Amy
+*Ballas: Jamie & Karen
+
+===Week 8: Semi-final===
+Musical guest: [[Little Mix]] — "[[Break Up Song (Little Mix song)|Break Up Song]]"<ref>{{cite web|url=https://www.chroniclelive.co.uk/news/tv/little-mix-strictly-performance-dancers-19454726|title=Little Mix's Strictly Come Dancing performance divides fans as they 'share spotlight' with dancers|work=[[Evening Chronicle]]|first=Simon|last=Duke|date=14 December 2020|access-date=14 December 2020|language=en-GB}}</ref>
+
+Each couple performed two routines, and are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=http://www.ultimatestrictly.com/series-18-week-8/|title=Series 18 – Week 8|website=Ultimate Strictly|date=12 December 2020|access-date=12 December 2020|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music<ref>{{cite web|title=Songs and dances: Semi Final|website=BBC|date=8 December 2020|url=https://www.bbc.co.uk/blogs/strictlycomedancing/entries/247defad-238d-4def-a3c6-7ca00709714a|access-date=8 December 2020}}</ref>
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" rowspan=2 | Jamie & Karen
+| rowspan="2" | 24 (8, 8, 8)
+| Salsa
+| "[[Last Dance (Donna Summer song)|Last Dance]]" — [[Donna Summer]]
+| rowspan=2 bgcolor="lightblue" | Bottom two
+|-
+| Quickstep
+| "[[Thank God I'm a Country Boy]]" — [[John Denver]]
+|-
+! scope="row" rowspan=2 | Ranvir & Giovanni
+| 26 (8, 9, 9)
+| Waltz
+| "[[Love Theme from Romeo and Juliet|Un Giorno Per Noi (A Time for Us)]]" — [[Josh Groban]]
+| rowspan=2 bgcolor="f4c7b8" | Eliminated
+|-
+| 18 (5, 6, 7)
+| Jive
+| "[[Candyman (Christina Aguilera song)|Candyman]]" — [[Christina Aguilera]]
+|-
+! scope="row" rowspan=2 | Bill & Oti
+| 25 (8, 8, 9)
+| Charleston
+| "[[(Won't You Come Home) Bill Bailey]]" — [[Ottilie Patterson]] & [[Chris Barber]]
+| rowspan=2 | Safe
+|-
+| 23 (8, 7, 8)
+| Tango
+| "[[Enter Sandman]]" — [[Metallica]]
+|-
+! scope="row" rowspan=2 | Maisie & Gorka
+| {{nowrap|30 (10, 10, 10)}}
+| Street/Commercial
+| "[[Gettin' Jiggy wit It]]" — [[Will Smith]]
+| rowspan=2 | Safe
+|-
+| 29 (9, 10, 10)
+| Viennese waltz
+| "[[A Thousand Years (Christina Perri song)|A Thousand Years]]" — [[Christina Perri]]
+|-
+! scope="row" rowspan=2 | HRVY & Janette
+| 23 (7, 8, 8)
+| Rumba
+| "[[Only You (Yazoo song)#Kylie Minogue version|Only You]]" — [[Kylie Minogue]] & [[James Corden]]
+| rowspan=2 | Safe
+|-
+| 30 (10, 10, 10)
+| Charleston
+| "[[Another Day of Sun]]" — from ''[[La La Land]]''
+|}
+;Judges' votes to save
+*Horwood: Jamie & Karen
+*Mabuse: Ranvir & Giovanni
+*Ballas: Jamie & Karen
+
+===Week 9: Final===
+Musical guest: [[Robbie Williams]] — "[[Time for Change (song)|Time for Change]]"<ref>{{cite web|url=https://www.manchestereveningnews.co.uk/news/tv/strictly-viewers-spot-major-robbie-19490878|title=Strictly viewers spot major Robbie Williams similarity as he performs during live final|work=[[Manchester Evening News]]|first=Jessica|last=Sansome|date=19 December 2020|access-date=21 December 2020|language=en-GB}}</ref>
+
+Each couple performed three routines: one chosen by the judges, their favourite dance of the season, and their showdance routine. Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=http://www.ultimatestrictly.com/series-18-week-9/|title=Series 18 – Week 9|website=Ultimate Strictly|date=19 December 2020|access-date=19 December 2020|language=en-GB}}</ref>
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music<ref>{{cite web|title=Songs and dances: The Final|website=BBC|date=14 December 2020|url=https://www.bbc.co.uk/blogs/strictlycomedancing/entries/15a968b2-d0fa-4a78-88cb-89b1cc9e6c3c|access-date=15 December 2020}}</ref>
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" rowspan=3 | HRVY & Janette
+| 29 (9, 10, 10)
+| Jive
+| "[[Faith (Stevie Wonder song)|Faith]]" — [[Stevie Wonder]], feat. [[Ariana Grande]]
+| rowspan="6" bgcolor="silver" | Runners-up
+|-
+| 29 (9, 10, 10)
+| Showdance
+| "[[Boogie Wonderland#Covers|Boogie Wonderland]]" — [[Brittany Murphy]]
+|-
+| {{nowrap|30 (10, 10, 10)}}
+| American Smooth
+| "[[One (A Chorus Line song)|One (Singular Sensation)]]" — from ''[[A Chorus Line]]''
+|-
+! scope="row" rowspan=3 | Jamie & Karen
+| 26 (8, 9, 9)
+| Charleston
+| "[[Hercules (soundtrack)#Track listing|Zero to Hero]]" — from ''[[Hercules (1997 film)|Hercules]]''
+|-
+| 29 (9, 10, 10)
+| Showdance
+| "[[I'm Still Standing]]" — [[Elton John]]
+|-
+| 29 (9, 10, 10)
+| Street/Commercial
+| "[[Gonna Make You Sweat (Everybody Dance Now)]]" — [[C+C Music Factory]]
+|-
+! scope="row" rowspan=3 | Bill & Oti
+| 29 (9, 10, 10)
+| Quickstep
+| "[[Talk to the Animals]]" — [[Bobby Darin]]
+| rowspan=3 bgcolor="gold" | '''Winners'''
+|-
+| 30 (10, 10, 10)
+| Showdance
+| "[[The Show Must Go On (Queen song)|The Show Must Go On]]" — [[Queen (band)|Queen]]
+|-
+| 29 (9, 10, 10)
+| Street/Commercial
+| "[[Rapper's Delight]]" — [[The Sugarhill Gang]]
+|-
+! scope="row" rowspan=3 | Maisie & Gorka
+| 29 (9, 10, 10)
+| Samba
+| "[[Conga (song)|Samba (Conga)]]" — [[Gloria Estefan]]
+| rowspan=3 bgcolor="silver" | Runners-up
+|-
+| 30 (10, 10, 10)
+| Showdance
+| "[[We Need a Little Christmas]]" — [[Idina Menzel]]
+|-
+| 29 (9, 10, 10)
+| Quickstep
+| "[[When You're Smiling]]" — [[Andy Williams]]
+|}
+
+==Dance chart==
+The couples performed the following each week:
+*Weeks 1–7: One unlearned dance
+*Week 8 (Semifinal): Two unlearned dances
+*Week 9 (Final): Judges' choice, showdance & favourite dance of the series
+
+{| class="wikitable unsortable" style="text-align:center; font-size:85%; line-height:20px"
+|+''Strictly Come Dancing'' (series 18) - Dance chart
+! rowspan="2" |Couple
+! colspan="12" |Week
+|-
+! scope="col" | 1
+! scope="col" | 2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" | 5
+! scope="col" | 6
+! scope="col" | 7
+! colspan="2" scope="col" | 8
+! colspan="3" scope="col" | 9
+|-
+! scope="row" | Bill & Oti
+| Cha-cha-cha
+| Quickstep
+| Paso doble
+| Street/Commercial
+| American Smooth
+| Jive
+| Argentine tango
+| Charleston
+| Tango
+| Quickstep
+| Showdance
+| Street/Commercial
+|-
+! scope="row" | HRVY & Janette
+| Jive
+| Viennese waltz
+| Cha-cha-cha
+| Salsa
+| Tango
+| Street/Commercial
+| American Smooth
+| Rumba
+| Charleston
+| Jive
+| Showdance
+| American Smooth
+|-
+! scope="row" | Jamie & Karen
+| Cha-cha-cha
+| American Smooth
+| Charleston
+| Samba
+| Street/Commercial
+| Tango
+| Jive
+| Salsa
+| Quickstep
+| Charleston
+| Showdance
+| Street/Commercial
+|-
+! scope="row" | Maisie & Gorka
+| Samba
+| Tango
+| American Smooth
+| Cha-cha-cha
+| Salsa
+| Quickstep
+| Jive
+| Street/Commercial
+| Viennese waltz
+| Samba
+| Showdance
+| Quickstep
+|-
+! scope="row" | Ranvir & Giovanni
+| Paso doble
+| Quickstep
+| Foxtrot
+| Cha-cha-cha
+| Argentine tango
+| American Smooth
+| Viennese waltz
+| Waltz
+| Jive
+| colspan="3" rowspan="8" bgcolor="darkgray" |
+|-
+! scope="row" | JJ & Amy
+| Waltz
+| Paso doble
+| Foxtrot
+| Jive
+| Quickstep
+| Viennese waltz
+| Charleston
+| colspan="2" rowspan="7" bgcolor="darkgray" |
+|-
+! scope="row" | Clara & Aljaž
+| Cha-cha-cha
+| Viennese waltz
+| Tango
+| Charleston
+| Samba
+| Jive
+| rowspan="6" bgcolor="darkgray" |
+|-
+! scope="row" | Caroline & Johannes
+| American Smooth
+| Paso doble
+| Theatre/Jazz
+| Waltz
+| Cha-cha-cha
+| rowspan="5" bgcolor="darkgray" |
+|-
+! scope="row" | Max & Dianne
+| Tango
+| Jive
+| Street/Commercial
+| American Smooth
+| rowspan="4" bgcolor="darkgray" |
+|-
+! scope="row" | Nicola & Katya
+| Quickstep
+| Street/Commercial
+| Jive
+| rowspan="3" bgcolor="darkgray" |
+|-
+! scope="row" | Jason & Luba
+| American Smooth
+| Salsa
+| Paso doble
+|-
+! scope="row" | Jacqui & Anton
+| Foxtrot
+| Samba
+| bgcolor="darkgray" |
+|}
+
+==Ratings==
+Weekly ratings for each show on [[BBC One]]. All ratings are provided by BARB.<ref>{{cite web|url=https://www.barb.co.uk/viewing-data/four-screen-dashboard/|title=Four-screen dashboard (7-day data)|publisher=[[BARB]]|access-date=24 September 2022}}</ref>
+{| class="wikitable sortable" style="text-align:center"
+|-
+! scope="col"|Episode
+! scope="col"|Date
+! scope="col"|Official rating<br />(millions)
+! scope="col"|Weekly rank<br />for BBC One
+! scope="col"|Weekly rank<br />for all UK TV
+! scope="col"|Share
+|-
+!scope="row"|Launch show
+| {{dts|17 October}} || 10.09 || 1 || 2 || 42.2%<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/2020/oct/18/strictly-come-dancing-opener-first-same-sex-couple-proves-hit|title=Strictly Come Dancing opener with first same-sex couple proves a hit|website=[[The Guardian]]|last=Bakare|first=Lanre|date=18 October 2020|access-date=22 October 2020|language=en-GB}}</ref>
+|-
+!scope="row"|Week 1
+| {{dts|24 October}} || 11.23 || 1 || 1 || 44.6%<ref>{{cite web|url=https://www.eveningexpress.co.uk/lifestyle/entertainment/hrvy-becomes-new-strictly-come-dancing-favourite-as-viewing-figures-rise/|title=HRVY becomes new Strictly Come Dancing favourite as viewing figures rise|website=[[Evening Express (Scotland)|Evening Express]]|author=Press Association|date=25 October 2020|access-date=27 October 2020|language=en-GB}}</ref>
+|-
+!scope="row"|Week 2
+| {{dts|31 October}} || 11.84 || 2 || 2 || 47.3%<ref>{{cite web|url=https://www.standard.co.uk/news/uk/strictly-come-dancing-10-million-tune-in-ahead-of-first-elimination-tonight-b36805.html|title=Strictly Come Dancing: 10 million tune in ahead of first elimination tonight|website=[[Evening Standard]]|last=Edmonds|first=Lizzie|date=1 November 2020|access-date=1 November 2020|language=en-GB}}</ref>
+|-
+!scope="row"|Week 2 results
+| {{dts|1 November}} || 8.92 || 4 || 5 || 39.3%<ref name="Top programmes report">{{cite web|url=https://www.thinkbox.tv/research/barb-data/top-programmes-report/|title=Top programmes report|publisher=[[Thinkbox]]|date=2 April 2018|archive-url=https://web.archive.org/web/20201110101502/https://www.thinkbox.tv/research/barb-data/top-programmes-report/|access-date=9 November 2020|archive-date=10 November 2020|language=en-GB}}</ref>
+|-
+!scope="row"|Week 3
+| {{dts|7 November}} || 10.93 || 1 || 1 || 43.8%<ref>{{cite web|url=https://www.standard.co.uk/news/strictly-come-dancing-biden-us-election-viewing-figures-b57429.html|title=Strictly viewing figures hit by Biden US election win announcement|website=[[Evening Standard]]|last=John|first=Dunne|date=8 November 2020|access-date=9 November 2020|language=en-GB}}</ref>
+|-
+!scope="row"|Week 3 results
+| {{dts|8 November}} || 9.44 || 2 || 3 || 39.3%<ref name="Top programmes report"/>
+|-
+!scope="row"|Week 4
+| {{dts|14 November}} || 11.89 || 1 || 2 || 49.3%<ref>{{cite web|url=https://www.heraldscotland.com/news/18873419.strictly-come-dancing-max-george-eliminated-tv-dance-show/|title=Strictly Come Dancing: Max George eliminated from TV dance show|website=[[The Herald (Glasgow)|The Herald]]|last=Jaime|first=Shuttleworth|date=15 November 2020|access-date=18 November 2020|language=en-GB}}</ref>
+|-
+!scope="row"|Week 4 results
+| {{dts|15 November}} || 9.62 || 2 || 4 || 39.5%<ref>{{cite web|url=https://www.thinkbox.tv/research/barb-data/top-programmes-report/|title=Top programmes report|publisher=[[Thinkbox]]|date=2 April 2018|archive-url=https://web.archive.org/web/20201125164402/https://www.thinkbox.tv/research/barb-data/top-programmes-report/|access-date=16 November 2020|archive-date=25 November 2020|language=en-GB}}</ref>
+|-
+!scope="row"|Week 5
+| {{dts|21 November}} || 11.60 || 1 || 6 || 48.5%<ref name=week5>{{cite web|url=https://www.thinkbox.tv/research/barb-data/top-programmes-report/|title=Top programmes report|publisher=[[Thinkbox]]|date=2 April 2018|archive-url=https://web.archive.org/web/20201206055044/https://www.thinkbox.tv/research/barb-data/top-programmes-report/|access-date=23 November 2020|archive-date=6 December 2020|language=en-GB}}</ref>
+|-
+!scope="row"|Week 5 results
+| {{dts|22 November}} || 9.62 || 2 || 9 || 40.9%<ref name=week5/>
+|-
+!scope="row"|Week 6
+| {{dts|28 November}} || 11.45 || 1 || 2 || 50.1%<ref name=week6>{{cite web|url=https://www.thinkbox.tv/research/barb-data/top-programmes-report/|title=Top programmes report|publisher=Thinkbox|date=2 April 2018|archive-url=https://web.archive.org/web/20201206055044/https://www.thinkbox.tv/research/barb-data/top-programmes-report/|access-date=30 November 2020|archive-date=6 December 2020|language=en-GB}}</ref>
+|-
+!scope="row"|Week 6 results
+| {{dts|29 November}} || 10.21 || 2 || 9 || 39.5%<ref name=week6/>
+|-
+!scope="row"|Week 7
+| {{dts|5 December}} || 11.38 || 1 || 2 || 49.3%<ref name=week7>{{cite web|url=https://www.thinkbox.tv/research/barb-data/top-programmes-report/|title=Top programmes report|publisher=Thinkbox|date=2 April 2018|access-date=8 December 2020|language=en-GB}}</ref>
+|-
+!scope="row"|Week 7 results
+| {{dts|6 December}} || 9.69 || 2 || 7 || 42.2%<ref name=week7/>
+|-
+!scope="row"|Week 8
+| {{dts|12 December}} || 11.45 || 1 || 1 || 48.9%<ref name=week8>{{cite web|url=https://www.thinkbox.tv/research/barb-data/top-programmes-report/|title=Top programmes report|publisher=Thinkbox|date=2 April 2018|access-date=14 December 2020|language=en-GB}}</ref>
+|-
+!scope="row"|Week 8 results
+| {{dts|13 December}} || 10.58 || 2 || 2 || 44.1%<ref name=week8/>
+|-
+!scope="row"|Week 9
+| {{dts|19 December}} || 12.51 || 1 || 1 || 53.3%<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/2020/dec/20/strictly-come-dancing-final-watched-by-more-than-13-million-viewers#:~:text=The%20show%20was%20the%20most,average%20of%2011.6%20million%20viewers.|title=Strictly Come Dancing final watched by more than 13 million viewers|first=Caroline|last=Davies|work=[[The Guardian]]|date=20 December 2020|access-date=20 December 2020|language=en-GB}}</ref>
+|-
+! Series average<br>(excl. launch show)
+! 2020
+! 10.77
+! {{N/A}}
+! {{N/A}}
+! 45.0%
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{BBC Online|id=strictlycomedancing|title=''Strictly Come Dancing''}}
+
+{{Strictly Come Dancing}}
+
+[[Category:Strictly Come Dancing series|Series 18]]
+[[Category:2020 British television seasons]]

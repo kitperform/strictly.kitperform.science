@@ -1,0 +1,1558 @@
+{{pp|small=yes}}
+{{Short description|None}}
+{{Use dmy dates|date=September 2026}}
+{{Use British English|date=September 2026}}
+{{Infobox television season
+| bgcolor       = #FA8072
+| series_number = 24
+| module1       = {{Infobox reality competition season
+| celebrity_winner    = 
+| professional_winner =
+| presenter = [[Emma Willis]]<br>[[Josh Widdicombe]]<br>[[Johannes Radebe]]
+| judges    = [[Shirley Ballas]]<br>[[Anton Du Beke]]<br>[[Motsi Mabuse]]<br>[[Craig Revel Horwood]]
+}}
+| num_episodes  = 12
+| network       = [[BBC One]]
+| first_aired   = {{Start date|2026|9|19|df=y}}
+| last_aired    = {{End date|2026|12|19}}
+}}
+
+'''''[[Strictly Come Dancing]]''''' returned for its '''twenty-fourth series''' with a launch show broadcast on 19 September 2026 on [[BBC One]], with the live shows beginning a week later. [[Emma Willis]], [[Josh Widdicombe]] and [[Johannes Radebe]] replaced [[Tess Daly]] and [[Claudia Winkleman]] as hosts, following their departures after the previous series, whilst [[Ellie Taylor]] became the new presenter of ''[[Strictly Come Dancing: It Takes Two]]'', replacing [[Fleur East]] and [[Janette Manrara]]. [[Craig Revel Horwood]], [[Motsi Mabuse]], [[Shirley Ballas]] and [[Anton Du Beke]] returned to the judging panel.<ref>{{cite web |title=''Strictly Come Dancing'' 2026 returning Professional Dancers, Judges and spectacular Theme Weeks revealed |url=https://www.bbc.com/mediacentre/2026/strictly-2026-pro-dancers-judges-theme-weeks-confirmed |website=[[BBC]] |access-date=14 May 2026 |language=en}}</ref> The series marked a notable revamp within the show's history, with a replacement of the presenters and the show's logo had changed for the first time since the [[Strictly Come Dancing series 8|eighth series]].
+
+== Format ==
+{{Further|Strictly Come Dancing#Format}}
+The couples dance each week in a live show. The judges score each performance out of ten. After all the couples have danced they are then ranked according to the judges' scores and given points according to their rank, with the highest ranked couple receiving a number of points equal to the number of couples dancing that week, for instance, seven points where there are seven couples dancing. When there are no tied scores the lowest scored couple will receive one point. However, in the event of a tie where two or more couples obtain the same judges score, the couple below those in the tie will be awarded one point below the points awarded to each of the tied couples. For example, if two couples obtain the same rank and obtain seven points each, the couple immediately below them will be awarded six points. When couples are ranked equally by the judges the scoring of all other couples underneath will follow in the same descending order. Should there be any tied scores the lowest scored couple will therefore receive more than one point from the judges scores. The public are also invited to vote for their favourite couples, and the couples are ranked again according to the number of votes they receive, again receiving points; the couple with the most votes receiving the most points. Again in the unlikely event of a tie in the public vote the points are awarded in the same way as the points from the judges score.<ref name="format">{{cite web |title=BBC One – Strictly Come Dancing – About |url=https://www.bbc.co.uk/programmes/articles/16rGc8M34fT0wWYmrSMc8Cp/about |access-date=2025-10-01 |website=BBC |language=en-GB}}</ref>
+
+The points for judges' score and public vote are then added together, and the two couples with the fewest points are placed in the bottom two. If two couples have equal points, the points from the public vote are given precedence. As with the previous series, the bottom two couples have to perform a dance-off on the results show. Based on that performance alone, each judge then votes on which couple should stay and which couple should leave.<ref name="format" /> The [[casting vote]] in the dance-off is rotated, with a different judge making the decision each week.<ref>{{cite web |last=White |first=Adam |title=Strictly Come Dancing announces shocking vote twist that ‘will change everything’ |url=https://www.independent.co.uk/arts-entertainment/tv/news/strictly-shirley-deciding-vote-dance-off-change-b2835068.html |language=en-gb |work=[[The Independent]] |date=27 September 2025 |access-date=5 October 2025}}</ref>
+
+==Production==
+{{Multiple image
+ | align        = right
+ | total_width  = 550
+
+ | header       = Hosts and Judges of ''Strictly Come Dancing'' series 24
+
+ | image1       = Emma Willis in 2014.jpg
+ | alt1         = 
+ | caption1     = [[Emma Willis]]
+
+ | image2       = Josh Widdicombe (27394462077) (cropped).jpg
+ | alt2         =
+ | caption2     = [[Josh Widdicombe]]
+
+ | image3       = Johannes Radebe in 2024.jpg
+ | alt3         =
+ | caption3     = [[Johannes Radebe]]
+
+ | image4       = Craig-Revel-Horwood-2022.png
+ | alt4         = 
+ | caption4     = [[Craig Revel Horwood]]
+
+ | image5       = 2022-06-22-Motsi Mabuse LEA Live Entertainment Award 15 -0167.jpg
+ | alt5         =
+ | caption5     = [[Motsi Mabuse]]
+
+ | image6       = Shirley_Ballas_20241205.jpg
+ | alt6         =
+ | caption6     = [[Shirley Ballas]]
+
+ | image7       = Anton_Du_Beke_in_2019.png
+ | alt7         =
+ | caption7     = [[Anton Du Beke]]
+}}
+In October 2025, while the [[Strictly Come Dancing series 23|previous series]] was in production, hosts [[Tess Daly]] and [[Claudia Winkleman]] announced their departures from the show.<ref>{{cite web |title=Tess Daly and Claudia Winkleman to leave Strictly Come Dancing |url=https://www.bbc.co.uk/news/articles/cz0x1lr7j92o |website=[[BBC News]] |access-date=14 May 2026 |date=23 October 2025}}</ref> In a joint statement, they said "We have loved working as a duo and hosting ''Strictly Come Dancing'' has been an absolute dream. We were always going to leave together and now feels like the right time."<ref>{{cite web |last1=Duggins |first1=Alexi |title=Claudia Winkleman and Tess Daly to leave Strictly Come Dancing |url=https://www.theguardian.com/tv-and-radio/2025/oct/23/claudia-winkleman-tess-daly-to-leave-strictly-come-dancing |website=[[The Guardian]] |access-date=14 May 2026 |date=23 October 2025}}</ref><ref>{{cite web |title=Claudia Winkleman and Tess Daly to leave Strictly Come Dancing |url=https://www.thetimes.com/uk/media/article/tess-daly-claudia-winkleman-leave-strictly-come-dancing-950r2r0qb |website=[[The Times]] |access-date=14 May 2026 |date=23 October 2025 |archive-date=26 April 2026 |archive-url=https://web.archive.org/web/20260426163830/https://www.thetimes.com/uk/media/article/tess-daly-claudia-winkleman-leave-strictly-come-dancing-950r2r0qb |url-status=live }}</ref> The [[BBC]] subsequently began holding auditions for new presenters, who subsequently held "chemistry tests" prior to the decision.<ref name="mensah rt">{{cite web |last1=Mensah |first1=Katelyn |title=9 Strictly Come Dancing presenter contenders tipped to be in auditions {{!}} Radio Times |url=https://www.radiotimes.com/tv/entertainment/strictly-come-dancing-presenters-auditions-chemistry-tests-newsupdate/ |website=[[Radio Times]] |access-date=14 May 2026 |archive-date=21 April 2026 |archive-url=https://web.archive.org/web/20260421054528/https://www.radiotimes.com/tv/entertainment/strictly-come-dancing-presenters-auditions-chemistry-tests-newsupdate/ |url-status=live }}</ref> Several presenters and former contestants were rumoured to become new presenters, including former ''[[Strictly Come Dancing: It Takes Two]]'' host and [[Strictly Come Dancing series 3|series 3]] contestant [[Zoe Ball]], then ''It Takes Two'' host and [[Strictly Come Dancing series 20|series 20]] contestant [[Fleur East]], former ''It Takes Two'' host [[Rylan Clark]], [[Strictly Come Dancing series 9|series 9]] contestant and ''[[The One Show]]'' presenter [[Alex Jones (Welsh presenter)|Alex Jones]], [[Strictly Come Dancing series 21|series 21]] contestant [[Angela Scanlon]], [[Strictly Come Dancing series 12|series 12]] contestant [[Alison Hammond]] and [[Strictly Come Dancing series 23|series 23]] contestant [[La Voix (drag queen)|La Voix]], as well as [[Bradley Walsh]], [[Tom Allen (comedian)|Tom Allen]] and [[Emma Willis]].<ref name="mensah rt" /> In May 2026, Ball confirmed she had auditioned as presenter, but was rejected for the role, stating that she had "worked through the 7 stages of rejection and grief".<ref>{{cite web |title=Strictly Come Dancing: Zoe Ball confirms she will not be show's new presenter |url=https://www.bbc.co.uk/news/articles/czx2w0wz7nro |website=[[BBC News]] |access-date=14 May 2026 |date=12 May 2026 |archive-date=13 May 2026 |archive-url=https://web.archive.org/web/20260513073026/https://www.bbc.co.uk/news/articles/czx2w0wz7nro |url-status=live }}</ref><ref>{{cite web |title=Zoe Ball loses out on Strictly presenting role |url=https://www.telegraph.co.uk/news/2026/05/12/zoe-ball-lost-out-strictly-come-dancing-presenting-role/ |website=[[Daily Telegraph]] |access-date=14 May 2026 |archive-date=13 May 2026 |archive-url=https://web.archive.org/web/20260513111243/https://www.telegraph.co.uk/news/2026/05/12/zoe-ball-lost-out-strictly-come-dancing-presenting-role/ |url-status=live }}</ref> Clark, [[Sara Cox]], [[Clara Amfo]], and [[Siân Welby]] all confirmed later that they had participated in screen tests for the roles, along with several others.<ref>{{Cite web |date=2026-05-20 |title=Rylan shares joke video of himself crying inconsolably after losing out on Strictly |url=https://www.the-independent.com/arts-entertainment/tv/news/strictly-presenters-new-rylan-bbc-b2980121.html |access-date=2026-05-20 |website=The Independent |language=en}}</ref><ref>{{Cite web |last=Sansome |first=Jessica |date=2026-05-19 |title=Sara Cox opens up bid for Strictly host job after BBC Radio 2 Breakfast role |url=https://www.manchestereveningnews.co.uk/news/tv/sara-cox-opens-up-bid-33975811 |access-date=2026-05-20 |website=Manchester Evening News |language=en}}</ref><ref>{{Cite web |last=Fabbro |first=Lauren Del |last2=Reporter |first2=Press Association Entertainment |date=2026-09-21 |title=Clara Amfo secretly auditioned to host Strictly Come Dancing |url=https://www.irishnews.com/entertainment/clara-amfo-secretly-auditioned-to-host-strictly-come-dancing-4PLGT36QCJMCRIAYONC237S4VE/ |access-date=2026-09-21 |website=The Irish News |language=en}}</ref><ref>{{Cite web |last=Mensah |first=Katelyn |title=This Morning star says Strictly host audition process was "gruelling" {{!}} Radio Times |url=https://www.radiotimes.com/tv/entertainment/sian-welby-strictly-come-dancing-host-audition-newsupdate/ |access-date=2026-10-02 |website=www.radiotimes.com |language=en-GB}}</ref> East also confirmed that she would not be presenting the series, stating that she felt she would be acceptable with "not doing it or not being considered for the job", but said she was "kind of bothered."<ref>{{cite web |title=Another Strictly Come Dancing host frontrunner rules themselves out: "I'm kind of bothered" |url=https://www.digitalspy.com/tv/reality-tv/a71295962/strictly-come-dancing-host-fleur-east/ |website=[[Digital Spy]] |access-date=14 May 2026 |date=13 May 2026 |archive-date=13 May 2026 |archive-url=https://web.archive.org/web/20260513220217/https://www.digitalspy.com/tv/reality-tv/a71295962/strictly-come-dancing-host-fleur-east/ |url-status=live }}</ref> 
+
+On 19 May 2026, it was confirmed that Emma Willis, [[Josh Widdicombe]] and [[Johannes Radebe]] would present the series. Widdicombe previously appeared as a contestant on the [[List of Strictly Come Dancing specials#2024|2024 Christmas Special]], while Radebe had appeared as a professional dancer since the [[Strictly Come Dancing series 16|sixteenth series]]. It marks the first time that the show had been regularly presented by three hosts.<ref>{{cite web |title=Strictly Come Dancing 2026 presenting trio Emma Willis, Johannes Radebe and Josh Widdicombe unveiled |url=https://www.bbc.co.uk/mediacentre/2026/strictly-come-dancing-2026-presenters-confirmed-emma-willis-johannes-radebe-josh-widdicombe |website=[[BBC]] |access-date=19 May 2026 |language=en}}</ref> In August 2026, it was announced on Willis' [[BBC Radio 2]] show that series 20 contestant [[Ellie Taylor]] would become the new presenter of the spin-off show ''[[Strictly Come Dancing: It Takes Two]]'', replacing East and [[Janette Manrara]].<ref>{{cite web |title=Strictly Come Dancing announces new It Takes Two, hosted by Ellie Taylor |url=https://www.bbc.co.uk/mediacentre/2026/strictly-come-dancing-new-it-takes-two-ellie-taylor |website=[[BBC]] |language=en}}</ref> It was later revealed that comedian Abi Clarke and series 20 contestant [[Tyler West]] would host ''Strictly: Lights Up'', a new spin-off series which streams on BBC iPlayer after every Sunday results show. Clarke also hosted weekly training room episodes, where she visited different couples in rehearsals.<ref>{{Cite web|url=https://www.radiotimes.com/tv/entertainment/strictly-lights-off-spin-off-newsupdate/|title=BBC confirms new Strictly spin-off Lights|first=Morgan|last=Cormack|website=www.radiotimes.com|date=21 September 2026|access-date=21 September 2026}}</ref> [[CBBC]] introduced ''Strictly Pro Dance Off'', a dance tutorial and competition series featuring the professional dancers that is also broadcast as a segment on Saturday mornings during ''[[Saturday Mash-Up!]]''.<ref>{{Cite web|url=https://www.bbc.co.uk/mediacentre/2026/cbbc-new-professional-dance-tutorial-series-strictly-come-dancing/|title=CBBC brings Strictly sparkle to young audiences with new professional dance tutorial series|website=www.bbc.co.uk|date=17 September 2026|accessdate=4 October 2026}}</ref>
+
+=== Professional dancers ===
+In March 2026, it was reported that several professional dancers would be leaving the show.<ref>{{cite web |last1=Mensah |first1=Katelyn |title=''Strictly'' tipped for even more pro dancer changes as another 'dropped' |url=https://www.radiotimes.com/tv/entertainment/nadiya-bychkova-strictly-come-dancing-2026-axed-newsupdate/ |website=[[Radio Times]] |access-date=14 May 2026 |archive-date=5 April 2026 |archive-url=https://web.archive.org/web/20260405154535/https://www.radiotimes.com/tv/entertainment/nadiya-bychkova-strictly-come-dancing-2026-axed-newsupdate/ |url-status=live }}</ref><ref>{{cite web |title=Revealed: The savage way ''Strictly'' is 'picking' which professional dancers stay on the show |url=https://www.cosmopolitan.com/uk/entertainment/a70830742/strictly-tiktok-professional-dancers-axed/ |website=[[Cosmopolitan (magazine)|Cosmopolitan]] |access-date=14 May 2026 |date=24 March 2026 |archive-date=28 March 2026 |archive-url=https://web.archive.org/web/20260328182001/https://www.cosmopolitan.com/uk/entertainment/a70830742/strictly-tiktok-professional-dancers-axed/ |url-status=live }}</ref> Later that month, [[Karen Hauer]], the show's longest serving female professional who had appeared since the [[Strictly Come Dancing series 10|tenth series]], confirmed her departure and said that it was "the right time" to leave the show and focus on other projects.<ref>{{cite web |title=''Strictly Come Dancing'': Karen Hauer to leave show after 14 years |url=https://www.bbc.co.uk/newsround/articles/cdrmjxxdg36o |website=[[BBC]] |access-date=14 May 2026 |date=21 March 2026 |archive-date=23 March 2026 |archive-url=https://web.archive.org/web/20260323052537/https://www.bbc.co.uk/newsround/articles/cdrmjxxdg36o |url-status=live }}</ref><ref>{{cite web |title=''Strictly Come Dancing''{{'s}} Karen Hauer quits show after 14 years |url=https://www.itv.com/news/2026-03-21/strictly-come-dancings-karen-hauer-quits-show-after-14-years |website=[[ITV News]] |access-date=14 May 2026 }}</ref> [[Nadiya Bychkova]], who had served as a professional since the [[Strictly Come Dancing series 15|fifteenth series]] was also announced to be leaving the show, and said in a statement that the show had "allowed [her] to discover new sides of [herself], develop new skills, and evolve as an artist in ways [she would] always be grateful for."<ref>{{cite web |last1=Mensah |first1=Katelyn |title=''Strictly Come Dancing'' 2026 confirms major change for professional dancer |url=https://www.radiotimes.com/tv/entertainment/nadiya-bychkova-strictly-come-dancing-exit-confirmed-newsupdate/ |website=[[Radio Times]] |access-date=14 May 2026 |archive-date=6 May 2026 |archive-url=https://web.archive.org/web/20260506143635/https://www.radiotimes.com/tv/entertainment/nadiya-bychkova-strictly-come-dancing-exit-confirmed-newsupdate/ |url-status=live }}</ref><ref>{{cite web |title=''Strictly'' star Nadiya Bychkova confirms exit from BBC series amid ongoing overhaul |url=https://www.independent.co.uk/arts-entertainment/tv/news/strictly-nadiya-bychkova-exit-bbc-karen-hauer-b2945914.html |website=[[The Independent]] |access-date=14 May 2026 |language=en |date=26 March 2026}}</ref> [[Luba Mushtuk]], who joined the show during the [[Strictly Come Dancing series 16|sixteenth series]], also confirmed her departure, and thanked the show for "the amazing opportunity and unforgettable memories" adding that "it [had] truly meant the world to [her]".<ref>{{cite web |title=Luba Mushtuk Becomes Latest ''Strictly'' Pro To Leave Show Ahead Of This Year's Series |url=https://www.huffingtonpost.co.uk/entry/luba-mushtuk-leaves-strictly-come-dancing_uk_69c68152e4b041837420605d |website=[[HuffPost]] |access-date=14 May 2026 |language=en |date=27 March 2026 |archive-date=28 March 2026 |archive-url=https://web.archive.org/web/20260328082526/https://www.huffingtonpost.co.uk/entry/luba-mushtuk-leaves-strictly-come-dancing_uk_69c68152e4b041837420605d |url-status=live }}</ref><ref>{{cite web |title=''Strictly Come Dancing'' hit by another exit as a third professional quits |url=https://www.independent.co.uk/bulletin/culture/strictly-come-dancing-luba-mushtuk-b2946985.html |website=[[The Independent]] |access-date=29 March 2026 |language=en |date=27 March 2026 |archive-date=28 March 2026 |archive-url=https://web.archive.org/web/20260328084102/https://www.independent.co.uk/bulletin/culture/strictly-come-dancing-luba-mushtuk-b2946985.html |url-status=live }}</ref> [[Michelle Tsiakkas]], who joined during the [[Strictly Come Dancing series 20|twentieth series]], subsequently confirmed she had been dismissed from the show. Tsiakkas said she was told via a [[Zoom (software)|Zoom]] call that her contract had not been renewed and said that her "dream was shattered", as well as that she was "grieving for her job".<ref>{{cite web |last1=Mensah |first1=Katelyn |title=''Strictly Come Dancing'' star reveals upset after being axed from show |url=https://www.radiotimes.com/tv/entertainment/strictly-come-dancing-michelle-tsiakkas-dropped-newsupdate/ |website=[[Radio Times]] |access-date=14 May 2026}}</ref> She ultimately decided not to participate in ''Strictly: The Professionals'' tour.<ref>{{cite web |title=''Strictly'' professional quits 2026 tour after being ‘axed’ from series |url=https://www.independent.co.uk/arts-entertainment/tv/news/strictly-2026-michelle-tsiakkas-professionals-tour-b2938450.html |website=[[The Independent]] |access-date=14 May 2026 |language=en |date=14 March 2026}}</ref><ref>{{cite web |title="Finding the light again": ''Strictly'' pro speaks out about being ‘axed’ from the show and quitting live tour |url=https://www.cosmopolitan.com/uk/entertainment/a70733053/strictly-pro-dancer-on-being-axed-quitting-tour/ |website=[[Cosmopolitan (magazine)|Cosmopolitan]] |access-date=14 May 2026 |date=13 March 2026 |archive-date=20 March 2026 |archive-url=https://web.archive.org/web/20260320110821/https://www.cosmopolitan.com/uk/entertainment/a70733053/strictly-pro-dancer-on-being-axed-quitting-tour/ |url-status=live }}</ref> The following month, [[Gorka Márquez]], a professional since the [[Strictly Come Dancing series 14|fourteenth series]], was the final professional to confirm to be leaving the show, following his reduced role the previous series due to his commitments as a judge on the Spanish version of the show {{lang|es|Bailando con las estrellas}}.<ref>{{cite web |last1=Mensah |first1=Katelyn |title=''Strictly Come Dancing'' confirms exit of fan-favourite dancer after 10 years |url=https://www.radiotimes.com/tv/entertainment/strictly-come-dancing-gorka-marquez-exit-newsupdate/ |website=[[Radio Times]] |access-date=14 May 2026 |archive-date=6 May 2026 |archive-url=https://web.archive.org/web/20260506143915/https://www.radiotimes.com/tv/entertainment/strictly-come-dancing-gorka-marquez-exit-newsupdate/ |url-status=live }}</ref> Márquez said that being part of ''Strictly Come Dancing'' had been "so much more than just a professional opportunity", adding that "it allowed [him] to build a career from [his] passion", and that he would "forever be thankful."<ref>{{cite web |last1=Karasin |first1=Ekin |title=Gorka Marquez's surprising career move revealed after ''Strictly'' exit |url=https://www.standard.co.uk/showbiz/gorka-marquez-career-move-strictly-come-dancing-b1280390.html |website=[[Evening Standard]] |access-date=14 May 2026 |language=en |date=29 April 2026 |archive-date=30 April 2026 |archive-url=https://web.archive.org/web/20260430083733/https://www.standard.co.uk/showbiz/gorka-marquez-career-move-strictly-come-dancing-b1280390.html |url-status=live }}</ref> 
+
+In May 2026, the BBC confirmed that [[Dianne Buswell]], [[Julian Caillon]], [[Vito Coppola]], [[Amy Dowden]], [[Carlos Gu]], [[Katya Jones]], [[Neil Jones (dancer)|Neil Jones]], [[Nikita Kuzmin]], [[Lauren Oakley]], [[Jowita Przystał]], [[Johannes Radebe]], [[Aljaž Škorjanec]], [[Alexis Warr]], [[Kai Widdrington]] and [[Nancy Xu]] would all be returning for this series. Radebe was later confirmed to be co-presenting the show.<ref>{{cite web |title=''Strictly Come Dancing'': Five pros to leave the show as line-up confirmed |url=https://www.bbc.co.uk/news/articles/c20214nnggdo |website=[[BBC News]] |access-date=14 May 2026 |date=6 May 2026 |archive-date=13 May 2026 |archive-url=https://web.archive.org/web/20260513113350/https://www.bbc.co.uk/news/articles/c20214nnggdo |url-status=live }}</ref><ref>{{cite web |title=Five pros to leave ''Strictly Come Dancing'' as full line-up confirmed |url=https://www.itv.com/news/2026-05-06/five-pros-to-leave-strictly-come-dancing-as-full-line-up-confirmed |website=[[ITV News]] |access-date=14 May 2026}}</ref> In July 2026, five new professional dancers were announced for the series: [[Aleksandra Isaeva]], [[Maddie Ingoldsby]], [[Mark Karmalita]], [[Lethabo Monametsi]] and [[Cristian Priori]].<ref>{{cite web |title=''Strictly Come Dancing'' announces five new Pro Dancers |url=https://bbc.com/mediacentre/2026/strictly-come-dancing-new-pro-dancers |website=[[BBC Media Centre]]|access-date=25 July 2026}}</ref>
+
+During the launch show, Neil Jones, Aleksandra Isaeva, Cristian Priori and Lethabo Monametsi did not receive a celebrity partner, while the rest were paired up, including new professionals Maddie Ingoldsby and Mark Karmalita.<ref>{{cite web |url=https://www.radiotimes.com/tv/entertainment/strictly-come-dancing-2026-pairs-confirmed-newsupdate/ |title=''Strictly Come Dancing'' confirms pairings for revamped 2026 season |work=[[Radio Times]] |access-date=19 September 2026}}</ref>
+
+==Couples==
+On 10 June 2026, [[Lacey Turner]] was announced as the first contestant to be competing in the series.<ref>{{cite news |title=Lacey Turner is the first celebrity contestant confirmed for Strictly Come Dancing 2026 |url=https://www.bbc.com/mediacentre/2026/strictly-come-dancing-lacey-turner |access-date=10 June 2026 |publisher=[[BBC Media Centre]]}}</ref> Following her withdrawal from the [[Strictly Come Dancing series 23|previous series]] prior to the first week due to an ankle injury, [[Dani Dyer]] was announced to be returning as a contestant for this series.<ref>{{cite web|title=Strictly Come Dancing confirms SECOND celebrity contestant – with past connection to the show|first=Laura Jane|last=Turner|work=[[Digital Spy]]|url=https://www.digitalspy.com/tv/reality-tv/a71556483/strictly-come-dancing-2026-second-celebrity-dani-dyer/|date=11 June 2026|access-date=11 June 2026}}</ref> Celebrity reveals continued over the next two months, before the line-up was completed on 12 August 2026.<ref>{{cite web |title=Strictly’s celebrity dancers – and everything else we know for 2026 |url=https://www.telegraph.co.uk/tv/2026/06/11/strictly-2026-line-up/ |website=[[The Daily Telegraph]] |access-date=12 June 2026}}</ref>
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! scope="col" | Celebrity
+! scope="col" class="unsortable"| Notability
+! scope="col" | Professional partner
+! scope="col" | Status
+|- 
+! scope="row" | [[Chris Appleton]]
+| Celebrity hairstylist 
+| [[Amy Dowden]]
+| style="background:#f4c7b8;" |Eliminated 1st<br><small>{{nowrap|on 4 October 2026}}</small>
+|-
+! scope="row" | [[Melanie Walters]]
+| ''[[Gavin & Stacey]]'' actress
+| [[Aljaž Škorjanec]]
+| style="background:#f4c7b8;" |Eliminated 2nd<br><small>{{nowrap|on 11 October 2026}}</small>
+|-
+! scope="row" | [[Sarah Storey]]
+| Paralympic cyclist & swimmer
+| [[Julian Caillon]]
+| style="background:#f4c7b8;" |Eliminated 3rd<br><small>{{nowrap|on 18 October 2026}}</small>
+|-
+! scope="row" | {{nowrap|[[Shaun Wright-Phillips]]}}
+| [[England national football team|England]] footballer & pundit 
+| [[Alexis Warr]]
+| style="background:#f4c7b8;" |Eliminated 4th<br><small>{{nowrap|on 25 October 2026}}</small> 
+|-
+! scope="row" | [[Lawrence Robb]]
+| ''[[Emmerdale]]'' actor
+| [[Jowita Przystał]]
+| style="background:#f4c7b8;" |Eliminated 5th<br><small>{{nowrap|on 1 November 2026}}</small> 
+|-
+! scope="row" | [[Bethany Antonia]]
+| ''[[House of the Dragon]]'' actress
+| [[Nancy Xu]]
+| style="background:#f4c7b8;" |Eliminated 6th<br><small>{{nowrap|on 8 November 2026}}</small> 
+|-
+! scope="row" | [[Cach Mercer]]
+| ''[[Love Island (2015 TV series)|Love Island]]'' winner
+| {{nowrap|[[Maddie Ingoldsby]]}}
+| style="background:lightblue;"| Participating
+|-
+! scope="row" | [[Dani Dyer]]
+| Television personality
+| [[Nikita Kuzmin]]
+| style="background:lightblue;"| Participating
+|-
+! scope="row" | [[Delta Goodrem]]
+| Singer-songwriter & actress
+| [[Kai Widdrington]]
+| style="background:lightblue;"| Participating
+|-
+! scope="row" | [[Graeme Hall (dog trainer)|Graeme Hall]]
+| ''[[Dogs Behaving (Very) Badly]]'' trainer
+| [[Lauren Oakley]]
+| style="background:lightblue;"| Participating
+|-
+! scope="row" | [[Jaime Winstone]]
+| Film & television actress
+| [[Carlos Gu]]
+| style="background:lightblue;"| Participating
+|-
+! scope="row" | [[John Nellis]]
+| Social media personality 
+| [[Katya Jones]]
+| style="background:lightblue;"| Participating
+|-
+! scope="row" | [[Lacey Turner]]
+| ''[[EastEnders]]'' actress
+| [[Vito Coppola]]
+| style="background:lightblue;"| Participating
+|-
+! scope="row" | [[Tabby Stoecker]]
+| Olympic [[Skeleton (sport)|skeleton]] racer
+| [[Mark Karmalita]]
+| style="background:lightblue;"| Participating
+|-
+! scope="row" | [[Will Best]]
+| Television & radio presenter
+| [[Dianne Buswell]]
+| style="background:lightblue;"| Participating
+|-
+|}
+
+==Scoring chart==
+The highest score each week is indicated in {{fontcolor|var(--color-success)|'''bold'''}} with a dagger ({{dagger}}), while the lowest score each week is indicated in {{fontcolor|var(--color-error)|''italicized''}} with a double-dagger ({{double-dagger}}).
+
+'''Color key:'''
+{{columns-list|colwidth=20em|
+{{legend|gold|Winners}}
+{{legend|silver|Co-runners-up}}
+{{legend|lightblue|Bottom two{{efn|Week 6 had the bottom three couples competing}}}}
+{{legend|#f4c7b8|Eliminated}}
+{{legend|#fff383|Excused from competition for the week}}
+}}
+{| class="wikitable sortable" style="text-align:center; font-size:95%"
+|+''Strictly Come Dancing'' series 24 - Weekly scores
+|-
+! rowspan="2" scope="col" | Couple
+! rowspan="2" scope="col" | {{Abbr|Pl.|Place}}
+! colspan="14" | Week
+|-
+! scope="col" | 1
+! scope="col" | 2
+! scope="col" | 1+2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" | 5
+! scope="col" | 6
+! scope="col" | 7
+! scope="col" | 8
+! scope="col" | 9
+! scope="col" | 10
+! scope="col" | 11
+! scope="col" | 12
+! scope="col" | 13
+|-
+! scope="row" | Cach & Maddie
+|
+| 20
+| 29
+| 49
+| 31
+| {{fontcolor|var(--color-success)|'''34'''}}{{dagger|alt=This was the highest score of the night.}}
+| 24
+| 33
+| bgcolor="lightblue"| {{fontcolor|var(--color-error)|''26''}}{{double-dagger}}
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Dani & Nikita
+|
+| 22
+| 23
+| 45
+| 27
+| 25
+| 31
+| 32
+| {{fontcolor|var(--color-success)|'''36'''}}{{dagger|alt=This was the highest score of the night.}}
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Delta & Kai
+|
+| 29
+| 30
+| {{fontcolor|var(--color-success)|'''59'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|var(--color-success)|'''33'''}}{{dagger|alt=This was the highest score of the night.}}
+| bgcolor="fff383" | {{efn|name=OutSick|This couple was excused from competing due to illness or injury, and was granted a [[Bye (sports)|bye]] to the following week.}}
+| 34
+| 33
+| 31
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Graeme & Lauren
+|
+| 24
+| {{fontcolor|var(--color-success)|'''31'''}}{{dagger|alt=This was the highest score of the night.}}
+| 55
+| 25
+| 28
+| 31
+| {{fontcolor|var(--color-error)|''25''}}{{double-dagger}}
+| 28
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Jaime & Carlos
+|
+| 21
+| 21
+| bgcolor="lightblue"| 42
+| 28
+| {{fontcolor|var(--color-success)|'''34'''}}{{dagger|alt=This was the highest score of the night.}}
+| bgcolor="lightblue"| 25
+| bgcolor="lightblue"| 27
+| bgcolor="fff383" | {{efn|name=OutSick|This couple was excused from competing due to illness or injury, and was granted a [[Bye (sports)|bye]] to the following week.}}
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | John & Katya
+|
+| {{fontcolor|var(--color-success)|'''31'''}}{{dagger|alt=This was the highest score of the night.}}
+| 23
+| 54
+| 20
+| 29
+| 32
+| 35
+| {{fontcolor|var(--color-error)|''26''}}{{double-dagger}}
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Lacey & Vito
+|
+| 27
+| 28
+| 55
+| 26
+| 29
+| 28
+| {{fontcolor|var(--color-success)|'''36'''}}{{dagger|alt=This was the highest score of the night.}}
+| 30
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Tabby & Mark
+|
+| 22
+| 28
+| 50
+| 31
+| 29
+| {{fontcolor|var(--color-success)|'''37'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|var(--color-error)|''25''}}{{double-dagger}}
+| 33
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Will & Dianne
+|
+| 18
+| 19
+| 37
+| 25
+| 31
+| 31
+| 32
+| 29
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Bethany & Nancy
+| 10th
+| 26
+| 27
+| 53
+| 27
+| bgcolor="lightblue"| 27
+| 25
+| bgcolor="lightblue"| 30
+| bgcolor="f4c7b8" | 30
+| colspan="6" bgcolor="darkgray" |
+|-
+! scope="row" | {{nowrap|Lawrence & Jowita}}
+| 11th
+| 20
+| 19
+| 39
+| 20
+| 30
+| 19
+| bgcolor="f4c7b8" | 26
+| colspan="7" bgcolor="darkgray" |
+|-
+! scope="row" | Shaun & Alexis
+| 12th
+| {{fontcolor|var(--color-error)|''15''}}{{double-dagger}}
+| 25
+| 40
+| bgcolor="lightblue"| {{fontcolor|var(--color-error)|''15''}}{{double-dagger}}
+| 28
+| bgcolor="f4c7b8" | {{fontcolor|var(--color-error)|''17''}}{{double-dagger}}
+| colspan="8" bgcolor="darkgray" |
+|-
+! scope="row" | Sarah & Julian
+| 13th
+| {{fontcolor|var(--color-error)|''15''}}{{double-dagger}}
+| 24
+| 39
+| 20
+| bgcolor="f4c7b8" | {{fontcolor|var(--color-error)|''21''}}{{double-dagger}}
+| colspan="9" bgcolor="darkgray" |
+|-
+! scope="row" | Melanie & Aljaž
+| 14th
+| {{fontcolor|var(--color-error)|''15''}}{{double-dagger}}
+| {{fontcolor|var(--color-error)|''15''}}{{double-dagger}}
+| {{fontcolor|var(--color-error)|''30''}}{{double-dagger}}
+| bgcolor="f4c7b8" | 17
+| colspan="10" bgcolor="darkgray" |
+|-
+! scope="row" | Chris & Amy
+| 15th
+| 16
+| 17
+| bgcolor="f4c7b8" | 33
+| colspan="11" bgcolor="darkgray" |
+|}
+{{notelist}}
+
+===Average chart===
+This table only counts for dances scored on a 40-points scale.
+
+{| class="wikitable sortable" style="text-align:center; font-size:95%"
+|-
+! scope="col" | Couple
+! scope="col" | Rank by<br>average
+! scope="col" | Place
+! scope="col" | Total<br>points
+! scope="col" | Number of<br>dances
+! scope="col" | Total<br>average
+|-
+! scope="row" | Delta & Kai
+| 1
+| 
+| 190
+| 6
+| 31.6
+|-
+! scope="row" | Tabby & Mark
+| 2
+|
+| 205
+| rowspan="8" | 7
+| 29.3
+|-
+! scope="row" | Lacey & Vito
+| 3
+| 
+| 204
+| 29.1
+|-
+! scope="row" | Cach & Maddie
+| 4
+| 
+| 197
+| 28.2
+|-
+! scope="row" | Dani & Nikita
+| rowspan="2" | 5
+| 
+| rowspan="2" | 196
+| rowspan="2" | 28.0
+|-
+! scope="row" | John & Katya
+| 
+|-
+! scope="row" | Bethany & Nancy
+| rowspan="2" | 7
+| 10th
+| rowspan="2" | 192
+| rowspan="2" | 27.4
+|-
+! scope="row" | Graeme & Lauren
+| 
+|-
+! scope="row" | Will & Dianne
+| 9
+|
+| 185
+| 26.4
+|-
+! scope="row" | Jaime & Carlos
+| 10
+| 
+| 156
+| rowspan="2" | 6
+| 26.0
+|-
+! scope="row" | Lawrence & Jowita
+| 11
+| 11th
+| 134
+| 22.3
+|-
+! scope="row" | Shaun & Alexis
+| rowspan="2" | 12
+| 12th
+| 100
+| 5
+| rowspan="2" | 20.0
+|-
+! scope="row" | Sarah & Julian
+| 13th
+| 80
+| 4
+|-
+! scope="row" | Chris & Amy
+| 14
+| 15th
+| 33
+| 2
+| 16.5
+|-
+! scope="row" | Melanie & Aljaž
+| 15
+| 14th
+| 47
+| 3
+| 15.7
+|}
+
+==Weekly scores==
+''Unless indicated otherwise, individual judges scores in the charts below (given in parentheses) are listed in this order from left to right: [[Craig Revel Horwood]], [[Motsi Mabuse]], [[Shirley Ballas]], [[Anton Du Beke]]''.
+
+===Week 1===
+Each couple performed one unlearned dance. There was no elimination this week; all scores carried over to the following week.
+
+Couples are listed in the order they performed.
+
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+! scope="col" |Couple
+! scope="col" |Scores<ref name="Week1Scores">{{cite web |url=https://www.telegraph.co.uk/tv/2026/09/26/strictly-come-dancing-week-one/ |title=Forget the new Strictly hosts, who put 50p in the judges? |website=[[The Daily Telegraph]] |first=Chris |last=Bennion |date=26 September 2026 |accessdate=26 September 2026 |language=en-GB}}</ref>
+! class="unsortable" scope="col" |Dance<ref name="Week1PR">{{cite web |url=https://www.standard.co.uk/culture/tvfilm/bbc-strictly-come-dancing-2026-songs-dances-first-live-show-b1298398.html |title=Strictly Come Dancing 2026 songs and dances revealed for first live show |website=[[The Standard (London newspaper)|The Standard]] |first=Poppy |last=Huggett |date=25 September 2026 |accessdate=25 September 2026 |language=en-GB}}</ref>
+! class="unsortable" scope="col" |Music<ref name="Week1PR" />
+|-
+! scope="row" | Will & Dianne
+| 18 (4, 5, 4, 5)
+| Samba
+| "[[Rock DJ]]" — [[Robbie Williams]]
+|-
+! scope="row" | Tabby & Mark
+| 22 (4, 6, 5, 7)
+| Jive
+| "[[Animal (Katseye song)|Animal]]" — [[Katseye]]
+|-
+! scope="row" | Sarah & Julian
+| 15 (3, 4, 4, 4)
+| Quickstep
+| "[[C'est Magnifique]]" — [[Kay Starr]]
+|-
+! scope="row" | Lawrence & Jowita
+| 20 (4, 5, 5, 6)
+| Paso doble
+| "[[Aperture (song)|Aperture]]" — [[Harry Styles]]
+|-
+! scope="row" | Shaun & Alexis
+| 15 (2, 4, 4, 5)
+| Cha-cha-cha
+| "[[Lil Boo Thang]]" — [[Paul Russell (musician)|Paul Russell]]
+|-
+! scope="row" | Bethany & Nancy
+| 26 (6, 7, 6, 7)
+| Quickstep
+| "[[Stop This Flame]]" — [[Celeste (singer)|Celeste]]
+|-
+! scope="row" | Lacey & Vito
+| 27 (7, 6, 7, 7)
+| Cha-cha-cha
+| "[[How Will I Know]]" — [[Whitney Houston]]
+|-
+! scope="row" | Chris & Amy
+| 16 (3, 4, 4, 5)
+| Tango
+| "[[No Roots (song)|No Roots]]" — [[Alice Merton]]
+|-
+! scope="row" | Melanie & Aljaž
+| 15 (2, 4, 4, 5)
+| Cha-cha-cha
+| "[[Don't Go Breaking My Heart]]" — [[Elton John]] & [[Kiki Dee]]
+|-
+! scope="row" | Cach & Maddie
+| 20 (3, 6, 5, 6)
+| Quickstep
+| "[[I Just Might]]" — [[Bruno Mars]]
+|-
+! scope="row" | Graeme & Lauren
+| 24 (6, 6, 6, 6)
+| Cha-cha-cha
+| "[[Hound Dog (song)|Hound Dog]]" — from ''[[Smokey Joe's Cafe (revue)|Smokey Joe's Cafe]]''
+|-
+! scope="row" | Jaime & Carlos
+| 21 (5, 5, 5, 6)
+| Tango
+| "[[I Feel Love]]" — [[Donna Summer]]
+|-
+! scope="row" | Dani & Nikita
+| 22 (6, 5, 5, 6)
+| Samba
+| "[[Lush Life (Zara Larsson song)|Lush Life]]" — [[Zara Larsson]]
+|-
+! scope="row" | John & Katya
+| 31 (7, 8, 8, 8)
+| Foxtrot
+| "[[Ordinary (Alex Warren song)|Ordinary]]" — [[Alex Warren]]
+|-
+! scope="row" | Delta & Kai
+| 29 (7, 8, 7, 7)
+| Samba
+| "Baianá" — Barbatuques
+|}
+
+===Week 2: Movie Week===
+*Musical guests: [[Tim Minchin]] — "[[Matilda the Musical (soundtrack)|Quiet]]" (from ''[[Matilda the Musical (film)|Matilda the Musical]]'')<ref name="Week2Scores" />
+
+Each couple performed one unlearned dance to famous film songs. For the first time in the show's history, all couples participated in a themed week of the competition.<ref name="Week2PR">{{Cite web |title=''Strictly Come Dancing'' 2026 week 2 Movie Week songs and dances revealed |url=https://entertainment-focus.com/2026/09/29/strictly-come-dancing-2026-week-2-movie-week-songs-and-dances-revealed/ |first=Pip |last=Ellwood-Hughes |date=2026-09-29 |access-date=2026-10-02 |website=Entertainment Focus |language=en-GB}}</ref> [[Craig Revel Horwood]] had the casting vote.<ref name="Week2Results" />
+
+Couples are listed in the order they performed.
+ 
+{| class="wikitable sortable" style="text-align:center; width: 100%"
+! scope="col" |Couple
+! scope="col" |Scores<ref name="Week2Scores">{{cite web| url=https://www.theguardian.com/tv-and-radio/live/2026/oct/03/strictly-come-dancing-week-two-live |title=''Strictly Come Dancing'': week two results – as it happened |website=[[The Guardian]] |first=Michael |last=Hogan |date=2026-10-04 |access-date=2026-10-04 |language=en-GB}}</ref>
+! scope="col" class="unsortable" |Dance<ref name="Week2PR" />
+! scope="col" class="unsortable" |Music<ref name="Week2PR" />
+! scope="col" class="unsortable" |Film<ref name="Week2PR" />
+! scope="col" class="unsortable" |Result<ref name="Week2Results">{{cite web |title=First celebrity eliminated from ''Strictly Come Dancing'' 2026 |url=https://www.independent.co.uk/arts-entertainment/tv/news/strictly-come-dancing-results-who-left-elimination-movie-week-b3061024.html |work=[[The Independent]] |first=Lydia |last=Spencer-Elliott |date=2026-10-04 |access-date=2026-10-04 |language=en-gb}}</ref>
+|-
+! scope="row" | Dani & Nikita
+| 23 (6, 6, 5, 6)
+| Foxtrot
+| "[[Beauty and the Beast (Disney song)|Beauty and the Beast]]"
+| ''[[Beauty and the Beast (1991 film)|Beauty and the Beast]]''
+| Safe
+|-
+! scope="row" | John & Katya
+| 23 (4, 5, 7, 7)
+| Couple's choice
+| "[[Back to Titanic|An Irish Party in Third Class]]"
+| ''[[Titanic (1997 film)|Titanic]]''
+| Safe
+|-
+! scope="row" | Delta & Kai
+| 30 (8, 7, 7, 8)
+| American Smooth
+| "[[I'll Never Love Again]]"
+| [[A Star Is Born (2018 film)|''A Star Is Born'']]
+| Safe
+|-
+! scope="row" | Chris & Amy
+| 17 (4, 4, 4, 5)
+| Cha-cha-cha
+| "[[I'm Always Here]]"
+| [[Baywatch (film)|''Baywatch'']]
+| bgcolor="f4c7b8"|Eliminated 
+|-
+! scope="row" | Lawrence & Jowita
+| 19 (4, 5, 4, 6)
+| Viennese waltz
+| "[[Ratatouille (soundtrack)|Le Festin]]"
+| [[Ratatouille (film)|''Ratatouille'']]
+| Safe
+|-
+! scope="row" | Sarah & Julian
+| 24 (6, 6, 6, 6)
+| Charleston
+| "[[Supercalifragilisticexpialidocious]]"
+| ''[[Mary Poppins (film)|Mary Poppins]]''
+| Safe
+|-
+! scope="row" | Graeme & Lauren
+| 31 (8, 8, 8, 7)
+| Waltz
+| "[[Love Theme from The Godfather|''The Godfather'' Theme]]"
+| ''[[The Godfather]]''
+| Safe
+|-
+! scope="row" | Will & Dianne
+| 19 (4, 5, 5, 5)
+| Foxtrot
+| "[[Old Time Rock and Roll]]"
+| ''[[Risky Business]]''
+| Safe
+|-
+! scope="row" | Jaime & Carlos
+| 21 (5, 5, 5, 6)
+| Cha-cha-cha
+| "[[Oh, Pretty Woman]]"
+| ''[[Pretty Woman]]''
+| bgcolor="lightblue"|Bottom two
+|-
+! scope="row" | Melanie & Aljaž
+| 15 (3, 4, 4, 4) 
+| Waltz
+| "[[Edelweiss (song)|Edelweiss]]"
+| [[The Sound of Music (film)|''The Sound of Music'']]
+| Safe
+|-
+! scope="row" | Cach & Maddie
+| 29 (7, 7, 7, 8)
+| Samba
+| "[[We Go Together (Grease song)|We Go Together]]"
+| [[Grease (film)|''Grease'']]
+| Safe
+|-
+! scope="row" | Tabby & Mark
+| 28 (7, 7, 7, 7)
+| American Smooth
+| "[[Rewrite the Stars]]"
+| ''[[The Greatest Showman]]''
+| Safe
+|-
+! scope="row" | Bethany & Nancy
+| 27 (7, 7, 6, 7)
+| Paso doble
+| "[[No Good Deed (song)#Cynthia Erivo version|No Good Deed]]"
+| ''[[Wicked: For Good]]''
+| Safe
+|-
+! scope="row" | Lacey & Vito
+| 28 (6, 7, 7, 8)
+| Quickstep
+| "[[I Knew It, I Knew You]]"
+| ''[[Toy Story 5]]''
+| Safe
+|-
+! scope="row" | Shaun & Alexis
+| 25 (4, 7, 7, 7)
+| Salsa
+| "[[You Should Be Dancing]]"
+| ''[[Saturday Night Fever]]''
+| Safe
+|}
+;Judges' votes to save<ref name="Week2Results" />
+* Mabuse: Jaime & Carlos
+* Ballas: Jaime & Carlos
+* Du Beke: Jaime & Carlos
+* Revel Horwood: ''Did not vote, but would have voted to save Jaime & Carlos.''
+
+=== Week 3 ===
+*Musical guests: [[Jalen Ngonda]] — "Burning Temptation"<ref name="Week3Scores" />
+
+Each couple performed one unlearned dance. [[Anton Du Beke]] had the casting vote.<ref name="Week3Results" />
+
+Couples are listed in the order they performed.
+
+{| class="wikitable sortable" style="text-align:center; width: 100%"
+|+
+! scope="col" |Couple
+! scope="col" |Scores<ref name="Week3Scores">{{cite web |url=https://www.theguardian.com/tv-and-radio/live/2026/oct/10/strictly-come-dancing-week-three-live |title=''Strictly Come Dancing'' week three results – as it happened |website=[[The Guardian]] |first=Michael |last=Hogan |date=2026-10-11 |access-date=2026-10-12 |language=en-GB}}</ref>
+! scope="col" class="unsortable" |Dance<ref name="Week3PR">{{Cite web |url=https://www.walesonline.co.uk/lifestyle/tv/strictly-come-dancing-start-time-34741951 |title=''Strictly Come Dancing'' start time tonight and full list of week 3 songs and dances |publisher=[[Media Wales]] |website=[[WalesOnline]] |first=Sara |last=Baalla |date=2026-10-10 |access-date=2026-10-12 |language=en-GB}}</ref>
+! scope="col" class="unsortable" |Music<ref name="Week3PR" />
+! scope="col" class="unsortable" |Result<ref name="Week3Results">{{cite web |title=Eliminated ''Strictly'' contestant addresses early exit from series: ‘So sorry to be leaving’ |url=https://www.independent.co.uk/arts-entertainment/tv/news/strictly-2026-melanie-walters-bbc-b3065003.html |work=[[The Independent]] |first=Jacob |last=Stolworthy |date=2026-10-12 |access-date=2026-10-12 |language=en-gb}}</ref>
+|-
+! scope="row" | Lacey & Vito
+| 26 (6, 6, 7, 7)
+| Samba
+| "[[Bamboléo]]" — [[Gipsy Kings]]
+| Safe
+|-
+! scope="row" | Will & Dianne
+| 25 (6, 6, 6, 7)
+| Waltz
+| "[[With You I'm Born Again]]" — [[Billy Preston]] & [[Syreeta Wright]]
+| Safe
+|-
+! scope="row" | Shaun & Alexis
+| 15 (3, 4, 3, 5)
+| Quickstep 
+| "[[I'm a Believer]]" — [[The Monkees]]
+| bgcolor="lightblue"|Bottom two
+|-
+! scope="row" | Cach & Maddie
+| 31 (7, 8, 8, 8)
+| Couple's choice
+| "[[This Music May Contain Hope|Beware... The South London Lover Boy]]" — [[Raye]]
+| Safe
+|-
+! scope="row" | Jaime & Carlos
+| 28 (7, 7, 7, 7)
+| Viennese waltz 
+| "[[Never Tear Us Apart]]" — [[INXS]]
+| Safe
+|-
+! scope="row" | Melanie & Aljaž
+| 17 (3, 5, 4, 5)
+| Charleston
+| "[[Ooh Aah... Just a Little Bit]]" — [[Gina G]] / "[[Saturday Night (Whigfield song)|Saturday Night]]" — [[Whigfield]]
+| bgcolor="f4c7b8"|Eliminated 
+|-
+! scope="row" | Sarah & Julian
+| 20 (4, 5, 5, 6)
+| Paso doble 
+| "[[California Dreamin']]" — [[Sia]]
+| Safe
+|-
+! scope="row" | Delta & Kai
+| 33 (8, 9, 8, 8)
+| Salsa
+| "[[Always There (Side Effect song)|Always There]]" — [[Incognito (band)|Incognito]] feat. [[Jocelyn Brown]] / "[[Ain't Nobody]]" — [[Rufus (band)|Rufus]] & [[Chaka Khan]]
+| Safe
+|-
+! scope="row" | Lawrence & Jowita
+| 20 (5, 5, 4, 6)
+| Rumba 
+| "[[Back to Friends]]" — [[Sombr]]
+| Safe
+|-
+! scope="row" | Dani & Nikita
+| 27 (7, 7, 6, 7)
+| Tango
+| "[[Show Me Love (Robin S. song)|Show Me Love]]" — [[Robin S.]]
+| Safe
+|-
+! scope="row" | Graeme & Lauren
+| 25 (6, 6, 6, 7)
+| Jive
+| "[[Reet Petite]]" — [[Jackie Wilson]]
+| Safe
+|-
+! scope="row" | John & Katya
+| 20 (4, 5, 5, 6)
+| Cha-cha-cha 
+| "[[Rock Your Body]]" — [[Justin Timberlake]]
+| Safe
+|-
+! scope="row" | Bethany & Nancy
+| 27 (6, 7, 7, 7)
+| American Smooth
+| "[[Love Song (Sara Bareilles song)|Love Song]]" — [[Sara Bareilles]]
+| Safe
+|-
+! scope="row" | Tabby & Mark
+| 31 (8, 8, 7, 8)
+| Argentine tango
+| "[[Hate That I Made You Love Me]]" — [[Ariana Grande]]
+| Safe
+|}
+;Judges' votes to save<ref name="Week3Results" />
+* Revel Horwood: Shaun & Alexis 
+* Mabuse: Melanie & Aljaž
+* Ballas: Shaun & Alexis 
+* Du Beke: Shaun & Alexis
+
+=== Week 4: Icons Week ===
+*Musical guests: [[Belles]] — "[[Jolene|Son of Jolene]]"<ref name="Week4Scores" />
+
+Each couple performed one unlearned dance to a song by a popular musical icon, with the celebrity appearing in the guise of their icon. [[Shirley Ballas]] had the casting vote.<ref name="Week4Results" />
+
+Delta and Kai did not perform this week due to Delta suffering a rib injury during the previous week's rehearsals. Under the show's rules, they were granted a [[Bye (sports)|bye]] to the following week.<ref>{{cite web |url=https://www.bbc.com/mediacentre/2026/delta-goodrem-strictly-icons-week |title=Delta Goodrem to miss ''Strictly Come Dancing'' Icons Week due to injury |publisher=[[BBC]] |date=2026-10-12 |access-date=2026-10-18 |language=en-GB}}</ref><ref name="deltabye">{{cite web |url=https://www.standard.co.uk/showbiz/delta-goodrem-strictly-come-dancing-missing-icons-week-b1300574.html |title=Delta Goodrem 'rushed to hospital twice' as star pulls out of upcoming ''Strictly'' live show |website=[[The Standard (London newspaper)|The Standard]] |first=Holly |last=Bishop |date=2026-10-12 |access-date=2026-10-18 |language=en-GB}}</ref> Delta was supposed to portray [[Olivia Newton-John]] as her icon and dance a cha-cha-cha to her song "[[Xanadu (Olivia Newton-John and Electric Light Orchestra song)|Xanadu]]".<ref name="deltabye" />
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width: 100%"
+|+
+! scope="col" |Couple
+! scope="col" |Scores<ref name="Week4Scores">{{cite web |url=https://www.theguardian.com/tv-and-radio/live/2026/oct/17/strictly-come-dancing-week-four-live |title=''Strictly Come Dancing'' week four results – as it happened |website=[[The Guardian]] |first=Michael |last=Hogan |date=2026-10-18 |access-date=2026-10-18 |language=en-GB}}</ref>
+! scope="col" class="unsortable" |Dance<ref name="Week4PR">{{cite web |url=https://www.digitalspy.com/tv/reality-tv/a74135436/strictly-come-dancing-week-4-dances-songs-icons-week/ |title=''Strictly Come Dancing'' confirms dances and songs for Week 4 – and it's Icons Week |website=[[Digital Spy]] |first=Shaun |last=Kitchener |date=2026-10-14 |access-date=2026-10-18 |language=en-GB}}</ref>
+! scope="col" class="unsortable" |Music<ref name="Week4PR" />
+! scope="col" class="unsortable" |Icon<ref name="Week4PR" />
+! scope="col" class="unsortable" |Result<ref name="Week4Results">{{cite web |url=https://www.standard.co.uk/showbiz/strictly-2026-dance-off-icons-week-bbc-dame-sarah-storey-b1301370.html |title=''Strictly'' 2026: Which couple has been eliminated after Icons Week dance-off? |work=[[The Standard (London newspaper)|The Standard]] |first=Megan |last=Howe |date=2026-10-18 |access-date=2026-10-18 |language=en-gb}}</ref>
+|-
+! scope="row" | John & Katya
+| 29 (6, 7, 8, 8)
+| Paso doble
+| "[[It's My Life (Bon Jovi song)|It's My Life]]"
+| [[Jon Bon Jovi]]
+| Safe
+|-
+! scope="row" | Dani & Nikita
+| 25 (6, 6, 6, 7)
+| Rumba
+| "[[Hero (Mariah Carey song)|Hero]]"
+| [[Mariah Carey]]
+| Safe
+|-
+! scope="row" | Lawrence & Jowita
+| 30 (7, 8, 7, 8)
+| Salsa
+| "[[The Cup of Life|La Copa de la Vida]]"
+| [[Ricky Martin]]
+| Safe
+|-
+! scope="row" | Tabby & Mark
+| 29 (8, 7, 7, 7)
+| Samba
+| "[[Where Is My Husband!]]"
+| [[Raye]]
+| Safe
+|-
+! scope="row" | Sarah & Julian
+| 21 (5, 5, 5, 6)
+| Tango
+| "[[That Don't Impress Me Much]]"
+| [[Shania Twain]]
+| bgcolor="f4c7b8"|Eliminated
+|-
+! scope="row" | Cach & Maddie
+| 34 (8, 9, 8, 9)
+| Foxtrot
+| "[[Theme from New York, New York|''New York, New York'' Theme]]"
+| [[Frank Sinatra]]
+| Safe
+|-
+! scope="row" | Bethany & Nancy
+| 27 (6, 7, 7, 7)
+| Cha-cha-cha
+| "[[Respect (Aretha Franklin recording)|Respect]]"
+| [[Aretha Franklin]]
+| bgcolor="lightblue"|Bottom two
+|-
+! scope="row" | Shaun & Alexis
+| 28 (7, 7, 7, 7)
+| Couple's choice
+| "[[I Got You (I Feel Good)]]" / "[[Get Up Offa That Thing]]"
+| [[James Brown]]
+| Safe
+|-
+! scope="row" | Lacey & Vito
+| 29 (7, 7, 7, 8)
+| American Smooth
+| "[[Hometown Glory]]"
+| [[Adele]]
+| Safe
+|-
+! scope="row" | Graeme & Lauren
+| 28 (7, 7, 7, 7)
+| Salsa
+| "[[Gimme! Gimme! Gimme! (A Man After Midnight)]]" / "[[Voulez-Vous (song)|Voulez-Vous]]"
+| [[ABBA]]
+| Safe
+|-
+! scope="row" | Jaime & Carlos
+| 34 (8, 9, 8, 9)
+| Paso doble
+| "[[Let's Dance (David Bowie song)|Let's Dance]]"
+| [[David Bowie]]
+| Safe
+|-
+! scope="row" | Will & Dianne
+| 31 (7, 8, 8, 8)
+| Jive
+| "[[Crocodile Rock]]"
+| [[Elton John]]
+| Safe
+|}
+;Judges' votes to save<ref name="Week4Results" />
+*Du Beke: Bethany & Nancy
+*Revel Horwood: Bethany & Nancy
+*Mabuse: Bethany & Nancy
+*Ballas: ''Did not vote, but would have voted to save Bethany & Nancy.''
+
+=== Week 5 ===
+*Musical guests: [[Melanie C]] — "[[Sweat (Melanie C album)|Sweat]]", [[Jamie Miller (singer)|Jamie Miller]] & [[Antonio Cipriano]] — "Babydoll"<ref name="Week5Scores" />
+
+Each couple performed one unlearned dance. [[Anton Du Beke]] had the casting vote.<ref name="Week5Results" />
+
+Couples are listed in the order they performed.
+
+{| class="wikitable sortable" style="text-align:center; width: 100%"
+|+
+! scope="col" |Couple
+! scope="col" |Scores<ref name="Week5Scores">{{Cite news |last=Hogan |first=Michael |date=25 October 2026 |title=''Strictly Come Dancing'' week five results – as it happened |url=https://www.theguardian.com/tv-and-radio/live/2026/oct/24/strictly-come-dancing-week-five-live |url-status=live |archive-url=https://web.archive.org/web/20261026104145/https://www.theguardian.com/tv-and-radio/live/2026/oct/24/strictly-come-dancing-week-five-live |archive-date=26 October 2026 |access-date=26 October 2026 |work=[[The Guardian]] |language=en-GB |issn=0261-3077}}</ref>
+! scope="col" class="unsortable" |Dance<ref name="Week5PR">{{cite web |url=https://www.digitalspy.com/tv/reality-tv/a74233674/strictly-come-dancing-full-list-songs-dances-week-5-2026/ |title=''Strictly Come Dancing'' confirms full list of songs and dances for week 5 as Spice Girls legend performs |website=[[Digital Spy]] |first=Rebecca |last=Sayce |date=2026-10-23 |access-date=2026-10-26 |language=en-GB}}</ref>
+! scope="col" class="unsortable" |Music<ref name="Week5PR" />
+! scope="col" class="unsortable" |Result<ref name="Week5Results">{{cite web |url=https://entertainment-focus.com/2026/10/25/shaun-wright-phillips-is-the-fourth-celebrity-to-leave-strictly-come-dancing-2026/ |title='Shaun Wright-Phillips is the fourth celebrity to leave ''Strictly Come Dancing'' 2026 |work=Entertainment Focus |first=Pip |last=Ellwood-Hughes |date=2026-10-25 |access-date=2026-10-26 |language=en-gb}}</ref>
+|-
+! scope="row" | Jaime & Carlos
+| 25 (6, 6, 6, 7)
+| Foxtrot
+| "[[Man I Need]]" — [[Olivia Dean]]
+| bgcolor="lightblue"|Bottom two
+|-
+! scope="row" | Lawrence & Jowita
+| 19 (4, 5, 4, 6)
+| Jive
+| "[[The Rockafeller Skank]]" — [[Fatboy Slim]]
+| Safe
+|-
+! scope="row" | Graeme & Lauren
+| 31 (7, 8, 7, 9)
+| Tango
+| "[[Hernando's Hideaway]]" — from ''[[The Pajama Game]]''
+| Safe
+|-
+! scope="row" | Will & Dianne
+| 31 (7, 8, 8, 8)
+| Cha-cha-cha
+| "[[Della Della Cha-Cha-Cha|Daddy]]" — [[Della Reese]] 
+| Safe
+|-
+! scope="row" | Bethany & Nancy
+| 25 (5, 7, 6, 7)
+| Argentine tango
+| "[[All the Things She Said]]" — [[Harrison (English musician)|Harrison]]
+| Safe
+|-
+! scope="row" | Shaun & Alexis
+| 17 (3, 5, 3, 6)
+| Jive
+| "[[Faith (Stevie Wonder song)|Faith]]" — [[Stevie Wonder]] feat. [[Ariana Grande]]
+| bgcolor="f4c7b8"|Eliminated
+|-
+! scope="row" | Dani & Nikita
+| 31 (7, 8, 8, 8)
+| Salsa
+| "[[Despechá]]" — [[Rosalía]]
+| Safe
+|-
+! scope="row" | Lacey & Vito
+| 28 (7, 7, 6, 8)
+| Tango
+| "[[Atomic (song)|Atomic]]" — [[Blondie (band)|Blondie]]
+| Safe
+|-
+! scope="row" | Cach & Maddie
+| 24 (5, 7, 5, 7)
+| Cha-cha-cha
+| "[[Beggin' (Måneskin recording)|Beggin']]" — [[Måneskin]]
+| Safe
+|-
+! scope="row" | Delta & Kai
+| 34 (7, 9, 8, 10)
+| Rumba
+| "[[It's All Coming Back to Me Now]]" — [[Celine Dion]]
+| Safe
+|-
+! scope="row" | Tabby & Mark
+| 37 (8, 10, 9, 10)
+| Couple's choice
+| "[[Stupid Song]]" — [[Olivia Rodrigo]] 
+| Safe
+|-
+! scope="row" | John & Katya
+| 32 (7, 8, 8, 9)
+| Quickstep
+| "[[5 Colours in Her Hair]]" — [[McFly]]
+| Safe
+|}
+;Judges' votes to save<ref name="Week5Results" />
+* Revel Horwood: Jaime & Carlos
+* Mabuse: Jaime & Carlos
+* Ballas: Shaun & Alexis
+* Du Beke: Jaime & Carlos
+
+===Week 6: Halloween Week===
+
+Each couple performed one unlearned dance to [[Halloween]] themes. [[Motsi Mabuse]] had the casting vote.
+
+For the first time in ''Strictly''<nowiki/>'s history, the results show featured a triple dance-off. The three couples with the lowest combined scores from the judges and public votes went head-to-head against one another, before the judges vote for the one couple that will be eliminated.<ref>https://www.radiotimes.com/tv/entertainment/strictly-come-dancing-confirms-historic-format-twist-newsupdate/</ref>
+
+Couples are listed in the order they performed.
+
+{| class="wikitable sortable" style="text-align:center; width: 100%"
+|+
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable" |Dance
+! scope="col" class="unsortable" |Music
+! scope="col" class="unsortable" |Result
+|-
+! scope="row" | Graeme & Lauren
+|25 (6, 7, 5, 7)
+| Samba
+| "[[Coconut (Harry Nilsson song)|Coconut]]" — [[Harry Nilsson]]
+| Safe
+|-
+! scope="row" | Delta & Kai
+|33 (8, 8, 8, 9)
+| Viennese waltz
+| "[[Unchained Melody]]" — [[The Righteous Brothers]]
+| Safe
+|-
+! scope="row" | Tabby & Mark
+| 25 (6, 7, 5, 7)
+| Quickstep
+| "[[Black Magic (Little Mix song)|Black Magic]]" — [[Little Mix]]
+| Safe
+|-
+! scope="row" | John & Katya
+| 35 (8, 9, 9, 9)
+| Tango
+| "[[Dance...]]" — [[Slayyyter]]
+| Safe
+|-
+! scope="row" | Bethany & Nancy
+| 30 (7, 8, 7, 8)
+| Jive
+| "[[I'm in Love with a Monster]]" — [[Fifth Harmony]]
+| bgcolor="lightblue"|Bottom three
+|-
+! scope="row" | Cach & Maddie
+| 33 (7, 9, 8, 9)
+| Argentine tango
+| "[[Us (soundtrack)|Pas De Deux]]" — [[Michael Abels]]
+| Safe
+|-
+! scope="row" | Jaime & Carlos
+| 27 (7, 7, 5, 8)
+| Salsa
+| "[[Filthy/Gorgeous]]" — [[Scissor Sisters]]
+| bgcolor="lightblue"|Bottom three
+|-
+! scope="row" | Will & Dianne
+| 32 (8, 8, 8, 8)
+| Couple's choice
+| "[[Nu Flow]]" — [[Big Brovaz]]
+| Safe
+|-
+! scope="row" | Lawrence & Jowita
+| 26 (6, 7, 6, 7)
+| Tango
+| "[[Ghostbusters (song)|Ghostbusters]]" — [[Ray Parker Jr.]]
+| bgcolor="f4c7b8"|Eliminated
+|-
+! scope="row" | Dani & Nikita
+| 32 (8, 8, 8, 8)
+| Viennese waltz
+| "[[My Favorite Things (song)|My Favorite Things]]" — from ''[[The Sound of Music]]''
+| Safe
+|-
+! scope="row" | Lacey & Vito
+| 36 (9, 9, 9, 9)
+| Charleston
+| "[[Crazy Stupid Love (song)|Crazy Stupid Love]]" — [[Cheryl Cole]] feat. [[Tinie Tempah]]
+| Safe
+|}
+'''Judges' votes to eliminate'''
+* Ballas: Lawrence & Jowita
+* Du Beke: Lawrence & Jowita
+* Revel Horwood: Lawrence & Jowita
+* Mabuse: ''Did not vote, but would have voted to eliminate Lawrence & Jowita.''
+
+===Week 7===
+Each couple performed one unlearned dance. [[Shirley Ballas]] had the casting vote.
+
+Jaime and Carlos did not perform this week due to Jaime suffering from a torn abdominal muscle. Under the show's rules, they were granted a [[Bye (sports)|bye]] to the following week.<ref>https://www.bbc.com/mediacentre/2026/jaime-winstone-strictly-come-dancing-injury</ref>
+{| class="wikitable sortable" style="text-align:center; width: 100%"
+|+
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable" |Dance
+! scope="col" class="unsortable" |Music
+! scope="col" class="unsortable" |Result
+|-
+! scope="row" | Will & Dianne
+| 29 (6, 8, 7, 8)
+| Quickstep
+| "[[This Love (Maroon 5 song)|This Love]]" — [[Maroon 5]]
+| Safe
+|-
+! scope="row" | Lacey & Vito
+| 30 (6, 7, 8, 9)
+| Rumba
+| "[[Yellow (Coldplay song)|Yellow]]" — [[Coldplay]]
+| Safe
+|-
+! scope="row" | Delta & Kai
+| 31 (7, 8, 7, 9)
+| Cha-cha-cha
+| "[[Let's Get Loud]]" — [[Jennifer Lopez]]
+| Safe
+|-
+! scope="row" | Bethany & Nancy
+| 30 (6, 9, 7, 8)
+| Foxtrot
+| "[[Bleeding Love]]" — [[Leona Lewis]]
+| bgcolor="f4c7b8"|Eliminated
+|-
+! scope="row" | John & Katya
+| 26 (4, 7, 7, 8)
+| Salsa
+| "[[Get Lucky (Daft Punk song)|Get Lucky]]" — [[Daft Punk]] feat. [[Pharrell Williams]] & [[Nile Rodgers]]
+| Safe
+|-
+! scope="row" | Graeme & Lauren
+| 28 (5, 8, 7, 8)
+| Couple's choice
+| "[[The Book of Love (The Magnetic Fields song)|The Book of Love]]" — [[Peter Gabriel]]
+| Safe
+|-
+! scope="row" | Tabby & Mark
+| 33 (7, 9, 8, 9)
+| Paso doble
+| "[[Supermassive Black Hole (song)|Supermassive Black Hole]]" — [[Muse (band)|Muse]]
+| Safe
+|-
+! scope="row" | Cach & Maddie
+| 26 (4, 8, 6, 8)
+| Waltz
+| "That Ain't You" — Mulaa Joans
+| bgcolor="lightblue"|Bottom two
+|-
+! scope="row" | Dani & Nikita
+| 36 (8, 10, 9, 9)
+| American Smooth
+| "[[It Had to Be You (song)|It Had to Be You]]" — [[Harry Connick Jr.]]
+| Safe
+|}
+
+;Judges' votes to save
+* Du Beke: Cach & Maddie
+* Revel Horwood: Bethany & Nancy
+* Mabuse: Bethany & Nancy
+* Ballas: Cach & Maddie
+
+===Week 8===
+Each couple performed one unlearned dance.
+
+{| class="wikitable sortable" style="text-align:center; width: 100%"
+|+
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable" |Dance
+! scope="col" class="unsortable" |Music
+! scope="col" class="unsortable" |Result
+|-
+! scope="row" | Cach & Maddie
+| 
+| 
+| 
+| 
+|-
+! scope="row" | Dani & Nikita
+| 
+| Paso doble
+| "[[Everybody Wants to Rule the World]]" — [[Lorde]]
+| 
+|-
+! scope="row" | Delta & Kai
+| 
+| Argentine tango
+| 
+| 
+|-
+! scope="row" | Graeme & Lauren
+| 
+| 
+| 
+| 
+|-
+! scope="row" | Jaime & Carlos
+| 
+| 
+| 
+| 
+|-
+! scope="row" | John & Katya
+| 
+| Jive
+| 
+| 
+|-
+! scope="row" | Lacey & Vito
+| 
+| Foxtrot
+| "[[Have You Met Miss Jones?]]" — [[Robbie Williams]]
+| 
+|-
+! scope="row" | Tabby & Mark
+| 
+| Viennese waltz
+| "[[I'm with You (Avril Lavigne song)|I'm with You]]" — [[Avril Lavigne]]
+| 
+|-
+! scope="row" | Will & Dianne
+| 
+| Paso doble
+| 
+| 
+|}
+
+==Dance chart==
+The couples performed the following each week:
+*Week 1–8: One unlearned dance
+
+{| class="wikitable unsortable" style="text-align:center; font-size:85%; line-height:20px"
+|+''Strictly Come Dancing'' series 24 - Dance chart
+! rowspan="2" |Couple
+! colspan="15" |Week
+|-
+! scope="col" | 1
+! scope="col" | 2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" | 5
+! scope="col" | 6
+! scope="col" | 7
+! scope="col" | 8
+! scope="col" | 9
+! scope="col" | 10
+! scope="col" | 11
+! scope="col" | 12
+! scope="col" | 13
+|-
+! scope="row" | Cach & Maddie
+| Quickstep 
+| Samba
+| Couple's choice
+| Foxtrot
+| Cha-cha-cha
+| Argentine tango
+| Waltz
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Dani & Nikita
+| Samba
+| Foxtrot
+| Tango
+| Rumba
+| Salsa
+| Viennese waltz
+| American Smooth
+| Paso doble
+|
+|
+|
+|
+|
+|-
+! scope="row" | Delta & Kai
+| Samba 
+| American Smooth
+| Salsa
+| bgcolor="lightgrey" | <s>''Cha-cha-cha''</s>{{efn|name=OutSick|This couple were excused from competition due to illness or injury, and were granted a [[Bye (sports)|bye]] to the following week.}}
+| Rumba
+| Viennese waltz
+| Cha-cha-cha
+| Argentine tango
+|
+|
+|
+|
+|
+|-
+! scope="row" | Graeme & Lauren
+| Cha-cha-cha 
+| Waltz
+| Jive
+| Salsa
+| Tango
+| Samba
+| Couple's choice
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Jaime & Carlos
+| Tango
+| Cha-cha-cha
+| Viennese waltz
+| Paso doble
+| Foxtrot
+| Salsa
+| bgcolor="lightgrey"| {{efn|name=OutSick}}
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | John & Katya
+| Foxtrot 
+| Couple's choice
+| Cha-cha-cha
+| Paso doble
+| Quickstep
+| Tango
+| Salsa
+| Jive
+|
+|
+|
+|
+|
+|-
+! scope="row" | Lacey & Vito
+| Cha-cha-cha 
+| Quickstep
+| Samba
+| American Smooth
+| Tango
+| Charleston
+| Rumba
+| Foxtrot
+|
+|
+|
+|
+|
+|-
+! scope="row" | Tabby & Mark
+| Jive
+| American Smooth
+| Argentine tango
+| Samba
+| Couple's choice
+| Quickstep
+| Paso doble
+| Viennese waltz
+|
+|
+|
+|
+|
+|-
+! scope="row" | Will & Dianne
+| Samba
+| Foxtrot
+| Waltz
+| Jive
+| Cha-cha-cha
+| Couple's choice
+| Quickstep
+| Paso doble
+|
+|
+|
+|
+|
+|-
+! scope="row" | Bethany & Nancy
+| Quickstep 
+| Paso doble
+| American Smooth
+| Cha-cha-cha
+| Argentine tango
+| Jive
+| Foxtrot
+|colspan="10" bgcolor="lightgrey" |
+|-
+! scope="row" | Lawrence & Jowita
+| Paso doble
+| Viennese waltz
+| Rumba
+| Salsa
+| Jive
+| Tango
+|colspan="11" bgcolor="lightgrey" |
+|-
+! scope="row" | Shaun & Alexis
+| Cha-cha-cha 
+| Salsa
+| Quickstep
+| Couple's choice
+| Jive
+|colspan="12" bgcolor="lightgrey" |
+|-
+! scope="row" | Sarah & Julian
+| Quickstep 
+| Charleston
+| Paso doble
+| Tango
+|colspan="13" bgcolor="lightgrey" |
+|-
+! scope="row" | Melanie & Aljaž
+| Cha-cha-cha 
+| Waltz
+| Charleston
+|colspan="14" bgcolor="lightgrey" |
+|-
+! scope="row" | Chris & Amy
+| Tango
+| Cha-cha-cha
+|colspan="15" bgcolor="lightgrey" |
+|}
+{{notelist}}
+
+==Ratings==
+Weekly ratings for each show on [[BBC One]]. All ratings are provided by [[Barb Audiences|BARB]].<ref>{{cite web |url=https://www.barb.co.uk/viewing-data/weekly-top-50-shows/ |title=Weekly Top 50 shows |publisher=[[BARB]] |access-date=19 September 2026 }}</ref>
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! scope="col"|Episode
+! scope="col"|Date
+! scope="col"|Official rating<br />(millions)
+! scope="col"|Weekly rank<br />for BBC One
+! scope="col"|Weekly rank<br />for all UK TV
+|-
+! scope="row"|Launch show
+| {{dts|19 September}} || 6.43 || 1 || 1
+|-
+! scope="row"|Week 1
+| {{dts|26 September}} || 6.20 || 1 || 2
+|-
+! scope="row"|Week 2
+| {{dts|3 October}} || 6.27 || 3 || 5
+|-
+! scope="row"|Week 2 results
+| {{dts|4 October}} || 5.18 || 4 || 7
+|- 
+! scope="row"|Week 3
+| {{dts|10 October}} || 5.81 || 3 || 5
+|-
+! scope="row"|Week 3 results
+| {{dts|11 October}} || 5.43 || 4 || 6
+|- 
+! scope="row"|Week 4
+| {{dts|17 October}} || 6.04 || 3 || 4
+|-
+! scope="row"|Week 4 results
+| {{dts|18 October}} || 5.47 || 4 || 5
+|- 
+! scope="row"|Week 5
+| {{dts|24 October}} || || || 
+|-
+! scope="row"|Week 5 results
+| {{dts|25 October}} || || || 
+|- 
+! scope="row"|Week 6
+| {{dts|31 October}} || || || 
+|-
+! scope="row"|Week 6 results
+| {{dts|1 November}} || || || 
+|- 
+! scope="row"|Week 7
+| {{dts|7 November}} || || || 
+|-
+! scope="row"|Week 7 results
+| {{dts|8 November}} || || || 
+|- 
+! scope="row"|Week 8
+| {{dts|14 November}} || || || 
+|-
+! scope="row"|Week 8 results
+| {{dts|15 November}} || || || 
+|- 
+! scope="row"|Week 9
+| {{dts|21 November}} || || || 
+|-
+! scope="row"|Week 9 results
+| {{dts|22 November}} || || || 
+|- 
+! scope="row"|Week 10
+| {{dts|28 November}} || || || 
+|-
+! scope="row"|Week 10 results
+| {{dts|29 November}} || || || 
+|- 
+! scope="row"|Week 11
+| {{dts|5 December}} || || || 
+|-
+! scope="row"|Week 11 results
+| {{dts|6 December}} || || || 
+|- 
+! scope="row"|Week 12
+| {{dts|12 December}} || || || 
+|-
+! scope="row"|Week 12 results
+| {{dts|13 December}} || || || 
+|- 
+! scope="row"|Week 13
+| {{dts|19 December}} || || || 
+|}
+
+==References==
+{{Reflist}}
+
+== External links ==
+* {{BBC Online|id=strictlycomedancing|title=''Strictly Come Dancing''}}
+
+{{Strictly Come Dancing}}
+
+[[Category:2026 British television seasons]]
+[[Category:Strictly Come Dancing series]]
+[[Category:Delta Goodrem]]

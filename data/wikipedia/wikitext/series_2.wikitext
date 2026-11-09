@@ -1,0 +1,965 @@
+{{short description|2004 British TV show}}
+{{More citations needed|date=August 2023}}
+{{EngvarB|date=July 2019}}
+{{Use dmy dates|date=July 2019}}
+{{Infobox television season
+| bgcolor      = #A193A0
+| image        =
+| caption      = 
+| module1      = {{Infobox reality competition season
+ | celebrity_winner    = [[Jill Halfpenny]]
+ | professional_winner = [[Darren Bennett (dancer)|Darren Bennett]]
+| presenter = [[Bruce Forsyth]]<br>[[Tess Daly]]<br>[[Natasha Kaplinsky]]
+| judges    = [[Len Goodman]]<br>[[Arlene Phillips]]<br>[[Craig Revel Horwood]]<br>[[Bruno Tonioli]]
+}}
+| network      = [[BBC One]]
+| first_aired  = {{start date|2004|10|23|df=y}}
+| last_aired   = {{end date|2004|12|11|df=y}}
+| num_episodes = 16
+| prev_series  = [[Strictly Come Dancing series 1|Series 1]]
+| next_series  = [[Strictly Come Dancing series 3|Series 3]] 
+}}
+'''''[[Strictly Come Dancing]]''''' returned for its '''second series''' on 23 October 2004 on [[BBC One]]. [[Bruce Forsyth]] and [[Tess Daly]] returned to present the main show on BBC One, while [[Claudia Winkleman]] presented a new spin-off show called ''[[Strictly Come Dancing: It Takes Two]]'' on [[BBC Two]]. [[Strictly Come Dancing series 1|Series 1]] winner [[Natasha Kaplinsky]] filled in for Daly during the first five weeks due to Daly's maternity leave. [[Len Goodman]], [[Arlene Phillips]], [[Craig Revel Horwood]], and [[Bruno Tonioli]] returned to the judging panel.
+
+Actress [[Jill Halfpenny]] and [[Darren Bennett (dancer)|Darren Bennett]] were announced as the winners on 11 December 2004, while [[Athletics at the Summer Olympics|Olympic heptathlete]] [[Denise Lewis]] and [[Ian Waite]] finished in second place, and comedian [[Julian Clary]] and [[Erin Boag]] finished in third.
+
+==Format==
+{{Further|Strictly Come Dancing#Format}}
+{{Multiple image
+ | align        = center
+ | total_width  = 550
+
+ | header       = Hosts and Judges for ''Strictly Come Dancing'' (Series 2)
+
+ | image1       = Bruce Forsyth1 (cropped) (cropped).jpg
+ | alt1         =
+ | caption1     = [[Bruce Forsyth]]
+
+ | image2       = Tess Daly Cropped.jpg
+ | alt2         =
+ | caption2     = [[Tess Daly]]
+
+ | image3       = Natasha Kaplinsky 2024.jpg
+ | alt3         = 
+ | caption3     = [[Natasha Kaplinsky]]
+
+ | image4       = Craig-Revel-Horwood-2022.png
+ | alt4         = 
+ | caption4     = [[Craig Revel Horwood]]
+
+ | image5       = Arlenephillips@strictly.png
+ | alt5         =
+ | caption5     = [[Arlene Phillips]]
+
+ | image6       = Len_Goodman_1.JPG
+ | alt6         =
+ | caption6     = [[Len Goodman]]
+
+ | image7       = BrunoTonioliin2009strictlytouratwembley.png
+ | alt7         =
+ | caption7     = [[Bruno Tonioli]]
+}}
+{{clear}}
+The couples dance each week in a live show. The judges score each performance out of ten. The couples are then ranked according to the judges' scores and given points according to their rank, with the lowest scored couple receiving one point, and the highest scored couple receiving the most points (the maximum number of points available depends on the number of couples remaining in the competition). The public are also invited to vote for their favourite couples, and the couples are ranked again according to the number of votes they receive, again receiving points; the couple with the fewest votes receiving one point, and the couple with the most votes receiving the most points.
+
+The points for judges' score and public vote are then added together, and the two couples with the fewest points are placed in the bottom two. If two couples have equal points, the points from the public vote are given precedence.
+
+==Couples==
+This series featured ten celebrity contestants.
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! scope="col" | Celebrity
+! scope="col" class="unsortable"| Notability
+! scope="col" | Professional partner
+! scope="col" | Status
+|-
+! scope="row" | [[Quentin Willson]]
+| Motoring journalist & television presenter
+| [[Hazel Newberry]]
+| bgcolor="F4C7B8"|Eliminated 1st<br><small>on 23 October 2004</small>
+|-
+! scope="row" | {{nowrap|[[Carol Vorderman]]}}
+| ''[[Countdown (game show)|Countdown]]'' presenter
+| [[Paul Killick]]
+| bgcolor="F4C7B8"|Eliminated 2nd<br><small>on 30 October 2004</small>
+|-
+! scope="row" | [[Esther Rantzen]]
+| Television presenter & journalist
+| [[Anton Du Beke]]
+| bgcolor="F4C7B8"|Eliminated 3rd<br><small>on 6 November 2004</small>
+|-
+! scope="row" | [[Diarmuid Gavin]]
+| Garden designer & television presenter
+| [[Nicole Cutler]]
+| bgcolor="F4C7B8"|Eliminated 4th<br><small>on 13 November 2004</small>
+|-
+! scope="row" | [[Sarah Manners]]
+| ''[[Casualty (TV series)|Casualty]]'' actress
+| [[Brendan Cole]]
+| bgcolor="F4C7B8"|Eliminated 5th<br><small>on 20 November 2004</small>
+|-
+! scope="row" | [[Roger Black]]
+| [[Athletics at the Summer Olympics|Olympic sprinter]] & sports presenter
+| [[Camilla Dallerup]]
+| bgcolor="F4C7B8"|Eliminated 6th<br>{{nowrap|{{small|on 27 November 2004}}}}
+|-
+! scope="row" | [[Aled Jones]]
+| Singer & television presenter
+| [[Lilia Kopylova]]
+| bgcolor="F4C7B8"|Eliminated 7th<br><small>on 4 December 2004</small>
+|-
+! scope="row" | [[Julian Clary]]
+| Stand-up comedian
+| [[Erin Boag]]
+| bgcolor="tan"|Third place<br><small>on 11 December 2004</small>
+|-
+! scope="row" | [[Denise Lewis]]
+| [[Athletics at the Summer Olympics|Olympic heptathlete]]
+| [[Ian Waite]]
+| bgcolor="silver"|Runners-up<br><small>on 11 December 2004</small>
+|-
+! scope="row" | [[Jill Halfpenny]] 
+| ''[[EastEnders]]'' actress
+| [[Darren Bennett (dancer)|Darren Bennett]] 
+| bgcolor="gold" | '''Winners'''<br><small>on 11 December 2004</small>
+|}
+
+==Scoring chart==
+The highest score each week is indicated in {{fontcolor|#004600|'''bold green'''}} with a dagger ({{dagger}}), while the lowest score each week is indicated in {{fontcolor|#800000|''italicized red''}} with a double-dagger ({{double-dagger}}).
+
+'''Color key:'''
+{{columns-list|colwidth=20em|
+{{legend|gold|Winners}}
+{{legend|silver|Runners-up}}
+{{legend|tan|Third place}}
+{{legend|lightblue|Bottom two}}
+{{legend|#f4c7b8|Eliminated}}
+}}
+{| class="wikitable sortable" style="text-align:center; font-size:95%"
+|+''Strictly Come Dancing'' (series 2) - Weekly scores
+|-
+! scope="col" rowspan="2" | Couple
+! scope="col" rowspan="2" | {{Abbr|Pl.|Place}}
+! colspan="8" | Week
+|-
+! scope="col" | 1
+! scope="col" | 2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" | 5
+! scope="col" | 6
+! scope="col" | 7
+! scope="col" | 8
+|-
+! scope="row" | Jill & Darren
+| 1st
+| 27
+| {{fontcolor|#004600|'''32'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''35'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''34'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''35'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|68|}} | 32+36={{fontcolor|#004600|'''68'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|66|}} | 29+37=66
+| {{sort|74|}} bgcolor="gold" | 34+40={{fontcolor|#004600|'''74'''}}{{dagger|alt=This was the highest score of the night.}}{{efn|This couple finished in first place.}}
+|-
+! scope="row" | Denise & Ian
+| 2nd
+| {{fontcolor|#004600|'''31'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''32'''}}{{dagger|alt=This was the highest score of the night.}}
+| bgcolor="lightblue" | 25{{efn|name=Bottom2}}
+| 30
+| 32
+| {{sort|67|}} | 34+33=67
+| {{sort|71|}} bgcolor="lightblue" | 35+36={{fontcolor|#004600|'''71'''}}{{dagger|alt=This was the highest score of the night.}}{{efn|name=Bottom2}}
+| {{sort|71|}} bgcolor="silver" | 38+33=71{{efn|This couple finished in second place.}}
+|-
+! scope="row" | Julian & Erin
+| 3rd
+| 19
+| 27
+| 27
+| 20
+| bgcolor="lightblue" | 24{{efn|name=Bottom2}}
+| {{sort|55|}} bgcolor="lightblue" | 28+27=55{{efn|name=Bottom2}}
+| {{sort|45|}} | 24+21={{fontcolor|#800000|''45''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{sort|52|}} bgcolor="tan" | 29+23={{fontcolor|#800000|''52''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|This couple finished in third place.}}
+|-
+! scope="row" | Aled & Lilia
+| 4th
+| 29
+| 27
+| 32
+| 25
+| 30
+| {{sort|56|}} | 29+27=56
+| {{sort|57|}} bgcolor="#f4c7b8" | 27+30=57{{efn|name=Elim}}
+| rowspan="7" bgcolor="darkgray" |
+|-
+! scope="row" | Roger & Camilla
+| 5th
+| 25
+| 22
+| 25
+| 29
+| {{fontcolor|#800000|''23''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{sort|41|}} bgcolor="#f4c7b8" | 22+19={{fontcolor|#800000|''41''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="6" bgcolor="darkgray" |
+|-
+! scope="row" | Sarah & Brendan
+| 6th
+| 28
+| 23
+| 31
+| bgcolor="lightblue" | 29{{efn|name=Bottom2}}
+| bgcolor="#f4c7b8" | {{fontcolor|#800000|''23''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="5" bgcolor="darkgray" |
+|-
+! scope="row" | {{nowrap|Diarmuid & Nicole}}
+| 7th
+| 12
+| {{fontcolor|#800000|''12''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{fontcolor|#800000|''14''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| bgcolor="#f4c7b8" | {{fontcolor|#800000|''17''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="4" bgcolor="darkgray" |
+|-
+! scope="row" | Esther & Anton
+| 8th
+| 24
+| bgcolor="lightblue" | 16{{efn|name=Bottom2}}
+| bgcolor="#f4c7b8" | 16{{efn|name=Elim}}
+| rowspan="3" bgcolor="darkgray" |
+|-
+! scope="row" | Carol & Paul
+| 9th
+| bgcolor="lightblue" | 22{{efn|name=Bottom2|This couple was in the bottom two, but was not eliminated.}}
+| bgcolor="#f4c7b8" | 20{{efn|name=Elim}}
+| rowspan="2" bgcolor="darkgray" |
+|-
+! scope="row" | Quentin & Hazel
+| 10th
+| bgcolor="#f4c7b8" | {{fontcolor|#800000|''8''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim|This couple was eliminated.}}
+| bgcolor="darkgray" |
+|}
+;Notes
+{{notelist}}
+
+===Average chart===
+This table only counts for dances scored on a traditional 40-point scale.
+{| class="wikitable sortable" style="text-align:center; font-size:95%"
+|-
+! scope="col" | Couple
+! scope="col" | Rank by<br>average
+! scope="col" | Total<br>points
+! scope="col" | Number of<br>dances
+! scope="col" | Total<br>average
+|-
+! scope="row" | Jill & Darren
+| 1st
+| 371
+| rowspan="2" | 11
+| 33.7
+|-
+! scope="row" | Denise & Ian
+| 2nd
+| 359
+| 32.6
+|-
+! scope="row" | Aled & Lilia
+| 3rd
+| 256
+| 9
+| 28.4
+|-
+! scope="row" | Sarah & Brendan
+| 4th
+| 134
+| 5
+| 26.8
+|-
+! scope="row" | Julian & Erin
+| 5th
+| 269
+| 11
+| 24.5
+|-
+! scope="row" | Roger & Camilla
+| 6th
+| 165
+| 7
+| 23.6
+|-
+! scope="row" | Carol & Paul
+| 7th
+| 42
+| 2
+| 21.0
+|-
+! scope="row" | Esther & Anton
+| 8th
+| 56
+| 3
+| 18.7
+|-
+! scope="row" | Diarmuid & Nicole
+| 9th
+| 55
+| 4
+| 13.8
+|-
+! scope="row" | Quentin & Hazel
+| 10th
+| 8
+| 1
+| 8.0
+|}
+
+==Weekly scores==
+Unless indicated otherwise, individual judges scores are given (in parentheses) in this order from left to right: ''[[Craig Revel Horwood]], [[Arlene Phillips]], [[Len Goodman]], [[Bruno Tonioli]].''
+
+===Week 1===
+Couples performed either the [[Cha-cha-cha (dance)|cha-cha-cha]] or the [[waltz]], and are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Julian & Erin
+| 19 (4, 4, 5, 6)
+| Cha-cha-cha
+| "[[I'm Outta Love]]" — [[Anastacia (singer)|Anastacia]]
+| Safe
+|-
+! scope="row" | Carol & Paul
+| 22 (5, 6, 5, 6)
+| Waltz
+| "[[Until It's Time for You to Go]]" — [[Buffy Sainte-Marie]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Diarmuid & Nicole
+| 12 (2, 2, 4, 4)
+| Cha-cha-cha
+| "[[September (Earth, Wind & Fire song)|September]]" — [[Earth, Wind & Fire]]
+| Safe
+|-
+! scope="row" | Esther & Anton
+| 24 (5, 6, 6, 7)
+| Waltz
+| "[[Moon River]]" — [[Andy Williams]]
+| Safe
+|-
+! scope="row" | Quentin & Hazel
+| 8 (1, 1, 3, 3)
+| Cha-cha-cha
+| "[[Pink Cadillac (song)|Pink Cadillac]]" — [[Natalie Cole]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Sarah & Brendan
+| 28 (6, 7, 7, 8)
+| Waltz
+| "[[I Wonder Why]]" — [[Curtis Stigers]]
+| Safe
+|-
+! scope="row" | Roger & Camilla
+| 25 (6, 6, 7, 6)
+| Cha-cha-cha
+| "[[Get The Party Started]]" — [[Pink (singer)|P!nk]]
+| Safe
+|-
+! scope="row" | Denise & Ian
+| 31 (7, 8, 8, 8)
+| Waltz
+| "[[True Love (Cole Porter song)|True Love]]" — [[Pat Boone]]
+| Safe
+|-
+! scope="row" | Aled & Lilia
+| 29 (7, 7, 8, 7)
+| Cha-cha-cha
+| "[[She Bangs]]" — [[Ricky Martin]]
+| Safe
+|-
+! scope="row" | Jill & Darren
+| 27 (7, 7, 6, 7)
+| Waltz
+| "[[Weekend in New England]]" — [[Barry Manilow]]
+| Safe
+|}
+
+===Week 2===
+Couples performed either the [[quickstep]] or the [[Rhumba|rumba]], and are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Jill & Darren
+| 32 (8, 8, 8, 8)
+| Rumba
+| "[[The Lady in Red (Chris de Burgh song)|Lady in Red]]" — [[Chris de Burgh]]
+| Safe
+|-
+! scope="row" | Aled & Lilia
+| 27 (7, 6, 7, 7)
+| Quickstep
+| "[[Cabaret (Cabaret song)|Cabaret]]" — [[Liza Minnelli]]
+| Safe
+|-
+! scope="row" | Sarah & Brendan
+| 23 (5, 6, 6, 6)
+| Rumba
+| "[[I Don't Want To Miss A Thing]]" — [[Aerosmith]]
+| Safe
+|-
+! scope="row" | Roger & Camilla
+| 22 (5, 5, 6, 6)
+| Quickstep
+| "[[Mack The Knife]]" — [[Bobby Darin]]
+| Safe
+|-
+! scope="row" | Esther & Anton
+| 16 (2, 4, 5, 5)
+| Rumba
+| "[[The Look of Love (1967 song)|The Look of Love]]" — [[Dusty Springfield]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Diarmuid & Nicole
+| 12 (2, 3, 4, 3)
+| Quickstep
+| "[[I'll Be There for You (The Rembrandts song)|I'll Be There For You]]" — [[The Rembrandts]]
+| Safe
+|-
+! scope="row" | Carol & Paul
+| 20 (5, 4, 5, 6)
+| Rumba
+| "[[Truly (band)|Truly]]" — [[Lionel Richie]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Julian & Erin
+| 27 (6, 7, 7, 7)
+| Quickstep
+| "[[Diamonds Are A Girl's Best Friend]]" — [[Marilyn Monroe]]
+| Safe
+|-
+! scope="row" | Denise & Ian
+| 32 (8, 8, 8, 8)
+| Rumba
+| "[[My Heart Will Go On]]" — [[Celine Dion]]
+| Safe
+|}
+
+===Week 3===
+Couples performed either the [[Jive (dance)|jive]] or the [[tango]], and are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Roger & Camilla
+| 25 (6, 6, 7, 6)
+| Jive
+| "Teenage Wedding" — ''from [[Johnny Angel]]''
+| Safe
+|-
+! scope="row" | Julian & Erin
+| 27 (6, 7, 7, 7)
+| Tango
+| "[[Roxanne (The Police song)|Roxanne]]" — [[The Police (band)|The Police]]
+| Safe
+|-
+! scope="row" | Jill & Darren
+| 35 (8, 9, 9, 9)
+| Jive
+| "[[I'm Still Standing]]" — [[Elton John]]
+| Safe
+|-
+! scope="row" | Esther & Anton
+| 16 (2, 4, 5, 5)
+| Tango
+| "Tanguera" — [[Mariano Mores]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Denise & Ian
+| 25 (6, 6, 6, 7)
+| Jive
+| "[[Some Girls (Rachel Stevens song)|Some Girls]]" — [[Rachel Stevens]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Diarmuid & Nicole
+| 14 (2, 3, 5, 4)
+| Tango
+| "[[Por Una Cabeza]]" — Quintango
+| Safe
+|-
+! scope="row" | Aled & Lilia
+| 32 (8, 8, 8, 8)
+| Jive
+| "[[Crazy Little Thing Called Love]]" — [[Queen (band)|Queen]]
+| Safe
+|-
+! scope="row" | Sarah & Brendan
+| 31 (7, 8, 8, 8)
+| Tango
+| "[[Hernando's Hideaway]]" — [[Alma Cogan]]
+| Safe
+|}
+
+===Week 4===
+Couples performed either the [[foxtrot]] or the [[Pasodoble|paso doble]], and are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Denise & Ian
+| 30 (7, 7, 8, 8)
+| Foxtrot
+| "[[Let There Be Love (1940 song)|Let There Be Love]]" — [[Nat King Cole]]
+| Safe
+|-
+! scope="row" | Sarah & Brendan
+| 29 (8, 7, 6, 8)
+| Paso doble
+| "[[Bring Me To Life]]" — [[Evanescence]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Aled & Lilia
+| 25 (7, 6, 6, 6)
+| Foxtrot
+| "[[T'ain't What You Do]]" — [[Cleo Laine]]
+| Safe
+|-
+! scope="row" | Julian & Erin
+| 20 (4, 5, 6, 5)
+| Paso doble
+| "[[Les toreadors]]" — [[Georges Bizet]]
+| Safe
+|-
+! scope="row" | Roger & Camilla
+| 29 (6, 8, 8, 7)
+| Foxtrot
+| "[[Why Don't You Do Right]]" — [[Peggy Lee]]
+| Safe
+|-
+! scope="row" | Diarmuid & Nicole
+| 17 (3, 4, 5, 5)
+| Paso doble
+| "[[L'amour est un oiseau rebelle]]" — [[Georges Bizet]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Jill & Darren
+| 34 (8, 9, 9, 8)
+| Foxtrot
+| "[[All That Jazz (song)|All That Jazz]]" — [[Catherine Zeta-Jones]]
+| Safe
+|}
+
+===Week 5: Blackpool Week===
+This week's episode was staged in the [[Blackpool Tower#Tower Ballroom|Tower Ballroom]] at the [[Blackpool Tower]] in [[Blackpool, Lancashire]]. Couples performed the [[Samba (ballroom dance)|samba]], and are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Sarah & Brendan
+| 23 (5, 6, 6, 6)
+| Samba
+| "[[Kiss Kiss (Holly Valance song)|Kiss Kiss]]" — [[Holly Valance]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Julian & Erin
+| 24 (5, 5, 7, 7)
+| Samba
+| "[[Conga (song)|Conga]]" — [[Gloria Estefan]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Denise & Ian
+| 32 (7, 8, 8, 9)
+| Samba
+| "[[Tequila (Champs song)|Tequila]]" — [[The Champs]]
+| Safe
+|-
+! scope="row" | Roger & Camilla
+| 23 (4, 5, 7, 7)
+| Samba
+| "[[Whenever, Wherever]]" — [[Shakira]]
+| Safe
+|-
+! scope="row" | Jill & Darren
+| 35 (8, 9, 9, 9)
+| Samba
+| "[[Copacabana (song)|Copacabana]]" — [[Barry Manilow]]
+| Safe
+|-
+! scope="row" | Aled & Lilia
+| 30 (6, 8, 8, 8)
+| Samba
+| "[[It's Not Unusual]]" — [[Tom Jones (singer)|Tom Jones]]
+| Safe
+|}
+
+===Week 6: Quarterfinal===
+Each couple performed two unlearned routines, and are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" rowspan=2 | Roger & Camilla
+| 22 (5, 5, 6, 6)
+| Waltz
+| "[[She's the One (Robbie Williams song)|She's The One]]" — [[Robbie Williams]]
+| rowspan=2 bgcolor="f4c7b8" | Eliminated
+|-
+| 19 (3, 4, 6, 6)
+| Rumba
+| "[[We've Got Tonight]]" — [[Kenny Rogers]]
+|-
+! scope="row" rowspan=2 | Jill & Darren
+| 32 (8, 8, 8, 8)
+| Quickstep
+| "[[Get Happy (song)|Get Happy]]" — [[Judy Garland]]
+| rowspan=2 | Safe
+|-
+| 36 (9, 9, 9, 9)
+| Cha-cha-cha
+| "[[She's A Lady]]" — [[Tom Jones (singer)|Tom Jones]]
+|-
+! scope="row" rowspan=2|Julian & Erin
+| 28 (7, 7, 7, 7)
+| Waltz
+| "[[You Light Up My Life (song)|You Light Up My Life]]" — [[Debby Boone]]
+| rowspan=2 bgcolor="lightblue" | Bottom two
+|-
+| 27 (6, 7, 7, 7)
+| Rumba
+| "[[You're Still The One]]" — [[Shania Twain]]
+|-
+! scope="row" rowspan=2 | Denise & Ian
+| 34 (7, 9, 9, 9)
+| Quickstep
+| "[[Sing, Sing, Sing]]" — [[Benny Goodman]]
+| rowspan=2 | Safe
+|-
+| 33 (8, 8, 8, 9)
+| Cha-cha-cha
+| "[[Uptown Girl]]" — [[Billy Joel]]
+|-
+! scope="row" rowspan=2 | Aled & Lilia
+| 29 (7, 7, 7, 8)
+| Waltz
+| "[[Love Ain't Here Anymore]]" — [[Take That]]
+| rowspan=2 | Safe
+|-
+| 27 (5, 6, 8, 8)
+| Rumba
+| "[[When You Say Nothing at All]]" — [[Ronan Keating]]
+|}
+
+===Week 7: Semifinal===
+Each couple performed two unlearned routines, and are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" rowspan="2" | Aled & Lilia
+| 27 (6, 7, 7, 7)
+| Tango
+| "[[Cell Block Tango]]" — [[Catherine Zeta-Jones]]
+| rowspan="2" bgcolor="f4c7b8" | Eliminated
+|-
+| 30 (7, 7, 8, 8)
+| Paso doble
+|"[[Malagueña (song)|Malaguena]]" — [[Connie Francis]]
+|-
+! scope="row" rowspan="2" | Jill & Darren
+| 29 (7, 8, 7, 7)
+| Tango
+| "Objection Tango" — Vio Friedmann
+| rowspan="2" | Safe
+|-
+| 37 (9, 10, 9, 9)
+| Paso doble
+|"[[Espana Cani]]" — [[André Rieu]]
+|-
+! scope="row" rowspan="2" | Julian & Erin
+| 24 (5, 5, 8, 6)
+| Foxtrot
+| "[[Fever (Little Willie John song)|Fever]]" — [[Peggy Lee]]
+| rowspan="2" | Safe
+|-
+| 21 (4, 3, 7, 7)
+| Jive
+| "[[Wake Me Up Before You Go-Go]]" — [[Wham!]]
+|-
+! scope="row" rowspan="2" | Denise & Ian
+| 35 (8, 9, 9, 9)
+| Tango
+| "[[Goldfinger (Shirley Bassey song)|Goldfinger]]" — [[Shirley Bassey]]
+| rowspan="2" bgcolor="lightblue" | Bottom two
+|-
+| 36 (9, 9, 9, 9)
+| Paso doble
+| "[[Don't Cry For Me Argentina]]" — [[Madonna]]
+|}
+
+===Week 8: Final===
+The series finale was staged in the [[Blackpool Tower#Tower Ballroom|Tower Ballroom]] at the [[Blackpool Tower]]. Each couple performed three routines: their favourite ballroom dance, their favourite Latin dance, and their showdance routine. Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" rowspan="3" | Denise & Ian
+| 38 (9, 10, 9, 10)
+| Quickstep
+| "[[Sing, Sing, Sing]]" — [[Benny Goodman]]
+| rowspan="3" bgcolor="silver" | Runners-up
+|-
+| 33 (8, 8, 8, 9)
+| Samba
+| "[[Tequila (Champs song)|Tequila]]" — [[The Champs]]
+|-
+|
+| Showdance
+| "[[I Wanna Dance with Somebody]]" — [[Whitney Houston]]
+|-
+! scope="row" rowspan="3" | Jill & Darren
+| 34 (9, 8, 9, 8)
+| Foxtrot
+| "[[All That Jazz (song)|All That Jazz]]" — [[Catherine Zeta-Jones]]
+| rowspan="3" bgcolor="gold" | '''Winners'''
+|-
+| 40 (10, 10, 10, 10)
+| Jive
+| "[[I'm Still Standing]]" — [[Elton John]]
+|-
+|
+| Showdance
+| "[[Can't Take My Eyes Off You]]" — [[Frankie Valli]]
+|-
+! scope="row" rowspan="3" | Julian & Erin
+| 29 (7, 7, 8, 7)
+| Quickstep
+| "[[Diamonds Are A Girl's Best Friend]]" — [[Marilyn Monroe]]
+| rowspan="3" bgcolor="tan" | Third place
+|-
+| 23 (5, 5, 7, 6)
+| Samba
+| "[[Conga (song)|Conga]]" — [[Gloria Estefan]]
+|-
+|
+| Showdance
+| "[[Take My Breath Away]]" — [[Berlin (band)|Berlin]]
+|}
+
+==Dance chart==
+The couples performed the following each week:
+*Week 1: One unlearned dance (cha-cha-cha or waltz)
+*Week 2: One unlearned dance (quickstep or rumba)
+*Week 3: One unlearned dance (jive or tango)
+*Week 4: One unlearned dance (foxtrot or paso doble)
+*Week 5: Samba
+*Week 6 (Quarterfinal): Two unlearned dances
+*Week 7 (Semifinal): Two unlearned dances
+*Week 8 (Final): Favourite ballroom dance, favourite Latin dance & showdance
+
+{| class="wikitable unsortable" style="text-align:center; font-size:85%; line-height:20px"
+|+''Strictly Come Dancing'' (series 2) - Dance chart
+! rowspan="2" |Couple
+! colspan="12" |Week
+|-
+! scope="col" | 1
+! scope="col" | 2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" | 5
+! scope="col" colspan="2" |6 
+! scope="col" colspan="2" |7
+! scope="col" colspan="3" |8
+|-
+! scope="row" | Jill & Darren
+| Waltz
+| Rumba
+| Jive 
+| Foxtrot
+| Samba
+| Quickstep
+| {{nowrap|Cha-cha}}-cha
+| Tango
+| Paso doble
+| Foxtrot
+| Jive
+| Showdance
+|-
+! scope="row" | Denise & Ian
+| Waltz
+| Rumba
+| Jive
+| Foxtrot
+| Samba
+| Quickstep
+| Cha-cha-cha
+| Tango
+| Paso doble
+| Quickstep
+| Samba
+| Showdance
+|-
+! scope="row" | Julian & Erin
+| {{nowrap|Cha-cha}}-cha
+| Quickstep
+| Tango
+| Paso doble
+| Samba
+| Waltz
+| Rumba
+| Foxtrot
+| Jive
+| Quickstep
+| Samba
+| Showdance
+|-
+! scope="row" | Aled & Lilia
+| Cha-cha-cha
+| Quickstep
+| Jive
+| Foxtrot
+| Samba
+| Waltz
+| Rumba
+| Tango
+| Paso doble
+| colspan="3" rowspan="7" bgcolor="darkgray" |
+|-
+! scope="row" | Roger & Camilla
+| Cha-cha-cha
+| Quickstep
+| Jive
+| Foxtrot
+| Samba
+| Waltz
+| Rumba
+| colspan="2" rowspan="6" bgcolor="darkgray" |
+|-
+! scope="row" | Sarah & Brendan
+| Waltz
+| Rumba
+| Tango
+| Paso doble
+| Samba
+| colspan="2" rowspan="5" bgcolor="darkgray" |
+|-
+! scope="row" | Diarmuid & Nicole
+| Cha-cha-cha
+| Quickstep
+| Tango
+| Paso doble
+| rowspan="4" bgcolor="darkgray" |
+|-
+! scope="row" | Esther & Anton
+| Waltz
+| Rumba
+| Tango
+| rowspan="3" bgcolor="darkgray" |
+|-
+! scope="row" | Carol & Paul
+| Waltz
+| Rumba
+| rowspan="2" bgcolor="darkgray" |
+|-
+! scope="row" | Quentin & Hazel
+| Cha-cha-cha
+| bgcolor="darkgray" |
+|}
+
+==Ratings==
+Weekly ratings for each show on [[BBC One]]. All ratings are provided by [[Barb Audiences|BARB]].<ref>{{cite web|url=https://www.barb.co.uk/viewing-data/four-screen-dashboard/|title=Four-screen dashboard (7-day data)|publisher=[[BARB]]|access-date=17 September 2023}}</ref>
+{| class="wikitable sortable" style="text-align:center"
+|-
+! scope="col"|Episode
+! scope="col"|Date
+! scope="col"|Official rating<br />(millions)
+! scope="col"|Weekly rank<br />for BBC One
+! scope="col"|Weekly rank<br />for all UK TV
+|-
+! scope="row"|Week 1
+| {{dts|23 October}} || 6.54 || 11 || 29
+|-
+! scope="row"|Week 2
+| {{dts|30 October}} || 7.46 || 8 || 21
+|-
+! scope="row"|Week 2 results
+| {{dts|30 October}} || 8.23 || 5 || 16
+|-
+! scope="row"|Week 3
+| {{dts|6 November}} || 7.33 || 9 || 24
+|-
+! scope="row"|Week 3 results
+| {{dts|6 November}} || 8.72 || 5 || 16
+|-
+! scope="row"|Week 4
+| {{dts|13 November}} || 8.81 || 5 || 17
+|-
+! scope="row"|Week 5
+| {{dts|20 November}} || 8.71 || 5 || 18
+|-
+! scope="row"|Week 5 results
+| {{dts|20 November}} || 9.39 || 4 || 15
+|-
+! scope="row"|Week 6
+| {{dts|27 November}} || 8.11 || 6 || 27
+|-
+! scope="row"|Week 6 results
+| {{dts|27 November}} || 8.82 || 5 || 21
+|-
+! scope="row"|Week 7
+| {{dts|4 December}} || 8.53 || 6 || 20
+|-
+! scope="row"|Week 7 results
+| {{dts|4 December}} || 8.62 || 5 || 19
+|-
+! scope="row"|Week 8
+| {{dts|11 December}} || 9.70 || 6 || 14
+|-
+! scope="row"|Week 8 results
+| {{dts|11 December}} || 11.60 || 1 || 5
+|-
+! Series average
+! 2004
+! 8.61
+! {{N/A}}
+! {{N/A}}
+|}
+
+==References==
+{{Reflist}}
+
+{{Strictly Come Dancing}}
+
+{{DEFAULTSORT:Strictly Come Dancing (Series 2)}}
+[[Category:Strictly Come Dancing series|Season 02]]
+[[Category:2004 British television seasons]]

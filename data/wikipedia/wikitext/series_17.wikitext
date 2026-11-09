@@ -1,0 +1,1796 @@
+{{pp-pc|small=yes}}
+{{Short description|2019 series of the show}}
+{{Use dmy dates|date=June 2019}}
+{{Infobox television season
+| series_number = 17
+| bgcolor       = #ccb079
+| image         = <!-- Do NOT place a non-free image here without complying with WP:NFCC #10c -->
+| caption       =
+| module1       = {{Infobox reality competition season
+ | celebrity_winner    = [[Kelvin Fletcher]]
+ | professional_winner = [[Oti Mabuse]]
+| presenter = [[Tess Daly]]<br>[[Claudia Winkleman]]
+| judges    = [[Shirley Ballas]]<br>[[Motsi Mabuse]]<br>[[Craig Revel Horwood]]<br>[[Bruno Tonioli]]<br>[[Alfonso Ribeiro]] (guest)
+}}
+| network       = [[BBC One]]
+| first_aired   = {{start date|df=y|2019|9|7}}
+| last_aired    = {{end date|df=y|2019|12|14}}
+| num_episodes  = 25 
+}}
+'''''[[Strictly Come Dancing]]''''' returned for its '''seventeenth series''' with a launch show on 7 September 2019 on [[BBC One]], and the live shows beginning on 21 September. [[Tess Daly]] and [[Claudia Winkleman]] returned as hosts, while [[Zoe Ball]] returned to host ''[[Strictly Come Dancing: It Takes Two]]'' alongside new addition [[Rylan Clark]].<ref>{{cite web|title=BBC Blogs – Strictly Come Dancing – Rylan Clark-Neal joins Zoe Ball as the host of It Takes Two|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2F04871464-b083-4094-8503-d8dd9e4d9723|publisher=BBC One|language=en|date=18 April 2019|access-date=18 April 2019}}</ref>
+
+[[Shirley Ballas]], [[Craig Revel Horwood]], and [[Bruno Tonioli]] returned to the judging panel. After seven years, [[Darcey Bussell]] did not return to the series.<ref>{{cite web|title=BBC Blogs – Strictly Come Dancing – Dame Darcey Bussell decides to step down as judge from Strictly|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2F6570af93-cd3a-46b0-955a-ff92a820d0e4|publisher=BBC One |language=en|date=10 April 2019|access-date=10 April 2019}}</ref> [[Motsi Mabuse]], elder sister of professional dancer [[Oti Mabuse]], was announced as Bussell's replacement on 22 July.<ref>{{cite web|title=BBC Blogs – Strictly Come Dancing – Welcome our new Strictly Judge Motsi Mabuse! |url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2Faec69db0-d4e1-4c65-bdec-a771d2c656b2|publisher=BBC One|language=en|date=22 July 2019|access-date=22 July 2019}}</ref> On 19 October, actor [[Alfonso Ribeiro]] returned as a guest judge.<ref>{{cite web|url=https://www.walesonline.co.uk/lifestyle/tv/alfonso-bruno-tonioli-strictly-dancing-17107747|title=Who is Alfonso Ribeiro? The judge replacing Bruno Tonioli on Strictly Come Dancing this week|last=Bevan|first=Nathan|website=[[Media Wales|Wales Online]]|language=en|date=18 October 2019|access-date=19 October 2019}}</ref>
+
+''[[Emmerdale]]'' actor [[Kelvin Fletcher]] and Oti Mabuse were announced as the winners on 14 December, while ''[[EastEnders]]'' actress [[Emma Barton]] and [[Anton Du Beke]], and [[CBBC]] presenter [[Karim Zeroual]] and [[Amy Dowden]] were the runners-up.<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2019/dec/14/strictly-come-dancing-2019-the-final-live|title=Strictly Come Dancing 2019: the final – as it happened|work=[[The Guardian]]|first=Heidi|last=Stephens|date=14 December 2019|access-date=14 December 2019}}</ref>
+
+== Format ==
+{{Further|Strictly Come Dancing#Format}}
+{{Multiple image
+ | align        = right
+ | total_width  = 550
+
+ | header       = Hosts and Judges for Strictly Come Dancing Series 17
+
+ | image1       = Tess Daly Cropped.jpg
+ | alt1         =
+ | caption1     = [[Tess Daly]]
+
+ | image2       = Claudia Winkleman at BAFTA 2026 01.jpg
+ | alt2         =
+ | caption2     = [[Claudia Winkleman]]
+
+ | image3       = Craig-Revel-Horwood-2022.png
+ | alt3         = 
+ | caption3     = [[Craig Revel Horwood]]
+
+ | image4       = 2022-06-22-Motsi Mabuse LEA Live Entertainment Award 15 -0167.jpg
+ | alt4         =
+ | caption4     = [[Motsi Mabuse]]
+
+ | image5       = Shirley Ballas 20241205.jpg
+ | alt5         =
+ | caption5     = [[Shirley Ballas]]
+
+ | image6       = BrunoTonioliin2009strictlytouratwembley.png
+ | alt6         =
+ | caption6     = [[Bruno Tonioli]]
+
+ | image7       = Alfonso_Ribeiro.JPG
+ | alt7         =
+ | caption7     = [[Alfonso Ribeiro]] (Guest)
+}}
+
+The couples dance each week in a live show. The judges score each performance out of ten. The couples are then ranked according to the judges' scores and given points according to their rank, with the lowest scored couple receiving one point, and the highest scored couple receiving the most points (the maximum number of points available depends on the number of couples remaining in the competition). The public are also invited to vote for their favourite couples, and the couples are ranked again according to the number of votes they receive, again receiving points; the couple with the fewest votes receiving one point, and the couple with the most votes receiving the most points.
+
+The points for judges' score and public vote are then added together, and the two couples with the fewest points are placed in the bottom two. If two couples have equal points, the points from the public vote are given precedence. As with the previous series, the bottom two couples have to perform a dance-off on the results show. Based on that performance alone, each judge then votes on which couple should stay and which couple should leave, with [[Shirley Ballas]], as head judge, having the last and [[Casting vote|deciding vote]].
+
+==Professional dancers==
+On 1 March 2019, it was announced that [[Pasha Kovalev]] would be leaving the show after eight years as a professional dancer.<ref>{{cite web|title=BBC Blogs - Strictly Come Dancing - Our pro line-up for 2019 revealed!|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2Fa0707981-d6f2-4f6f-8d4d-8b71678bcf01|publisher=BBC One|language=en|date=1 March 2019|access-date=1 March 2019}}</ref><ref>{{cite web|url=https://www.digitalspy.com/tv/reality-tv/a26319961/strictly-come-dancing-pasha-kovalev-quits-exit/|title=Strictly Come Dancing confirms one of its professional dancers has quit after eight series|last=Earp|first=Catherine|date=13 February 2018|work=[[Digital Spy]]|access-date=17 February 2018}}</ref> On 30 July 2019, [[Nancy Xu]] was revealed to have been added to the cast of professionals.<ref>{{cite web|url=https://www.bbc.com/news/entertainment-arts-49165516|title=Strictly Come Dancing: Nancy Xu named new professional dancer|website=[[BBC News]]|first=Paul|last=Glynn|date=30 July 2019|access-date=31 July 2019|language=en}}</ref> On 21 August 2019, it was confirmed that both [[Gorka Márquez]] and [[Graziano Di Prima]] would not have celebrity partners, a change from the previous series;<ref>{{cite web|title=Graziano di Prima will not get a celebrity partner this year|url=https://www.radiotimes.com/news/tv/2019-08-21/strictlys-graziano-di-prima-wont-have-a-celeb-partner-this-year/|website=Radio Times|access-date=21 August 2019}}</ref><ref>{{cite web|url=https://www.digitalspy.com/tv/reality-tv/a28775448/strictly-come-dancing-professional-gorka-marquez-demoted-no-celebrity-partner/|title=Strictly professional Gorka Marquez receives bad news about this year's series|website=Digital Spy|date=21 August 2019|access-date=21 August 2019}}</ref> in their place, the three professionals who did not have celebrity partners in series 16 - [[Neil Jones (dancer)|Neil Jones]], [[Johannes Radebe]], and [[Luba Mushtuk]] - were all given one for the first time.<ref>{{cite web|url=https://www.goodhousekeeping.com/uk/lifestyle/a28782378/strictly-come-dancing-neil-jones-johannes-radebe-partners/ |title=Strictly's Neil, Johannes and Luba get partners |last=Sutton |first=Megan |website=goodhousekeeping.com |date=9 September 2019 |access-date=22 September 2019}}</ref>
+
+==Couples==
+This series featured fifteen celebrity contestants. On 31 July 2019, the first three celebrities were announced: [[Emma Barton]], [[David James (footballer, born 1970)|David James]], and [[Chris Ramsey (comedian)|Chris Ramsey]].<ref>{{cite web|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2F6d7a6205-3329-4ad1-b007-2771b8e6492d|title=BBC Blogs – Strictly Come Dancing – Meet our first three stars of Strictly 2019|website=BBC One|date=31 July 2019|access-date=31 July 2019|language=en}}</ref> Celebrity reveals continued throughout the next week until the full line-up was revealed on 7 August 2019.<ref>{{cite web|url=https://metro.co.uk/2019/08/07/strictly-come-dancing-2019-full-line-michelle-visage-jamie-laing-10531995/|title=Meet the Strictly Come Dancing 2019 cast – from Michelle Visage to Jamie Laing|website=[[Metro (British newspaper)|Metro]]|first=Caroline|last=Westbrook|language=en|date=7 August 2019|access-date=7 August 2019}}</ref> ''[[Made in Chelsea]]'' star [[Jamie Laing]] was originally announced as a contestant, but on 5 September 2019, it was announced that he had withdrawn from the show due to a foot injury.<ref>{{cite web|url=https://www.mirror.co.uk/tv/tv-news/jamie-laing-quits-strictly-2019-19570153|title=Jamie Laing pulls out of Strictly Come Dancing after devastating injury|work=[[Daily Mirror]]|first1=Nicola|last1=Methven|first2=Emmeline|last2=Saunders|date=5 September 2019|access-date=5 September 2019|language=en}}</ref> He was replaced by former ''[[Emmerdale]]'' actor [[Kelvin Fletcher]] on 7 September 2019.<ref>{{cite web|url=https://metro.co.uk/2019/09/07/kelvin-fletcher-confirmed-to-replace-jamie-laing-on-strictly-come-dancing-2019-10704704/|title=Emmerdale's Kelvin Fletcher confirmed to replace Jamie Laing on Strictly Come Dancing 2019|work=[[Metro (British newspaper)|Metro]]|first=Adam|last=Starkey|date=7 September 2019|access-date=7 September 2019|language=en}}</ref><ref>{{cite web|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2F3cf9fab3-fc24-48e0-be06-c4f706e9a531|title=BBC Blogs – Strictly Come Dancing – Say hello to your Strictly 2019 couples!|publisher=BBC One|date=7 September 2019|access-date=7 September 2019|language=en}}</ref>
+
+Due to a knee injury sustained when he landed after jumping from a raised platform during studio rehearsals, [[Will Bayley]] was unable to perform on 26 October in the live episode. The injury was such that, on 30 October, he withdrew from the competition.<ref>{{Cite web|url=https://www.bbc.com/news/entertainment-arts-50242471|title=Will Bayley leaves Strictly after leg injury|date=30 October 2019|via=www.bbc.co.uk}}</ref>
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! scope="col" | Celebrity
+! scope="col" class="unsortable"| Notability
+! scope="col" | Professional partner
+! scope="col" | Status
+|- style="height:50px"
+! scope="row" | [[James Cracknell]]
+| [[Rowing at the Summer Olympics|Olympic rower]]
+| [[Luba Mushtuk]]
+| bgcolor="f4c7b8" | Eliminated 1st<br /><small>on 29 September 2019</small>
+|- style="height:50px"
+! scope="row" | [[Anneka Rice]]
+| Television & radio presenter
+| [[Kevin Clifton]]
+| bgcolor="f4c7b8" | Eliminated 2nd<br /><small>on 6 October 2019</small>
+|- style="height:50px"
+! scope="row" | [[Dev (DJ)|Dev Griffin]]
+| [[BBC Radio 1]] presenter
+| [[Dianne Buswell]]
+| bgcolor="f4c7b8" | Eliminated 3rd<br /><small>on 13 October 2019</small>
+|- style="height:50px"
+! scope="row" | [[David James (footballer, born 1970)|David James]]
+| [[England national football team|England]] goalkeeper 
+| [[Nadiya Bychkova]]
+| bgcolor="f4c7b8" | Eliminated 4th<br /><small>on 20 October 2019</small>
+|- style="height:50px"
+! scope="row" | {{nowrap|[[Catherine Tyldesley]]}}
+| ''[[Coronation Street]]'' actress
+| [[Johannes Radebe]]
+| bgcolor="f4c7b8" | Eliminated 5th<br /><small>on 27 October 2019</small>
+|- style="height:50px"
+! scope="row" | [[Will Bayley]]
+| [[Table tennis at the Summer Paralympics|Paralympic table tennis player]]
+| [[Janette Manrara]]
+| bgcolor="lightgreen" | Withdrew<br /><small>on 30 October 2019</small>
+|- style="height:50px"
+! scope="row" | [[Emma Thynn, Marchioness of Bath|Emma Weymouth]]
+| Fashion model & socialite
+| [[Aljaž Škorjanec]]
+| bgcolor="f4c7b8" | Eliminated 6th<br /><small>on 3 November 2019</small>
+|- style="height:50px"
+! scope="row" | [[Mike Bushell]]
+| ''[[BBC Breakfast]]'' sports presenter 
+| [[Katya Jones]]
+| bgcolor="f4c7b8" | Eliminated 7th<br /><small>on 10 November 2019</small>
+|- style="height:50px"
+! scope="row" | [[Michelle Visage]]
+| ''[[RuPaul's Drag Race]]'' judge & singer 
+| [[Giovanni Pernice]]
+| bgcolor="f4c7b8" | Eliminated 8th<br /><small>on 17 November 2019</small>
+|- style="height:50px"
+! scope="row" | [[Saffron Barker]]
+| [[YouTube]] personality
+| [[AJ Pritchard]]
+| bgcolor="f4c7b8" | Eliminated 9th<br /><small>on 24 November 2019</small>
+|- style="height:50px"
+! scope="row" | [[Alex Scott (footballer, born 1984)|Alex Scott]]
+| [[England women's national football team|England]] footballer 
+| [[Neil Jones (dancer)|Neil Jones]]<br />''{{small|Kevin Clifton (Weeks 6–7)}}''
+| bgcolor="f4c7b8" | Eliminated 10th<br /><small>on 1 December 2019</small>
+|- style="height:50px"
+! scope="row" | [[Chris Ramsey (comedian)|Chris Ramsey]]
+| Stand-up comedian
+| [[Karen Hauer]]
+| bgcolor="f4c7b8" | Eliminated 11th<br /><small>on 8 December 2019</small>
+|- style="height:50px"
+! scope="row" | [[Emma Barton]]
+| ''[[EastEnders]]'' actress 
+| [[Anton Du Beke]]
+| rowspan=2 bgcolor=silver | Runners-up<br /><small>on 14 December 2019</small>
+|- style="height:50px"
+! scope="row" | [[Karim Zeroual]]
+| [[CBBC (TV channel)|CBBC]] presenter & actor
+| [[Amy Dowden]]
+|- style="height:50px"
+! scope="row" | [[Kelvin Fletcher]]
+| ''[[Emmerdale]]'' actor & racing driver
+| [[Oti Mabuse]]
+| bgcolor=gold |'''Winners'''<br /><small>on 14 December 2019</small>
+|}
+
+==Scoring chart==
+The highest score each week is indicated in {{fontcolor|#004600|'''bold green'''}} with a dagger ({{dagger}}), while the lowest score each week is indicated in {{fontcolor|#800000|''italicized red''}} with a double-dagger ({{double-dagger}}).
+
+'''Color key:'''
+{{columns-list|colwidth=20em|
+{{legend|gold|Winners}}
+{{legend|silver|Runners-up}}
+{{legend|lightblue|Bottom two}}
+{{legend|#fff383|Excused from competition for the week}}
+{{legend|lightgreen|Withdrew from competition}}
+{{legend|#f4c7b8|Eliminated}}
+}}
+{| class="wikitable sortable" style="text-align:center; font-size:95%"
+|+''Strictly Come Dancing'' (series 17) - Weekly scores
+|-
+! rowspan="2" scope="col" | Couple
+! rowspan="2" scope="col" | {{Abbr|Pl.|Place}}
+! colspan="14" | Week
+|-
+! scope="col" | 1
+! scope="col" | 2
+! scope="col" | 1+2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" | 5
+! scope="col" | 6
+! scope="col" | 7
+! scope="col" | 8
+! scope="col" | 9
+! scope="col" | 10
+! scope="col" | 11
+! scope="col" | 12
+! scope="col" | 13
+|-
+! scope="row" | Kelvin & Oti
+| 1st
+| {{fontcolor|#004600|'''32'''}}{{dagger|alt=This was the highest score of the night.}}
+| 28
+| 60
+| {{fontcolor|#004600|'''38'''}}{{dagger|alt=This was the highest score of the night.}}
+| 36
+| 33
+| 36
+| 34
+| 35
+| {{fontcolor|#004600|'''39'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''38'''}}{{dagger|alt=This was the highest score of the night.}}
+| 39
+| {{sort|77|}} | 40+37={{fontcolor|#004600|'''77'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|118|}} bgcolor="gold" | 39+40+39=118{{efn|This couple finished in first place.}}
+|-
+! scope="row" | Emma B. & Anton
+| rowspan=2|2nd
+| 23
+| 24
+| 47
+| 27
+| 35
+| 26
+| 28
+| {{fontcolor|#800000|''22''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| 33
+| 37
+| 29
+| 39
+| {{sort|67|}} | 31+36=67
+| {{sort|116|}} bgcolor="silver" | 39+38+39={{fontcolor|#800000|''116''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=2nd}}
+|-
+! scope="row" | Karim & Amy
+| 31
+| {{fontcolor|#004600|'''32'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''63'''}}{{dagger|alt=This was the highest score of the night.}}
+| 26
+| {{fontcolor|#004600|'''38'''}}{{dagger|alt=This was the highest score of the night.}}
+| 36
+| 29
+| {{fontcolor|#004600|'''39'''}}{{dagger|alt=This was the highest score of the night.}}
+| 30
+| {{fontcolor|#004600|'''39'''}}{{dagger|alt=This was the highest score of the night.}}
+| bgcolor="lightblue" | {{fontcolor|#004600|'''38'''}}{{dagger|alt=This was the highest score of the night.}}{{efn|name=Bottom2}}
+| {{fontcolor|#004600|'''40'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|74|}} bgcolor="lightblue" | 36+38=74{{efn|name=Bottom2}}
+| {{sort|119|}} bgcolor="silver" | 40+39+40={{fontcolor|#004600|'''119'''}}{{dagger|alt=This was the highest score of the night.}}{{efn|name=2nd|This couple finished in second place.}}
+|-
+! scope="row" | Chris & Karen
+| 4th
+| 13
+| 26
+| 39
+| 22
+| 26
+| 25
+| {{fontcolor|#800000|''23''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| 34
+| 26
+| 33
+| 31
+| bgcolor="lightblue" | 28{{efn|name=Bottom2}}
+| {{sort|54|}} bgcolor="f4c7b8" | 26+28={{fontcolor|#800000|''54''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="12" bgcolor="darkgray" |
+|-
+! scope="row" | Alex & Neil
+| 5th
+| 21
+| 22
+| 43
+| 23
+| {{fontcolor|#800000|''23''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| 33
+| 34
+| 31
+| 31
+| 34
+| {{fontcolor|#800000|''26''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''27''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="11" bgcolor="darkgray" |
+|-
+! scope="row" | Saffron & AJ
+| 6th
+| 27
+| 23
+| 50
+| 28
+| 33
+| {{fontcolor|#004600|'''38'''}}{{dagger|alt=This was the highest score of the night.}}
+| 33
+| 27
+| {{fontcolor|#004600|'''39'''}}{{dagger|alt=This was the highest score of the night.}}
+| bgcolor="lightblue" | 35{{efn|name=Bottom2}}
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''26''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="10" bgcolor="darkgray" |
+|-
+! scope="row" | Michelle & Giovanni
+| 7th
+| 30
+| {{fontcolor|#004600|'''32'''}}{{dagger|alt=This was the highest score of the night.}}
+| 62
+| 35
+| 31
+| 29
+| {{fontcolor|#004600|'''39'''}}{{dagger|alt=This was the highest score of the night.}}
+| 34
+| bgcolor="lightblue" | 36{{efn|name=Bottom2}}
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''32''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="9" bgcolor="darkgray" |
+|-
+! scope="row" | Mike & Katya
+| 8th
+| 22
+| 14
+| 36
+| 18
+| 32
+| bgcolor="lightblue" | 21{{efn|name=Bottom2}}
+| bgcolor="lightblue" | 26{{efn|name=Bottom2}}
+| bgcolor="lightblue" | 30{{efn|name=Bottom2}}
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''25''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="8" bgcolor="darkgray" |
+|-
+! scope="row" | Emma W. & Aljaž
+| 9th
+| 19
+| 22
+| 41
+| 28
+| bgcolor="lightblue" | 28{{efn|name=Bottom2}}
+| 36
+| 30
+| bgcolor="f4c7b8" | 26{{efn|name=Elim}}
+| rowspan="7" bgcolor="darkgray" |
+|-
+! scope="row" | Will & Janette
+| 10th
+| 26
+| 24
+| 50
+| 23
+| 24
+| 32
+| bgcolor="fff383" | {{efn|name=Sick|This couple was excused from competition due to illness or injury, and was granted a [[Bye (sports)|bye]] to the following week.}}
+| bgcolor="lightgreen" | {{efn|This couple withdrew from the competition.}}
+|-
+! scope="row" | {{nowrap|Catherine & Johannes}}
+| 11th
+| 20
+| 19
+| 39
+| 32
+| 30
+| 28
+| bgcolor="f4c7b8" | 24{{efn|name=Elim}}
+| rowspan="5" bgcolor="darkgray" |
+|-
+! scope="row" | David & Nadiya
+| 12th
+| 17
+| {{fontcolor|#800000|''10''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| bgcolor="lightblue" | 27{{efn|name=Bottom2|This couple was in the bottom two, but was not eliminated.}}
+| bgcolor="lightblue" | 16{{efn|name=Bottom2}}
+| 28
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''16''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="4" bgcolor="darkgray" |
+|-
+! scope="row" | Dev & Dianne
+| 13th
+| 30
+| 27
+| 57
+| 36
+| bgcolor="f4c7b8" | 27{{efn|name=Elim}}
+| rowspan="3" bgcolor="darkgray" |
+|-
+! scope="row" | Anneka & Kevin
+| 14th
+| 14
+| 19
+| 33
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''11''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="2" bgcolor="darkgray" |
+|-
+! scope="row" | James & Luba
+| 15th
+| {{fontcolor|#800000|''11''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| 13
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''24''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim|This couple was eliminated.}}
+| bgcolor="darkgray" |
+|}
+;Notes
+{{notelist}}
+
+===Average chart===
+This table only counts for dances scored on a traditional 40-point scale.
+{| class="wikitable sortable" style="text-align:center; font-size:95%"
+|-
+! scope="col" | Couple
+! scope="col" | Rank by<br>average
+! scope="col" | Total<br>points
+! scope="col" | Number of<br>dances
+! scope="col" | Total<br>average
+|-
+! scope="row" | Kelvin & Oti
+| 1st
+| 583
+| rowspan="2" | 16
+| 36.4
+|-
+! scope="row" | Karim & Amy
+| 2nd
+| 571
+| 35.7
+|-
+! scope="row" | Michelle & Giovanni
+| 3rd
+| 298
+| 9
+| 33.1
+|-
+! scope="row" | Emma B. & Anton
+| 4th
+| 506
+| 16
+| 31.6
+|-
+! scope="row" | Saffron & AJ
+| 5th
+| 309
+| 10
+| 30.9
+|-
+! scope="row" | Dev & Dianne
+| 6th
+| 120
+| 4
+| 30.0
+|-
+! scope="row" | Alex & Neil
+| 7th
+| 305 
+| 11
+| 27.7
+|-
+! scope="row" | Emma W. & Aljaž
+| 8th
+| 189
+| 7
+| 27.0
+|-
+! scope="row" | Chris & Karen
+| 9th
+| 341
+| 13
+| 26.2
+|-
+! scope="row" | Will & Janette
+| 10th
+| 129
+| 5
+| 25.8
+|-
+! scope="row" | Catherine & Johannes
+| 11th
+| 153
+| 6
+| 25.5
+|-
+! scope="row" | Mike & Katya
+| 12th
+| 188
+| 8
+| 23.5
+|-
+! scope="row" | David & Nadiya
+| 13th
+| 87
+| 5
+| 17.4
+|-
+! scope="row" | Anneka & Kevin
+| 14th
+| 44
+| 3
+| 14.7
+|-
+! scope="row" | James & Luba
+| 15th
+| 24
+| 2
+| 12.0
+|}
+
+==Weekly scores==
+''Unless indicated otherwise, individual judges' scores in the charts below (given in parentheses) are listed in this order from left to right: [[Craig Revel Horwood]], [[Motsi Mabuse]], [[Shirley Ballas]], [[Bruno Tonioli]]''.
+
+===Week 1===
+There was no elimination this week; all scores and votes carried over to the following week. Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" | Couple
+! scope="col" | Scores
+! scope="col" class="unsortable"| Dance
+! scope="col" class="unsortable"| Music<ref>{{cite web|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2Ffa0a0b72-3043-4679-a8fa-efc2a87221be|title=BBC Blogs – Strictly Come Dancing – Week One songs and dances revealed!|publisher=BBC One|date=18 September 2019|access-date=18 September 2019}}</ref>
+|-
+! scope="row" | Alex & Neil
+| 21 (5, 5, 5, 6)
+| Quickstep
+| "[[I Get a Kick Out of You]]" — [[Frank Sinatra]]
+|-
+! scope="row" | Chris & Karen
+| 13 (3, 4, 3, 3)
+| Cha-cha-cha
+| "[[Juice (Lizzo song)|Juice]]" — [[Lizzo]]
+|-
+! scope="row" | Catherine & Johannes
+| 20 (5, 5, 5, 5)
+| Viennese waltz
+| "[[I Got You Babe]]" — [[Sonny & Cher]]
+|-
+! scope="row" | Saffron & AJ
+| 27 (6, 7, 7, 7)
+| Tango
+| "[[Lips Are Movin]]" — [[Meghan Trainor]]
+|-
+! scope="row" | Mike & Katya
+| 22 (4, 6, 6, 6)
+| Jive
+| "[[Do You Love Me]]" — [[The Contours]]
+|-
+! scope="row" | Emma W. & Aljaž
+| 19 (5, 5, 4, 5)
+| Cha-cha-cha
+| "[[She's a Lady]]" — [[Tom Jones (singer)|Tom Jones]]
+|-
+! scope="row" | James & Luba
+| 11 (2, 3, 3, 3)
+| Tango
+| "[[Gold (Spandau Ballet song)|Gold]]" — [[Spandau Ballet]]
+|-
+! scope="row" | Kelvin & Oti
+| 32 (8, 8, 8, 8)
+| Samba
+| "[[La Vida Es Un Carnaval]]" — [[Celia Cruz]]
+|-
+! scope="row" | David & Nadiya
+| 17 (3, 4, 5, 5)
+| Foxtrot
+| "[[Three Lions (song)|Three Lions]]" — [[David Baddiel|Baddiel]], [[Frank Skinner|Skinner]] & [[The Lightning Seeds]]
+|-
+! scope="row" | Michelle & Giovanni
+| 30 (8, 8, 7, 7)
+| Cha-cha-cha
+| "[[So Emotional]]" — [[Whitney Houston]]
+|-
+! scope="row" | Dev & Dianne
+| 30 (7, 7, 8, 8)
+| Foxtrot
+| "[[Build Me Up Buttercup]]" — [[The Foundations]]
+|-
+! scope="row" | Anneka & Kevin
+| 14 (3, 4, 3, 4)
+| Cha-cha-cha
+| "[[Gloria (Umberto Tozzi song)|Gloria]]" — [[Laura Branigan]]
+|-
+! scope="row" | Will & Janette
+| 26 (5, 7, 7, 7)
+| Quickstep
+| "[[Pencil Full of Lead]]" — [[Paolo Nutini]]
+|-
+! scope="row" | Karim & Amy
+| 31 (8, 8, 7, 8)
+| Cha-cha-cha
+| "[[If I Can't Have You (Shawn Mendes song)|If I Can't Have You]]" — [[Shawn Mendes]]
+|-
+! scope="row" | Emma B. & Anton
+| 23 (6, 6, 5, 6)
+| Jive
+| "[[Honey, Honey]]" — [[ABBA]]
+|}
+
+===Week 2===
+Musical guest: [[Lewis Capaldi]] — "[[Someone You Loved]]"
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" | Couple
+! scope="col" | Scores
+! scope="col" class="unsortable"| Dance
+! scope="col" class="unsortable"| Music<ref>{{cite web|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2F3db5b684-32de-4b50-a4bc-0baeec16ed88|title=BBC Blogs – Strictly Come Dancing – Week Two: Songs and dances revealed! |date=24 September 2019 |access-date=24 September 2019}}</ref>
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Saffron & AJ
+| 23 (5, 5, 6, 7)
+| Cha-cha-cha
+| "[[One Touch (Jess Glynne and Jax Jones song)|One Touch]]" — [[Jess Glynne]] & [[Jax Jones]]
+| Safe
+|-
+! scope="row" | Anneka & Kevin
+| 19 (4, 5, 5, 5)
+| Waltz
+| "[[Run to You (Whitney Houston song)|Run to You]]" — [[Whitney Houston]]
+| Safe
+|-
+! scope="row" | Dev & Dianne
+| 27 (6, 7, 7, 7)
+| Jive
+| "[[Dance with Me Tonight]]" — [[Olly Murs]]
+| Safe
+|-
+! scope="row" | Emma W. & Aljaž
+| 22 (4, 6, 6, 6)
+| Tango
+| "[[Sucker (song)|Sucker]]" — [[Jonas Brothers]]
+| Safe
+|-
+! scope="row" | Chris & Karen
+| 26 (5, 7, 7, 7)
+| Charleston
+| "[[Out of Our Heads (Take That song)|Out of Our Heads]]" — [[Take That]]
+| Safe
+|- 
+! scope="row" | Emma B. & Anton
+| 24 (6, 6, 6, 6)
+| Foxtrot
+| "[[Sunshine of Your Love]]" — [[Ella Fitzgerald]] & [[Tommy Flanagan (musician)|Tommy Flanagan]]
+| Safe
+|-
+! scope="row" | James & Luba
+| 13 (3, 3, 3, 4)
+| Jive
+| "[[Tutti Frutti (song)|Tutti Frutti]]" — [[Little Richard]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Catherine & Johannes
+| 19 (4, 5, 5, 5)
+| Samba
+| "[[Let the Groove Get In]]" — [[Justin Timberlake]]
+| Safe
+|-
+! scope="row" | Michelle & Giovanni
+| 32 (8, 8, 8, 8)
+| Viennese waltz
+| "[[That's Amore]]" — [[Dean Martin]]
+| Safe
+|-
+! scope="row" | David & Nadiya
+| 10 (2, 3, 2, 3)
+| Paso doble
+| "[[España cañí]]" — [[Pascual Marquina Narro]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Karim & Amy
+| 32 (8, 8, 8, 8)
+| Foxtrot
+| "[[The Way You Look Tonight]]" — [[Frank Sinatra]]
+| Safe
+|-
+! scope="row" | Mike & Katya
+| 14 (3, 4, 3, 4)
+| American Smooth
+| "[[Rhinestone Cowboy]]" — [[Glen Campbell]]
+| Safe
+|-
+! scope="row" | Alex & Neil
+| 22 (4, 6, 6, 6)
+| Cha-cha-cha
+| "[[What I Did for Love (David Guetta song)|What I Did for Love]]" — [[David Guetta]], feat. [[Emeli Sandé]]
+| Safe
+|-
+! scope="row" | Kelvin & Oti
+| 28 (7, 7, 7, 7)
+| Waltz
+| "[[What the World Needs Now Is Love]]" — [[Burt Bacharach]]
+| Safe
+|-
+! scope="row" | Will & Janette
+| 24 (6, 6, 6, 6)
+| Salsa
+| "[[1-2-3 (Gloria Estefan and Miami Sound Machine song)|1-2-3]]" — [[Gloria Estefan]] & [[Miami Sound Machine]]
+| Safe
+|}
+;Judges' votes to save
+*Revel Horwood: David & Nadiya
+*Mabuse: David & Nadiya
+*Tonioli: David & Nadiya
+*Ballas: ''Did not vote, but would have voted to save David & Nadiya''
+
+===Week 3: Movie Week===
+Musical guest: [[Harry Connick Jr.]] — "[[Anything Goes (Cole Porter song)|Anything Goes]]"
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" | Couple
+! scope="col" | Scores
+! scope="col" class="unsortable"| Dance
+! scope="col" class="unsortable"| Music<ref>{{cite web|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2F2c781b3c-84e9-4c90-a40b-1b5a1aa26f82|title=BBC Blogs – Strictly Come Dancing – Movie Week: Songs and dances revealed!|date=1 October 2019|access-date=1 October 2019}}</ref>
+! scope="col" class="unsortable"| Film
+! scope="col" class="unsortable"| Result
+|-
+! scope="row" | Michelle & Giovanni
+| 35 (8, 9, 9, 9)
+| Quickstep
+| "[[Cabaret (Cabaret song)|Cabaret]]"
+| ''[[Cabaret (1972 film)|Cabaret]]''
+| Safe
+|-
+! scope="row" | Alex & Neil
+| 23 (5, 6, 6, 6)
+| Rumba
+| "[[How Far I'll Go]]"
+| ''[[Moana (2016 film)|Moana]]''
+| Safe
+|-
+! scope="row" | Chris & Karen
+| 22 (4, 6, 6, 6)
+| American Smooth
+| "[[Cheek to Cheek]]"
+| ''[[Top Hat]]''
+| Safe
+|-
+! scope="row" | Karim & Amy
+| 26 (6, 7, 6, 7)
+| Samba
+| "[[Kung Fu Fighting]]"
+| ''[[Kung Fu Panda]]''
+| Safe
+|-
+! scope="row" | Catherine & Johannes
+| 32 (8, 8, 8, 8)
+| Rumba
+| "[[Shallow (Lady Gaga and Bradley Cooper song)|Shallow]]"
+| ''[[A Star Is Born (2018 film)|A Star Is Born]]''
+| Safe
+|- 
+! scope="row" | Will & Janette
+| 23 (6, 6, 5, 6)
+| Paso doble
+| "[[Pokémon Theme|Gotta Catch 'Em All]]"
+| ''[[Pokémon: The First Movie]]''
+| Safe
+|-
+! scope="row" | Kelvin & Oti
+| {{nowrap|38 (9, 9, 10, 10)}}
+| Charleston
+| "[[Mary Poppins Returns (soundtrack)|Trip a Little Light Fantastic]]"
+| ''[[Mary Poppins Returns]]''
+| Safe
+|-
+! scope="row" | Emma W. & Aljaž
+| 28 (7, 7, 7, 7)
+| Foxtrot
+| "[[Downton Abbey#Soundtracks|Did I Make the Most of Loving You?]]"
+| ''[[Downton Abbey (film)|Downton Abbey]]''
+| Safe
+|-
+! scope="row" | Anneka & Kevin
+| 11 (2, 3, 3, 3)
+| Charleston
+| "[[Woo-Hoo (Rock-A-Teens song)|Woo-Hoo]]"
+| ''[[Kill Bill: Volume 1]]''
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Saffron & AJ
+| 28 (7, 7, 7, 7)
+| Paso doble
+| "[[Everybody Wants to Rule the World]]"
+| ''[[The Hunger Games: Catching Fire|The Hunger Games:<br>Catching Fire]]''
+| Safe
+|-
+! scope="row" | Mike & Katya
+| 18 (3, 5, 5, 5)
+| Cha-cha-cha
+| "[[It's Raining Men]]"
+| ''[[Magic Mike]]''
+| Safe
+|-
+! scope="row" | David & Nadiya
+| 16 (4, 4, 4, 4)
+| American Smooth
+| "[[Kiss from a Rose]]"
+| ''[[Batman Forever]]''
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Emma B. & Anton
+| 27 (6, 7, 7, 7)
+| Salsa
+| "[[Soul Bossa Nova]]"
+| ''[[Austin Powers: International Man of Mystery|Austin Powers:<br>{{nowrap|International Man of Mystery}}]]''
+| Safe
+|-
+! scope="row" | Dev & Dianne
+| 36 (9, 9, 9, 9)
+| Street/Commercial
+| "[[Friend Like Me]]"
+| ''[[Aladdin (2019 film)|Aladdin]]''
+| Safe
+|}
+;Judges' votes to save
+*Revel Horwood: David & Nadiya
+*Mabuse: David & Nadiya
+*Tonioli: David & Nadiya
+*Ballas: ''Did not vote, but would have voted to save David & Nadiya''
+
+===Week 4===
+Musical guest: [[Keith Urban]] — "[[Never Comin Down]]"
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" | Couple
+! scope="col" | Scores
+! scope="col" class="unsortable"| Dance
+! scope="col" class="unsortable"| Music<ref>{{cite web|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2F32b87a39-e1e0-4bf7-a02e-423a1d089a1b|title=BBC Blogs – Strictly Come Dancing – Week Four: Songs and dances revealed!|date=5 October 2019|access-date=8 October 2019}}</ref>
+! scope="col" class="unsortable"| Result
+|-
+! scope="row" | Chris & Karen
+| 26 (6, 7, 7, 6)
+| Jive
+| "[[Saturday Night's Alright for Fighting]]" — [[Elton John]]
+| Safe
+|-
+! scope="row" | Emma B. & Anton
+| 35 (8, 9, 9, 9)
+| Viennese waltz
+| "[[Send In the Clowns]]" — [[Barbra Streisand]]
+| Safe
+|-
+! scope="row" | Dev & Dianne
+| 27 (6, 7, 7, 7)
+| Cha-cha-cha
+| "[[Dancing with a Stranger]]" — [[Sam Smith (singer)|Sam Smith]] & [[Normani]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Catherine & Johannes
+| 30 (6, 8, 8, 8)
+| Charleston
+| "[[Single Ladies (Put a Ring on It)]]" — [[Beyoncé]]
+| Safe
+|-
+! scope="row" | Alex & Neil
+| 23 (4, 6, 6, 7)
+| Tango
+| "[[Go Your Own Way]]" — [[Fleetwood Mac]]
+| Safe
+|- 
+! scope="row" | David & Nadiya
+| 28 (6, 7, 7, 8)
+| Quickstep
+| "[[The Greatest Showman: Original Motion Picture Soundtrack|From Now On]]" — from ''[[The Greatest Showman]]''
+| Safe
+|-
+! scope="row" | Kelvin & Oti
+| 36 (9, 9, 9, 9)
+| Rumba
+| "[[Ain't No Sunshine]]" — [[Bill Withers]]
+| Safe
+|-
+! scope="row" | Emma W. & Aljaž
+| 28 (7, 7, 7, 7)
+| Jive
+| "[[Kids in America]]" — [[Kim Wilde]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Michelle & Giovanni
+| 31 (7, 8, 8, 8)
+| Salsa
+| "[[Quimbara]]"—[[Celia Cruz]] & [[Johnny Pacheco]]
+| Safe
+|-
+! scope="row" | Will & Janette
+| 24 (6, 6, 6, 6)
+| Foxtrot
+| "[[Señorita (Shawn Mendes and Camila Cabello song)|Señorita]]" — [[Shawn Mendes]] & [[Camila Cabello]]
+| Safe
+|-
+! scope="row" | Mike & Katya
+| 32 (7, 9, 8, 8)
+| Quickstep
+| "[[Come On Eileen]]" — [[Dexys Midnight Runners]]
+| Safe
+|-
+! scope="row" | Saffron & AJ
+| 33 (7, 8, 9, 9)
+| Contemporary
+| "[[Because You Loved Me]]" — [[Celine Dion]]
+| Safe
+|-
+! scope="row" | Karim & Amy
+| 38 (9, 10, 9, 10)
+| Tango
+| "[[Paradise (George Ezra song)|Paradise]]" — [[George Ezra]]
+| Safe
+|}
+;Judges' votes to save
+*Revel Horwood: Emma W. & Aljaž
+*Mabuse: Emma W. & Aljaž
+*Tonioli: Emma W. & Aljaž
+*Ballas: ''Did not vote, but would have voted to save Emma W. & Aljaž''
+
+===Week 5===
+''Individual judges' scores in the chart below (given in parentheses) are listed in this order from left to right: Craig Revel Horwood, Motsi Mabuse, Shirley Ballas, Alfonso Ribeiro''.
+
+Musical guest: [[Mabel (singer)|Mabel]] — "[[Don't Call Me Up]]"
+
+Actor [[Alfonso Ribeiro]] filled in as a guest judge while [[Bruno Tonioli]] was unavailable while filming for [[Dancing with the Stars (American TV series)|''Dancing with the Stars'']].
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" | Couple
+! scope="col" | Scores
+! scope="col" class="unsortable"| Dance
+! scope="col" class="unsortable"| Music<ref>{{cite web|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2F32103d6e-3343-4ada-b918-3c0a7462b760|title=BBC Blogs – Strictly Come Dancing – Week Five: Songs and dances revealed!|date=12 October 2019|access-date=18 October 2019}}</ref>
+! scope="col" class="unsortable"| Result
+|-
+! scope="row" | Kelvin & Oti
+| 33 (8, 8, 8, 9)
+| Cha-cha-cha
+| "[[Get Stupid (song)|Get Stupid]]" — [[Aston Merrygold]]
+| Safe
+|-
+! scope="row" | David & Nadiya
+| 16 (3, 4, 4, 5)
+| Jive
+| "[[Such a Night]]" — [[Michael Bublé]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Catherine & Johannes
+| 28 (6, 7, 7, 8)
+| Tango
+| "[[Little Bird (Annie Lennox song)|Little Bird]]" — [[Annie Lennox]]
+| Safe
+|-
+! scope="row" | Karim & Amy
+| 36 (8, 10, 9, 9)
+| Salsa
+| "[[Who Let the Dogs Out?]]" — [[Baha Men]]
+| Safe
+|-
+! scope="row" | Michelle & Giovanni
+| 29 (7, 7, 7, 8)
+| Rumba
+| "[[Too Good at Goodbyes]]" — [[Sam Smith]]
+| Safe
+|- 
+! scope="row" | Emma B. & Anton
+| 26 (5, 7, 7, 7)
+| Paso doble
+| "[[Nothing Breaks Like a Heart]]" — [[Mark Ronson]], feat. [[Miley Cyrus]]
+| Safe
+|-
+! scope="row" | Alex & Neil
+| 33 (8, 8, 8, 9)
+| Charleston
+| "[[Pump Up the Jam]]" — [[Technotronic]]
+| Safe
+|-
+! scope="row" | Emma W. & Aljaž
+| 36 (9, 9, 9, 9)
+| Viennese waltz
+| "[[Saving All My Love for You]]" — [[Whitney Houston]]
+| Safe
+|-
+! scope="row" | Mike & Katya
+| 21 (3, 6, 5, 7)
+| Samba
+| "[[Apache (instrumental)|Apache]]" — [[The Sugarhill Gang]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Will & Janette
+| 32 (7, 8, 8, 9)
+| Contemporary
+| "[[7 Years (Lukas Graham song)|7 Years]]" — [[Lukas Graham]]
+| Safe
+|-
+! scope="row" | Chris & Karen
+| 25 (5, 6, 7, 7)
+| Quickstep
+| "[[Let's Go Crazy]]" — [[Prince (musician)|Prince]] & [[The Revolution (band)|The Revolution]]
+| Safe
+|-
+! scope="row" | Saffron & AJ
+| {{nowrap|38 (9, 10, 9, 10)}}
+| Foxtrot
+| "[[Theme from New York, New York|Theme from ''New York, New York'']]" — [[Frank Sinatra]]
+| Safe
+|}
+;Judges' votes to save
+*Revel Horwood: Mike & Katya
+*Mabuse: Mike & Katya
+*Ribeiro: Mike & Katya
+*Ballas: ''Did not vote, but would have voted to save Mike & Katya''
+
+===Week 6: Halloween Week===
+Musical guest: [[Adam Lambert]] — "Superpower"
+
+After [[Will Bayley]] sustained a knee injury, he was unable to perform on the live show. Under the rules of the show, he was granted a [[Bye (sports)|bye]] to the following week. Additionally, after [[Neil Jones (dancer)|Neil Jones]] sustained a calf injury in rehearsal, he was unable to perform on the live show. [[Alex Scott (footballer, born 1984)|Alex Scott]] performed with [[Kevin Clifton]] instead.
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" | Couple
+! scope="col" | Scores
+! scope="col" class="unsortable"| Dance
+! scope="col" class="unsortable"| Music<ref>{{cite web|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2F2a62eb46-2d33-405d-85d2-a2f4d1dc7a08|title=Halloween Week: Songs and dances revealed!|date=22 October 2019|access-date=22 October 2019}}</ref>
+! scope="col" class="unsortable"| Result
+|-
+! scope="row" | Emma B. & Anton
+| 28 (5, 7, 8, 8)
+| Tango
+| "[[Toccata and Fugue in D minor]]" — [[Johann Sebastian Bach]]
+| Safe
+|-
+! scope="row" | Emma W. & Aljaž
+| 30 (6, 8, 8, 8)
+| Charleston
+| "[[A Little Party Never Killed Nobody (All We Got)]]" — [[Fergie (singer)|Fergie]], [[Q-Tip (musician)|Q-Tip]] & [[GoonRock]]
+| Safe
+|-
+! scope="row" | Chris & Karen
+| 23 (5, 6, 6, 6)
+| Samba
+| "[[Everybody (Backstreet's Back)]]" — [[Backstreet Boys]]
+| Safe
+|-
+! scope="row" | Saffron & AJ
+| 33 (8, 8, 8, 9)
+| Jive
+| "[[Every Little Thing She Does Is Magic]]" — [[The Police]]
+| Safe
+|- 
+! scope="row" | Mike & Katya
+| 26 (6, 6, 7, 7)
+| Tango
+| "[[What You Waiting For?]]" — [[Gwen Stefani]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Karim & Amy
+| 29 (7, 7, 7, 8)
+| Paso doble
+| "[[Smalltown Boy]]" — [[Bronski Beat]]
+| Safe
+|-
+! scope="row" | Catherine & Johannes
+| 24 (6, 6, 5, 7)
+| Cha-cha-cha
+| "[[Scared of the Dark]]" — [[Steps (pop group)|Steps]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Michelle & Giovanni
+| {{nowrap|39 (9, 10, 10, 10)}}
+| Foxtrot
+| "[[The Addams Family Theme|''The Addams Family'' Theme]]" — [[Vic Mizzy]]
+| Safe
+|-
+! scope="row" | Kelvin & Oti
+| 36 (9, 9, 9, 9)
+| Tango
+| "[[Bad Guy (Billie Eilish song)|Bad Guy]]" — [[Billie Eilish]]
+| Safe
+|-
+! scope="row" | Alex & Kevin
+| 34 (7, 9, 9, 9)
+| Street/Commercial
+| "[[Ghostbusters (song)|Ghostbusters]]" — [[Ray Parker Jr.]]
+| Safe
+|}
+;Judges' votes to save
+*Revel Horwood: Mike & Katya
+*Mabuse: Catherine & Johannes
+*Tonioli: Catherine & Johannes
+*Ballas: Mike & Katya ''(Since the other judges were not unanimous, Shirley Ballas, as head judge, made the final decision to save Mike & Katya.)''
+
+===Week 7===
+Musical guest: [[Emeli Sandé]] — "Shine"
+
+After having missed the previous week, Will and Janette withdrew from the competition. [[Alex Scott (footballer, born 1984)|Alex Scott]] performed again with [[Kevin Clifton]].
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" | Couple
+! scope="col" | Scores
+! scope="col" class="unsortable"| Dance
+! scope="col" class="unsortable"| Music<ref>{{cite web|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2F4c82e2a9-ae6d-489b-8fe6-e6cc9aeac295|title=Week Seven: Songs and dances revealed!|date=29 October 2019|access-date=30 October 2019}}</ref>
+! scope="col" class="unsortable"| Result
+|-
+! scope="row" | Karim & Amy
+| {{nowrap|39 (9, 10, 10, 10)}}
+| Quickstep
+| "Mr. Pinstripe Suit" — [[Big Bad Voodoo Daddy]]
+| Safe
+|-
+! scope="row" | Michelle & Giovanni
+| 34 (8, 9, 9, 8)
+| Paso doble
+| "[[Another One Bites the Dust]]" — [[Queen (band)|Queen]]
+| Safe
+|-
+! scope="row" | Emma W. & Aljaž
+| 26 (5, 7, 7, 7)
+| Samba
+| "[[I Don't Care (Ed Sheeran and Justin Bieber song)|I Don't Care]]" — [[Ed Sheeran]] & [[Justin Bieber]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Kelvin & Oti
+| 34 (8, 9, 8, 9)
+| Viennese waltz
+| "[[Say Something (A Great Big World song)|Say Something]]" — [[A Great Big World]] & [[Christina Aguilera]]
+| Safe
+|-
+! scope="row" | Saffron & AJ
+| 27 (6, 7, 7, 7)
+| Salsa
+| "[[Instruction (song)|Instruction]]" — [[Jax Jones]], feat. [[Demi Lovato]]
+| Safe
+|- 
+! scope="row" | Alex & Kevin
+| 31 (7, 8, 8, 8)
+| American Smooth
+| "[[Ain't No Mountain High Enough]]" — [[Marvin Gaye]] & [[Tammi Terrell]]
+| Safe
+|-
+! scope="row" | Chris & Karen
+| 34 (8, 9, 9, 8)
+| Street/Commercial
+| "[[Let's Get Ready to Rhumble]]" — [[Ant & Dec|PJ & Duncan]]
+| Safe
+|-
+! scope="row" | Emma B. & Anton
+| 22 (5, 6, 5, 6)
+| Rumba
+| "[[Woman in Love]]" — [[Barbra Streisand]]
+| Safe
+|-
+! scope="row" | Mike & Katya
+| 30 (7, 7, 8, 8)
+| Charleston
+| "[[Those Magnificent Men in their Flying Machines]]" — [[Ron Goodwin|The Ron Goodwin Orchestra]]
+| bgcolor="lightblue" | Bottom two
+|}
+;Judges' votes to save
+*Revel Horwood: Mike & Katya
+*Mabuse: Mike & Katya
+*Tonioli: Mike & Katya
+*Ballas: ''Did not vote, but would have voted to save Mike & Katya''
+
+===Week 8===
+Musical guest: [[Luke Evans]] — "[[Songs from Les Misérables|Bring Him Home]]" ''(from [[Les Misérables (musical)|Les Misérables]])''
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" | Couple
+! scope="col" | Scores
+! scope="col" class="unsortable"| Dance
+! scope="col" class="unsortable"| Music<ref>{{cite web|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2F53b0d508-7389-4d90-8b74-f43b6802b444|title=Week Eight: Songs and dances revealed!|date=5 November 2019|access-date=5 November 2019}}</ref>
+! scope="col" class="unsortable"| Result
+|-
+! scope="row" | Alex & Neil
+| 31 (7, 8, 8, 8)
+| Jive
+| "[[Let's Twist Again]]" — [[Chubby Checker]]
+| Safe
+|-
+! scope="row" | Mike & Katya
+| 25 (5, 7, 7, 6)
+| Paso doble
+| "[[Area 52 (album)|Tamacun]]" — [[Rodrigo y Gabriela]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Karim & Amy
+| 30 (6, 8, 8, 8)
+| Viennese waltz
+| "[[Give Me Love (Ed Sheeran song)|Give Me Love]]" — [[Ed Sheeran]]
+| Safe
+|-
+! scope="row" | Chris & Karen
+| 26 (5, 7, 7, 7)
+| Tango
+| "[[Survivor (Destiny's Child song)|Survivor]]" — [[2WEI]]
+| Safe
+|-
+! scope="row" | Michelle & Giovanni
+| 36 (9, 9, 9, 9)
+| American Smooth
+| "[[I Just Want to Make Love to You]]" — [[Etta James]]
+| bgcolor="lightblue" | Bottom two
+|- 
+! scope="row" | Emma B. & Anton
+| 33 (8, 9, 8, 8)
+| Theatre/Jazz
+| "[[Right Now (Herbie Mann song)|Right Now]]" — [[The Pussycat Dolls]]
+| Safe
+|-
+! scope="row" | Saffron & AJ
+| 39 (9, 10, 10, 10)
+| Waltz
+| "[[Your Song#Ellie Goulding version|Your Song]]" — [[Ellie Goulding]]
+| Safe
+|-
+! scope="row" | Kelvin & Oti
+| 35 (8, 9, 9, 9)
+| Salsa
+| "[[Let's Hear It for the Boy]]" — [[Deniece Williams]]
+| Safe
+|}
+;Judges' votes to save
+*Revel Horwood: Michelle & Giovanni
+*Mabuse: Michelle & Giovanni
+*Tonioli: Michelle & Giovanni
+*Ballas: ''Did not vote, but would have voted to save Michelle & Giovanni''
+
+===Week 9: Blackpool Week===
+Musical guests: [[Westlife]] — "[[Hello My Love]]", "[[Uptown Girl]]" & "[[World of Our Own (song)|World of Our Own]]"
+
+This week's episode was staged in the [[Blackpool Tower#Tower Ballroom|Tower Ballroom]] at the [[Blackpool Tower]] in [[Blackpool, Lancashire]].
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" | Couple
+! scope="col" | Scores
+! scope="col" class="unsortable"| Dance
+! scope="col" class="unsortable"| Music<ref>{{cite web|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2F0f28a05f-9a4d-4bb7-8060-1ccb94dd2773|title=Blackpool: Songs and dances revealed!|date=12 November 2019|access-date=12 November 2019}}</ref>
+! scope="col" class="unsortable"| Result
+|-
+! scope="row" | Chris & Karen
+| 33 (7, 8, 9, 9)
+| Salsa
+| "[[Uptown Funk]]" — [[Mark Ronson]], feat. [[Bruno Mars]]
+| Safe
+|-
+! scope="row" | Emma B. & Anton
+| 37 (8, 9, 10, 10)
+| American Smooth
+| "[[Let's Face the Music and Dance]]" — [[Ella Fitzgerald]]
+| Safe
+|-
+! scope="row" | Alex & Neil
+| 34 (8, 8, 9, 9)
+| Paso doble
+| "[[Run the World (Girls)]]" — [[Beyoncé]]
+| Safe
+|-
+! scope="row" | Kelvin & Oti
+| 39 (9, 10, 10, 10)
+| Jive
+| "[[Jailhouse Rock (song)|Jailhouse Rock]]" — from ''[[Smokey Joe's Cafe (revue)|Smokey Joe's Cafe]]''
+| Safe
+|-
+! scope="row" | Saffron & AJ
+| 35 (8, 9, 9, 9)
+| Quickstep
+| "[[I Went to a Marvellous Party]]" — [[Beverley Knight]]
+| bgcolor="lightblue" | Bottom two
+|- 
+! scope="row" | Michelle & Giovanni
+| 32 (8, 8, 8, 8)
+| Street/Commercial
+| "[[Vogue (Madonna song)|Vogue]]" — [[Madonna (entertainer)|Madonna]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Karim & Amy
+| 39 (9, 10, 10, 10)
+| Charleston
+| "[[Tetra (album)|Happy]]" — [[C2C (group)|C2C]], feat. Derek Martin
+| Safe
+|}
+;Judges' votes to save
+*Revel Horwood: Saffron & AJ
+*Mabuse: Saffron & AJ
+*Tonioli: Saffron & AJ
+*Ballas: ''Did not vote, but would have voted to save Saffron & AJ''
+
+===Week 10===
+Musical guest: [[Andrea Bocelli]] — "[[Andrea Bocelli discography|Return to Love]]" & "[[Con te partirò|Time to Say Goodbye]]"<br>Dance guest: [[Ellie Fergusson]] — "[[Keeping Your Head Up]]"
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" | Couple
+! scope="col" | Scores
+! scope="col" class="unsortable"| Dance
+! scope="col" class="unsortable"| Music<ref>{{cite web|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2F5c6d8efa-b6fe-4042-9ca6-18a152955ae9|title=Week Ten: Songs and dances revealed!|date=19 November 2019|access-date=19 November 2019}}</ref>
+! scope="col" class="unsortable"| Result
+|-
+! scope="row" | Saffron & AJ
+| 26 (5, 7, 7, 7)
+| Samba 
+| "[[Walking on Sunshine (Katrina and the Waves song)|Walking on Sunshine]]" — Take Me to Rio Collective
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Karim & Amy
+| 38 (9, 9, 10, 10)
+| Contemporary 
+| "[[Drops of Jupiter (Tell Me)]]" — [[With Confidence]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Alex & Neil
+| 26 (4, 7, 7, 8)
+| Argentine tango
+| "[[Never Tear Us Apart]]" — [[Bishop Briggs]]
+| Safe
+|-
+! scope="row" | Kelvin & Oti
+| 38 (8, 10, 10, 10)
+| Street/Commercial
+| "[[Do I Love You (Indeed I Do)]]" — [[Frank Wilson (musician)|Frank Wilson]]
+| Safe
+|-
+! scope="row" | Emma B. & Anton
+| 29 (6, 8, 7, 8)
+| Quickstep
+| "[[Diamonds Are a Girl's Best Friend|Sparkling Diamonds]]" — [[Nicole Kidman]]
+| Safe
+|-
+! scope="row" | Chris & Karen
+| 31 (8, 8, 8, 7)
+| Paso doble
+| "[[Run Boy Run (song)|Run Boy Run]]" — [[Yoann Lemoine|Woodkid]]
+| Safe
+|}
+;Judges' votes to save
+*Revel Horwood: Karim & Amy
+*Mabuse: Karim & Amy
+*Tonioli: Karim & Amy
+*Ballas: ''Did not vote, but would have voted to save Karim & Amy''
+
+===Week 11: Musicals Week (Quarter-final)===
+Musical guests:
+*[[Beverley Knight]] — "[[Memory (Cats song)|Memory]]" ''(from [[Cats (musical)|Cats]])''
+*[[Idina Menzel]] — "[[Seasons of Love]]" ''(from [[Rent (musical)|Rent]])''
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" | Couple
+! scope="col" | Scores
+! scope="col" class="unsortable"| Dance
+! scope="col" class="unsortable"| Music<ref>{{cite web|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2Fb7ed5a9a-e26e-4258-a326-75895303cc57|title=Week Eleven: Songs and dances revealed!|date=26 November 2019|access-date=26 November 2019}}</ref>
+! scope="col" class="unsortable"| Musical
+! scope="col" class="unsortable"| Result
+|-
+! scope="row" | Chris & Karen
+| 28 (6, 7, 8, 7)
+| Foxtrot 
+| "[[Consider Yourself]]"
+| ''[[Oliver!]]''
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Alex & Neil 
+| 27 (6, 7, 7, 7)
+| Samba 
+| "[[The Hymn of Joy|Joyful, Joyful]]"
+| ''[[Sister Act 2: Back in the Habit]]''
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Kelvin & Oti 
+| 39 (9, 10, 10, 10)
+| American Smooth 
+| "[[Gaston (song)|Gaston]]"
+| ''[[Beauty and the Beast (musical)|Beauty and the Beast]]''
+| Safe
+|-
+! scope="row" | Karim & Amy
+| 40 (10, 10, 10, 10)
+| Jive
+| "[[You Can't Stop the Beat]]"
+| ''[[Hairspray (musical)|Hairspray]]''
+| Safe
+|-
+! scope="row" | Emma B. & Anton
+| 39 (9, 10, 10, 10)
+| Charleston
+| "Thoroughly Modern Millie"
+| ''[[Thoroughly Modern Millie (musical)|Thoroughly Modern Millie]]''
+| Safe
+|}
+;Judges' votes to save
+*Revel Horwood: Alex & Neil
+*Mabuse: Alex & Neil
+*Tonioli: Chris & Karen
+*Ballas: Chris & Karen ''(Since the other judges were not unanimous, Shirley Ballas, as head judge, made the final decision to save Chris & Karen.)''
+
+===Week 12: Semi-final===
+Musical guest: [[Niall Horan]] — "[[Nice to Meet Ya (Niall Horan song)|Nice to Meet Ya]]"<br>Dance guest: [[Carlos Acosta]] — "[[Carmen|Overture from ''Carmen'']]"
+
+Each couple performed two routines, and are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" | Couple
+! scope="col" | Scores
+! scope="col" class="unsortable"| Dance
+! scope="col" class="unsortable"| Music<ref>{{cite web|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2Fcf3e131f-4e23-4cff-b1f0-8228ae2ef0a1|title=Week Twelve: Songs and dances revealed!|date=3 December 2019|access-date=3 December 2019}}</ref>
+! scope="col" class="unsortable"| Result
+|-
+! scope="row" rowspan=2 | Emma B. & Anton 
+| 31 (7, 8, 8, 8)
+| Cha-cha-cha
+| "[[Hold My Hand (Jess Glynne song)|Hold My Hand]]" — [[Jess Glynne]]
+| rowspan=2 | Safe
+|-
+| 36 (8, 9, 9, 10)
+| Waltz
+| "[[Gymnopédies|Gymnopédie No. 1]]" — [[Erik Satie]]
+|-
+! scope="row" rowspan=2 | Kelvin & Oti 
+| 40 (10, 10, 10, 10)
+| Quickstep 
+| "[[The Lady Is a Tramp]]" — [[Glee (TV series)|Cast of ''Glee'']]
+| rowspan=2 | Safe
+|-
+| 37 (9, 10, 9, 9)
+| Paso doble 
+| "[[Seven Nation Army]]" — [[The White Stripes]]
+|-
+! scope="row" rowspan=2 | Chris & Karen
+| 26 (7, 7, 6, 6)
+| Viennese waltz
+| "[[Somebody to Love (Queen song)|Somebody to Love]]" — [[Queen (band)|Queen]]
+| rowspan=2 bgcolor="f4c7b8" | Eliminated
+|-
+| 28 (4, 8, 8, 8)
+| Rumba
+| "[[Lost & Found (Jorja Smith album)|Don't Watch Me Cry]]" — [[Jorja Smith]]
+|-
+! scope="row" rowspan=2 | Karim & Amy
+| 36 (8, 10, 9, 9)
+| Argentine tango
+| "[[Libertango]]" — [[Bond (band)|Bond]]
+| rowspan=2 bgcolor="lightblue" | Bottom two
+|-
+| 38 (9, 10, 9, 10)
+| American Smooth
+| "[[Sweet Caroline]]" — [[Neil Diamond]]
+|}
+;Judges' votes to save
+*Revel Horwood: Karim & Amy
+*Mabuse: Karim & Amy
+*Tonioli: Karim & Amy
+*Ballas: ''Did not vote, but would have voted to save Karim & Amy''
+
+===Week 13: Final===
+Musical guest: [[Taylor Swift]] — "[[Lover (Taylor Swift song)|Lover]]"
+
+Each couple performed three routines: one chosen by the judges, their favourite dance of the season, and their showdance routine. Couples are listed in the order they performed. 
+
+'''NOTE:''' The winner was decided by public vote alone; judges scores were irrelevant 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" | Couple
+! scope="col" | Scores
+! scope="col" class="unsortable"| Dance
+! scope="col" class="unsortable"| Music<ref>{{cite web|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2F097a8022-5fe4-4676-8dff-1276571cf1e0|title=Grand Final: Songs and dances revealed!|date=10 December 2019|access-date=10 December 2019}}</ref>
+! scope="col" class="unsortable"| Result
+|-
+! scope="row" rowspan=3 | Karim & Amy
+| 40 (10, 10, 10, 10)
+| Quickstep 
+| "Mr. Pinstripe Suit" — [[Big Bad Voodoo Daddy]]
+| rowspan="3" bgcolor="silver" | Runners-up
+|-
+| 39 (9, 10, 10, 10)
+| Showdance
+| "[[A Million Dreams]]" — [[Pink (singer)|Pink]]
+|-
+| 40 (10, 10, 10, 10)
+| Jive
+| "[[You Can't Stop the Beat]]" — from ''[[Hairspray (musical)|Hairspray]]''
+|-
+! scope="row" rowspan=3 | Emma B. & Anton 
+| 39 (9, 10, 10, 10)
+| Charleston
+| "Thoroughly Modern Millie" — from ''[[Thoroughly Modern Millie (musical)|Thoroughly Modern Millie]]''
+| rowspan="3" bgcolor="silver" | Runners-up
+|-
+| 38 (8, 10, 10, 10)
+| Showdance
+| "[[Let Yourself Go (Irving Berlin song)|Let Yourself Go]]" — [[Irving Berlin]]
+|-
+| 39 (9, 10, 10, 10)
+| Viennese waltz
+| "[[Send In the Clowns]]" — [[Barbra Streisand]]
+|-
+! scope="row" rowspan=3 | Kelvin & Oti
+| 39 (9, 10, 10, 10)
+| Rumba
+| "[[Ain't No Sunshine]]" — [[Bill Withers]]
+| rowspan=3 bgcolor="gold" | '''Winners'''
+|-
+| 40 (10, 10, 10, 10)
+| Showdance
+| "[[Shout (Isley Brothers song)|Shout]]" — [[The Isley Brothers]]
+|-
+| 39 (9, 10, 10, 10)
+| Samba
+| "[[La Vida Es Un Carnaval]]" — [[Celia Cruz]]
+|}
+
+==Dance chart==
+The couples performed the following each week:
+*Weeks 1–11: One unlearned dance
+*Week 12 (Semi-final): Two unlearned dances
+*Week 13 (Final): Judges' choice, showdance & favourite dance of the series
+
+{| class="wikitable unsortable" style="text-align:center; font-size:85%; line-height:20px"
+|+''Strictly Come Dancing'' (series 17) - Dance chart
+! rowspan="2" |Couple
+! colspan="16" |Week
+|-
+! scope="col" | 1
+! scope="col" | 2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" | 5
+! scope="col" | 6
+! scope="col" | 7
+! scope="col" | 8
+! scope="col" | 9
+! scope="col" | 10
+! scope="col" | 11
+! scope="col" colspan="2" |12
+! scope="col" colspan="3" |13
+|-
+! scope="row" | Kelvin & Oti
+| Samba
+| Waltz
+| Charleston
+| Rumba
+| Cha-cha-cha
+| Tango
+| Viennese waltz
+| Salsa
+| Jive
+| Street/Commercial
+| American Smooth
+| Quickstep
+| Paso doble
+| Rumba
+| Showdance
+| Samba
+|-
+! scope="row" | Karim & Amy
+| Cha-cha-cha
+| Foxtrot
+| Samba
+| Tango
+| Salsa
+| Paso doble
+| Quickstep
+| Viennese waltz
+| Charleston
+| {{Abbr|Contemp.|Contemporary}}
+| Jive
+| Argentine tango
+| American Smooth
+| Quickstep
+| Showdance
+| Jive
+|-
+! scope="row" | Emma B. & Anton
+| Jive
+| Foxtrot
+| Salsa
+| Viennese waltz
+| Paso doble
+| Tango
+| Rumba
+| Theatre/Jazz
+| American Smooth
+| Quickstep
+| Charleston
+| Cha-cha-cha
+| Waltz
+| Charleston
+| Showdance
+| Viennese waltz
+|-
+! scope="row" | Chris & Karen
+| Cha-cha-cha
+| Charleston
+| American Smooth
+| Jive
+| Quickstep
+| Samba
+| Street/Commercial
+| Tango
+| Salsa
+| Paso doble
+| Foxtrot
+| Viennese waltz
+| Rumba
+| colspan="3" rowspan="12" bgcolor="darkgray" |
+|-
+! scope="row" | Alex & Neil
+| Quickstep
+| Cha-cha-cha
+| Rumba
+| Tango
+| Charleston
+| Street/Commercial
+| American Smooth
+| Jive
+| Paso doble
+| Argentine tango
+| Samba
+| colspan="2" rowspan="11" bgcolor="darkgray" |
+|-
+! scope="row" | Saffron & AJ
+| Tango
+| Cha-cha-cha
+| Paso doble
+| {{Abbr|Contemp.|Contemporary}}
+| Foxtrot
+| Jive
+| Salsa
+| Waltz
+| Quickstep
+| Samba
+| rowspan="10" bgcolor="darkgray" |
+|-
+! scope="row" | {{nowrap|Michelle &}} Giovanni
+| Cha-cha-cha
+| Viennese waltz
+| Quickstep
+| Salsa
+| Rumba
+| Foxtrot
+| Paso doble
+| American Smooth
+| Street/Commercial
+| rowspan="9" bgcolor="darkgray" |
+|-
+! scope="row" | Mike & Katya
+| Jive
+| American Smooth
+| Cha-cha-cha
+| Quickstep
+| Samba
+| Tango
+| Charleston
+| Paso doble
+| rowspan="8" bgcolor="darkgray" |
+|-
+! scope="row" | Emma W. & Aljaž
+| Cha-cha-cha
+| Tango
+| Foxtrot
+| Jive
+| Viennese waltz
+| Charleston
+| Samba
+| rowspan="7" bgcolor="darkgray" |
+|-
+! scope="row" | Will & Janette
+| Quickstep
+| Salsa
+| Paso doble
+| Foxtrot
+| {{Abbr|Contemp.|Contemporary}}
+| bgcolor="darkgray" |
+| rowspan="6" bgcolor="darkgray" |
+|-
+! scope="row" | Catherine {{nowrap|& Johannes}}
+| Viennese waltz
+| Samba
+| Rumba
+| Charleston
+| Tango
+| Cha-cha-cha
+|-
+! scope="row" | David & Nadiya
+| Foxtrot
+| Paso doble
+| American Smooth
+| Quickstep
+| Jive
+| rowspan="4" bgcolor="darkgray" |
+|-
+! scope="row" | Dev & Dianne
+| Foxtrot
+| Jive
+| Street/Commercial
+| Cha-cha-cha
+| rowspan="3" bgcolor="darkgray" |
+|-
+! scope="row" | Anneka & Kevin
+| Cha-cha-cha
+| Waltz
+| Charleston
+| rowspan="2" bgcolor="darkgray" |
+|-
+! scope="row" | James & Luba
+| Tango
+| Jive
+| bgcolor="darkgray" |
+|}
+
+==Ratings==
+Weekly ratings for each show on [[BBC One]]. All ratings are provided by [[Barb Audiences|BARB]].<ref>{{cite web|url=https://www.barb.co.uk/viewing-data/four-screen-dashboard/|title=Four-screen dashboard (7-day data)|publisher=[[BARB]]|access-date=17 September 2023}}</ref>
+{| class="wikitable sortable" style="text-align:center"
+|-
+! scope="col"|Episode
+! scope="col"|Date
+! scope="col"|Official rating<br />(millions)
+! scope="col"|Weekly rank<br />for BBC One
+! scope="col"|Weekly rank<br />for all UK TV
+|-
+! scope="row"|Launch show
+| {{dts|7 September}} || 9.26 || 1 || 2 
+|-
+! scope="row"|Week 1
+| {{dts|21 September}} || 9.60 || 1 || 1 
+|-
+! scope="row"|Week 2
+| {{dts|28 September}} || 9.46 || 1 || 1 
+|-
+! scope="row"|Week 2 results
+| {{dts|29 September}} || 8.07 || 2 || 3 
+|-
+! scope="row"|Week 3
+| {{dts|5 October}} || 9.99 || 1 || 1 
+|-
+! scope="row"|Week 3 results
+| {{dts|6 October}} || 8.86 || 2 || 2 
+|-
+! scope="row"|Week 4
+| {{dts|12 October}} || 10.08 || 1 || 1 
+|-
+! scope="row"|Week 4 results
+| {{dts|13 October}} || 9.77 || 2 || 2 
+|-
+! scope="row"|Week 5
+| {{dts|19 October}} || 10.40 || 1 || 1 
+|-
+! scope="row"|Week 5 results
+| {{dts|20 October}} || 9.86 || 2 || 2 
+|-
+! scope="row"|Week 6
+| {{dts|26 October}} || 10.72 || 1 || 1 
+|-
+! scope="row"|Week 6 results
+| {{dts|27 October}} || 10.35 || 2 || 2 
+|-
+! scope="row"|Week 7
+| {{dts|2 November}} || 10.92 || 1 || 1 
+|-
+! scope="row"|Week 7 results
+| {{dts|3 November}} || 10.49 || 2 || 2 
+|-
+! scope="row"|Week 8
+| {{dts|9 November}} || 10.45 || 2 || 2 
+|-
+! scope="row"|Week 8 results
+| {{dts|10 November}} || 10.70 || 1 || 1 
+|-
+! scope="row"|Week 9
+| {{dts|16 November}} || 11.51 || 1 || 2 
+|-
+! scope="row"|Week 9 results
+| {{dts|17 November}} || 11.05 || 2 || 3 
+|-
+! scope="row"|Week 10
+| {{dts|23 November}} || 10.87 || 1 || 6 
+|-
+! scope="row"|Week 10 results
+| {{dts|24 November}} || 10.61 || 2 || 8 
+|-
+! scope="row"|Week 11
+| {{dts|30 November}} || 10.92 || 2 || 3 
+|-
+! scope="row"|Week 11 results
+| {{dts|1 December}} || 10.96 || 1 || 2 
+|-
+! scope="row"|Week 12
+| {{dts|7 December}} || 11.03 || 1 || 1 
+|-
+! scope="row"|Week 12 results
+| {{dts|8 December}} || 10.53 || 2 || 3 
+|-
+! scope="row"|Week 13
+| {{dts|14 December}} || 12.76 || 1 || 1 
+|-
+! Series average<br>(excl. launch show)
+! 2019
+! 10.42
+! {{N/A}}
+! {{N/A}}
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{BBC Online|id=strictlycomedancing|title=''Strictly Come Dancing''}}
+{{Strictly Come Dancing}}
+
+{{DEFAULTSORT:Strictly Come Dancing (Series 17)}}
+[[Category:Strictly Come Dancing series|Series 17]]
+[[Category:2019 British television seasons]]

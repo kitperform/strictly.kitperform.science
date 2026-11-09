@@ -1,0 +1,1887 @@
+{{Use dmy dates|date=July 2019}}
+{{Infobox television season
+| series_number = 16
+| bgcolor       = #ffd5eb
+| image         =
+| module1       = {{Infobox reality competition season
+ | celebrity_winner    = [[Stacey Dooley]]
+ | professional_winner = [[Kevin Clifton]]
+| presenter = [[Tess Daly]]<br>[[Claudia Winkleman]]
+| judges    = [[Shirley Ballas]]<br>[[Darcey Bussell]]<br>[[Craig Revel Horwood]]<br>[[Bruno Tonioli]]<br>[[Alfonso Ribeiro]] (guest)
+}}
+| network       = [[BBC One]]
+| first_aired   = {{start date|df=y|2018|9|8}}
+| last_aired    = {{end date|df=y|2018|12|15}}
+| num_episodes  = 25
+| prev_series   = [[Strictly Come Dancing series 15|Series 15]]
+| next_series   =  
+}}
+'''''[[Strictly Come Dancing]]''''' returned for its '''sixteenth series''' with a launch show on 8 September 2018 on [[BBC One]], and the first live show on 22 September. [[Tess Daly]] and [[Claudia Winkleman]] returned as hosts, while [[Zoe Ball]] returned to host ''[[Strictly Come Dancing: It Takes Two]]'' on [[BBC Two]]. [[Shirley Ballas]], [[Darcey Bussell]], [[Craig Revel Horwood]], and [[Bruno Tonioli]] returned as judges. On 20 October, actor [[Alfonso Ribeiro]] stood in as a guest judge to cover for Tonioli.<ref name=":11">{{cite web |last=Green |first=Alex |date=19 October 2018 |title=Strictly Come Dancing: What you need to know ahead of this weekend |url=https://www.independent.ie/entertainment/strictly-come-dancing-what-you-need-to-know-ahead-of-this-weekend-37437863.html |access-date=20 October 2018 |work=[[Irish Independent]]}}</ref>
+
+In this series, three new dance styles were introduced — [[Contemporary dance|contemporary]], [[Jazz dance|theatre/jazz]], and [[Street dance|street/commercial]] — as part of a new category called "couple's choice".<ref>{{cite web|url=https://www.radiotimes.com/news/tv/2018-09-08/strictly-come-dancing-new-couples-choice-category/|title=Strictly Come Dancing introduces brand new 'Couple's Choice' category|first=Ellie|last=Harrison|work=[[Radio Times]]|date=8 September 2018|access-date=8 September 2018}}</ref>
+
+[[Stacey Dooley]] and [[Kevin Clifton]] were announced as the winners on 15 December 2018,<ref>{{cite web|url=https://www.telegraph.co.uk/tv/2018/12/15/strictly-come-dancing-2018-final-live-will-joe-sugg-stacey-dooley/|title=Strictly Come Dancing 2018 final, live: Stacey Dooley and Kevin Clifton crowned champions despite finishing bottom of scoreboard|work=[[The Daily Telegraph]]|first=Michael|last=Hogan|date=15 December 2018|access-date=15 December 2018}}</ref> while [[Joe Sugg]] and [[Dianne Buswell]], [[Faye Tozer]] and [[Giovanni Pernice]], and [[Ashley Roberts]] and [[Pasha Kovalev]] were the runners-up.
+
+== Format ==
+{{Further|Strictly Come Dancing#Format}}
+{{Multiple image
+ | align        = right
+ | total_width  = 550
+
+ | header       = Hosts and Judges for Strictly Come Dancing Series 16
+
+ | image1       = Tess Daly Cropped.jpg
+ | alt1         =
+ | caption1     = [[Tess Daly]]
+
+ | image2       = Claudia Winkleman at BAFTA 2026 01.jpg
+ | alt2         =
+ | caption2     = [[Claudia Winkleman]]
+
+ | image3       = Craig-Revel-Horwood-2022.png
+ | alt3         = 
+ | caption3     = [[Craig Revel Horwood]]
+
+ | image4       = Darcey Bussell in 2016.jpg
+ | alt4         =
+ | caption4     = [[Darcey Bussell]]
+
+ | image5       = Shirley Ballas 20241205.jpg
+ | alt5         =
+ | caption5     = [[Shirley Ballas]]
+
+ | image6       = BrunoTonioliin2009strictlytouratwembley.png
+ | alt6         =
+ | caption6     = [[Bruno Tonioli]]
+
+ | image7       = Alfonso_Ribeiro.JPG
+ | alt7         =
+ | caption7     = [[Alfonso Ribeiro]] (Guest)
+}}
+
+The couples dance each week in a live show. The judges score each performance out of ten. The couples are then ranked according to the judges' scores and given points according to their rank, with the lowest scored couple receiving one point, and the highest scored couple receiving the most points (the maximum number of points available depends on the number of couples remaining in the competition). The public are also invited to vote for their favourite couples, and the couples are ranked again according to the number of votes they receive, again receiving points; the couple with the fewest votes receiving one point, and the couple with the most votes receiving the most points.
+
+The points for judges' score and public vote are then added together, and the two couples with the fewest points are placed in the bottom two. If two couples have equal points, the points from the public vote are given precedence. As with the previous series, the bottom two couples have to perform a dance-off on the results show. Based on that performance alone, each judge then votes on which couple should stay and which couple should leave, with [[Shirley Ballas]], as head judge, having the last and [[Casting vote|deciding vote]].
+
+==Professional dancers==
+On 30 May 2018, the list of professionals returning for the sixteenth series was revealed. Professionals from the last series who did not return included [[Brendan Cole]] and [[Chloe Hewitt]].<ref>{{cite web|url=http://www.digitalspy.com/tv/strictly-come-dancing/news/a848738/brendan-cole-axed-strictly-come-dancing/|title=Brendan Cole reveals he has been axed from Strictly Come Dancing|last=McCreesh|first=Louise|date=30 January 2018|work=[[Digital Spy]]|access-date=30 May 2018}}</ref> [[Graziano Di Prima]], [[Luba Mushtuk]], and [[Johannes Radebe]] replaced them.<ref>{{cite web|url=https://www.bbc.co.uk/blogs/strictlycomedancing/entries/2c041434-fe0e-4566-bf45-b9f9e8ddfde7|title=We reveal our biggest pro-dancer line-up ever! As a trio of outstanding dancers join the show|date=30 May 2018|publisher=BBC|access-date=30 May 2018}}</ref> Mushtuk and Radebe did not have celebrity partners; however, Di Prima did.<ref>{{cite web|url=https://metro.co.uk/2018/08/27/why-doesnt-neil-jones-ever-have-a-partner-on-strictly-come-dancing-7886517/|title=Why doesn't Neil Jones ever have a partner on Strictly Come Dancing?|last=Westbrook|first=Caroline|date=30 August 2018|work=[[Metro (British newspaper)|Metro]]|access-date=1 September 2018}}</ref><ref name=couples>{{cite web|url=https://www.bbc.co.uk/blogs/strictlycomedancing/entries/ea3aa382-918c-46a5-b20e-55fc00752165|title=BBC Blogs – Strictly Come Dancing – It's time to meet your 2018 couples!|publisher=BBC One|date=8 September 2018|access-date=8 September 2018}}</ref>
+
+==Couples==
+This series featured fifteen celebrity contestants. On 13 August 2018, the first three celebrities announced to be participating in the series were [[Katie Piper]], [[Faye Tozer]], and [[Danny John-Jules]].<ref>{{cite web|url=https://www.bbc.co.uk/blogs/strictlycomedancing/entries/8d258664-104e-4ff1-a970-26e072e8ad24|title=Katie Piper is our first Strictly star of 2018!|date=13 August 2018|work=BBC News |access-date=13 August 2018}}</ref><ref>{{cite web|url=https://www.bbc.co.uk/blogs/strictlycomedancing/entries/ccad03e5-db11-4192-a49e-e8d681aadbfe|title=Steptacular news... Faye Tozer is joining our Strictly 2018 line-up!|date=13 August 2018|work=BBC News |access-date=21 August 2018}}</ref><ref>{{cite web|url=https://www.bbc.co.uk/blogs/strictlycomedancing/entries/84126ef9-a064-4614-8ed7-4ebde401a29f|title=Danny John-Jules is ready for Strictly 2018!|date=13 August 2018|work=BBC News |access-date=21 August 2018}}</ref> Celebrity reveals continued across that month before concluding on 21 August on ''[[Good Morning Britain (2014 TV programme)|Good Morning Britain]]''.<ref>{{cite web|url=http://www.digitalspy.com/tv/strictly-come-dancing/news/a864432/strictly-come-dancing-2018-line-up-complete-chucky-venn-susannah-constantine/|title=Strictly Come Dancing completes its line-up with 14th and 15th stars|date=21 August 2018|work=Digital Spy|access-date=21 August 2018}}</ref><ref name=couples/>
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! scope="col" | Celebrity
+! scope="col" class="unsortable"| Notability
+! scope="col" | Professional partner
+! scope="col" | Status
+|- style="height:50px"
+! scope="row" | {{nowrap|[[Susannah Constantine]]}}
+| Television presenter & fashion journalist 
+| [[Anton Du Beke]]
+| bgcolor="f4c7b8" | Eliminated 1st<br /><small>{{nowrap|on 30 September 2018}}</small>
+|- style="height:50px"
+! scope="row" | [[Lee Ryan]]
+| [[Blue (English band)|Blue]] singer & ''[[EastEnders]]'' actor
+| [[Nadiya Bychkova]]
+| bgcolor="f4c7b8" | Eliminated 2nd<br /><small>on 7 October 2018</small>
+|- style="height:50px"
+! scope="row" | [[Katie Piper]]
+| Philanthropist & television presenter 
+| [[Gorka Márquez]]
+| bgcolor="f4c7b8" | Eliminated 3rd<br /><small>on 14 October 2018</small>
+|- style="height:50px"
+! scope="row" | [[Vick Hope]]
+| [[Capital (radio network)|Capital FM]] presenter
+| [[Graziano Di Prima]]
+| bgcolor="f4c7b8" | Eliminated 4th<br/><small>on 21 October 2018</small>
+|- style="height:50px"
+! scope="row" | [[Seann Walsh]]
+| Stand-up comedian
+| [[Katya Jones]]
+| bgcolor="f4c7b8" | Eliminated 5th<br/><small>on 28 October 2018</small>
+|- style="height:50px"
+! scope="row" | [[Ranj Singh|Dr. Ranj Singh]]
+| ''[[This Morning (TV programme)|This Morning]]'' presenter & author
+| [[Janette Manrara]]
+| bgcolor="f4c7b8" | Eliminated 6th<br/><small>on 4 November 2018</small>
+|- style="height:50px"
+! scope="row" | [[Danny John-Jules]]
+| Stage & screen actor
+| [[Amy Dowden]]
+| bgcolor="f4c7b8" | Eliminated 7th<br/><small>on 11 November 2018</small>
+|- style="height:50px"
+! scope="row" | [[Kate Silverton]]
+| ''[[BBC News]]'' presenter & journalist
+| [[Aljaž Škorjanec]]
+| bgcolor="f4c7b8" | Eliminated 8th<br/><small>on 18 November 2018</small>
+|- style="height:50px"
+! scope="row" | [[Graeme Swann]]
+| [[England cricket team|England]] cricketer
+| [[Oti Mabuse]]
+| bgcolor="f4c7b8" | Eliminated 9th<br/><small>on 25 November 2018</small>
+|- style="height:50px"
+! scope="row" | [[Charles Venn]]
+| ''[[Casualty (TV series)|Casualty]]'' actor
+| [[Karen Clifton]]
+| bgcolor="f4c7b8" | Eliminated 10th<br/><small>on 2 December 2018</small>
+|- style="height:50px"
+! scope="row" | [[Lauren Steadman]]
+| [[Swimming at the Summer Paralympics|Paralympic swimmer]] & paratriathlete
+| [[AJ Pritchard]]
+| bgcolor="f4c7b8" | Eliminated 11th<br/><small>on 9 December 2018</small>
+|- style="height:50px"
+! scope="row" | [[Ashley Roberts]]
+| [[The Pussycat Dolls]] singer
+| [[Pasha Kovalev]]
+| rowspan=3 bgcolor="silver" | Runners-up<br /><small>on 15 December 2018</small>
+|- style="height:50px"
+! scope="row" | [[Faye Tozer]]
+| [[Steps (pop group)|Steps]] singer
+| [[Giovanni Pernice]]
+|- style="height:50px"
+! scope="row" | [[Joe Sugg]]
+| [[YouTube]] personality
+| [[Dianne Buswell]]
+|- style="height:50px"
+! scope="row" | [[Stacey Dooley]]
+| Investigative journalist
+| [[Kevin Clifton]]
+| bgcolor="gold" | '''Winners'''<br /><small>on 15 December 2018</small>
+|}
+
+==Scoring chart==
+The highest score each week is indicated in {{fontcolor|#004600|'''bold green'''}} with a dagger ({{dagger}}), while the lowest score each week is indicated in {{fontcolor|#800000|''italicized red''}} with a double-dagger ({{double-dagger}}).
+
+'''Color key:'''
+{{columns-list|colwidth=20em|
+{{legend|gold|Winners}}
+{{legend|silver|Runners-up}}
+{{legend|lightblue|Bottom two}}
+{{legend|#f4c7b8|Eliminated}}
+}}
+{| class="wikitable sortable" style="text-align:center; font-size:90%"
+|+''Strictly Come Dancing'' (series 16) - Weekly scores
+|-
+! rowspan="2" scope="col" | Couple
+! rowspan="2" scope="col" | {{Abbr|Pl.|Place}}
+! colspan="14" | Week
+|-
+! scope="col" | 1
+! scope="col" | 2
+! scope="col" | 1+2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" | 5
+! scope="col" | 6
+! scope="col" | 7
+! scope="col" | 8
+! scope="col" | 9
+! scope="col" | 10
+! scope="col" | 11
+! scope="col" | 12
+! scope="col" | 13
+|-
+! scope="row" | Stacey & Kevin
+| 1st
+| 24
+| 20
+| 44
+| 32
+| {{fontcolor|#004600|'''33'''}}{{dagger|alt=This was the highest score of the night.}}
+| 33
+| 35
+| 36
+| 32
+| 33
+| {{sort|43|}} | 39+4=43
+| 38
+| {{sort|75|}} | 39+36=75
+| {{sort|114|}} bgcolor="gold" | 39+36+39={{fontcolor|#800000|''114''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|This couple finished in first place.}}
+|-
+! scope="row" | Ashley & Pasha
+| rowspan=3 | 2nd
+| {{fontcolor|#004600|'''29'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''32'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''61'''}}{{dagger|alt=This was the highest score of the night.}}
+| 35
+| 32
+| 36
+| {{fontcolor|#004600|'''39'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''39'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''39'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''40'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|43|}} bgcolor="lightblue" | 36+7=43{{efn|name=Bottom2}}
+| bgcolor="lightblue" | 38{{efn|name=Bottom2}}
+| {{sort|76|}} bgcolor="lightblue" | 36+40={{fontcolor|#004600|'''76'''}}{{dagger|alt=This was the highest score of the night.}}{{efn|name=Bottom2}}
+| {{sort|120|}} bgcolor="silver" | 40+40+40={{fontcolor|#004600|'''120'''}}{{dagger|alt=This was the highest score of the night.}}{{efn|name=2nd|This couple finished in second place.}}
+|-
+! scope="row" | Faye & Giovanni
+| {{fontcolor|#004600|'''29'''}}{{dagger|alt=This was the highest score of the night.}}
+| 31
+| 60
+| {{fontcolor|#004600|'''36'''}}{{dagger|alt=This was the highest score of the night.}}
+| 29
+| 33
+| {{fontcolor|#004600|'''39'''}}{{dagger|alt=This was the highest score of the night.}}
+| 38
+| 36
+| 38
+| {{sort|45|}} | 39+6={{fontcolor|#004600|'''45'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''40'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|76|}} | 37+39={{fontcolor|#004600|'''76'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|120|}} bgcolor="silver" | 40+40+40={{fontcolor|#004600|'''120'''}}{{dagger|alt=This was the highest score of the night.}}{{efn|name=2nd}}
+|-
+! scope="row" | Joe & Dianne
+| 27
+| 31
+| 58
+| 26
+| 26
+| 29
+| 35
+| 34
+| 32
+| 38
+| {{sort|40|}} | 35+5=40
+| 36
+| {{sort|59|}} | 29+30=59
+| {{sort|116|}} bgcolor="silver" | 39+39+38=116{{efn|name=2nd}}
+|-
+! scope="row" | Lauren & AJ
+| 5th
+| 25
+| 22
+| 47
+| 20
+| 25
+| 24
+| 29
+| 31
+| 34
+| {{fontcolor|#800000|''25''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{sort|24|}} | 23+1={{fontcolor|#800000|''24''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{fontcolor|#800000|''35''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{sort|54|}} bgcolor="f4c7b8" | 31+23={{fontcolor|#800000|''54''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="11" bgcolor="darkgray" |
+|-
+! scope="row" | Charles & Karen
+| 6th
+| 25
+| 25
+| 50
+| bgcolor="lightblue" | 25{{efn|name=Bottom2}}
+| bgcolor="lightblue" | 25{{efn|name=Bottom2}}
+| 36
+| 25
+| bgcolor="lightblue" | 28{{efn|name=Bottom2}}
+| 35
+| 38
+| {{sort|33|}} | 30+3=33
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''35''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="10" bgcolor="darkgray" |
+|-
+! scope="row" | Graeme & Oti
+| 7th
+| 22
+| 15
+| 37
+| 31
+| 26
+| 29
+| bgcolor="lightblue" | 21{{efn|name=Bottom2}}
+| 29
+| bgcolor="lightblue" | 31{{efn|name=Bottom2}}
+| bgcolor="lightblue" | 32{{efn|name=Bottom2}}
+| {{sort|26|}} bgcolor="f4c7b8" | 24+2=26{{efn|name=Elim}}
+| rowspan="9" bgcolor="darkgray" |
+|-
+! scope="row" | Kate & Aljaž
+| 8th
+| 20
+| 27
+| 47
+| 29
+| 20
+| 26
+| {{fontcolor|#800000|''20''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| 23
+| 30
+| bgcolor="f4c7b8" | 30{{efn|name=Elim}}
+| rowspan="8" bgcolor="darkgray" |
+|-
+! scope="row" | Danny & Amy
+| 9th
+| 27
+| 28
+| 55
+| 28
+| 27
+| {{fontcolor|#004600|'''37'''}}{{dagger|alt=This was the highest score of the night.}}
+| 30
+| {{fontcolor|#800000|''22''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''27''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="7" bgcolor="darkgray" |
+|-
+! scope="row" | Dr. Ranj & Janette
+| 10th
+| 27
+| 24
+| 51
+| 20
+| 27
+| 25
+| {{fontcolor|#800000|''20''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| bgcolor="f4c7b8" | 27{{efn|name=Elim}}
+| rowspan="6" bgcolor="darkgray" |
+|-
+! scope="row" | Seann & Katya
+| 11th
+| 18
+| 15
+| 33
+| 30
+| 28
+| bgcolor="lightblue" | 24{{efn|name=Bottom2}}
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''20''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="5" bgcolor="darkgray" |
+|-
+! scope="row" | Vick & Graziano
+| 12th
+| 18
+| 27
+| 45
+| 27
+| 29
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''20''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="4" bgcolor="darkgray" |
+|-
+! scope="row" | Katie & Gorka
+| 13th
+| 17
+| 13
+| 30
+| 22
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''18''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="3" bgcolor="darkgray" |
+|-
+! scope="row" | Lee & Nadiya
+| 14th
+| 22
+| 26
+| bgcolor="lightblue" | 48{{efn|name=Bottom2|This couple was in the bottom two, but was not eliminated.}}
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''19''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="2" bgcolor="darkgray" |
+|-
+! scope="row" | {{nowrap|Susannah & Anton}}
+| 15th
+| {{fontcolor|#800000|''12''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{fontcolor|#800000|''12''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''24''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim|This couple was eliminated.}}
+| bgcolor="darkgray" |
+|}
+;Notes
+{{notelist}}
+
+===Average chart===
+This table only counts for dances scored on a traditional 40-point scale.
+{| class="wikitable sortable" style="text-align:center; font-size:95%"
+|-
+! scope="col" | Couple
+! scope="col" | Rank by<br>average
+! scope="col" | Total<br>points
+! scope="col" | Number of<br>dances
+! scope="col" | Total<br>average
+|-
+! scope="row" | Ashley & Pasha
+| 1st
+| 591
+| rowspan="4" | 16
+| 36.9
+|-
+! scope="row" | Faye & Giovanni
+| 2nd
+| 584
+| 36.5
+|-
+! scope="row" | Stacey & Kevin
+| 3rd
+| 544
+| 34.0
+|-
+! scope="row" | Joe & Dianne
+| 4th
+| 524
+| 32.8
+|-
+! scope="row" | Charles & Karen
+| 5th
+| 327
+| 11
+| 29.7
+|-
+! scope="row" | Danny & Amy
+| 6th
+| 226
+| 8
+| 28.3
+|-
+! scope="row" | Lauren & AJ
+| 7th
+| 347
+| 13
+| 26.7
+|-
+! scope="row" | Graeme & Oti
+| 8th
+| 260
+| 10
+| 26.0
+|-
+! scope="row" | Kate & Aljaž
+| 9th
+| 225
+| 9
+| 25.0
+|-
+! scope="row" | Dr. Ranj & Janette
+| 10th
+| 170
+| 7
+| 24.3
+|-
+! scope="row" | Vick & Graziano
+| 11th
+| 121
+| 5
+| 24.2
+|-
+! scope="row" | Seann & Katya
+| 12th
+| 135
+| 6
+| 22.5
+|-
+! scope="row" | Lee & Nadiya
+| 13th
+| 67
+| 3
+| 22.3
+|-
+! scope="row" | Katie & Gorka
+| 14th
+| 70
+| 4
+| 17.5
+|-
+! scope="row" | Susannah & Anton
+| 15th
+| 24
+| 2
+| 12.0
+|}
+
+==Weekly scores==
+''Unless indicated otherwise, individual judges' scores in the charts below (given in parentheses) are listed in this order from left to right: [[Craig Revel Horwood]], [[Darcey Bussell]], [[Shirley Ballas]], [[Bruno Tonioli]]''.
+
+===Week 1===
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{Cite news|url=https://www.theguardian.com/tv-and-radio/live/2018/sep/22/strictly-come-dancing-2018-week-one-live|title=Strictly Come Dancing 2018: week one – as it happened|last=Stephens|first=Heidi|date=22 September 2018|work=The Guardian|access-date=4 November 2018|issn=0261-3077}}</ref>
+! scope="col" class="unsortable"|Dance<ref name=":0" />
+! scope="col" class="unsortable"|Music<ref name=":0">{{cite web|url=https://www.bbc.co.uk/blogs/strictlycomedancing/entries/18db121f-5e6a-4bf1-925e-84adc6130e03|title=BBC Blogs – Strictly Come Dancing – Revealed! Our couples' Week One songs and dances|publisher=BBC One|date=17 September 2018|access-date=17 September 2018}}</ref>
+|-
+! scope="row" | Danny & Amy
+| 27 (6, 7, 7, 7)
+| Foxtrot
+| "[[Top Cat]] Theme" — [[Hoyt Curtin]]
+|-
+! scope="row" | Kate & Aljaž
+| 20 (4, 6, 4, 6)
+| Cha-cha-cha
+| "[[Kiss (Prince song)|Kiss]]" — [[Art of Noise]], feat. [[Tom Jones (singer)|Tom Jones]]
+|-
+! scope="row" | Lauren & AJ
+| 25 (6, 6, 6, 7)
+| Waltz
+| "[[Kissing You (Des'ree song)|Kissing You]]" — [[Des'ree]]
+|-
+! scope="row" | Seann & Katya
+| 18 (3, 5, 4, 6)
+| Tango
+| "[[SexyBack]]" — [[Justin Timberlake]]
+|-
+! scope="row" | Vick & Graziano
+| 18 (3, 5, 4, 6)
+| Jive
+| "[[Feel It Still]]" — [[Portugal. The Man]]
+|-
+! scope="row" | Susannah & Anton
+| 12 (1, 4, 3, 4) 
+| Samba
+| "[[Tico-Tico no Fubá|Tico Tico]]" — [[Carmen Miranda]]
+|-
+! scope="row" | Charles & Karen
+| 25 (6, 6, 6, 7)
+| Cha-cha-cha
+| "[[Ain't No Love (Ain't No Use)]]" — [[Sub Sub]], feat. [[Melanie Williams]]
+|-
+! scope="row" | Ashley & Pasha
+| 29 (7, 8, 7, 7)
+| Viennese waltz
+| "[[Perfect (Ed Sheeran song)|Perfect]]" — [[Ed Sheeran]], feat. [[Beyoncé]]
+|-
+! scope="row" | Dr. Ranj & Janette
+| 27 (6, 6, 8, 7)
+| Cha-cha-cha
+| "[[How Will I Know]]" — [[Whitney Houston]]
+|-
+! scope="row" | Katie & Gorka
+| 17 (4, 4, 4, 5)
+| Waltz
+| "[[When We Were Young (Adele song)|When We Were Young]]" — [[Adele]]
+|-
+! scope="row" | Graeme & Oti
+| 22 (5, 6, 6, 5)
+| Samba
+| "[[Soul Limbo]]" — [[Booker T. & the M.G.'s]]
+|-
+! scope="row" | Stacey & Kevin
+| 24 (6, 6, 6, 6)
+| Quickstep
+| "[[Dancing (Kylie Minogue song)|Dancing]]" — [[Kylie Minogue]]
+|-
+! scope="row" | Lee & Nadiya
+| 22 (4, 6, 6, 6)
+| Waltz
+| "[[Take It to the Limit (Eagles song)|Take It to the Limit]]" — [[Eagles (band)|Eagles]]
+|-
+! scope="row" | Joe & Dianne
+| 27 (6, 7, 7, 7)
+| Jive
+| "[[Take On Me]]" — [[A-ha]]
+|-
+! scope="row" | Faye & Giovanni
+| 29 (7, 8, 7, 7)
+| Cha-cha-cha
+| "[[Lullaby (Sigala and Paloma Faith song)|Lullaby]]" — [[Sigala]] & [[Paloma Faith]]
+|}
+
+===Week 2===
+Musical guest: [[George Ezra]] — "[[Shotgun (George Ezra song)|Shotgun]]"
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{Cite news|url=https://www.theguardian.com/tv-and-radio/live/2018/sep/29/strictly-come-dancing-2018-week-two-live|title=Strictly Come Dancing 2018: week two – as it happened|last=Stephens|first=Heidi|date=30 September 2018|work=The Guardian|access-date=4 November 2018|issn=0261-3077}}</ref>
+! scope="col" class="unsortable"|Dance<ref name=":1" />
+! scope="col" class="unsortable"|Music<ref name=":1">{{cite web|url=https://www.bbc.co.uk/blogs/strictlycomedancing/entries/ecdfa9bd-b9c3-4344-9e05-b9668db59360|title=BBC Blogs – Strictly Come Dancing – Songs and Dances revealed: Week Two|publisher=BBC One|date=25 September 2018|access-date=29 September 2018}}</ref>
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Stacey & Kevin
+| 20 (4, 5, 5, 6)
+| Cha-cha-cha
+| "[[Came Here for Love]]" — [[Sigala]] & [[Ella Eyre]]
+| Safe
+|-
+! scope="row" | Charles & Karen
+| 25 (5, 6, 7, 7)
+| Quickstep
+| "[[Sir Duke]]" — [[Stevie Wonder]]
+| Safe
+|-
+! scope="row" | Katie & Gorka
+| 13 (2, 4, 3, 4)
+| Paso doble
+| "[[Confident (Demi Lovato song)|Confident]]" — [[Demi Lovato]]
+| Safe
+|-
+! scope="row" | Graeme & Oti
+| 15 (3, 5, 3, 4)
+| American Smooth
+| "[[Try a Little Tenderness]]" — [[Otis Redding]]
+| Safe
+|-
+! scope="row" | Kate & Aljaž
+| 27 (6, 7, 7, 7)
+| Tango
+| "[[No Roots (song)|No Roots]]" — [[Alice Merton]]
+| Safe
+|- 
+! scope="row" | Joe & Dianne
+| 31 (7, 8, 8, 8)
+| Charleston
+| "[[Cotton Eye Joe (Rednex song)|Cotton Eye Joe]]" — [[Rednex]]
+| Safe
+|-
+! scope="row" | Susannah & Anton
+| 12 (1, 4, 4, 3)
+| Foxtrot
+| "[[They Can't Take That Away from Me]]" — [[Frank Sinatra]] & [[Natalie Cole]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Lee & Nadiya
+| 26 (6, 7, 6, 7)
+| Jive
+| "[[Blue Suede Shoes]]" — [[Elvis Presley]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Danny & Amy
+| 28 (7, 7, 7, 7)
+| Cha-cha-cha
+| "[[Beggin']]" — [[Madcon]]
+| Safe
+|-
+! scope="row" | Vick & Graziano
+| 27 (7, 7, 6, 7)
+| Waltz
+| "[[Somewhere (song)|Somewhere]]" — from ''[[West Side Story]]''
+| Safe
+|-
+! scope="row" | Dr. Ranj & Janette
+| 24 (5, 6, 7, 6)
+| Salsa
+| "[[Fireball (Pitbull song)|Fireball]]" — [[Pitbull (rapper)|Pitbull]], feat. [[John Ryan (musician)|John Ryan]]
+| Safe
+|-
+! scope="row" | Faye & Giovanni
+| 31 (8, 8, 7, 8)
+| Viennese waltz
+| "[[It's a Man's Man's Man's World]]" — [[Seal (musician)|Seal]]
+| Safe
+|-
+! scope="row" | Lauren & AJ
+| 22 (5, 6, 5, 6)
+| Charleston
+| "[[New Rules]]" — [[Postmodern Jukebox]]
+| Safe
+|-
+! scope="row" | Seann & Katya
+| 15 (2, 4, 4, 5)
+| Jive
+| "[[I'm Still Standing]]" — [[Elton John]]
+| Safe
+|-
+! scope="row" | Ashley & Pasha
+| {{nowrap|32 (8, 8, 7, 9)}}
+| Cha-cha-cha
+| "[[Boogie Wonderland]]" — [[Earth, Wind & Fire]] with [[The Emotions]]
+| Safe
+|}
+;Judges' votes to save
+*Revel Horwood: Lee & Nadiya
+*Bussell: Lee & Nadiya
+*Tonioli: Lee & Nadiya
+*Ballas: ''Did not vote, but would have voted to save Lee & Nadiya''
+
+===Week 3: Movie Week===
+Musical guest: [[Gladys Knight]] — "[[Licence to Kill (Gladys Knight song)|Licence to Kill]]"
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{Cite news|url=https://www.theguardian.com/tv-and-radio/live/2018/oct/06/strictly-come-dancing-2018-week-three-as-it-happens|title=Strictly Come Dancing 2018: week three results – as it happened|last=Stephens|first=Heidi|date=7 October 2018|work=The Guardian|access-date=4 November 2018|issn=0261-3077}}</ref>
+! scope="col" class="unsortable"|Dance<ref name=":2" />
+! scope="col" class="unsortable"|Music<ref name=":2">{{cite web|url=https://www.bbc.co.uk/blogs/strictlycomedancing/entries/87d0fb68-f420-4e67-ac8d-f52d96cfb6e1|title=BBC Blogs – Strictly Come Dancing – Movie Week: Songs and Dances Revealed|publisher=BBC One|date=2 October 2018|access-date=6 October 2018}}</ref>
+! scope="col" class="unsortable"|Film
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Vick & Graziano
+| 27 (6, 7, 7, 7)
+| Salsa
+| "[[Take a Chance on Me]]" 
+| ''[[Mamma Mia! (film)|Mamma Mia!]]''
+| Safe
+|-
+! scope="row" | Dr. Ranj & Janette
+| 20 (4, 5, 5, 6)
+| Quickstep
+| "[[Prince Ali (song)|Prince Ali]]"
+| ''[[Aladdin (1992 Disney film)|Aladdin]]''
+| Safe
+|-
+! scope="row" | Lee & Nadiya
+| 19 (3, 5, 5, 6)
+| Cha-cha-cha
+| "[[The Power of Love (Huey Lewis and the News song)|The Power of Love]]"
+|''[[Back to the Future]]''
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Kate & Aljaž
+| 29 (6, 7, 8, 8)
+| Foxtrot
+| "[[Why Don't You Do Right?]]" 
+| ''[[Who Framed Roger Rabbit]]''
+| Safe
+|-
+! scope="row" | Stacey & Kevin
+| 32 (8, 8, 8, 8)
+| Jive
+| "[[Happy (Pharrell Williams song)|Happy]]"
+| ''[[Despicable Me 2]]''
+| Safe
+|-
+! scope="row" | Joe & Dianne
+| 26 (6, 7, 6, 7)
+| American Smooth
+| "[[Breaking Free]]"
+| ''[[High School Musical]]''
+| Safe
+|-
+! scope="row" | Graeme & Oti
+| 31 (7, 8, 8, 8)
+| Charleston
+| "[[Spider-Man (theme song)|Spider-Man Theme]]"
+| ''[[Spider-Man (2002 film)|Spider-Man]]''
+| Safe
+|-
+! scope="row" | Ashley & Pasha
+| 35 (8, 9, 9, 9)
+| Salsa
+| "[[(I've Had) The Time of My Life]]"
+| ''[[Dirty Dancing]]''
+| Safe
+|-
+! scope="row" | Katie & Gorka
+| 22 (5, 5, 6, 6)
+| Foxtrot
+| "[[City of Stars]]"
+| ''[[La La Land (film)|La La Land]]''
+| Safe
+|-
+! scope="row" | Seann & Katya
+| 30 (7, 7, 8, 8)
+| Paso doble
+| "[[Clubbed to Death (instrumental)|Clubbed to Death]]"
+| ''[[The Matrix]]''
+| Safe
+|-
+! scope="row" | Lauren & AJ
+| 20 (4, 5, 5, 6)
+| Cha-cha-cha
+| "[[Fame (Irene Cara song)|Fame]]"
+| ''[[Fame (1980 film)|Fame]]''
+| Safe
+|-
+! scope="row" | Charles & Karen
+| 25 (6, 6, 6, 7)
+| American Smooth
+| "[[Up Where We Belong]]"
+| ''[[An Officer and a Gentleman]]''
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Faye & Giovanni
+| 36 (9, 9, 9, 9)
+| Quickstep
+| "[[You're the One That I Want]]" 
+| ''[[Grease (film)|Grease]]''
+| Safe
+|-
+! scope="row" | Danny & Amy
+| 28 (6, 7, 7, 8)
+| Paso doble
+| "The Greatest Show"
+|''[[The Greatest Showman]]''
+| Safe
+|}
+;Judges' votes to save
+*Revel Horwood: Charles & Karen
+*Bussell: Charles & Karen
+*Tonioli: Charles & Karen
+*Ballas: ''Did not vote, but would have voted to save Lee & Nadiya''<ref>{{cite news |last1=Stephens |first1=Heidi |title=Strictly Come Dancing 2018: week three results – as it happened |url=https://www.theguardian.com/tv-and-radio/live/2018/oct/06/strictly-come-dancing-2018-week-three-as-it-happens?page=with:block-5bba5e32e4b01b0f3aba319c#block-5bba5e32e4b01b0f3aba319c |work=The Guardian |date=7 October 2018}}</ref>
+
+===Week 4===
+Musical guests: [[Backstreet Boys]] — "[[Larger than Life (Backstreet Boys song)|Larger than Life]]", "[[I Want It That Way]]" & "[[Everybody (Backstreet's Back)]]"
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance<ref name=":3" />
+! scope="col" class="unsortable"|Music<ref name=":3">{{cite web|url=https://www.bbc.co.uk/blogs/strictlycomedancing/entries/7f04b622-354d-455b-aedb-439022ff0771|title=BBC Blogs – Strictly Come Dancing – Songs and Dances Revealed: Week Four|publisher=BBC One|date=9 October 2018|access-date=13 October 2018}}</ref>
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Joe & Dianne
+| 26 (5, 7, 7, 7)
+| Cha-cha-cha
+| "[[Just Got Paid (Sigala, Ella Eyre and Meghan Trainor song)|Just Got Paid]]" — [[Sigala]], [[Ella Eyre]] & [[Meghan Trainor]], feat. [[French Montana]]
+| Safe
+|-
+! scope="row" | Vick & Graziano
+| 29 (7, 7, 7, 8)
+| Quickstep
+| "[[You Can't Hurry Love]]" — [[The Supremes]]
+| Safe
+|-
+! scope="row" | Danny & Amy
+| 27 (6, 7, 7, 7)
+| Viennese waltz
+| "[[I've Gotta Be Me]]" — [[Sammy Davis Jr.]]
+| Safe
+|-
+! scope="row" | Faye & Giovanni
+| 29 (7, 7, 7, 8)
+| Rumba
+| "[[Chandelier (song)|Chandelier]]" — [[Sia (musician)|Sia]]
+| Safe
+|-
+! scope="row" | Katie & Gorka
+| 18 (3, 5, 5, 5)
+| Jive
+| "[[Why Do Fools Fall in Love (song)|Why Do Fools Fall in Love]]" — [[Frankie Lymon]] & [[The Teenagers]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Charles & Karen
+| 25 (6, 6, 6, 7)
+| Salsa
+| "[[Use It Up and Wear It Out]]" — [[Odyssey (band)|Odyssey]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Lauren & AJ
+| 25 (6, 6, 6, 7)
+| Quickstep
+| "[[If You're Over Me]]" — [[Years & Years]]
+| Safe
+|-
+! scope="row" | Dr. Ranj & Janette
+| 27 (6, 7, 7, 7)
+| Paso doble
+| "[[Desperado: The Soundtrack|Canción del Mariachi]]" — [[Los Lobos]]
+| Safe
+|-
+! scope="row" | Kate & Aljaž
+| 20 (4, 5, 5, 6)
+| Samba
+| "[[Africa (song)|Africa]]" — [[Toto (band)|Toto]]
+| Safe
+|-
+! scope="row" | Graeme & Oti
+| 26 (5, 7, 7, 7)
+| Jive
+| "[[Don't Stop Me Now]]" — [[Queen (band)|Queen]]
+| Safe
+|-
+! scope="row" | Ashley & Pasha
+| 32 (8, 8, 8, 8)
+| Tango
+| "[[Look What You Made Me Do]]" — [[Taylor Swift]]
+| Safe
+|-
+! scope="row" | Seann & Katya
+| 28 (6, 7, 8, 7)
+| Charleston
+| "[[Bills (song)|Bills]]" — [[LunchMoney Lewis]]
+| Safe
+|-
+! scope="row" | Stacey & Kevin
+| {{nowrap|33 (8, 8, 8, 9)}}
+| Foxtrot
+| "[[Hi Ho Silver Lining]]" — [[Jeff Beck]]
+| Safe
+|}
+;Judges' votes to save
+*Revel Horwood: Charles & Karen
+*Bussell: Charles & Karen
+*Tonioli: Charles & Karen 
+*Ballas: ''Did not vote, but would have voted to save Charles & Karen''
+
+===Week 5===
+''Individual judges' scores in the chart below (given in parentheses) are listed in this order from left to right: [[Craig Revel Horwood]], [[Darcey Bussell]], [[Shirley Ballas]], [[Alfonso Ribeiro]]''.
+
+Musical guest: [[Paloma Faith]] — "Loyal"
+
+Actor [[Alfonso Ribeiro]] filled in as a guest judge while [[Bruno Tonioli]] was unavailable while filming for [[Dancing with the Stars (American TV series)|''Dancing with the Stars'']].<ref>{{Cite web |last=Harrison |first=Ellie |date=21 October 2018 |title=Bruno Tonioli is taking a break from Strictly this weekend – here's why |url=https://www.radiotimes.com/tv/entertainment/talent-shows/strictly-come-dancing-where-is-bruno-tonioli/ |access-date=20 August 2023 |website=Radio Times |language=en-GB}}</ref>
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{Cite news|url=https://www.theguardian.com/tv-and-radio/live/2018/oct/20/strictly-come-dancing-2018-week-five-seann-walsh-katya-jones-perform-as-it-happens|title=Strictly Come Dancing 2018: week five – as it happened|last=Stephens|first=Heidi|date=21 October 2018|work=The Guardian|access-date=4 November 2018|issn=0261-3077}}</ref>
+! scope="col" class="unsortable"|Dance<ref name=":4" />
+! scope="col" class="unsortable"|Music<ref name=":4">{{cite web|url=https://www.bbc.co.uk/blogs/strictlycomedancing/entries/cc3a0fca-20ae-45f8-8580-85e3e33d5c5b|title=BBC Blogs – Strictly Come Dancing – Songs and Dances Revealed: Week Five|publisher=BBC One|date=16 October 2018|access-date=20 October 2018}}</ref>
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Dr. Ranj & Janette
+| 25 (5, 6, 7, 7)
+| American Smooth
+| "[[Wouldn't It Be Nice]]" — [[The Beach Boys]]
+| Safe
+|-
+! scope="row" | Lauren & AJ
+| 24 (4, 6, 7, 7)
+| Contemporary
+| "[[Runnin' (Lose It All)]]" — [[Naughty Boy]], feat. [[Beyoncé]] & [[Arrow Benjamin]]
+| Safe
+|-
+! scope="row" | Graeme & Oti
+| 29 (6, 7, 8, 8)
+| Tango
+| "[[Roxanne (The Police song)|Roxanne]]" — [[The Police]]
+| Safe
+|-
+! scope="row" | Ashley & Pasha
+| 36 (9, 9, 9, 9)
+| Rumba
+| "[[Something About the Way You Look Tonight]]" — [[Elton John]]
+| Safe
+|-
+! scope="row" | Seann & Katya
+| 24 (5, 6, 6, 7)
+| Quickstep
+| "[[Lightning Bolt (song)|Lightning Bolt]]" — [[Jake Bugg]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Stacey & Kevin
+| 33 (8, 7, 9, 9)
+| Samba
+| "[[Tequila (Champs song)|Tequila]]" — [[David Hirschfelder]] & The Bogo Pogo Orchestra
+| Safe
+|- 
+! scope="row" | Joe & Dianne
+| 29 (6, 7, 8, 8)
+| Waltz
+| "[[Rainbow Connection]]" — [[Sleeping at Last]]
+| Safe
+|-
+! scope="row" | Vick & Graziano
+| 20 (4, 6, 4, 6)
+| Cha-cha-cha
+| "[[More than Friends (James Hype song)|More than Friends]]" — [[James Hype]], feat. [[Kelli-Leigh]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Kate & Aljaž
+| 26 (6, 6, 6, 8)
+| Viennese waltz
+| "Finally Mine" — [[Juliet Roberts]]
+| Safe
+|-
+! scope="row" | Danny & Amy
+| {{nowrap|37 (9, 10, 9, 9)}}
+| Jive
+| "[[Flip, Flop and Fly]]" — [[Ellis Hall (musician)|Ellis Hall]]
+| Safe
+|-
+! scope="row" | Faye & Giovanni
+| 33 (8, 9, 8, 8)
+| Foxtrot
+| "[[Just the Way You Are (Bruno Mars song)|Just the Way You Are]]" — [[Bruno Mars]]
+| Safe
+|-
+! scope="row" | Charles & Karen
+| 36 (9, 9, 9, 9)
+| Street/Commercial
+| "[[Get Up Offa That Thing]]" — [[James Brown]]
+| Safe
+|}
+;Judges' votes to save
+*Revel Horwood: Vick & Graziano
+*Bussell: Seann & Katya
+*Ribeiro: Seann & Katya
+*Ballas: Seann & Katya
+
+===Week 6: Halloween Week===
+Musical guest: [[Rita Ora]] — "[[Let You Love Me]]"
+
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{Cite news|url=https://www.theguardian.com/tv-and-radio/live/2018/oct/27/strictly-come-dancing-week-six-halloween-special-as-it-happens|title=Strictly Come Dancing week six: Seann and Katya leave the dancefloor – as it happened|last=Stephens|first=Heidi|date=28 October 2018|work=The Guardian|access-date=4 November 2018|issn=0261-3077}}</ref>
+! scope="col" class="unsortable"|Dance<ref name=":5" />
+! scope="col" class="unsortable"|Music<ref name=":5">{{cite web|url=https://www.bbc.co.uk/blogs/strictlycomedancing/entries/4d8dd4bb-90ea-481a-b5c7-5e8dc13c10d1|title=BBC Blogs – Strictly Come Dancing – Songs and Dances Revealed: Halloween Week|publisher=BBC One|date=23 October 2018|access-date=27 October 2018}}</ref>
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Graeme & Oti
+| 21 (4, 5, 6, 6)
+| Cha-cha-cha
+| "[[Thriller (song)|Thriller]]" — [[Michael Jackson]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Stacey & Kevin
+| 35 (8, 9, 9, 9)
+| Tango
+| "[[Doctor Who theme music|''Doctor Who'' Theme]]" — [[Ron Grainer]]
+| Safe
+|-
+! scope="row" | Dr. Ranj & Janette
+| 20 (5, 5, 5, 5)
+| Jive
+| "[[Monster Mash]]" — [[Bobby Pickett|Bobby "Boris" Pickett]] 
+| Safe
+|-
+! scope="row" | Kate & Aljaž
+| 20 (4, 6, 5, 5)
+| Rumba
+| "[[Skin (Rag'n'Bone Man song)|Skin]]" — [[Rag'n'Bone Man]]
+| Safe
+|-
+! scope="row" | Danny & Amy
+| 30 (6, 8, 7, 9)
+| American Smooth
+| "[[Spirit in the Sky]]" — [[Doctor and the Medics]]
+| Safe
+|- 
+! scope="row" | Ashley & Pasha
+| 39 (9, 10, 10, 10)
+| Charleston
+| "[[Witch Doctor (song)|Witch Doctor]]" — [[Don Lang (musician)|Don Lang]]
+| Safe
+|-
+! scope="row" | Seann & Katya
+| 20 (3, 5, 6, 6)
+| Viennese waltz
+| "[[I Put a Spell on You]]" — [[Screamin' Jay Hawkins]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Charles & Karen
+| 25 (6, 6, 6, 7)
+| Jive
+| "[[Time Warp (song)|Time Warp]]" — from ''[[The Rocky Horror Picture Show]]''
+| Safe
+|-
+! scope="row" | Faye & Giovanni
+| 39 (9, 10, 10, 10)
+| Theatre/Jazz
+| "[[Fever (Little Willie John song)|Fever]]" — [[Peggy Lee]]
+| Safe
+|-
+! scope="row" | Joe & Dianne
+| 35 (8, 9, 9, 9)
+| Foxtrot
+| "[[Youngblood (5 Seconds of Summer song)|Youngblood]]" — [[5 Seconds of Summer]]
+| Safe
+|-
+! scope="row" | Lauren & AJ
+| 29 (6, 7, 8, 8)
+| Paso doble
+| "[[Poison (Nicole Scherzinger song)|Poison]]" — [[Nicole Scherzinger]]
+| Safe
+|}
+;Judges' votes to save
+*Revel Horwood: Graeme & Oti
+*Bussell: Graeme & Oti
+*Tonioli: Graeme & Oti
+*Ballas: ''Did not vote, but would have voted to save Graeme & Oti''
+
+===Week 7===
+Musical guests:<ref>{{cite web|url=https://www.officialcharts.com/chart-news/strictly-come-dancing-2018-music-guest-performers-announced__24103/|title=Strictly Come Dancing 2018: Music guest performers announced|publisher=[[Official Charts Company]]|date=22 October 2018|access-date=30 October 2018}}</ref>
+*The Kingdom Choir — [[Aretha Franklin]] medley
+*[[Jess Glynne]] — "Thursday"
+
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{Cite news|url=https://www.theguardian.com/tv-and-radio/live/2018/nov/03/strictly-come-dancing-2018-week-seven-live|title=Strictly Come Dancing 2018: week seven – as it happened|last=Stephens|first=Heidi|date=3 November 2018|work=The Guardian|access-date=4 November 2018|issn=0261-3077}}</ref>
+! scope="col" class="unsortable"|Dance<ref name=":6" />
+! scope="col" class="unsortable"|Music<ref name=":6">{{cite web|url=https://www.bbc.co.uk/blogs/strictlycomedancing/entries/6f85603f-16f1-4266-9be4-9d4c46c2f865|title=BBC Blogs – Strictly Come Dancing – Songs and Dances Revealed: Week Seven|publisher=BBC One|date=30 October 2018|access-date=3 November 2018}}</ref>
+! scope="col" class="unsortable"|Result 
+|-
+! scope="row" | Lauren & AJ
+| 31 (7, 8, 8, 8)
+| Jive 
+| "[[Girlfriend (Avril Lavigne song)|Girlfriend]]" — [[Avril Lavigne]]
+| Safe
+|-
+! scope="row" | Graeme & Oti
+| 29 (6, 7, 8, 8)
+| Waltz
+| "[[The Last Waltz (song)|The Last Waltz]]" — [[Engelbert Humperdinck (singer)|Engelbert Humperdinck]]
+| Safe
+|-
+! scope="row" | Kate & Aljaž
+| 23 (4, 6, 6, 7)
+| Argentine tango 
+| "Assassin's Tango" — [[John Powell (film composer)|John Powell]]
+| Safe
+|-
+! scope="row" | Dr. Ranj & Janette 
+| 27 (6, 7, 7, 7)
+| Samba 
+| "[[Freedom! '90]]" — [[George Michael]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Stacey & Kevin
+| 36 (9, 9, 9, 9)
+| Street/Commercial
+| "[[Empire State of Mind (Part II) Broken Down]]" — [[Alicia Keys]]
+| Safe
+|-
+! scope="row" | Danny & Amy
+| 22 (4, 6, 5, 7)
+| Quickstep
+| "[[Freedom (Pharrell Williams song)|Freedom]]" — [[Pharrell Williams]]
+| Safe
+|-
+! scope="row" | Ashley & Pasha
+| 39 (9, 10, 10, 10)
+| Foxtrot
+| "[[Orange Colored Sky]]" — [[Natalie Cole]]
+| Safe
+|-
+! scope="row" | Faye & Giovanni
+| 38 (9, 10, 9, 10)
+| Tango
+| "[[Call Me (Blondie song)|Call Me]]" — [[Blondie (band)|Blondie]]
+| Safe
+|-
+! scope="row" | Charles & Karen
+| 28 (6, 7, 7, 8)
+| Viennese waltz
+| "[[Piano Man (song)|Piano Man]]" — [[Billy Joel]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Joe & Dianne
+| 34 (7, 9, 9, 9)
+| Paso doble
+| "[[Pompeii (song)|Pompeii]]" — [[Bastille (band)|Bastille]]
+| Safe
+|}
+;Judges' votes to save
+*Revel Horwood: Dr. Ranj & Janette
+*Bussell: Charles & Karen
+*Tonioli: Charles & Karen
+*Ballas: Charles & Karen
+
+===Week 8===
+Musical guests:<ref>{{cite web |date=5 November 2018 |title=Strictly Come Dancing 2018: Music guest performers announced |url=https://www.officialcharts.com/chart-news/strictly-come-dancing-2018-music-guest-performers-announced__24103/ |access-date=6 November 2018 |publisher=[[Official Charts Company]]}}</ref><ref>{{cite web |last=Hogan |first=Michael |date=11 November 2018 |title=Strictly Come Dancing 2018, week 8 results: Danny John-Jules eliminated in wake of bullying allegations |url=https://www.telegraph.co.uk/tv/2018/11/11/strictly-come-dancing-2018-week-8-results-will-danny-john-jules/ |access-date=11 November 2018 |work=The Daily Telegraph}}</ref>
+*RAF Spitfires Choir — "[[Cheers to the Fall|Rise Up]]"
+*[[Andrea Bocelli|Andrea]] & [[Matteo Bocelli]]— "[[Sì (Andrea Bocelli album)|Fall on Me]]"
+
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{Cite news|url=https://www.theguardian.com/tv-and-radio/live/2018/nov/03/strictly-come-dancing-2018-week-seven-live|title=Strictly Come Dancing 2018: week eight – as it happened|last=Stephens|first=Heidi|date=10 November 2018|work=The Guardian|access-date=11 November 2018|issn=0261-3077}}</ref>
+! scope="col" class="unsortable"|Dance<ref name=":7" />
+! scope="col" class="unsortable"|Music<ref name=":7">{{cite web|url=https://www.bbc.co.uk/blogs/strictlycomedancing/entries/adc55099-9e04-4251-b1d8-f0b8155f619a|title=BBC Blogs – Strictly Come Dancing – Songs and Dances Revealed: Week Eight|publisher=BBC One|date=6 November 2018|access-date=10 November 2018}}</ref>
+! scope="col" class="unsortable"|Result 
+|-
+! scope="row" | Kate & Aljaž
+| 30 (7, 7, 8, 8)
+| Quickstep
+| "[[I Want You to Want Me]]" — [[Letters to Cleo]]
+| Safe
+|-
+! scope="row" | Danny & Amy
+| 27 (6, 7, 7, 7)
+| Samba
+| "[[Feels Like Home (Sigala, Fuse ODG and Sean Paul song)|Feels Like Home]]" — [[Sigala]], feat. [[Fuse ODG]], [[Sean Paul]] & [[Kent Jones (rapper)|Kent Jones]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Ashley & Pasha
+| {{nowrap|39 (9, 10, 10, 10)}}
+| Contemporary
+| "[[Unsteady (song)|Unsteady]]" — [[X Ambassadors]]
+| Safe
+|-
+! scope="row" | Graeme & Oti
+| 31 (7, 8, 8, 8)
+| Salsa
+| "Follow the Leader" — [[:nl:The Soca Boys|The Soca Boys]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Faye & Giovanni
+| 36 (9, 9, 8, 10)
+| Jive
+| "[[Reet Petite]]" — [[Jackie Wilson]]
+| Safe
+|-
+! scope="row" | Stacey & Kevin
+| 32 (8, 8, 8, 8)
+| Waltz
+| "[[Moon River]]" — [[Audrey Hepburn]]
+| Safe
+|-
+! scope="row" | Joe & Dianne
+| 32 (7, 8, 8, 9)
+| Samba
+| "[[MMMBop]]" — [[Hanson (band)|Hanson]]
+| Safe
+|-
+! scope="row" | Lauren & AJ
+| 34 (8, 8, 9, 9)
+| Viennese waltz
+| "[[You Are the Reason (Calum Scott song)|You Are the Reason]]" — [[Calum Scott]], feat. [[Leona Lewis]]
+| Safe
+|-
+! scope="row" | Charles & Karen
+| 35 (8, 9, 9, 9)
+| Charleston
+| "[[No Diggity]]" — Minimatic
+| Safe
+|}
+;Judges' votes to save
+*Revel Horwood: Danny & Amy
+*Bussell: Graeme & Oti
+*Tonioli: Graeme & Oti
+*Ballas: Graeme & Oti
+
+===Week 9: Blackpool Week===
+Musical guests:<ref>{{cite web |date=17 November 2018 |title=Gloria Estefan and the Strictly pro dancers – BBC Strictly 2018 |url=https://www.youtube.com/watch?v=MA7dSBUkJoY |access-date=19 November 2018 |via=YouTube}}</ref><ref>{{cite web |last=Earp |first=Catherine |date=19 November 2018 |title=Take That fans 'barely recognised' Mark Owen after he shows off new look during Strictly Come Dancing performance |url=http://www.digitalspy.com/tv/strictly-come-dancing/news/a870904/take-that-fans-barely-recognised-mark-owen-after-he-shows-off-new-look-during-strictly-come-dancing-performance/ |access-date=19 November 2018 |work=[[Digital Spy]]}}</ref><ref>{{cite web |last=White |first=Jack |date=12 November 2018 |title=Strictly Come Dancing 2018: Music guest performers announced |url=https://www.officialcharts.com/chart-news/strictly-come-dancing-2018-music-guest-performers-announced__24103/ |access-date=12 November 2018 |publisher=[[Official Charts Company]]}}</ref>
+*[[Gloria Estefan]] — "[[Dr. Beat]]", "[[Conga (song)|Conga]]", "[[Rhythm Is Gonna Get You]]", "[[1-2-3 (Gloria Estefan and Miami Sound Machine song)|1–2–3]]" & "[[Get on Your Feet]]"
+*[[Take That]] — "Out of Our Heads"
+
+This week's episode was staged in the [[Blackpool Tower#Tower Ballroom|Tower Ballroom]] at the [[Blackpool Tower]] in [[Blackpool, Lancashire]]. Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{Cite news|url=https://www.theguardian.com/tv-and-radio/live/2018/nov/03/strictly-come-dancing-2018-week-seven-live|title=Strictly Come Dancing 2018: week nine – as it happened|last=Stephens|first=Heidi|date=10 November 2018|work=The Guardian|access-date=11 November 2018|issn=0261-3077}}</ref>
+! scope="col" class="unsortable"|Dance<ref name=":8" />
+! scope="col" class="unsortable"|Music<ref name=":8">{{cite web|url=https://www.bbc.co.uk/blogs/strictlycomedancing/entries/9688c484-fe7e-4c6e-a402-5fb63c080bb6|title=BBC Blogs – Strictly Come Dancing – Songs and Dances Revealed: Week Eight|publisher=BBC One|date=13 November 2018|access-date=17 November 2018}}</ref>
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Stacey & Kevin
+| 33 (7, 8, 9, 9)
+| Salsa
+| "[[Ooh Aah... Just a Little Bit]]" — [[Gina G]]
+| Safe
+|-
+! scope="row" | Lauren & AJ
+| 25 (5, 6, 7, 7)
+| Argentine tango
+| "[[River (Bishop Briggs song)|River]]" — [[Bishop Briggs]]
+| Safe
+|-
+! scope="row" | Graeme & Oti
+| 32 (7, 8, 8, 9)
+| Theatre/Jazz
+| "[[The Trolley Song]]" — from ''[[Meet Me in St. Louis]]''
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Faye & Giovanni
+| 38 (9, 9, 10, 10)
+| Paso doble
+| "Unstoppable" — [[E.S. Posthumus]]
+| Safe
+|-
+! scope="row" | Kate & Aljaž
+| 30 (7, 7, 8, 8)
+| American Smooth
+| "[[Everlasting Love]]" — [[Love Affair (band)|Love Affair]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Charles & Karen
+| 38 (9, 9, 10, 10)
+| Samba
+| "[[La Bamba (song)|La Bamba]]" — [[Connie Francis]]
+| Safe
+|-
+! scope="row" | Joe & Dianne
+| 38 (8, 10, 10, 10)
+| Quickstep
+| "Dancin' Fool" — from ''[[Copacabana (musical)|Copacabana]]''
+| Safe
+|-
+! scope="row" | Ashley & Pasha
+| 40 (10, 10, 10, 10)
+| Jive
+| "[[Shake a Tail Feather]]" — from ''[[The Blues Brothers (film)|The Blues Brothers]]''
+| Safe
+|}
+
+;Judges' votes to save
+*Revel Horwood: Graeme & Oti
+*Bussell: Graeme & Oti
+*Tonioli: Graeme & Oti
+*Ballas: ''Did not vote, but would have voted to save Graeme & Oti''
+
+===Week 10===
+Musical guest: [[Rod Stewart]] — [[Blood Red Roses|"Farewell"]]<ref>{{cite web|url=https://www.express.co.uk/life-style/life/1050072/Rod-Stewart-net-worth-strictly-come-dancing|title=Rod Stewart net worth: Singer appearing on Strictly Come Dancing has MILLIONS in the bank|work=[[Daily Express]]|last=Hodgkin|first=Emily|date=25 November 2018|access-date=26 November 2018}}</ref>
+
+Each couple performed one routine and then all couples participated in a [[Lindy Hop]] marathon for additional points. Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=http://www.ultimatestrictly.com/series-16-week-10/|title=Series 16 – Week 10|website=Ultimate Strictly|access-date=24 November 2018}}</ref>
+! scope="col" class="unsortable"|Dance<ref name=":9"/>
+! scope="col" class="unsortable"|Music<ref name=":9">{{cite web|url=https://www.bbc.co.uk/blogs/strictlycomedancing/entries/b059f06e-d4fd-4970-9f0c-e824c4baea9d|title=BBC Blogs – Strictly Come Dancing – Songs and Dances revealed: Week 10|publisher=BBC One|date=20 November 2018|access-date=24 November 2018}}</ref>
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Graeme & Oti
+| 24 (6, 6, 6, 6)
+| Quickstep
+| "[[Sing, Sing, Sing (With a Swing)]]" — [[The Andrews Sisters]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Ashley & Pasha
+| 36 (8, 9, 9, 10)
+| Samba
+| "[[Hot Hot Hot (Arrow song)|Hot Hot Hot]]" — [[Arrow (musician)|Arrow]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Faye & Giovanni
+| 39 (9, 10, 10, 10)
+| Waltz
+| "[[See the Day]]" — [[Dee C Lee]]
+| Safe
+|-
+! scope="row" | Joe & Dianne
+| 35 (7, 8, 10, 10)
+| Street/Commercial
+| "[[Jump Around]]" — [[House of Pain]]
+| Safe
+|-
+! scope="row" | Charles & Karen
+| 30 (6, 8, 8, 8)
+| Tango
+| "[[Eleanor Rigby]]" — [[Big Country]]
+| Safe
+|-
+! scope="row" | Lauren & AJ
+| 23 (5, 6, 6, 6)
+| Salsa
+| "[[Familiar (song)|Familiar]]" — [[Liam Payne]] & [[J Balvin]]
+| Safe
+|-
+! scope="row" | Stacey & Kevin
+| 39 (9, 10, 10, 10)
+| Paso doble
+| "[[Malagueña (song)|Malagueña]]" — [[Brian Setzer]]
+| Safe
+|-
+! scope="row" | Lauren & AJ
+| 1
+| rowspan="7" | Lindy Hop-a-thon<br>''(Lindy Hop Marathon)''
+| colspan="2" rowspan="7" | "[[Do Your Thing (Basement Jaxx song)|Do Your Thing]]" — [[Basement Jaxx]]
+|-
+! scope="row" | Graeme & Oti
+| 2
+|-
+! scope="row" | Charles & Karen
+| 3
+|-
+! scope="row" | Stacey & Kevin
+| 4
+|-
+! scope="row" | Joe & Dianne
+| 5
+|-
+! scope="row" | Faye & Giovanni
+| 6
+|-
+! scope="row" | Ashley & Pasha
+| 7
+|}
+;Judges' votes to save
+*Revel Horwood: Ashley & Pasha
+*Bussell: Ashley & Pasha
+*Tonioli: Ashley & Pasha
+*Ballas: ''Did not vote, but would have voted to save Ashley & Pasha''
+
+===Week 11: Musicals Week (Quarter-final)===
+Musical guests:<ref>{{cite web |date=3 December 2018 |title=Strictly pro-dancers perform to Rhythm of Life from Sweet Charity – BBC Strictly 2018 |url=https://www.youtube.com/watch?v=eIXW3OYcbf8 |via=YouTube}}</ref><ref>{{cite web |title=Strictly Come Dancing – The Results |url=https://www.bbc.co.uk/mediacentre/proginfo/2018/49/strictly-come-dancing-the-results |access-date=26 November 2018 |publisher=[[BBC]] Media Centre}}</ref>
+*Trevor Dion Nicholas — "[[Sweet Charity|The Rhythm of Life]]" ''(from [[Sweet Charity]])''
+*[[Adam Lambert]] — "[[We Are the Champions]]" ''(from [[We Will Rock You (musical)|We Will Rock You]])''
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=http://www.ultimatestrictly.com/series-16-week-11/|title=Series 16 – Week 11|website=Ultimate Strictly|archiveurl=https://web.archive.org/web/20181215171721/http://www.ultimatestrictly.com/series-16-week-11/|archivedate=15 December 2018|access-date=8 September 2025}}</ref>
+! scope="col" class="unsortable"|Dance<ref name=":10"/>
+! scope="col" class="unsortable"|Music<ref name=":10">{{cite web|url=https://www.bbc.co.uk/blogs/strictlycomedancing/entries/2c5a7e39-f1cc-4ff8-9815-54a2c8dc07e8|title=BBC Blogs – Strictly Come Dancing – Songs and Dances revealed: Musicals Week!|publisher=BBC One|date=27 November 2018|access-date=1 December 2018}}</ref>
+! scope="col" class="unsortable"|Musical
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Lauren & AJ
+| 35 (8, 9, 9, 9)
+| American Smooth
+| "[[I'm in Love with a Wonderful Guy]]"
+| ''[[South Pacific (musical)|South Pacific]]''
+| Safe
+|-
+! scope="row" | Faye & Giovanni
+| {{nowrap|40 (10, 10, 10, 10)}}
+| Charleston
+| "[[The Lonely Goatherd]]"
+|''[[The Sound of Music]]''
+| Safe
+|-
+! scope="row" | Charles & Karen
+| 35 (8, 9, 9, 9)
+| Rumba
+| "[[Maria (West Side Story song)|Maria]]"
+| ''[[West Side Story]]''
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Ashley & Pasha
+| 38 (9, 10, 9, 10)
+| Quickstep
+| "[[Don't Rain on My Parade]]"
+| ''[[Funny Girl (musical)|Funny Girl]]''
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Stacey & Kevin
+| 38 (9, 9, 10, 10)
+| American Smooth
+| "[[I Dreamed a Dream]]"
+|''[[Les Misérables (musical)|Les Misérables]]''
+| Safe
+|-
+! scope="row" | Joe & Dianne
+| 36 (8, 9, 9, 10)
+| Salsa
+| "Joseph Megamix"
+| ''[[Joseph and the Amazing Technicolor Dreamcoat]]''
+| Safe
+|}
+;Judges' votes to save
+*Revel Horwood: Ashley & Pasha
+*Bussell: Ashley & Pasha
+*Tonioli: Ashley & Pasha
+*Ballas: ''Did not vote, but would have voted to save Ashley & Pasha''
+
+===Week 12: Semi-final===
+Musical guests: [[Little Mix]] — "[[Woman Like Me]]"<ref>{{cite web|url=https://www.officialcharts.com/chart-news/strictly-come-dancing-2018-music-guest-performers-announced__24103/|title=Strictly Come Dancing 2018: Music guest performers announced|publisher=[[Official Charts Company]]|last=White|first=Jack|date=3 December 2018|access-date=4 December 2018}}</ref>
+
+Each couple performed two routines, and are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=http://www.ultimatestrictly.com/series-16-week-12/|title=Series 16 – Week 12|website=Ultimate Strictly|access-date=8 December 2018}}</ref>
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music<ref>{{cite web|url=https://www.bbc.co.uk/blogs/strictlycomedancing/entries/b7b2e207-abb2-4a7a-b5de-da60bd92ee08|title=BBC Blogs – Strictly Come Dancing – Songs and Dances revealed: Semi-final|publisher=BBC One|date=4 December 2018|access-date=8 December 2018}}</ref>
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" rowspan=2 | Stacey & Kevin
+| 39 (9, 10, 10, 10)
+| Charleston
+| "[[Has Anybody Seen My Gal? (song)|Five Foot Two, Eyes of Blue]]" — [[Spike Jones]]
+| rowspan=2 | Safe
+|-
+| 36 (8, 9, 10, 9)
+| Viennese waltz
+| "[[You're My World]]" — [[Cilla Black]]
+|-
+! scope="row" rowspan=2 | Joe & Dianne
+| 29 (6, 8, 7, 8)
+| Viennese waltz
+| "[[This Year's Love (song)|This Year's Love]]" — [[David Gray (British musician)|David Gray]]
+| rowspan=2 | Safe
+|-
+| 30 (6, 8, 8, 8)
+| Argentine tango
+| "[[Red Right Hand]]" — [[Nick Cave and the Bad Seeds]]
+|-
+! scope="row" rowspan=2 | Ashley & Pasha
+| 36 (9, 9, 9, 9)
+| Paso doble
+| "[[Spectrum (Say My Name)]]" — [[Florence and the Machine]]
+| rowspan=2 bgcolor="lightblue" | Bottom two
+|-
+| 40 (10, 10, 10, 10)
+| American Smooth
+| "[[Ain't That a Kick in the Head?]]" — [[Dean Martin]]
+|-
+! scope="row" rowspan=2 | Lauren & AJ
+| 31 (7, 8, 8, 8)
+| Tango
+| "[[Nutbush City Limits]]" — [[Tina Turner]]
+| rowspan=2 bgcolor="f4c7b8" | Eliminated
+|-
+| 23 (5, 6, 6, 6)
+| Samba
+| "[[Rock the Boat (The Hues Corporation song)|Rock the Boat]]" — [[The Hues Corporation]]
+|-
+! scope="row" rowspan=2 | Faye & Giovanni
+| 37 (9, 9, 9, 10)
+| Samba
+| "[[I Go to Rio]]" — [[Pablo Cruise]]
+| rowspan=2 | Safe
+|-
+| 39 (9, 10, 10, 10)
+| Argentine tango
+| "[[La cumparsita]]" — Machiko Ozawa
+|}
+;Judges' votes to save
+*Revel Horwood: Ashley & Pasha
+*Bussell: Ashley & Pasha
+*Tonioli: Ashley & Pasha
+*Ballas: ''Did not vote, but would have voted to save Ashley & Pasha''
+
+===Week 13: Final===
+Musical guest: [[Michael Bublé]] — "[[Such a Night]]"
+
+Each couple performed three routines: one chosen by the judges, their showdance routine, and their favourite dance of the series. Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" rowspan=3 | Ashley & Pasha
+| rowspan="3" | 40 (10, 10, 10, 10)
+| Salsa
+| "[[(I've Had) The Time of My Life]]" — from ''[[Dirty Dancing]]''
+| rowspan=3 bgcolor="silver" | Runners-up
+|-
+| Showdance
+| "[[Keeping Your Head Up]]" — [[Birdy (singer)|Birdy]]
+|-
+| Charleston
+| "[[Witch Doctor (song)|Witch Doctor]]" — [[Don Lang (musician)|Don Lang]]
+|-
+! scope="row" rowspan=3 | Stacey & Kevin
+| 39 (9, 10, 10, 10)
+| Foxtrot
+| "[[Hi Ho Silver Lining]]" — [[Jeff Beck]]
+| rowspan=3 bgcolor="gold" | '''Winners'''
+|-
+| 36 (8, 9, 9, 10)
+| Showdance
+| "[[Land of a Thousand Dances|Land of 1000 Dances]]" — [[Wilson Pickett]]
+|-
+| 39 (9, 10, 10, 10)
+| Paso doble
+| "[[Malagueña (song)|Malagueña]]" — [[Brian Setzer]]
+|-
+! scope="row" rowspan=3 | Faye & Giovanni
+| rowspan="3" | 40 (10, 10, 10, 10)
+| Viennese waltz
+| "[[It's a Man's Man's Man's World]]" — [[Seal (musician)|Seal]]
+| rowspan="3" bgcolor="silver" | Runners-up
+|-
+| Showdance
+| "[[Lullaby of Broadway (song)|Lullaby of Broadway]]" — [[Harry Warren]] & [[Al Dubin]]
+|-
+| Theatre/Jazz
+| "[[Fever (Little Willie John song)|Fever]]" — [[Peggy Lee]]
+|-
+! scope="row" rowspan=3 | Joe & Dianne
+| 39 (9, 10, 10, 10)
+| Paso doble
+| "[[Pompeii (song)|Pompeii]]" — [[Bastille (band)|Bastille]]
+| rowspan="3" bgcolor="silver" | Runners-up
+|-
+| 39 (9, 10, 10, 10)
+| Showdance
+| "[[I Bet You Look Good on The Dancefloor]]" — [[Arctic Monkeys]]
+|-
+| 38 (9, 9, 10, 10)
+| Charleston
+| "[[Cotton Eye Joe (Rednex)|Cotton Eye Joe]]" — [[Rednex]]
+|}
+
+==Dance chart==
+The couples performed the following each week:
+*Weeks 1–9: One unlearned dance
+*Week 10: One unlearned dance & Lindy Hop marathon
+*Week 11 (Quarter-final): One unlearned dance
+*Week 12 (Semi-final): Two unlearned dances
+*Week 13 (Final): Judges' choice, showdance & favourite dance of the series
+
+{| class="wikitable unsortable" style="text-align:center; font-size:85%; line-height:20px"
+|+''Strictly Come Dancing'' (series 16) - Dance chart
+! rowspan="2" |Couple
+! colspan="17" |Week
+|-
+! scope="col" | 1
+! scope="col" | 2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" | 5
+! scope="col" | 6
+! scope="col" | 7
+! scope="col" | 8
+! scope="col" | 9
+! scope="col" colspan="2" |10
+! scope="col" | 11
+! scope="col" colspan="2" |12
+! scope="col" colspan="3" |13
+|-
+! scope="row" | Stacey & Kevin
+|Quickstep
+|Cha-cha-cha
+|Jive
+|Foxtrot
+|Samba
+|Tango
+|Street/Commercial
+|Waltz
+|Salsa
+|Paso doble
+| rowspan="7" | {{nowrap|Lindy Hop}}<br>Marathon
+|American Smooth
+|Charleston
+|Viennese waltz
+|Foxtrot
+|Showdance
+|Paso doble
+|-
+! scope="row" | Ashley & Pasha
+|Viennese waltz
+|Cha-cha-cha
+|Salsa
+|Tango
+|Rumba
+|Charleston
+|Foxtrot
+|{{Abbr|Contemp.|Contemporary}}
+|Jive
+|Samba
+|Quickstep
+|Paso doble
+|American Smooth
+|Salsa
+|Showdance
+|Charleston
+|-
+! scope="row" | Faye & Giovanni
+|Cha-cha-cha
+|Viennese waltz
+|Quickstep
+|Rumba
+|Foxtrot
+|Theatre/Jazz
+|Tango
+|Jive
+|Paso doble
+|Waltz
+|Charleston
+|Samba
+|Argentine tango
+|Viennese waltz
+|Showdance
+|Theatre/Jazz
+|-
+! scope="row" | Joe & Dianne
+|Jive
+|Charleston
+|American Smooth
+|Cha-cha-cha
+|Waltz
+|Foxtrot
+|Paso doble
+|Samba
+|Quickstep
+|Street/Commercial
+|Salsa
+|Viennese waltz
+|Argentine tango
+|Paso doble
+|Showdance
+|Charleston
+|-
+! scope="row" | Lauren & AJ
+|Waltz
+|Charleston
+|Cha-cha-cha
+|Quickstep
+|{{Abbr|Contemp.|Contemporary}}
+|Paso doble
+|Jive
+|Viennese waltz
+|Argentine tango
+|Salsa
+|American Smooth
+|Tango
+|Samba
+| colspan="3" rowspan="11" bgcolor="darkgray" |
+|-
+! scope="row" | Charles & Karen
+|Cha-cha-cha
+|Quickstep
+|American Smooth
+|Salsa
+|Street/Commercial
+|Jive
+|Viennese waltz
+|Charleston
+|Samba
+|Tango
+|Rumba
+| colspan="2" rowspan="10" bgcolor="darkgray" |
+|-
+! scope="row" | Graeme & Oti
+|Samba
+|American Smooth
+|Charleston
+|Jive
+|Tango
+|Cha-cha-cha
+|Waltz
+|Salsa
+|Theatre/Jazz
+|Quickstep
+| rowspan="9" bgcolor="darkgray" |
+|-
+! scope="row" | Kate & Aljaž
+|Cha-cha-cha
+|Tango
+|Foxtrot
+|Samba
+|Viennese waltz
+|Rumba
+|Argentine tango
+|Quickstep
+|American Smooth
+| colspan="2" rowspan="8" bgcolor="darkgray" |
+|-
+! scope="row" | Danny & Amy
+|Foxtrot
+|Cha-cha-cha
+|Paso doble
+|Viennese waltz
+|Jive
+|American Smooth
+|Quickstep
+|Samba
+| rowspan="7" bgcolor="darkgray" |
+|-
+! scope="row" | Dr. Ranj & Janette
+|Cha-cha-cha
+|Salsa
+|Quickstep
+|Paso doble
+|American Smooth
+|Jive
+|Samba
+| rowspan="6" bgcolor="darkgray" |
+|-
+! scope="row" | Seann & Katya
+|Tango
+|Jive
+|Paso doble
+|Charleston
+|Quickstep
+|Viennese waltz
+| rowspan="5" bgcolor="darkgray" |
+|-
+! scope="row" | Vick & Graziano
+|Jive
+|Waltz
+|Salsa
+|Quickstep
+|Cha-cha-cha
+| rowspan="4" bgcolor="darkgray" |
+|-
+! scope="row" | Katie & Gorka
+|Waltz
+|Paso doble
+|Foxtrot
+|Jive
+| rowspan="3" bgcolor="darkgray" |
+|-
+! scope="row" | Lee & Nadiya
+|Waltz
+|Jive
+|Cha-cha-cha
+| rowspan="2" bgcolor="darkgray" |
+|-
+! scope="row" | Susannah & Anton
+|Samba
+|Foxtrot
+| bgcolor="darkgray" |
+|}
+
+==Ratings==
+Weekly ratings for each show on [[BBC One]]. All ratings are provided by BARB.<ref>{{cite web|url=https://www.barb.co.uk/viewing-data/four-screen-dashboard/|title=Four-screen dashboard (7-day data)|publisher=[[BARB]]|access-date=24 September 2022}}</ref>
+{| class="wikitable sortable" style="text-align:center"
+|-
+! scope="col"|Episode
+! scope="col"|Date
+! scope="col"|Official rating<br />(millions)
+! scope="col"|Weekly rank<br />for BBC One
+! scope="col"|Weekly rank<br />for all UK TV
+! scope="col"|Share
+|-
+!scope="row"|Launch show
+|{{dts|8 September}} || 9.33 || 2 || 2 || 40.9%<ref>{{Cite tweet|number=1038711499085242368|user=bbcstrictlyPR|title=Strictly Come Dancing – The Launch was the most watched show across all channels on TV yesterday with a huge peak of 8.5&nbsp;million viewers. Average was 8.1&nbsp;million viewers with an audience share of 40.9%|author=BBC Strictly Press|date=9 September 2018}}</ref>
+|-
+!scope="row"|Week 1
+|{{dts|22 September}} || 10.76 || 2 || 2 || 47.3%<ref>{{Cite tweet|number=1043784247855775744|user=bbcstrictlyPR|title=A HUGE first live show for #Strictly last night with a peak of 10 million tuning in! An average audience of 8.9m and a mega 47.3% audience share|author=BBC Strictly Press|date=23 September 2018}}</ref>
+|-
+!scope="row"|Week 2
+|{{dts|29 September}} || 9.94 || 1 || 1 || 46.8%<ref>{{Cite tweet|number=1046330107953115141|user=bbcstrictlyPR|title=Another great night for #Strictly – the most watched show across all channels on TV yesterday with a peak of 9.5&nbsp;million viewers. Average was 8.4m with a 46.8% audience share. Tune in at 7.15&nbsp;pm this evening to see who will be the first couple to leave the dance floor|author=BBC Strictly Press|date=30 September 2018}}</ref>
+|-
+!scope="row"|Week 2 results
+|{{dts|30 September}} || 9.37 || 2 || 2 || 41.7%<ref>{{Cite tweet|number=1046737786123030529|user=bbcstrictlyPR|title=#Strictly was the most watched show across all channels on TV last night again with peak of 9.6&nbsp;million viewers. Average was 8.6&nbsp;million viewers and the audience share was 41.7%. Strictly is back Saturday 6th October on BBC One at 6.30&nbsp;pm!|author=BBC Strictly Press|date=1 October 2018}}</ref>
+|-
+!scope="row"|Week 3
+|{{dts|6 October}} || 10.88 || 2 || 2 || 46.8%<ref>{{Cite tweet|number=1048862199974940674|user=bbcstrictlyPR|title=Strictly Come Dancing movie week was the most watched show across all channels on TV yesterday with peak of 10.4&nbsp;million viewers. The average was 9.2&nbsp;million viewers and the audience share was 47.4%. Strictly is back tonight on BBC One at 7.45&nbsp;pm for the results show.|author=BBC Strictly Press|date=7 October 2018}}</ref>
+|-
+!scope="row"|Week 3 results
+|{{dts|7 October}} || 9.91 || 3 || 3 || 46.8%<ref>{{Cite tweet|number=1049217462913421312|user=bbcstrictlyPR|title=The #Strictly Movie Week Results Show was the most watched show across all channels on TV yesterday with a peak of 9.3&nbsp;million viewers. The average was 9 million viewers with an audience share of 40.5%. See you next Saturday!|author=BBC Strictly Press|date=8 October 2018}}</ref>
+|-
+!scope="row"|Week 4
+|{{dts|13 October}} || 12.03 || 1 || 1 || 51.2%<ref>{{Cite tweet|number=1051397177480802304|user=bbcstrictlyPR|title=Last night Strictly Come Dancing had a peak of 11.9&nbsp;million viewers. The average was 10.6&nbsp;million with an audience share of 51.2%|author=BBC Strictly Press|date=14 October 2018}}</ref>
+|-
+!scope="row"|Week 4 results
+|{{dts|14 October}} || 9.97 || 2 || 2 || 40.0%<ref>{{Cite tweet|number=1051761069537091585|user=bbcstrictlyPR|title=Last night #Strictly results show was the most watched show across all channels on TV with peak of 9.9&nbsp;million viewers. The average was 9.2&nbsp;million with an audience share of 40%. Strictly is back Saturday night on BBC One at 6.45&nbsp;pm|author=BBC Strictly Press|date=15 October 2018}}</ref>
+|-
+!scope="row"|Week 5
+|{{dts|20 October}} || 11.54 || 1 || 1 || 49.4%<ref>{{Cite tweet|number=1053930485485838336|user=bbcstrictlyPR|title=Last night Strictly Come Dancing had a peak of 11 million viewers. The average was 9.9&nbsp;million with an audience share of 49.4%|author=BBC Strictly Press|date=21 October 2018}}</ref>
+|-
+!scope="row"|Week 5 results
+|{{dts|21 October}} || 9.39 || 2 || 3 || {{n/a}}
+|-
+!scope="row"|Week 6
+|{{dts|27 October}} || 11.47 || 1 || 1 || 49.3%<ref>{{Cite tweet|number=1056487229428776961|user=bbcstrictlyPR|title=The #Strictly Come Dancing Halloween special was the most watched programme across all channels on TV yesterday with a peak of 10.8&nbsp;million viewers. The average was 9.8&nbsp;million viewers with an audience share of 49.3%.|author=BBC Strictly Press|date=28 October 2018}}</ref>
+|-
+!scope="row"|Week 6 results
+|{{dts|28 October}} || 9.89 || 2 || 2 || 38.7%<ref>{{Cite tweet|number=1056845929389740032|user=bbcstrictlyPR|title=The Strictly Come Dancing Halloween Week Results Show had a spooktacular peak of 9.9m viewers, with an average of 9.1&nbsp;million and a 38.7% audience share|author=BBC Strictly Press|date=29 October 2018}}</ref>
+|-
+!scope="row"|Week 7
+|{{dts|3 November}} || 11.13 || 1 || 1 || 48.0%<ref>{{Cite tweet|number=1059076678520135685|user=bbcstrictlyPR|title=Last night Strictly had a peak of 10.3&nbsp;million viewers with an audience share of 48% and an average of 9.5&nbsp;million people watching|author=BBC Strictly Press|date=4 November 2018}}</ref>
+|-
+!scope="row"|Week 7 results
+|{{dts|4 November}} || 9.61 || 2 || 3 || 39.9%<ref>{{Cite tweet|number=1059380527755608064|user=bbcstrictlyPR|title=Last night's Strictly Results show had a peak of 9.8&nbsp;million viewers with a 39.9% audience share, and an average of 8.8&nbsp;million people tuning in|author=BBC Strictly Press|date=5 November 2018}}</ref>
+|-
+!scope="row"|Week 8
+|{{dts|10 November}} || 11.55 || 1 || 1 || 47.0%<ref>{{Cite tweet|number=1061555078644056064|user=bbcstrictlyPR|title=Last night Strictly had a peak of 10.8&nbsp;million viewers with an audience share of 47% and an average of 9.9&nbsp;million people watching|author=BBC Strictly Press|date=11 November 2018}}</ref>
+|-
+!scope="row"|Week 8 results
+|{{dts|11 November}} || 9.74 || 2 || 2 || 39.9%<ref>{{Cite tweet|number=1061917080084271104|user=bbcstrictlyPR|title=Last night's Strictly Results show had a peak of 10.2&nbsp;million viewers with an average of 9 million and a 39.9% audience share. Next stop Blackpool!|author=BBC Strictly Press|date=12 November 2018}}</ref>
+|-
+!scope="row"|Week 9
+|{{dts|17 November}} || 11.64 || 1 || 2 || 48.6%<ref>{{Cite tweet|number=1064110141367296000|user=bbcstrictlyPR|title=Last night Strictly had a huge peak of 11.3&nbsp;million viewers with an audience share of 48.6% and an average of 10.2&nbsp;million people watching|author=BBC Strictly Press|date=18 November 2018}}</ref>
+|-
+!scope="row"|Week 9 results
+|{{dts|18 November}} || 9.60 || 2 || 3 || 39.0%<ref>{{Cite tweet|number=1064458113703690241|user=bbcstrictlyPR|title=#Strictly Results Show last night had a peak of 10.4&nbsp;million viewers with an audience share of 39% and an average of 9 million people watching. Strictly is back next Saturday at 6.50&nbsp;pm!|author=BBC Strictly Press|date=19 November 2018}}</ref>
+|-
+!scope="row"|Week 10
+|{{dts|24 November}} || 11.70 || 1 || 8 || 47.4%<ref>{{Cite tweet|number=1066629983425179648|user=bbcstrictlyPR|title=#Strictly had an peak of 11.3&nbsp;million last night with an average of 10 million and a 47.4% share. The Strictly Results Show is on tonight at 7.20&nbsp;pm|author=BBC Strictly Press|date=25 November 2018}}</ref>
+|-
+!scope="row"|Week 10 results
+|{{dts|25 November}} || 9.43 || 2 || 9 || 39.0%<ref>{{Cite tweet|number=1066996267685998593|user=bbcstrictlyPR|title=Last night a peak of 10 million people tuned in to see @Swannyg66 & @OtiMabuse leave the #Strictly ballroom. There was an 8.9&nbsp;million average with a 39% audience share|author=BBC Strictly Press|date=26 November 2018}}</ref>
+|-
+!scope="row"|Week 11
+|{{dts|1 December}} || 11.69 || 1 || 6 || 48.8%<ref>{{Cite tweet|number=1069223141665329152|user=bbcstrictlyPR|title=Last night's episode had a peak of 10.7&nbsp;million viewers, with an average of 10 million and an audience share of 48.8%. Tune in tonight to see who is next to depart the dance floor|author=BBC Strictly Press|date=2 December 2018|access-date=2 December 2018}}</ref>
+|-
+!scope="row"|Week 11 results
+|{{dts|2 December}} || 9.83 || 2 || 9 || 39.7%<ref>{{Cite tweet|number=1069530534357938178|user=bbcstrictlyPR|title=#Strictly Results Show last night had a peak of 9.9&nbsp;million viewers, with an average of 9.1&nbsp;million and 39.7% audience share. Strictly returns next Saturday at 18:35 on @BBCOne for the semi-finals|author=BBC Strictly Press|date=3 December 2018|access-date=5 December 2018}}</ref>
+|-
+!scope="row"|Week 12
+|{{dts|8 December}} || 10.62 || 1 || 8 || 47.0%<ref>{{Cite tweet|number=1071700672419106816|user=bbcstrictlyPR|title=Last night's #Strictly semi-final had a peak of 10 million viewers, an average of 9.2 and an audience share of 47%. Tune in tonight to see which 4 couples make it through to the FINAL!|author=BBC Strictly Press|date=9 December 2018}}</ref>
+|-
+!scope="row"|Week 12 results
+|{{dts|9 December}} || 9.57 || 2 || 9 || 40.3%<ref>{{Cite tweet|number=1072065287175004160|user=bbcstrictlyPR|title=Last night's Strictly semi-finals results show had a peak of 10 million viewers with an average of 9&nbsp;million and a 40.3% share. Tune in for our Grand Final next Saturday at 6.30&nbsp;pm to see who will lift the glitterball trophy|author=BBC Strictly Press|date=10 December 2018}}</ref>
+|-
+!scope="row"|Week 13
+|{{dts|15 December}} || 12.99 || 1 || 1 || 54.4%<ref>{{Cite tweet|number=1074240794763149314|user=bbcstrictlyPR|title=Last night's Strictly grand final had a peak of 12.7&nbsp;million viewers, with an average of 11.7&nbsp;million and a 54.4% audience share |author=BBC Strictly Press|date=16 December 2018 |access-date=16 December 2018}}</ref>
+|-
+! Series average<br>(excl. launch show)
+! 2018
+! 10.59
+! {{N/A}}
+! {{N/A}}
+! 45.1%
+|}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+*{{URL|bbc.co.uk/strictlycomedancing}}
+
+{{Strictly Come Dancing}}
+
+{{DEFAULTSORT:Strictly Come Dancing (series 16)}}
+[[Category:2018 British television seasons]]
+[[Category:Strictly Come Dancing series|Series 16]]
+[[Category:Lee Ryan]]
+[[Category:Stacey Dooley]]

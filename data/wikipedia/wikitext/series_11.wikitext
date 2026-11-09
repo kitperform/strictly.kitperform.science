@@ -1,0 +1,1905 @@
+{{More citations needed|date=August 2023}}
+{{Use dmy dates|date=July 2019}}
+{{Infobox television season
+| bgcolor      = #f8f2e6
+| image        = <!-- Do NOT place a non-free image here without complying with WP:NFCC #10c -->
+| module1      = {{Infobox reality competition season
+ | celebrity_winner    = [[Abbey Clancy]]
+ | professional_winner = [[Aljaž Škorjanec]]
+| presenter = [[Bruce Forsyth]]<br>[[Tess Daly]]<br>[[Claudia Winkleman]]
+| judges    = [[Darcey Bussell]]<br>[[Len Goodman]]<br>[[Craig Revel Horwood]]<br>[[Bruno Tonioli]]
+}}
+| network      = [[BBC One]]
+| first_aired  = {{Start date|df=y|2013|09|7}}
+| last_aired   = {{End date|df=y|2013|12|21}}
+| num_episodes = 27
+| prev_series  = [[Strictly Come Dancing series 10|Series 10]]
+| next_series  = [[Strictly Come Dancing series 12|Series 12]]
+}}
+
+'''''[[Strictly Come Dancing]]''''' returned for its '''eleventh series''' beginning with a launch show on 7 September 2013,<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s104/strictly-come-dancing/news/a510527/strictly-come-dancing-launch-date-x-factor-clash-confirmed.html |title='Strictly Come Dancing' launch date, 'X Factor' clash confirmed|work=Digital Spy |date=28 August 2013|accessdate=29 August 2013}}</ref> and the live shows beginning on 27 and 28 September 2013.<ref name=Blackpool>{{cite web |url=https://www.bbc.co.uk/showsandtours/shows/shows/strictly_come_dancing_2013 |title=Be in the audience – Strictly Come Dancing |publisher=BBC |access-date=29 August 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130826071300/http://www.bbc.co.uk/showsandtours/shows/shows/strictly_come_dancing_2013 |archive-date=26 August 2013  }}</ref> [[Sir Bruce Forsyth]] and [[Tess Daly]] returned to co-present the main show on [[BBC One]], with [[Claudia Winkleman]] presenting the results show alongside Daly. [[Zoe Ball]] returned as presenter of ''[[Strictly Come Dancing: It Takes Two]]'' on [[BBC Two]]. [[Darcey Bussell]], [[Len Goodman]], [[Craig Revel Horwood]], and [[Bruno Tonioli]] also returned as judges.
+
+This was the first series to be made at Elstree Film and Television Studios in [[Elstree, Hertfordshire]].  In March 2013, the show's former home at the BBC Television Centre in West London closed down for redevelopment. ''Strictly Come Dancing'' moved to Elstree for the series and settled into the vast George Lucas Stage 2 which had been recently refurbished. The move to the Elstree location saw a complete overhaul of the look of the show with a newly redesigned set.<ref>{{Cite web|url=https://www.tvbeurope.com/production-post/strictly-come-dancing-relocates-to-elstree|title=Strictly Come Dancing relocates to Elstree|date=11 December 2012}}</ref>
+
+The shows on 5 October, 9 November, and 7 December 2013 were hosted by Daly and Winkleman, with Forsyth taking time off.<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s104/strictly-come-dancing/news/a521026/bruce-forsyth-pulls-out-of-tomorrows-strictly-come-dancing-with-flu.html |title=Bruce Forsyth pulls out of tomorrow's 'Strictly Come Dancing' with flu |work=Digital Spy |date=4 October 2013 |accessdate=5 October 2013}}</ref> The show was broadcast live from the [[Blackpool Tower Ballroom]] on 16 November 2013.
+
+Model [[Abbey Clancy]] and [[Aljaž Škorjanec]] were announced as the winners on 21 December, while ''[[Coronation Street]]'' actress [[Natalie Gumede]] and [[Artem Chigvintsev]] and ''[[BBC Breakfast]]'' presenter [[Susanna Reid]] and [[Kevin Clifton]] were the runners-up.
+
+== Format ==
+{{Further|Strictly Come Dancing#Format}}
+{{Multiple image
+ | align        = right
+ | total_width  = 550
+
+ | header       = Hosts and Judges for Strictly Come Dancing Series 11
+
+ | image1       = Bruce Forsyth1 (cropped) (cropped).jpg
+ | alt1         =
+ | caption1     = [[Bruce Forsyth]]
+
+ | image2       = Tess Daly Cropped.jpg
+ | alt2         =
+ | caption2     = [[Tess Daly]]
+
+ | image3       = Claudia Winkleman at BAFTA 2026 01.jpg
+ | alt3         =
+ | caption3     = [[Claudia Winkleman]]
+ 
+ | image4       = Craig-Revel-Horwood-2022.png
+ | alt4         = 
+ | caption4     = [[Craig Revel Horwood]]
+
+ | image5       = Darcey Bussell in 2016.jpg
+ | alt5         =
+ | caption5     = [[Darcey Bussell]]
+
+ | image6       = Len_Goodman_1.JPG
+ | alt6         =
+ | caption6     = [[Len Goodman]]
+
+ | image7       = BrunoTonioliin2009strictlytouratwembley.png
+ | alt7         =
+ | caption7     = [[Bruno Tonioli]]
+}}
+The couples dance each week in a live show. The judges score each performance out of ten. The couples are then ranked according to the judges' scores and given points according to their rank, with the lowest scored couple receiving one point, and the highest scored couple receiving the most points (the maximum number of points available depends on the number of couples remaining in the competition). The public are also invited to vote for their favourite couples, and the couples are ranked again according to the number of votes they receive, again receiving points; the couple with the fewest votes receiving one point, and the couple with the most votes receiving the most points.
+
+The points for judges' score and public vote are then added together, and the two couples with the fewest points are placed in the bottom two. If two couples have equal points, the points from the public vote are given precedence. As with the previous series, the bottom two couples have to perform a dance-off on the results show. Based on that performance alone, each judge then votes on which couple should stay and which couple should leave, with [[Len Goodman]], as head judge, having the last and [[Casting vote|deciding vote]].
+
+== Professional dancers ==
+On 1 June 2013, it was revealed that [[Erin Boag]], [[Flavia Cacace]], [[Vincent Simone]], and [[Aliona Vilani]] would all be leaving the show.<ref>{{cite web |author=BBC Strictly Nora |date=1 June 2013 |title=Blogs – Strictly Come Dancing – Strictly pro-dancers: 2013 line-up revealed |url=https://www.bbc.co.uk/blogs/strictlycomedancing/posts/Strictly-pro-dancers-2013-line-up-revealed |archive-url=https://web.archive.org/web/20130608134326/http://www.bbc.co.uk/blogs/strictlycomedancing/posts/Strictly-pro-dancers-2013-line-up-revealed |url-status=dead |archive-date=8 June 2013 |accessdate=29 August 2013 |publisher=BBC}}</ref> They were replaced by four new professionals: [[Iveta Lukošiūtė]], [[Janette Manrara]], [[Aljaž Škorjanec]], and [[Emma Slater]]. However, on 22 August 2013, it was announced that Slater would move to the [[Dancing with the Stars (U.S. season 17)|''Dancing with the Stars'']] and that she would be replaced by [[Anya Garnis]]. It was also confirmed that [[Kevin Clifton]] would join the show, bringing the total number of couples to fifteen.<ref>{{cite web |author=BBC Strictly Nora |date=22 August 2013 |title=Blogs – Strictly Come Dancing – Fifteen celebrities, two new pro-dancers for 2013! |url=https://www.bbc.co.uk/blogs/strictlycomedancing/posts/Fifteen-celebrities-two-new-pro-dancers-for-2013 |archive-url=https://archive.today/20130822122742/http://www.bbc.co.uk/blogs/strictlycomedancing/posts/Fifteen-celebrities-two-new-pro-dancers-for-2013 |url-status=dead |archive-date=22 August 2013 |accessdate=29 August 2013 |publisher=BBC}}</ref> On 2 September 2013 it was reported that professional dancer [[Natalie Lowe]] had injured her foot and would be replaced by [[Aliona Vilani]].<ref>{{cite web |last=Buchanan |first=Daisy |author-link= Daisy Buchanan (writer)|date=2 September 2013 |title=Strictly Come Dancing pro Aliona Vilani returns to the show, replacing injured Natalie Lowe – Mirror Online |url=https://www.mirror.co.uk/tv/tv-news/strictly-come-dancing-pro-aliona-2245283 |accessdate=2 September 2013 |work=Daily Mirror}}</ref>
+
+==Couples==
+This series featured fifteen celebrity contestants. The full line up was revealed on ''[[The One Show]]'' on 2 September 2013.<ref>{{cite web|author=BBC Strictly Nora |url=https://www.bbc.co.uk/blogs/strictlycomedancing/posts/Vanessa-Feltz-revealed-as-first-Strictly-contestant-of-2013 |archive-url=https://archive.today/20130829141856/http://www.bbc.co.uk/blogs/strictlycomedancing/posts/Vanessa-Feltz-revealed-as-first-Strictly-contestant-of-2013 |url-status=dead |archive-date=29 August 2013 |title=Blogs – Strictly Come Dancing – Vanessa Feltz revealed as first Strictly contestant of 2013! |publisher=BBC |date=22 August 2013 |accessdate=29 August 2013}}</ref> The celebrities did not know their professional partners until they were introduced to each other on the launch show on 7 September 2013.
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! scope="col" | Celebrity
+! scope="col" class="unsortable"| Notability
+! scope="col" | Professional partner
+! scope="col" | Status
+|- style="height:50px"
+! scope="row" | [[Tony Jacklin]]
+| Professional golfer
+| [[Aliona Vilani]]
+| bgcolor="#f4c7b8" | Eliminated 1st<br /><small>on 6 October 2013</small>
+|- style="height:50px"
+! scope="row" | [[Vanessa Feltz]]
+| Television & radio presenter
+| [[James Jordan (dancer)|James Jordan]]
+| bgcolor="#f4c7b8" | Eliminated 2nd<br /><small>on 13 October 2013</small>
+|- style="height:50px"
+! scope="row" | [[Julien Macdonald]]
+| Fashion designer
+| [[Janette Manrara]]
+| bgcolor="#f4c7b8" | Eliminated 3rd<br /><small>on 20 October 2013</small>
+|- style="height:50px"
+! scope="row" | [[Deborah Meaden]]
+| ''[[Dragons' Den (British TV programme)|Dragons' Den]]'' investor & businesswoman
+| [[Robin Windsor]]
+| bgcolor="#f4c7b8" | Eliminated 4th<br /><small>on 27 October 2013</small>
+|- style="height:50px"
+! scope="row" | [[Rachel Riley]]
+| ''[[Countdown (game show)|Countdown]]'' presenter
+| [[Pasha Kovalev]]
+| bgcolor="#f4c7b8" | Eliminated 5th<br /><small>on 3 November 2013</small>
+|- style="height:50px"
+! scope="row" | [[Dave Myers (British chef)|Dave Myers]]
+| Chef & ''[[The Hairy Bikers]]'' presenter
+| [[Karen Clifton|Karen Hauer]]
+| bgcolor="#f4c7b8" | Eliminated 6th<br /><small>on 10 November 2013</small>
+|- style="height:50px"
+! scope="row" | [[Fiona Fullerton]]
+| Film & television actress
+| [[Anton Du Beke]] 
+| bgcolor="#f4c7b8" | Eliminated 7th<br /><small>on 17 November 2013</small>
+|- style="height:50px"
+! scope="row" | [[Ben Cohen (rugby union)|Ben Cohen]]
+| [[England national rugby union team|England]] rugby player
+| [[Kristina Rihanoff]]
+| bgcolor="#f4c7b8" | Eliminated 8th<br /><small>on 24 November 2013</small>
+|- style="height:50px"
+! scope="row" | [[Mark Benton]]
+| Stage & screen actor
+| [[Iveta Lukošiūtė]]
+| bgcolor="#f4c7b8" | Eliminated 9th<br /><small>on 1 December 2013</small>
+|- style="height:50px"
+! scope="row" | {{nowrap|[[Ashley Taylor Dawson]]}}
+| ''[[Hollyoaks]]'' actor & singer
+| [[Ola Jordan]]
+| bgcolor="#f4c7b8" | Eliminated 10th<br /><small>on 8 December 2013</small>
+|- style="height:50px"
+! scope="row" | [[Patrick Robinson (actor)|Patrick Robinson]]
+| ''[[Casualty (TV series)|Casualty]]'' actor
+| [[Anya Garnis]]
+| bgcolor="#f4c7b8" | Eliminated 11th<br /><small>on 15 December 2013</small>
+|- style="height:50px"
+! scope="row" | [[Sophie Ellis-Bextor]]
+| Singer-songwriter
+| [[Brendan Cole]]
+| bgcolor="#d1c571" | Fourth place<br><small>on 21 December 2013</small>
+|- style="height:50px"
+! scope="row" | [[Natalie Gumede]]
+| ''[[Coronation Street]]'' actress 
+| [[Artem Chigvintsev]]
+| bgcolor="silver" rowspan=2 | Runners-up<br/><small>on 21 December 2013</small>
+|- style="height:50px"
+! scope="row" | [[Susanna Reid]]
+| ''[[BBC Breakfast]]'' presenter
+| [[Kevin Clifton]]
+|- style="height:50px"
+! scope="row" | [[Abbey Clancy]]
+| Model & television presenter
+| [[Aljaž Škorjanec]]
+| bgcolor="gold" | '''Winners'''<br/><small>on 21 December 2013</small>
+|}
+
+==Scoring chart==
+The highest score each week is indicated in {{fontcolor|#004600|'''bold green'''}} with a dagger ({{dagger}}), while the lowest score each week is indicated in {{fontcolor|#800000|''italicized red''}} with a double-dagger ({{double-dagger}}).
+
+'''Color key:'''
+{{columns-list|colwidth=20em|
+{{legend|gold|Winners}}
+{{legend|silver|Runners-up}}
+{{legend|#d1c571|Fourth place}}
+{{legend|lightblue|Bottom two}}
+{{legend|#fff383|Excused from competition for the week}}
+{{legend|#f4c7b8|Eliminated}}
+}}
+{| class="wikitable sortable" style="text-align:center; font-size:85%"
+|+''Strictly Come Dancing'' (series 11) - Weekly scores
+|-
+! rowspan="3" scope="col" | Couple
+! rowspan="3" scope="col" | {{Abbr|Pl.|Place}}
+! colspan="15" | Week
+|-
+! scope="col" rowspan="2" | 1
+! scope="col" rowspan="2" | 2
+! scope="col" rowspan="2" | 1+2
+! scope="col" rowspan="2" | 3
+! scope="col" rowspan="2" | 4
+! scope="col" rowspan="2" | 5
+! scope="col" rowspan="2" | 6
+! scope="col" rowspan="2" | 7
+! scope="col" rowspan="2" | 8
+! scope="col" rowspan="2" | 9
+! scope="col" rowspan="2" | 10
+! scope="col" rowspan="2" | 11
+! scope="col" rowspan="2" | 12
+! scope="col" colspan="2" | 13
+|-
+! {{nowrap|Show 1}}
+! {{nowrap|Show 2}}
+|-
+! scope="row" | Abbey & Aljaž
+| 1st
+| {{fontcolor|#004600|'''32'''}}{{dagger|alt=This was the highest score of the night.}}
+| 30
+| 62
+| 28
+| {{fontcolor|#004600|'''35'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''35'''}}{{dagger|alt=This was the highest score of the night.}}
+| bgcolor="lightblue" | 34{{efn|name=Bottom2}}
+| 36
+| 37
+| 32
+| {{fontcolor|#004600|'''40'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|40|}} | 37+3=40
+| {{sort|78|}} | 39+39={{fontcolor|#004600|'''78'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|78|}} | 40+38=78
+| {{sort|116|}} bgcolor="gold" | +38=116{{efn|This couple finished in first place.}}
+|-
+! scope="row" | Natalie & Artem
+| rowspan="2" |2nd
+| 31
+| 34
+| {{fontcolor|#004600|'''65'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''36'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''35'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''35'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''38'''}}{{dagger|alt=This was the highest score of the night.}}
+| bgcolor="fff383" | {{efn|name=OutSick|This couple was excused from competition due to illness or injury, and was granted a [[Bye (sports)|bye]] to the following week.}}
+| {{fontcolor|#004600|'''39'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''37'''}}{{dagger|alt=This was the highest score of the night.}}
+| 36
+| {{sort|41|}} | 35+6={{fontcolor|#004600|'''41'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|78|}} bgcolor="lightblue" | 40+38={{fontcolor|#004600|'''78'''}}{{dagger|alt=This was the highest score of the night.}}{{efn|name=Bottom2}}
+| {{sort|79|}} | 39+40={{fontcolor|#004600|'''79'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|119|}} bgcolor="silver" | +40={{fontcolor|#004600|'''119'''}}{{dagger|alt=This was the highest score of the night.}}{{efn|name=2nd|This couple finished in second place.}}
+|-
+! scope="row" | Susanna & Kevin
+| 28
+| 31
+| 59
+| 34
+| 29
+| 32
+| 34
+| 36
+| {{fontcolor|#004600|'''39'''}}{{dagger|alt=This was the highest score of the night.}}
+| 31
+| 33
+| {{sort|33|}} | 32+1={{fontcolor|#800000|''33''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{sort|70|}} | 38+32=70
+| {{sort|73|}} | 37+36={{fontcolor|#800000|''73''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{sort|112|}} bgcolor="silver" | +39={{fontcolor|#800000|''112''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=2nd}}
+|-
+! scope="row" | {{nowrap|Sophie & Brendan}}
+| 4th
+| 28
+| {{fontcolor|#004600|'''36'''}}{{dagger|alt=This was the highest score of the night.}}
+| 64
+| 31
+| {{fontcolor|#004600|'''35'''}}{{dagger|alt=This was the highest score of the night.}}
+| 30
+| 28
+| 32
+| 34
+| 31
+| 36
+| {{sort|38|}} | 34+4=38
+| {{sort|71|}} | 35+36=71
+| {{sort|74|}} bgcolor="dlc571" | 39+35=74{{efn|name=Elim}}
+| rowspan="12" bgcolor="darkgrey" |
+|-
+! scope="row" | Patrick & Anya
+| 5th
+| 28
+| 27
+| 55
+| 27
+| 33
+| bgcolor="lightblue" | 28{{efn|name=Bottom2}}
+| 34
+| {{fontcolor|#004600|'''37'''}}{{dagger|alt=This was the highest score of the night.}}
+| 35
+| 32
+| 38
+| {{sort|41|}} bgcolor="lightblue" | 36+5={{fontcolor|#004600|'''41'''}}{{dagger|alt=This was the highest score of the night.}}{{efn|name=Bottom2}}
+| {{sort|69|}} bgcolor="f4c7b8" | 36+33={{fontcolor|#800000|''69''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="11" bgcolor="darkgrey" |
+|-
+! scope="row" | Ashley & Ola
+| 6th
+| 25
+| 32
+| 57
+| 31
+| 31 
+| 31
+| 33
+| 35
+| 35
+| 35
+| bgcolor="lightblue" | 35{{efn|name=Bottom2}}
+| {{sort|37|}} bgcolor="f4c7b8" | 35+2=37{{efn|name=Elim}}
+| rowspan="10" bgcolor="darkgrey" |
+|-
+! scope="row" | Mark & Iveta
+| 7th
+| 24
+| 22
+| 46
+| 26
+| 26
+| 28
+| 25
+| bgcolor="lightblue" | 23{{efn|name=Bottom2}}
+| bgcolor="lightblue" | {{fontcolor|#800000|''29''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Bottom2}}
+| bgcolor="lightblue" | 28{{efn|name=Bottom2}}
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''29''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="9" bgcolor="darkgrey" |
+|-
+! scope="row" | Ben & Kristina
+| 8th
+| 19
+| 25
+| 44
+| 28
+| 31
+| 27
+| 32
+| 26
+| 32
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''27''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="8" bgcolor="darkgrey" |
+|-
+! scope="row" | Fiona & Anton
+| 9th
+| 24
+| 22
+| 46
+| 28
+| {{fontcolor|#800000|''22''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| 30
+| 28
+| 26
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''29''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="7" bgcolor="darkgrey" |
+|-
+! scope="row" | Dave & Karen
+| 10th
+| {{fontcolor|#800000|''16''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| 17
+| 33
+| {{fontcolor|#800000|''16''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| 23
+| {{fontcolor|#800000|''17''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{fontcolor|#800000|''19''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''20''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="6" bgcolor="darkgrey" |
+|-
+! scope="row" | Rachel & Pasha
+| 11th
+| 27
+| 20
+| 47
+| 27
+| bgcolor="lightblue" | 26{{efn|name=Bottom2}}
+| 22
+| bgcolor="f4c7b8" | 30{{efn|name=Elim}}
+| rowspan="5" bgcolor="darkgrey" |
+|-
+! scope="row" | Deborah & Robin
+| 12th
+| 24
+| 24
+| 48
+| 28
+| 23 
+| bgcolor="f4c7b8" | 27{{efn|name=Elim}}
+| rowspan="4" bgcolor="darkgrey" |
+|-
+! scope="row" | Julien & Janette
+| 13th
+| 20
+| 18
+| bgcolor="lightblue" | 38{{efn|name=Bottom2|This couple was in the bottom two, but was not eliminated.}}
+| bgcolor="lightblue" | 22{{efn|name=Bottom2}}
+| bgcolor="f4c7b8" | 23{{efn|name=Elim}}
+| rowspan="3" bgcolor="darkgrey" |
+|-
+! scope="row" | Vanessa & James
+| 14th
+| 19
+| 23
+| 42
+| bgcolor="f4c7b8" | 20{{efn|name=Elim}}
+| rowspan="2" bgcolor="darkgrey" |
+|-
+! scope="row" | Tony & Aliona
+| 15th
+| {{fontcolor|#800000|''16''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{fontcolor|#800000|''13''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''29''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim|This couple was eliminated.}}
+| bgcolor="darkgrey" |
+|}
+;Notes
+{{notelist}}
+
+===Average chart===
+This table only counts for dances scored on a traditional 40-point scale.
+{| class="wikitable sortable" style="text-align:center; font-size:95%"
+|-
+! scope="col" | Couple
+! scope="col" | Rank by<br>average
+! scope="col" | Total<br>points
+! scope="col" | Number of<br>dances
+! scope="col" | Total<br>average
+|-
+! scope="row" | Natalie & Artem
+| 1st
+| 553
+| 15
+| 36.9
+|-
+! scope="row" | Abbey & Aljaž
+| 2nd
+| 570
+| rowspan="2" | 16
+| 35.6
+|-
+! scope="row" | Susanna & Kevin
+| 3rd
+| 541
+| 33.8
+|-
+! scope="row" | Sophie & Brendan
+| 4th
+| 500
+| 15
+| 33.3
+|-
+! scope="row" | Patrick & Anya
+| 5th
+| 424
+| 13
+| 32.6
+|-
+! scope="row" | Ashley & Ola
+| 6th
+| 358
+| 11
+| 32.5
+|-
+! scope="row" | Ben & Kristina
+| 7th
+| 247
+| 9
+| 27.4
+|-
+! scope="row" | Fiona & Anton
+| 8th
+| 209
+| 8
+| 26.1
+|-
+! scope="row" | Mark & Iveta
+| 9th
+| 260
+| 10
+| 26.0
+|-
+! scope="row" | Rachel & Pasha
+| 10th
+| 152
+| 6
+| 25.3
+|-
+! scope="row" | Deborah & Robin
+| 11th
+| 126
+| 5
+| 25.2
+|-
+! scope="row" | Julian & Janette
+| 12th
+| 83
+| 4
+| 20.8
+|-
+! scope="row" | Vanessa & James
+| 13th
+| 62
+| 3
+| 20.7
+|-
+! scope="row" | Dave & Karen
+| 14th
+| 128
+| 7
+| 18.3
+|-
+! scope="row" | Tony & Aliona
+| 15th
+| 29
+| 2
+| 14.5
+|}
+
+==Weekly scores==
+''Unless indicated otherwise, individual judges scores in the charts below (given in parentheses) are listed in this order from left to right: [[Craig Revel Horwood]], [[Darcey Bussell]], [[Len Goodman]], [[Bruno Tonioli]].''
+
+===Week 1===
+Six of the couples performed on the first night and the other nine couples performed on the second night. There was no elimination this week; all scores and votes carried over to the following week. Couples are listed in the order they performed.
+
+;Night 1 (Friday)
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music<ref name="Week One">{{Deprecated archive|url=https://archive.today/20131012142358/http://www.bbc.co.uk/blogs/strictlycomedancing/posts/Week-One-Strictly-Songs-Revealed|title=BBC – Blogs – Strictly Come Dancing – Week One: Strictly Songs Revealed}}</ref>
+|-
+! scope="row" | Ashley & Ola
+| 25 (5, 6, 7, 7)
+| Cha-cha-cha
+| "[[What Makes You Beautiful]]" — [[One Direction]]
+|-
+! scope="row" | Tony & Aliona
+| 16 (2, 5, 5, 4)
+| Waltz
+| "[[What'll I Do]]" — [[Alison Krauss]]
+|-
+! scope="row" | Mark & Iveta
+| 24 (5, 6, 7, 6)
+| Tango
+| "[[Hernando's Hideaway]]" — [[Alma Cogan]]
+|-
+! scope="row" | Susanna & Kevin
+| 28 (6, 7, 8, 7)
+| Jive
+| "[[Shake a Tail Feather]]" — [[The Blues Brothers]]
+|-
+! scope="row" | Sophie & Brendan
+| 28 (7, 7, 7, 7)
+| Waltz
+| "[[Moon River]]" — [[Audrey Hepburn]]
+|-
+! scope="row" | Natalie & Artem
+| 31 (8, 8, 8, 7)
+| Cha-cha-cha
+| "[[Rasputin (song)|Rasputin]]" — [[Boney M.]]
+|}
+;Night 2 (Saturday)
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music<ref name="Week One"/>
+|-
+! scope="row" | Ben & Kristina
+| 19 (3, 5, 6, 5)
+| Cha-cha-cha
+| "[[Love Me Again (John Newman song)|Love Me Again]]" — [[John Newman (singer)|John Newman]]
+|-
+! scope="row" | Fiona & Anton
+| 24 (5, 6, 7, 6)
+| Tango
+| "[[A View to a Kill (song)|A View to a Kill]]" — [[Duran Duran]]
+|-
+! scope="row" | Dave & Karen
+| 16 (2, 5, 5, 4)
+| Cha-cha-cha
+| "[[Moves Like Jagger]]" — [[Maroon 5]] & [[Christina Aguilera]]
+|-
+! scope="row" | Rachel & Pasha
+| 27 (6, 7, 7, 7)
+| Waltz
+| "[[When I Need You]]" — [[Luther Vandross]]
+|-
+! scope="row" | Julien & Janette
+| 20 (3, 5, 6, 6)
+| Cha-cha-cha
+| "[[Vogue (Madonna song)|Vogue]]" — [[Madonna (entertainer)|Madonna]]
+|-
+! scope="row" | Deborah & Robin
+| 24 (6, 6, 6, 6)
+| Tango
+| "[[Money, Money, Money]]" — [[ABBA]]
+|-
+! scope="row" | Patrick & Anya
+| 28 (7, 7, 7, 7)
+| Jive
+| "[[Runaway Baby]]" — [[Bruno Mars]]
+|-
+! scope="row" | Vanessa & James
+| 19 (3, 5, 6, 5)
+| Cha-cha-cha
+| "[[That Don't Impress Me Much]]" — [[Shania Twain]]
+|-
+! scope="row" | Abbey & Aljaž
+| 32 (8, 8, 8, 8)
+| Waltz
+| "[[Kissing You (Des'ree song)|Kissing You]]" — [[Des'ree]]
+|}
+
+===Week 2===
+Musical guest: [[Matt Goss]] — "[[When Will I Be Famous?]]"
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music<ref name="Week Two">{{Deprecated archive|url=https://archive.today/20131003221904/http://www.bbc.co.uk/blogs/strictlycomedancing/posts/Week-Two-Strictly-Songs-Revealed|title=BBC – Blogs – Strictly Come Dancing – Week Two: Strictly Songs Revealed}}</ref>
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Susanna & Kevin
+| 31 (7, 8, 8, 8)
+| Tango
+| "[[Locked Out of Heaven]]" — [[Bruno Mars]]
+| Safe
+|-
+! scope="row" | Tony & Aliona
+| 13 (2, 4, 4, 3)
+| Charleston
+| "[[It Don't Mean a Thing (If It Ain't Got That Swing)]]" — [[Duke Ellington]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Natalie & Artem
+| 34 (8, 9, 8, 9)
+| Waltz
+| "[[If I Ain't Got You]]" — [[Alicia Keys]]
+| Safe
+|-
+! scope="row" | Dave & Karen
+| 17 (3, 5, 5, 4)
+| American Smooth
+| "How D'Ya Like Your Eggs in the Morning?" — [[Dean Martin]]
+| Safe
+|-
+! scope="row" | Patrick & Anya
+| 27 (6, 7, 7, 7)
+| Tango
+| "[[Beat It]]" — [[Michael Jackson]]
+| Safe
+|-
+! scope="row" | Deborah & Robin
+| 24 (5, 7, 6, 6)
+| Cha-cha-cha
+| "[[Respect (song)|Respect]]" — [[Aretha Franklin]]
+| Safe
+|-
+! scope="row" | Rachel & Pasha
+| 20 (4, 5, 6, 5)
+| Salsa
+| "[[Get Lucky (Daft Punk song)|Get Lucky]]" — [[Daft Punk]] & [[Pharrell Williams]]
+| Safe
+|-
+! scope="row" | Vanessa & James
+| 23 (5, 6, 6, 6)
+| Waltz
+| "[[Run to You (Whitney Houston song)|Run to You]]" — [[Whitney Houston]]
+| Safe
+|-
+! scope="row" | Julien & Janette
+| 18 (3, 5, 5, 5)
+| Tango
+| "[[Applause (Lady Gaga song)|Applause]]" — [[Lady Gaga]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Fiona & Anton
+| 22 (6, 6, 5, 5)
+| Cha-cha-cha
+| "[[Beggin'#Madcon version|Beggin']]" — [[Madcon]]
+| Safe
+|-
+! scope="row" | Mark & Iveta
+| 22 (4, 6, 7, 5)
+| Salsa
+| "[[Bom Bom]]" — [[Sam and the Womp]]
+| Safe
+|-
+! scope="row" | Sophie & Brendan
+| {{nowrap|36 (9, 9, 9, 9)}}
+| Charleston
+| "[[Rock It for Me]]" — [[Caravan Palace]]
+| Safe
+|-
+! scope="row" | Ben & Kristina
+| 25 (6, 6, 7, 6)
+| Waltz
+| "[[What the World Needs Now Is Love]]" — [[Dionne Warwick]]
+| Safe
+|-
+! scope="row" | Abbey & Aljaž
+| 30 (7, 7, 8, 8)
+| Cha-cha-cha
+| "[[Let's Get Loud]]" — [[Jennifer Lopez]]
+| Safe
+|-
+! scope="row" | Ashley & Ola
+| 32 (7, 9, 8, 8)
+| American Smooth
+| "[[Beyond the Sea (song)|Beyond the Sea]]" — [[Bobby Darin]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Julien & Janette
+*Bussell: Julien & Janette
+*Tonioli: Julien & Janette
+*Goodman: ''Did not vote, but would have voted to save Julien & Janette''
+
+===Week 3: Love Week===
+Musical guest: [[Andrea Bocelli]] — "When I Fall in Love"
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Abbey & Aljaž	
+| 28 (6, 7, 8, 7)
+| Jive
+| "[[Can't Buy Me Love]]" — [[The Beatles]]
+| Safe
+|-
+! scope="row" | Patrick & Anya
+| 27 (6, 7, 7, 7)
+| Foxtrot
+| "[[Let There Be Love (1940 song)|Let There Be Love]]" — [[Nat King Cole]]
+| Safe
+|-
+! scope="row" | Dave & Karen 
+| 16 (2, 5, 5, 4) 
+| Paso doble 
+| "[[I'd Do Anything for Love (But I Won't Do That)]]" — [[Meat Loaf]]
+| Safe
+|-
+! scope="row" | Fiona & Anton
+| 28 (7, 7, 7, 7)
+| Waltz
+| "[[True Love (Cole Porter song)|True Love]]" — [[Pat Boone]]
+| Safe
+|-
+! scope="row" | Rachel & Pasha
+| 27 (6, 7, 7, 7)
+| Cha-cha-cha
+| "[[When Love Takes Over]]" — [[David Guetta]] & [[Kelly Rowland]]
+| Safe
+|-
+! scope="row" | Mark & Iveta
+| 26 (6, 6, 7, 7)
+| American Smooth
+| "[[It Must Be Love (Labi Siffre song)|It Must Be Love]]" — [[Madness (band)|Madness]] 
+| Safe
+|-
+! scope="row" | Ben & Kristina
+| 28 (7, 7, 7, 7)
+| Rumba
+| "[[Make You Feel My Love]]" — [[Adele]]
+| Safe 
+|-
+! scope="row" | Sophie & Brendan
+| 31 (7, 8, 8, 8)
+| Samba
+| "[[All Night Long (All Night)]]" — [[Lionel Richie]]
+| Safe
+|-
+! scope="row" | Julien & Janette
+| 22 (4, 5, 7, 6)
+| Jive
+| "[[Everybody Needs Somebody to Love]]" — [[The Blues Brothers]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Susanna & Kevin
+| 34 (8, 9, 9, 8)
+| Viennese waltz
+| "[[Annie's Song]]" — [[John Denver]]
+| Safe
+|-
+! scope="row" | Vanessa & James
+| 20 (3, 5, 6, 6)
+| Tango
+| "[[Lay All Your Love on Me]]" — [[ABBA]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Ashley & Ola
+| 31 (8, 8, 7, 8)
+| Samba
+| "[[Love Is in the Air (song)|Love Is in the Air]]" — [[John Paul Young]]
+| Safe
+|-
+! scope="row" | Natalie & Artem
+| 36 (9, 9, 9, 9)
+| Rumba 
+| "[[Love the Way You Lie (Part II)]]" — [[Rihanna]]
+| Safe
+|-
+! scope="row" | Deborah & Robin
+| 28 (7, 7, 7, 7)
+| Quickstep
+| "[[(Your Love Keeps Lifting Me) Higher and Higher]]" — [[Jackie Wilson]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Julien & Janette
+*Bussell: Julien & Janette
+*Tonioli: Julien & Janette
+*Goodman: ''Did not vote, but would have voted to save Julien & Janette''
+
+===Week 4===
+Musical guests:
+*[[Andrea Begley]] — "[[Dancing in the Dark (Bruce Springsteen song)|Dancing in the Dark]]"
+*[[Keane (band)|Keane]] — "[[Everybody's Changing]]"
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Sophie & Brendan
+| 35 (8, 9, 9, 9)
+| Foxtrot
+| "[[Cheek to Cheek]]" — [[Irving Berlin]]
+| Safe
+|-
+! scope="row" | Fiona & Anton
+| 22 (4, 6, 6, 6)
+| Rumba
+| "[[World of Our Own (song)|World of Our Own]]" — [[Westlife]]
+| Safe
+|-
+! scope="row" | Mark & Iveta 
+| 26 (3, 8, 8, 7)
+| Cha-cha-cha
+| "[[U Can't Touch This]]" — [[MC Hammer]]
+| Safe
+|-
+! scope="row" | Ashley & Ola
+| 31 (7, 8, 8, 8)
+| Viennese waltz
+| "[[Angel (Sarah McLachlan song)|Angel]]" — [[Sarah McLachlan]]
+| Safe
+|-
+! scope="row" | Julien & Janette
+| 23 (4, 6, 7, 6)
+| Salsa
+| "[[Spice Up Your Life]]" — [[Spice Girls]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Rachel & Pasha
+| 26 (5, 7, 7, 7)
+| Quickstep
+| "[[Johnny Got a Boom Boom]]" — [[Imelda May]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Ben & Kristina
+| 31 (8, 8, 8, 7)
+| Salsa
+| "[[Hard to Handle (song)|Hard to Handle]]" — [[The Black Crowes]]
+| Safe
+|-
+! scope="row" | Deborah & Robin
+| 23 (5, 6, 6, 6)
+| Jive
+| "[[Making Your Mind Up]]" — [[Bucks Fizz (band)|Bucks Fizz]]
+| Safe
+|-
+! scope="row" | Natalie & Artem
+| 35 (9, 9, 8, 9)
+| Quickstep
+| "[[Yeah! (Usher song)|Yeah!]]" — [[Usher (entertainer)|Usher]]
+| Safe
+|-
+! scope="row" | Patrick & Anya
+| 33 (8, 8, 9, 8)
+| Cha-cha-cha
+| "[[Mercy (Duffy song)|Mercy]]" — [[Duffy (singer)|Duffy]]
+| Safe
+|-
+! scope="row" | Abbey & Aljaž
+| 35 (9, 8, 9, 9)
+| Tango
+| "[[Spectrum (Say My Name)|Spectrum]]" — [[Florence and the Machine]]
+| Safe
+|-
+! scope="row" | Dave & Karen
+| 23 (5, 6, 6, 6)
+| Waltz
+| "[[Take It to the Limit (Eagles song)|Take It to the Limit]]" — [[Eagles (band)|Eagles]]
+| Safe
+|-
+! scope="row" | Susanna & Kevin
+| 29 (6, 7, 8, 8)
+| Samba
+| "[[Whenever, Wherever]]" — [[Shakira]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Rachel & Pasha
+*Bussell: Rachel & Pasha
+*Tonioli: Rachel & Pasha
+*Goodman: ''Did not vote, but would have voted to save Rachel & Pasha''
+
+===Week 5===
+Musical guests: [[Earth, Wind and Fire]] — "[[Let's Groove]]", "[[My Promise (song)|My Promise]]" & "[[Boogie Wonderland]]"
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Natalie & Artem
+| 35 (8, 9, 9, 9)
+| Samba
+| "[[Bamboléo|Bamboleo]]" — [[Gipsy Kings]]
+| Safe
+|-
+! scope="row" | Abbey & Aljaž
+| 35 (8, 9, 9, 9)
+| Foxtrot
+| "[[Dear Darlin']]" — [[Olly Murs]]
+| Safe
+|-
+! scope="row" | Dave & Karen
+| 17 (3, 5, 5, 4)
+| Salsa
+| "Cuban Pete" — [[Jim Carrey]]
+| Safe
+|-
+! scope="row" | Deborah & Robin
+| 27 (6, 7, 7, 7)
+| Viennese waltz
+| "[[It's a Man's Man's Man's World]]" — [[James Brown]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Patrick & Anya
+| 28 (6, 8, 7, 7)
+| Salsa
+| "[[Wings (Little Mix song)|Wings]]" — [[Little Mix]] 
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Fiona & Anton
+| 30 (7, 7, 8, 8)
+| Quickstep
+| "[[If My Friends Could See Me Now]]" — [[Sammy Davis Jr.]]
+| Safe
+|-
+! scope="row" | Rachel & Pasha
+| 22 (4, 6, 6, 6)
+| Paso doble
+| "[[Maneater (Nelly Furtado song)|Maneater]]" — [[Nelly Furtado]]
+| Safe
+|-
+! scope="row" | Mark & Iveta
+| 28 (7, 7, 7, 7)
+| Waltz
+| "[[Apologize (OneRepublic song)|Apologize]]" — [[OneRepublic]]
+| Safe
+|-
+! scope="row" | Ashley & Ola
+| 31 (7, 8, 8, 8)
+| Jive
+| "[[Johnny B. Goode]]" — [[Chuck Berry]]
+| Safe
+|-
+! scope="row" | Susanna & Kevin
+| 32 (8, 8, 8, 8)
+| American Smooth
+| "[[On the Sunny Side of the Street]]" — [[Tony Bennett]]
+| Safe
+|-
+! scope="row" | Ben & Kristina
+| 27 (6, 7, 7, 7)
+| Quickstep
+| "[[I'll Be There for You (The Rembrandts song)|I'll Be There for You]]" — [[The Rembrandts]]
+| Safe
+|-
+! scope="row" | Sophie & Brendan
+| 30 (7, 8, 7, 8)
+| Cha-cha-cha
+| "[[P.Y.T. (Pretty Young Thing)]]" — [[Michael Jackson]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Patrick & Anya
+*Bussell: Patrick & Anya
+*Tonioli: Patrick & Anya
+*Goodman: ''Did not vote, but would have voted to save Patrick & Anya''
+
+===Week 6: Halloween Week===
+Musical guest: [[Madness (band)|Madness]] — "[[Oui Oui Si Si Ja Ja Da Da|La Luna]]"<ref>{{cite web|url=https://www.bbc.co.uk/programmes/b03hchtl|title=BBC One – Strictly Come Dancing, Series 11, Week 6 Results|publisher=BBC}}</ref>
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Patrick & Anya
+| 34 (8, 9, 9, 8)
+| Quickstep
+| "Man with the Hex" — [[The Atomic Fireballs]]
+| Safe
+|-
+! scope="row" | Fiona & Anton
+| 28 (6, 7, 8, 7)
+| Charleston
+| "[[Jeepers Creepers (song)|Jeepers Creepers]]" — [[Paula Kelly (singer)|Paula Kelly]]
+| Safe
+|-
+! scope="row" | Ben & Kristina
+| 32 (7, 8, 9, 8)
+| Paso doble
+| "[[Supermassive Black Hole (song)|Supermassive Black Hole]]" — [[Muse (band)|Muse]]
+| Safe
+|-
+! scope="row" | Sophie & Brendan
+| 28 (6, 7, 8, 7)
+| Jive
+| "[[Maneater (Hall & Oates song)|Maneater]]" — [[Hall & Oates]]
+| Safe
+|-
+! scope="row" | Natalie & Artem
+| 38 (9, 10, 9, 10)
+| Viennese waltz
+| "Devil in Me" — [[Natalie Duncan]]
+| Safe
+|-
+! scope="row" | Mark & Iveta
+| 25 (6, 6, 7, 6)
+| Paso doble
+| "[[I Lost My Heart to a Starship Trooper]]" — [[Sarah Brightman]]
+| Safe
+|-
+! scope="row" | Rachel & Pasha
+| 30 (7, 7, 8, 8)
+| American Smooth
+| "[[I Put a Spell on You]]" — [[Screamin' Jay Hawkins]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Ashley & Ola
+| 33 (8, 9, 8, 8)
+| Tango
+| "[[Beautiful Monster]]" — [[Ne-Yo]]
+| Safe
+|-
+! scope="row" | Abbey & Aljaž
+| 34 (8, 8, 9, 9)
+| Rumba
+| "[[Stay (Shakespears Sister song)|Stay]]" — [[Shakespears Sister]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Dave & Karen
+| 19 (4, 5, 6, 4)
+| Jive
+| "[[Monster Mash]]" — [[Bobby "Boris" Pickett]]
+| Safe
+|-
+! scope="row" | Susanna & Kevin
+| 34 (8, 8, 9, 9)
+| Charleston
+| "[[Bad Moon Rising (song)|Bad Moon Rising]]" — [[Creedence Clearwater Revival]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Abbey & Aljaž
+*Bussell: Abbey & Aljaž
+*Tonioli: Abbey & Aljaž
+*Goodman: ''Did not vote, but would have voted to save Abbey & Aljaž''
+
+===Week 7===
+Musical guests:
+*[[The Puppini Sisters]] — "[[Sing, Sing, Sing]]"
+*[[The Tenors]] — "[[Forever Young (Bob Dylan song)|Forever Young]]"<ref>{{cite web|url=https://www.bbc.co.uk/mediacentre/proginfo/2013/46/strictly-come-dancing-results-show.html |archive-url=https://web.archive.org/web/20150925074651/http://www.bbc.co.uk/mediacentre/proginfo/2013/46/strictly-come-dancing-results-show.html |url-status=dead |archive-date=25 September 2015 |title=Media Centre – Programme Information – Strictly Come Dancing – Results Show |publisher=BBC |accessdate=17 November 2013}}</ref>
+
+[[Natalie Gumede]] fainted during dress rehearsals and was unable to perform on the live show. Under the rules of the show, she was granted a [[Bye (sports)|bye]] to the following week.
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Ben & Kristina
+| 26 (4, 7, 8, 7)
+| Jive
+| "[[Jump, Jive an' Wail]]" — [[Louis Prima]]
+| Safe
+|-
+! scope="row" | Fiona & Anton
+| 26 (5, 7, 7, 7)
+| Paso doble
+| "[[Song 2]]" — [[Blur (band)|Blur]]
+| Safe
+|-
+! scope="row" | Abbey & Aljaž
+| 36 (9, 9, 9, 9)
+| Charleston
+| "[[Cabaret (musical)|Cabaret]]" — [[Liza Minnelli]]
+| Safe
+|-
+! scope="row" | Mark & Iveta
+| 23 (5, 6, 7, 5)
+| Rumba
+| "[[Goldfinger (Shirley Bassey song)|Goldfinger]]" — [[Shirley Bassey]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Susanna & Kevin
+| 36 (9, 9, 9, 9)
+| Waltz
+| "[[You Light Up My Life (song)|You Light Up My Life]]" — [[Whitney Houston]]
+| Safe
+|-
+! scope="row" | Dave & Karen
+| 20 (4, 6, 6, 4)
+| Tango
+| "[[I'm Gonna Be (500 Miles)]]" — [[The Proclaimers]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Ashley & Ola
+| 35 (8, 9, 9, 9)
+| Quickstep
+| "[[Are You Gonna Be My Girl]]" — [[Jet (band)|Jet]]
+| Safe
+|-
+! scope="row" | Sophie & Brendan
+| 32 (8, 8, 8, 8)
+| Argentine tango
+| "[[Sweet Dreams (Are Made of This)]]" — [[Tanghetto]]
+| Safe
+|-
+! scope="row" | Patrick & Anya
+| 37 (9, 10, 9, 9)
+| American Smooth
+| "[[It Had to Be You (song)|It Had to Be You]]" — [[Harry Connick Jr.]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Mark & Iveta
+*Bussell: Mark & Iveta
+*Tonioli: Mark & Iveta
+*Goodman: ''Did not vote, but would have voted to save Dave & Karen''
+
+===Week 8: Blackpool Week===
+Musical guests: [[André Rieu]] & [[JLS]] — "[[Billion Lights]]"<ref>{{cite web|author=7.15–8.00&nbsp;pm |url=https://www.bbc.co.uk/mediacentre/proginfo/2013/47/strictly-come-dancing-results-show.html |archive-url=https://web.archive.org/web/20131114144223/http://www.bbc.co.uk/mediacentre/proginfo/2013/47/strictly-come-dancing-results-show.html |url-status=dead |archive-date=14 November 2013 |title=Media Centre – Programme Information – Strictly Come Dancing – Results Show |publisher=BBC |accessdate=17 November 2013}}</ref>
+
+This week's episode was staged in the [[Blackpool Tower#Tower Ballroom|Tower Ballroom]] at the [[Blackpool Tower]] in [[Blackpool, Lancashire]]. Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Sophie & Brendan
+| 34 (7, 9, 9, 9)
+| Quickstep
+| "[[The Lady Is a Tramp]]" — [[Shirley Bassey]]
+| Safe
+|-
+! scope="row" | Patrick & Anya
+| 35 (8, 9, 9, 9)
+| Samba
+| "[[Copacabana (song)|Copacabana]]" — [[Barry Manilow]]
+| Safe
+|-
+! scope="row" | Ben & Kristina
+| 32 (8, 8, 8, 8)
+| American Smooth
+| "[[Fallin' (Alicia Keys song)|Fallin']]" — [[Alicia Keys]]
+| Safe
+|-
+! scope="row" | Ashley & Ola
+| 35 (8, 9, 9, 9)
+| Paso doble
+| "[[You Give Love a Bad Name (song)|You Give Love a Bad Name]]" — [[Bon Jovi]]
+| Safe
+|-
+! scope="row" | Fiona & Anton
+| 29 (6, 7, 8, 8)
+| American Smooth
+| "[[Come Fly with Me (1957 song)|Come Fly with Me]]" — [[Frank Sinatra]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Abbey & Aljaž
+| 37 (7, 10, 10, 10)
+| Quickstep
+| "[[Walking on Sunshine (Katrina and the Waves album)|Walking on Sunshine]]" — [[Katrina and the Waves]]
+| Safe
+|-
+! scope="row" | Mark & Iveta
+| 29 (5, 8, 8, 8)
+| Jive
+| "[[You Can't Stop the Beat]]" — from ''[[Hairspray (musical)|Hairspray]]''
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Susanna & Kevin
+| 39 (9, 10, 10, 10)
+| Paso doble
+| "[[Carmen|Les Toreadors]]" — [[Georges Bizet]]
+| Safe
+|-
+! scope="row" | Natalie & Artem
+| 39 (9, 10, 10, 10)
+| Charleston
+| "[[Bang Bang (will.i.am song)|Bang Bang]]" — [[will.i.am]] 
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Fiona & Anton
+*Bussell: Mark & Iveta
+*Tonioli: Mark & Iveta
+*Goodman: Mark & Iveta
+
+===Week 9===
+Musical guest: [[Il Divo]] — "[[Tonight (1956 song)|Tonight]]"
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Susanna & Kevin
+| 31 (7, 8, 8, 8)
+| Cha-cha-cha
+| "[[Hound Dog (song)|Hound Dog]]" — from ''[[Smokey Joe's Cafe (revue)|Smokey Joe's Cafe]]''
+| Safe
+|-
+! scope="row" | Ashley & Ola
+| 35 (8, 9, 9, 9)
+| Waltz
+| "[[I Will Always Love You]]" — [[Whitney Houston]]
+| Safe
+|-
+! scope="row" | Natalie & Artem
+| 37 (9, 9, 9, 10)
+| Tango
+| "[[Where Have You Been]]" — [[Rihanna]]
+| Safe
+|-
+! scope="row" | Mark & Iveta
+| 28 (6, 8, 7, 7)
+| Foxtrot
+| "[[It's a Beautiful Day (Michael Bublé song)|It's a Beautiful Day]]" — [[Michael Bublé]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Sophie & Brendan
+| 31 (7, 8, 8, 8)
+| Rumba
+| "[[Will You Love Me Tomorrow]]" — [[Amy Winehouse]]
+| Safe
+|-
+! scope="row" | Ben & Kristina
+| 27 (6, 7, 7, 7)
+| Charleston
+| "[[No Diggity]]" — Minimatic
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Abbey & Aljaž
+| 32 (8, 8, 8, 8)
+| Paso doble
+| "[[You've Got the Love]]" — [[Florence and the Machine]]
+| Safe
+|-
+! scope="row" | Patrick & Anya
+| 32 (8, 8, 8, 8)
+| Viennese waltz
+| "[[A New Day Has Come]]" — [[Celine Dion]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Ben & Kristina 
+*Bussell: Mark & Iveta
+*Tonioli: Mark & Iveta
+*Goodman: Mark & Iveta
+
+===Week 10: Musicals Week===
+Musical guest: [[Alfie Boe]] — "[[Bring Him Home (Les Misérables)|Bring Him Home]]" ''(from [[Les Misérables (musical)|Les Misérables]])''
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Musical
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Patrick & Anya
+| 38 (8, 10, 10, 10)
+| Charleston
+| "[[Chitty Chitty Bang Bang (song)|Chitty Chitty Bang Bang]]" 
+| ''[[Chitty Chitty Bang Bang (musical)|Chitty Chitty Bang Bang]]''
+| Safe
+|-
+! scope="row" | Natalie & Artem
+| 36 (9, 9, 8, 10)
+| American Smooth
+| "[[And I Am Telling You I'm Not Going]]"
+| ''[[Dreamgirls]]''
+| Safe
+|-
+! scope="row" | Mark & Iveta
+| 29 (7, 7, 7, 8)
+| Samba
+| "[[I Just Can't Wait to Be King]]"
+| ''[[The Lion King (musical)|The Lion King]]''
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Sophie & Brendan
+| 36 (9, 9, 9, 9)
+| Viennese waltz
+| "[[My Favorite Things (song)|My Favorite Things]]"
+| ''[[The Sound of Music]]''
+| Safe
+|-
+! scope="row" | Abbey & Aljaž
+| {{nowrap|40 (10, 10, 10, 10)}}
+| Salsa
+| "[[You Should Be Dancing]]"
+| ''[[Saturday Night Fever (musical)|Saturday Night Fever]]''
+| Safe
+|-
+! scope="row" | Ashley & Ola
+| 35 (8, 9, 9, 9)
+| Rumba
+| "[[A Whole New World]]"
+| ''[[Aladdin (2011 musical)|Aladdin]]''
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Susanna & Kevin
+| 33 (7, 8, 9, 9)
+| Quickstep
+| "[[Good Morning (1939 song)|Good Morning]]" 
+| ''[[Singin' in the Rain (musical)|Singin' in the Rain]]''
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Ashley & Ola
+*Bussell: Ashley & Ola
+*Tonioli: Ashley & Ola
+*Goodman: ''Did not vote, but would have voted to save Ashley & Ola''
+
+===Week 11: Quarter-final===
+Musical guest: [[The Saturdays]] — "[[What About Us (The Saturdays song)|What About Us]]"
+
+Each couple performed one routine, and then all couples participated in a [[Swing (dance)|swing dance]] marathon for additional points. Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Ashley & Ola
+| 35 (8, 9, 9, 9)
+| Salsa
+| "[[Conga (song)|Conga]]" — [[Gloria Estefan]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Natalie & Artem
+| 35 (9, 9, 8, 9)
+| Paso doble
+| "[[El Gato Montes]]" — Ramon Cortez Pasodoble Orchestra
+| Safe
+|-
+! scope="row" | Patrick & Anya
+| 36 (8, 10, 9, 9)
+| Rumba
+| "[[When I Was Your Man]]" — [[Bruno Mars]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Susanna & Kevin
+| 32 (8, 8, 8, 8)
+| Argentine tango
+| "[[Smooth Criminal]]" — [[Michael Jackson]]
+| Safe
+|-
+! scope="row" | Abbey & Aljaž
+| 37 (9, 9, 9, 10)
+| Viennese waltz
+| "[[Delilah (Tom Jones song)|Delilah]]" — [[Tom Jones (singer)|Tom Jones]]
+| Safe
+|-
+! scope="row" | Sophie & Brendan
+| 34 (9, 8, 8, 9)
+| Tango
+| "[[Material Girl]]" — [[Madonna (entertainer)|Madonna]]
+| Safe
+|-
+! scope="row" | Susanna & Kevin
+| 1
+| rowspan="6" | Swing-a-thon<br>''(Swing Marathon)''
+| colspan="2" rowspan="6" | "[[Do You Love Me]]" — [[The Contours]]
+|-
+! scope="row" | Ashley & Ola
+| 2
+|-
+! scope="row" | Abbey & Aljaž
+| 3
+|-
+! scope="row" | Sophie & Brendan
+| 4
+|-
+! scope="row" | Patrick & Anya
+| 5
+|-
+! scope="row" | Natalie & Artem
+| 6
+|}
+;Judges' votes to save
+*Horwood: Patrick & Anya
+*Bussell: Patrick & Anya
+*Tonioli: Patrick & Anya
+*Goodman: ''Did not vote, but would have voted to save Ashley & Ola''
+
+===Week 12: Semi-final===
+Musical guest: [[Celine Dion]] — "[[Breakaway (Celine Dion song)|Breakaway]]"
+
+Each couple performed two routines, and are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result<ref>{{cite web|url=https://tellymix.co.uk/reality-tv/strictly-come-dancing/169786-strictly-come-dancing-2013-results-who-left-patrick-robinson-eliminated.html |title=Strictly Come Dancing 2013 results: Who left? Patrick Robinson eliminated |last=Darvill |first=Josh |work=Tellymix |date=15 December 2013 |access-date=13 February 2019}}</ref>
+|-
+! scope="row" rowspan=2 | Natalie & Artem
+| 40 (10, 10, 10, 10)
+| Salsa
+| "[[Wanna Be Startin' Somethin']]" — [[Michael Jackson]]
+| rowspan=2 bgcolor="lightblue" | Bottom two
+|-
+| 38 (9, 9, 10, 10)
+| Argentine tango
+| "Montserrat" — [[Bajofondo]]
+|-
+! scope="row" rowspan=2 | Patrick & Anya
+| 36 (9, 9, 9, 9)
+| Waltz
+| "[[Unchained Melody]]" — [[The Righteous Brothers]]
+| rowspan=2 bgcolor="f4c7b8" | Eliminated
+|-
+| 33 (7, 8, 9, 9)
+| Paso doble
+| "[[Because the Night]]" — [[Patti Smith]]
+|-
+! scope="row" rowspan=2 | Sophie & Brendan
+| 35 (8, 9, 9, 9)
+| Paso doble
+| "[[Montagues and Capulets]]" — [[Sergei Prokofiev]]
+| rowspan=2 | Safe
+|-
+| 36 (8, 9, 9, 10)
+| American Smooth
+| "[[They Can't Take That Away From Me]]" — [[Lisa Stansfield]]
+|-
+! scope="row" rowspan=2 | Susanna & Kevin
+| 38 (9, 9, 10, 10)
+| Foxtrot
+| "[[Can't Take My Eyes Off You]]" — [[Frankie Valli]]
+| rowspan=2 | Safe
+|-
+| 32 (8, 8, 8, 8)
+| Salsa
+| "[[Move Your Feet]]" — [[Junior Senior]]
+|-
+! scope="row" rowspan=2 | Abbey & Aljaž
+| rowspan="2" | 39 (9, 10, 10, 10)
+| Samba
+| "[[Faith (George Michael song)|Faith]]" — [[George Michael]]
+| rowspan=2 | Safe
+|-
+| American Smooth
+| "[[Sweet Caroline]]" — [[Neil Diamond]]
+|}
+;Judges' votes to save
+*Horwood: Natalie & Artem
+*Bussell: Natalie & Artem
+*Tonioli: Natalie & Artem
+*Goodman: ''Did not vote, but would have voted to save Natalie & Artem''
+
+===Week 13: Final===
+Musical guest: [[Robbie Williams]]  —"[[Puttin' On the Ritz]]"
+
+During the first show, each couple performed two routines, one of which was their showdance routine and the other chosen by the judges. At the beginning of the second show, the couple with the lowest public vote was eliminated. During the second show, each couple performed their favourite dance of the series. Couples are listed in the order they performed. 
+;Show 1
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" rowspan=2 | Susanna & Kevin
+| 37 (8, 9, 10, 10)
+| Quickstep
+| "[[Good Morning (1939 song)|Good Morning]]" — from ''[[Singin' in the Rain]]''
+| rowspan=2 | Safe
+|-
+| 36 (9, 9, 9, 9)
+| Showdance
+| "[[Your Song]]" — [[Ewan McGregor]]
+|-
+! scope="row" rowspan=2 | Abbey & Aljaž
+| 40 (10, 10, 10, 10)
+| Waltz
+| "[[Kissing You (Des'ree song)|Kissing You]]" — [[Des'ree]]
+| rowspan=2 | Safe
+|-
+| 38 (9, 10, 9, 10)
+| Showdance
+| "[[Sweet Child o' Mine]]" — [[Guns N' Roses]]
+|-
+! scope="row" rowspan=2 | Natalie & Artem
+| 39 (9, 10, 10, 10)
+| Cha-cha-cha
+| "[[Rasputin (song)|Rasputin]]" — [[Boney M.]]
+| rowspan=2 | Safe
+|-
+| 40 (10, 10, 10, 10)
+| Showdance
+| "[[Steppin' Out with My Baby]]" — [[Tony Bennett]]
+|-
+! scope="row" rowspan=2 | Sophie & Brendan
+| 39 (9, 10, 10, 10)
+| Viennese waltz
+| "[[My Favorite Things (song)|My Favorite Things]]" — from ''[[The Sound of Music]]''
+| rowspan=2 bgcolor="dlc571" | Fourth place
+|-
+| 35 (8, 9, 9, 9)
+| Showdance
+| "[[I Wanna Dance With Somebody]]" — [[Whitney Houston]]
+|}
+;Show 2
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Susanna & Kevin
+| 39 (9, 10, 10, 10)
+| Paso doble
+| "[[Carmen|Les Toreadors]]" — [[Georges Bizet]]
+| bgcolor="silver" | Runners-up
+|-
+! scope="row" | Abbey & Aljaž
+| 38 (9, 10, 9, 10)
+| Quickstep
+| "[[Walking on Sunshine (Katrina and the Waves album)|Walking on Sunshine]]" — [[Katrina and the Waves]]
+| bgcolor="gold" | '''Winners'''
+|-
+! scope="row" | Natalie & Artem
+| 40 (10, 10, 10, 10)
+| American Smooth
+| "[[And I Am Telling You I'm Not Going]]" — from ''[[Dreamgirls]]''
+| bgcolor="silver" | Runners-up
+|}
+
+==Dance chart==
+The couples performed the following each week:
+*Weeks 1–10: One unlearned dance
+*Week 11: One unlearned dance & swing dance marathon
+*Week 12: Two unlearned dances
+*Week 13 (Show 1): Judges' choice & showdance
+*Week 13 (Show 2): Favourite dance of the series
+
+{| class="wikitable unsortable" style="text-align:center; font-size:85%; line-height:20px"
+|+''Strictly Come Dancing'' (series 11) - Dance chart
+! rowspan="2" |Couple
+! colspan="17" |Week
+|-
+! scope="col" | 1
+! scope="col" | 2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" | 5
+! scope="col" | 6
+! scope="col" | 7
+! scope="col" | 8
+! scope="col" | 9
+! scope="col" | 10
+! scope="col" colspan="2" | 11
+! scope="col" colspan="2" | 12
+! scope="col" colspan="3" | 13
+|-
+! scope="row" | Abbey & Aljaž
+| Waltz
+| {{nowrap|Cha-cha}}-cha
+| Jive
+| Tango
+| Foxtrot
+| Rumba
+| Charleston
+| Quickstep
+| Paso doble
+| Salsa
+| Viennese waltz
+| rowspan="6" | Swing<br>Marathon
+| Samba
+| American Smooth
+| Waltz
+| Showdance
+| Quickstep
+|-
+! scope="row" | Natalie & Artem
+| {{nowrap|Cha-cha}}-cha
+| Waltz
+| Rumba
+| Quickstep
+| Samba
+| Viennese waltz
+| bgcolor="darkgray" |Jive
+| Charleston
+| Tango
+| American Smooth
+| Paso doble
+| Salsa
+| Argentine tango
+| Cha-cha-cha
+| Showdance
+| American Smooth
+|-
+! scope="row" | Susanna & Kevin
+| Jive
+| Tango
+| Viennese waltz
+| Samba
+| American Smooth
+| Charleston
+| Waltz
+| Paso doble
+| {{nowrap|Cha-cha}}-cha
+| Quickstep
+| Argentine tango
+| Foxtrot
+| Salsa
+| Quickstep
+| Showdance
+| Paso doble
+|-
+! scope="row" | {{nowrap|Sophie &}} Brendan
+| Waltz
+| Charleston
+| Samba
+| Foxtrot
+| {{nowrap|Cha-cha}}-cha
+| Jive
+| Argentine tango
+| Quickstep
+| Rumba
+| Viennese waltz
+| Tango
+| Paso doble
+| American Smooth
+| Viennese waltz
+| Showdance
+| rowspan="12" bgcolor="darkgrey" |
+|-
+! scope="row" | Patrick & Anya
+| Jive
+| Tango
+| Foxtrot
+| {{nowrap|Cha-cha}}-cha
+| Salsa
+| Quickstep
+| American Smooth
+| Samba
+| Viennese waltz
+| Charleston
+| Rumba
+| Waltz
+| Paso doble
+| colspan="2" rowspan="11" bgcolor="darkgrey" |
+|-
+! scope="row" | Ashley & Ola
+| Cha-cha-cha
+| American Smooth
+| Samba
+| Viennese waltz
+| Jive
+| Tango
+| Quickstep
+| Paso doble
+| Waltz
+| Rumba
+| Salsa
+| colspan="2" rowspan="10" bgcolor="darkgrey" |
+|-
+! scope="row" | Mark & Iveta
+| Tango
+| Salsa
+| American Smooth
+| Cha-cha-cha
+| Waltz
+| Paso doble
+| Rumba
+| Jive
+| Foxtrot
+| Samba
+| colspan="2" rowspan="9" bgcolor="darkgrey" |
+|-
+! scope="row" | Ben & Kristina
+| Cha-cha-cha
+| Waltz
+| Rumba
+| Salsa
+| Quickstep
+| Paso doble
+| Jive
+| American Smooth
+| Charleston
+| rowspan="8" bgcolor="darkgrey" |
+|-
+! scope="row" | Fiona & Anton
+| Tango
+| Cha-cha-cha
+| Waltz
+| Rumba
+| Quickstep
+| Charleston
+| Paso doble
+| American Smooth
+| rowspan="7" bgcolor="darkgrey" |
+|-
+! scope="row" | Dave & Karen
+| Cha-cha-cha
+| American Smooth
+| Paso doble
+| Waltz
+| Salsa
+| Jive
+| Tango
+| rowspan="6" bgcolor="darkgrey" |
+|-
+! scope="row" | Rachel & Pasha
+| Waltz
+| Salsa
+| Cha-cha-cha
+| Quickstep
+| Paso doble
+| American Smooth
+| rowspan="5" bgcolor="darkgrey" |
+|-
+! scope="row" | Deborah & Robin
+| Tango
+| Cha-cha-cha
+| Quickstep
+| Jive
+| Viennese waltz
+| rowspan="4" bgcolor="darkgrey" |
+|-
+! scope="row" | Julien & Janette
+| Cha-cha-cha
+| Tango
+| Jive
+| Salsa
+| rowspan="3" bgcolor="darkgrey" |
+|-
+! scope="row" | Vanessa & James
+| Cha-cha-cha
+| Waltz
+| Tango
+| rowspan="2" bgcolor="darkgrey" |
+|-
+! scope="row" | Tony & Aliona
+| Waltz
+| Charleston
+| bgcolor="darkgrey" |
+|}
+
+==Ratings==
+Weekly ratings for each show on [[BBC One]]. All ratings are provided by BARB.<ref>{{cite web|url=https://www.barb.co.uk/viewing-data/four-screen-dashboard/|title=Four-screen dashboard (7-day data)|publisher=[[BARB]]|access-date=24 September 2022}}</ref>
+{| class="wikitable sortable" style="text-align:center"
+|-
+! scope="col"|Episode
+! scope="col"|Date
+! scope="col"|Official rating<br />(millions)
+! scope="col"|Weekly rank<br />for BBC One
+! scope="col"|Weekly rank<br />for all UK TV
+! scope="col"|Share
+|-
+!scope="row"|Launch show
+|{{dts|7 September}} || 9.53 || 1 || 1 || 41.3%<ref>{{cite web |date=8 September 2013 |title='Strictly Come Dancing' returns with 8.43m on BBC One – TV News |url=http://www.digitalspy.co.uk/tv/news/a513563/strictly-come-dancing-returns-with-843m-on-bbc-one.html |accessdate=4 October 2013 |work=Digital Spy}}</ref>
+|-
+!scope=row|Week 1 (Night 1)
+|{{dts|27 September}} || 9.33 || 2 || 3 || 35.2%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/news/a519349/strictly-come-dancing-kicks-off-with-781m-on-bbc-one.html |title='Strictly Come Dancing' kicks off with 7.81m on BBC One – TV News |work=Digital Spy |date=28 September 2013 |accessdate=21 December 2013}}</ref>
+|-
+!scope=row|Week 1 (Night 2)
+|{{dts|28 September}} || 10.53 || 1 || 1 || 43.4%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s230/atlantis/news/a519419/atlantis-debuts-with-56m-on-bbc-one.html |title='Atlantis' debuts with 5.6m on BBC One – Atlantis News – Cult |work=Digital Spy |date=29 September 2013 |accessdate=21 December 2013}}</ref>
+|-
+!scope=row|Week 2
+|{{dts|5 October}} || 10.33 || 1 || 1 || 42.1%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/news/a521391/atlantis-continues-with-5m-on-bbc-one.html |title='Atlantis' continues with 5m on BBC One – TV News |work=Digital Spy |date=6 October 2013 |accessdate=21 December 2013}}</ref>
+|-
+!scope=row|Week 2 results
+|{{dts|6 October}} || 8.85 || 2 || 3 || 33.2%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/news/a521551/strictly-beats-x-factor-on-sunday-downton-abbey-drops.html |title='Strictly' beats 'X Factor' on Sunday, 'Downton Abbey' drops – TV News |work=Digital Spy |date=7 October 2013 |accessdate=21 December 2013}}</ref>
+|-
+!scope=row|Week 3
+|{{dts|12 October}} || 10.90 || 1 || 1 || 43.1%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s104/strictly-come-dancing/news/a523213/strictly-beats-x-factor-by-2-million-on-saturday.html |title='Strictly' beats 'X Factor' by 2 million on Saturday – Strictly Come Dancing News – Reality TV |work=Digital Spy |date=13 October 2013 |accessdate=21 December 2013}}</ref>
+|-
+!scope=row|Week 3 results
+|{{dts|13 October}} || 8.95 || 2 || 4 || 31.9%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/news/a523344/x-factors-first-results-show-beats-strictly-come-dancing-on-sunday.html |title='X Factor's first results show beats 'Strictly Come Dancing' on Sunday – TV News |work=Digital Spy |date=14 October 2013 |accessdate=21 December 2013}}</ref>
+|-
+!scope=row|Week 4
+|{{dts|19 October}} || 10.85 || 1 || 1 || 43.9%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s104/strictly-come-dancing/news/a524929/strictly-come-dancing-extends-ratings-lead-over-x-factor.html|title='Strictly Come Dancing' extends ratings lead over 'X Factor'|work=Digital Spy|date=20 October 2013}}</ref>
+|-
+!scope=row|Week 4 results
+|{{dts|20 October}} || 10.02 || 2 || 2 || 38.4%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/news/a525041/strictly-beats-x-factor-downton-abbey-on-sunday-night.html|title='Strictly' beats 'X Factor', 'Downton Abbey' on Sunday night|work=Digital Spy|date=21 October 2013}}</ref>
+|-
+!scope=row|Week 5
+|{{dts|26 October}} || 10.66 || 1 || 1 || 44.4%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s104/strictly-come-dancing/news/a526752/strictly-come-dancing-leads-saturday-ratings-with-9m.html|title='Strictly Come Dancing' leads Saturday ratings with 9m|work=Digital Spy|date=27 October 2013}}</ref>
+|-
+!scope=row|Week 5 results
+|{{dts|27 October}} || 10.19 || 2 || 2 || 37.8%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/news/a526880/strictly-come-dancing-rises-to-beat-x-factor-on-sunday.html|title='Strictly Come Dancing' rises to beat 'X Factor' on Sunday|work=Digital Spy|date=28 October 2013}}</ref>
+|-
+!scope=row|Week 6
+|{{dts|2 November}} || 11.09 || 1 || 1 || 44.0%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s104/strictly-come-dancing/news/a528442/strictly-come-dancing-ratings-hit-series-high.html|title='Strictly Come Dancing' ratings hit series high|work=Digital Spy|date=3 November 2013}}</ref>
+|-
+!scope=row|Week 6 results
+|{{dts|3 November}} || 10.59 || 2 || 2 || 38.7%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s103/the-x-factor/news/a528550/strictly-come-dancing-downton-abbey-rise-to-beat-x-factor.html|title='Strictly Come Dancing', 'Downton Abbey' rise to beat 'X Factor'|work=Digital Spy|date=4 November 2013}}</ref>
+|-
+!scope=row|Week 7
+|{{dts|9 November}} || 11.26 || 1 || 1 || 43.1%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s103/the-x-factor/news/a530131/strictly-come-dancing-continues-ratings-lead-over-x-factor.html|title='Strictly Come Dancing' continues ratings lead over 'X Factor'|work=Digital Spy|date=10 November 2013}}</ref>
+|-
+!scope=row|Week 7 results
+|{{dts|10 November}} || 10.79 || 2 || 2 || 39.9%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/news/a530252/strictly-come-dancing-tops-sunday-ratings-x-factor-and-downton-up.html|title='Strictly Come Dancing' tops Sunday ratings, 'X Factor' and 'Downton' up|work=Digital Spy|date=11 November 2013}}</ref>
+|-
+!scope=row|Week 8
+|{{dts|16 November}} || 11.46 || 1 || 1 || 44.0%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s103/the-x-factor/news/a531782/strictly-come-dancing-ratings-increase-the-x-factor-drops.html|title='Strictly Come Dancing' ratings increase, 'The X Factor' drops|work=Digital Spy|date=17 November 2013}}</ref>
+|-
+!scope=row|Week 8 results
+|{{dts|17 November}} || 10.17 || 2 || 3 || 34.7%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s100/im-a-celebrity-uk/news/a531903/im-a-celebrity-returns-with-best-ever-opening-ratings.html|title='I'm a Celebrity' returns with best ever opening ratings|work=Digital Spy|date=18 November 2013}}</ref>
+|-
+!scope=row|Week 9
+|{{dts|23 November}} || 11.48  || 2 || 2 || 43.7%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s104/strictly-come-dancing/news/a533478/strictly-come-dancing-ratings-hit-series-high-with-117m-peak.html|title='Strictly Come Dancing' ratings hit series high with 11.7m peak|work=Digital Spy|date=23 November 2013}}</ref>
+|-
+!scope=row|Week 9 results
+|{{dts|24 November}} || 10.61 || 3 || 3 || 39.0%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s100/im-a-celebrity-uk/news/a533588/im-a-celebrity-edges-strictly-and-x-factor-on-sunday-night.html|title='I'm a Celebrity' edges 'Strictly' and 'X Factor' on Sunday night|work=Digital Spy|date=25 November 2013}}</ref>
+|-
+!scope=row|Week 10
+|{{dts|30 November}} || 11.38 || 1 || 1 || 42.9%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s104/strictly-come-dancing/news/a535052/strictly-come-dancing-continues-ratings-success-for-bbc-one.html|title='Strictly Come Dancing' continues ratings success for BBC One|work=Digital Spy|date=December 2013}}</ref>
+|-
+!scope=row|Week 10 results
+|{{dts|1 December}} || 10.75 || 2 || 2 || 40.4%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/news/a535142/strictly-come-dancing-rises-to-beat-im-a-celebrity-x-factor.html|title=Strictly Come Dancing rises to beat I'm a Celebrity, X Factor|work=Digital Spy|date=2 December 2013}}</ref>
+|-
+!scope=row|Week 11
+|{{dts|7 December}} || 11.84 || 1 || 1 || 44.7%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s103/the-x-factor/news/a536694/strictly-come-dancing-quarter-final-peaks-at-113-million-on-bbc-one.html|title=Strictly Come Dancing quarter-final peaks at 11.3&nbsp;million on BBC One|work=Digital Spy|date=8 December 2013}}</ref>
+|-
+!scope=row|Week 11 results
+|{{dts|8 December}} || 10.02 || 2 || 3 || 35.2%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s100/im-a-celebrity-uk/news/a536816/im-a-celebrity-kian-egan-victory-attracts-11-million.html|title=I'm a Celebrity: Kian Egan victory attracts 11 million|work=Digital Spy|date=9 December 2013}}</ref>
+|-
+!scope=row|Week 12
+|{{dts|14 December}} || 11.07 || 1 || 1 || 42.8%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/news/a538392/strictly-come-dancing-semi-final-peaks-with-1061m-viewers-on-bbc-one.html|title=Strictly Come Dancing semi-final peaks with 10.61m viewers on BBC One|work=Digital Spy|date=15 December 2013}}</ref>
+|-
+!scope=row|Week 12 results
+|{{dts|15 December}} || 10.22 || 2 || 2 || 38.9%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s103/the-x-factor/news/a538510/the-x-factor-drops-to-lowest-rated-final-since-2004-launch-with-95m.html|title=The X Factor drops to lowest-rated final since 2004 launch with 9.5m|work=Digital Spy|date=16 December 2013}}</ref>
+|-
+!scope=row|Week 13
+|{{dts|21 December}} || 12.42 || 2 || 2 || 48.1%<ref name="m.digitalspy.co.uk">{{cite web|url=http://m.digitalspy.co.uk/tv/s104/strictly-come-dancing/news/a540119/strictly-come-dancing-final-watched-by-115m-on-bbc-one.html|title=Strictly Come Dancing final watched by 11.5m on BBC One|website=[[Digital Spy]]}}</ref>
+|-
+!scope=row|Week 13 results
+|{{dts|21 December}} || 12.79 || 1 || 1 || 45.8%<ref name="m.digitalspy.co.uk"/>
+|-
+! Series average<br>(excl. launch show)
+! 2013
+! 10.71
+! {{N/A}}
+! {{N/A}}
+! 40.7%
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.bbc.co.uk/programmes/b006m8dq Official website]
+
+{{Strictly Come Dancing}}
+
+[[Category:2013 British television seasons]]
+[[Category:Strictly Come Dancing series|Season 11]]
+[[Category:2013 in British television]]
+[[Category:Sophie Ellis-Bextor]]

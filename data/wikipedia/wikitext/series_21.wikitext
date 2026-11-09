@@ -1,0 +1,1760 @@
+{{Short description|None}}
+{{pp-semi-indef|small=yes}}
+{{Use dmy dates|date=July 2023}}
+{{Use British English|date=July 2023}}
+{{Infobox television season
+| bgcolor       = #bfacc8
+| series_number = 21
+| module1       = {{Infobox reality competition season
+| celebrity_winner    = [[Ellie Leach]]
+| professional_winner = [[Vito Coppola]]
+| presenter = [[Tess Daly]]<br>[[Claudia Winkleman]]
+| judges    = [[Shirley Ballas]]<br>[[Anton Du Beke]]<br>[[Motsi Mabuse]]<br>[[Craig Revel Horwood]]
+}}
+| num_episodes  = 25
+| network       = [[BBC One]]
+| first_aired   = {{Start date|2023|09|16|df=y}}
+| last_aired    = {{End date|2023|12|16|df=y}}
+| prev_series   = [[Strictly Come Dancing (series 20)|Series 20]]
+}}
+
+''[[Strictly Come Dancing]]'' returned for its twenty-first series with a launch show on 16 September 2023 on [[BBC One]], with live shows beginning on 23 September.<ref>{{cite news|url=https://uk.sports.yahoo.com/news/strictly-come-dancing-everything-fans-060009536.html|title=Strictly Come Dancing: Everything Fans Need To Know About This Year's Series|publisher=[[Yahoo!]]|date=26 August 2023|accessdate=26 August 2023}}</ref><ref>{{cite web |title=Strictly Come Dancing: Launch Show |url=https://bbc.co.uk/showsandtours/shows/strictly-launch-show-6sept23 |publisher=[[BBC]] |access-date=20 July 2023 |archive-date=21 July 2023 |archive-url=https://web.archive.org/web/20230721122758/https://www.bbc.co.uk/showsandtours/shows/strictly-launch-show-6sept23 |url-status=dead }}</ref> [[Tess Daly]] and [[Claudia Winkleman]] returned as hosts, while [[Janette Manrara]] returned to host ''[[Strictly Come Dancing: It Takes Two]]'', alongside [[Fleur East]], who was announced as the new co-host after [[Rylan Clark]]'s departure in April 2023.<ref>{{cite news |last1=Glynn |first1=Paul |title=Rylan Clark steps down from Strictly Come Dancing spin-off It Takes Two |url=https://www.bbc.co.uk/news/entertainment-arts-65248559 |work=[[BBC News]] |access-date=20 July 2023 |date=12 April 2023 |archive-date=14 May 2023 |archive-url=https://web.archive.org/web/20230514071118/https://www.bbc.co.uk/news/entertainment-arts-65248559 |url-status=live }}</ref><ref>{{cite news |last1=Moss |first1=Molly |title=Strictly It Takes Two confirms Fleur East as new host and Rylan responds to replacement |url=https://radiotimes.com/tv/entertainment/strictly-it-takes-two-host-fleur-east-rylan-replacement-newsupdate/ |work=[[Radio Times]] |access-date=20 July 2023 |date=17 June 2023 |archive-date=28 June 2023 |archive-url=https://web.archive.org/web/20230628225833/https://www.radiotimes.com/tv/entertainment/strictly-it-takes-two-host-fleur-east-rylan-replacement-newsupdate/ |url-status=live }}</ref> In April 2023, the BBC announced that [[Shirley Ballas]], [[Anton Du Beke]], [[Motsi Mabuse]], and [[Craig Revel Horwood]] would return to the judging panel.<ref name="Judges and professionals">{{cite news |title=Strictly Come Dancing 2023 Professional Dancers, Judges, Presenters and more confirmed |url=https://bbc.com/mediacentre/2023/strictly-come-dancing-2023-professional-dancers-judges-presenters-confirmed |publisher=[[BBC]] |access-date=20 July 2023 |date=21 April 2023 |archive-date=21 July 2023 |archive-url=https://web.archive.org/web/20230721122811/https://www.bbc.com/mediacentre/2023/strictly-come-dancing-2023-professional-dancers-judges-presenters-confirmed |url-status=live }}</ref><ref>{{cite news |last1=Earp |first1=Catherine |title=Strictly Come Dancing confirms 2023 judges and professional dancer line-up |url=https://digitalspy.com/tv/reality-tv/a43664733/strictly-2023-judges-professional-dancer-line-up/ |work=[[Digital Spy]] |access-date=20 July 2023 |date=21 April 2023 |archive-date=8 June 2023 |archive-url=https://web.archive.org/web/20230608112357/https://www.digitalspy.com/tv/reality-tv/a43664733/strictly-2023-judges-professional-dancer-line-up/ |url-status=live }}</ref>
+
+Actress [[Ellie Leach]] and her partner [[Vito Coppola]] were announced as the winners on 16 December,<ref>{{cite web|url=https://www.bbc.com/news/entertainment-arts-67726020 |title=Strictly Come Dancing 2023: Winner of glitterball trophy announced|date=16 December 2023|work=BBC News|accessdate=18 December 2023}}</ref> while [[Layton Williams]] and [[Nikita Kuzmin]], and [[Bobby Brazier]] and [[Dianne Buswell]] were the runners-up.
+
+== Format ==
+{{Further|Strictly Come Dancing#Format}}
+{{Multiple image
+ | align        = right
+ | total_width  = 550
+
+ | header       = Hosts and Judges for Strictly Come Dancing Series 21
+
+ | image1       = Tess Daly Cropped.jpg
+ | alt1         =
+ | caption1     = [[Tess Daly]]
+
+ | image2       = Claudia Winkleman at BAFTA 2026 01.jpg
+ | alt2         =
+ | caption2     = [[Claudia Winkleman]]
+
+ | image3       = Craig-Revel-Horwood-2022.png
+ | alt3         = 
+ | caption3     = [[Craig Revel Horwood]]
+
+ | image4       = 2022-06-22-Motsi Mabuse LEA Live Entertainment Award 15 -0167.jpg
+ | alt4         =
+ | caption4     = [[Motsi Mabuse]]
+
+ | image5       = Shirley Ballas 20241205.jpg
+ | alt5         =
+ | caption5     = [[Shirley Ballas]]
+
+ | image6       = Anton_Du_Beke_in_2019.png
+ | alt6         =
+ | caption6     = [[Anton Du Beke]]
+}}
+
+The couples dance each week in a live show. The judges score each performance out of ten. The couples are then ranked according to the judges' scores and given points according to their rank, with the lowest scored couple receiving one point, and the highest scored couple receiving the most points (the maximum number of points available depends on the number of couples remaining in the competition). The public are also invited to vote for their favourite couples, and the couples are ranked again according to the number of votes they receive, again receiving points; the couple with the fewest votes receiving one point, and the couple with the most votes receiving the most points.
+
+The points for judges' score and public vote are then added together, and the two couples with the fewest points are placed in the bottom two. If two couples have equal points, the points from the public vote are given precedence. As with the previous series, the bottom two couples have to perform a dance-off on the results show. Based on that performance alone, each judge then votes on which couple should stay and which couple should leave, with [[Shirley Ballas]], as head judge, having the last and [[Casting vote|deciding vote]] if needed.
+
+== Professional dancers ==
+In April 2023, the BBC announced that [[Dianne Buswell]], [[Nadiya Bychkova]], [[Vito Coppola]], [[Graziano Di Prima]], [[Amy Dowden]], [[Carlos Gu]], [[Karen Hauer]], [[Katya Jones]], [[Neil Jones (dancer)|Neil Jones]], [[Nikita Kuzmin]], [[Gorka Márquez]], [[Luba Mushtuk]], [[Lauren Oakley]], [[Giovanni Pernice]], [[Jowita Przystał]], [[Johannes Radebe]], [[Michelle Tsiakkas]], [[Kai Widdrington]], and [[Nancy Xu]] would be returning to the series.<ref name="Judges and professionals" /><ref>{{cite news |title=Strictly Come Dancing confirms 2023 professionals as one exits show |url=https://radiotimes.com/tv/entertainment/strictly-come-dancing-confirms-2023-professionals-newsupdate/ |last=Cremona |first=Patrick |work=[[Radio Times]] |access-date=20 July 2023 |date=21 April 2023 |archive-date=4 June 2023 |archive-url=https://web.archive.org/web/20230604001654/https://www.radiotimes.com/tv/entertainment/strictly-come-dancing-confirms-2023-professionals-newsupdate/ |url-status=live }}</ref> The only professional dancer who did not return was [[Cameron Lombard]], who had been part of the professional group routines since the [[Strictly Come Dancing (series 19)|nineteenth series]].<ref>{{cite news |title=Strictly Come Dancing professional Cameron Lombard confirms he's quit the show |url=https://digitalspy.com/tv/reality-tv/a43666539/strictly-professional-cameron-lombard-quits/ |last=Rowan |first=Iona |work=[[Digital Spy]] |access-date=20 July 2023 |date=21 April 2023 |archive-date=8 June 2023 |archive-url=https://web.archive.org/web/20230608112343/https://www.digitalspy.com/tv/reality-tv/a43666539/strictly-professional-cameron-lombard-quits/ |url-status=live }}</ref><ref>{{cite news |last1=Welsh |first1=Daniel |title=Strictly Bids Farewell To Cameron Lombard As This Year's Professional Line-Up Is Confirmed |url=https://www.huffingtonpost.co.uk/entry/strictly-come-dancing-loses-professional-dancer-2023-line-up_uk_64427f02e4b0408f3e52b664 |work=[[HuffPost]] |access-date=20 July 2023 |date=21 April 2023 |archive-date=5 May 2023 |archive-url=https://web.archive.org/web/20230505135542/https://www.huffingtonpost.co.uk/amp/entry/strictly-come-dancing-loses-professional-dancer-2023-line-up_uk_64427f02e4b0408f3e52b664/ |url-status=live }}</ref>
+
+In May 2023, Dowden announced she had been diagnosed with [[Grading (tumors)|grade III]] [[breast cancer]] and underwent a [[mastectomy]], but added she was "determined" to get back on the dance floor and that she was hoping to take part in the series if she was able to.<ref>{{cite web |title=Strictly's Amy Dowden reveals breast cancer diagnosis |url=https://www.bbc.co.uk/news/uk-wales-65682699 |website=[[BBC]] |access-date=21 July 2023 |date=24 May 2023}}</ref><ref>{{Cite web|url=https://theguardian.com/tv-and-radio/2023/may/24/amy-dowden-breast-cancer-diagnosis-strictly-come-dancing|title=Strictly star Amy Dowden announces breast cancer diagnosis|work=The Guardian|date=24 May 2023|accessdate=24 May 2023}}</ref><ref>{{cite web |title=Amy Dowden shares update on Strictly Come Dancing future after breast cancer diagnosis |url=https://www.independent.co.uk/arts-entertainment/tv/news/amy-dowden-strictly-cancer-update-2023-b2360139.html |website=[[The Independent]]|date=19 June 2023 }}</ref> Despite her initial plans to return for the series, Dowden confirmed in July that she had been diagnosed with "another type of cancer" and would be unable to partner a celebrity due to undergoing [[chemotherapy]].<ref>{{cite web |title=Strictly Come Dancing pro Amy Dowden shares devastating update as doctors find 'more tumours' amid breast cancer treatment |url=https://metro.co.uk/2023/07/21/strictly-pro-amy-dowden-needs-chemo-as-doctors-find-more-tumours-after-scan-19172152/ |website=[[Metro (British newspaper)|Metro]] |access-date=21 July 2023 |date=21 July 2023}}</ref><ref>{{cite web |last1=Wright |first1=Minnie |title=Amy Dowden won't be in main Strictly line-up amid further cancer diagnosis |url=https://www.radiotimes.com/tv/entertainment/amy-dowden-strictly-come-dancing-2023-second-cancer-newsupdate/ |website=[[Radio Times]] |access-date=22 July 2023 |date=22 July 2023}}</ref><ref>{{cite web |title=Strictly's Amy reveals her second cancer diagnosis |url=https://www.bbc.co.uk/news/articles/cd1e7j8kqllo |website=[[BBC News]] |access-date=22 July 2023 |date=22 July 2023}}</ref>
+
+During the launch show, Lauren Oakley received a celebrity partner for the first time, while Neil Jones, Nadiya Bychkova, and Michelle Tsiakkas did not receive a partner. The rest of the pros were paired to a celebrity, including Luba Mushtuk, who did not have a celebrity partner for the last two series.<ref>{{cite web|url=https://www.manchestereveningnews.co.uk/news/tv/bbc-strictly-come-dancing-2023-27726792|title=BBC Strictly Come Dancing 2023: Full list of celebrities and professional partners|work=[[Manchester Evening News]]|first1=Jessica|last1=Sansome|first2=Phoebe|last2=Jobling|date=16 September 2023|accessdate=17 September 2023|language=en-GB}}</ref><ref>{{cite web|url=https://www.hellomagazine.com/film/502589/strictly-come-dancing-lauren-oakley-everything-you-need-to-know/|title=Who is Strictly's Lauren Oakley? All of the details about pro|work=[[Hello! (magazine)|Hello!]]|first=Megan|last=Bull|date=16 September 2023|accessdate=17 September 2023|language=en-GB}}</ref>
+
+==Couples==
+This series features fifteen celebrity contestants. On 4 August 2023, the first three celebrities announced as participants in the series were [[Amanda Abbington]], [[Angela Rippon]], and [[Layton Williams]].<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/2023/aug/04/angela-rippon-to-be-oldest-strictly-come-dancing-contestant|title=Angela Rippon to be oldest Strictly Come Dancing contestant|website=[[The Guardian]]|first=Nadeem|last=Badshah|date=4 August 2023|access-date=4 August 2023|language=en-GB}}</ref> Celebrity contestants continued to be revealed until 11 August 2023, when the full line-up was announced.<ref>{{cite web|url=https://www.bbc.com/news/entertainment-arts-66408141|title=Strictly Come Dancing 2023: Entertainer Les Dennis completes line-up|publisher=[[BBC]]|first=Helen|last=Bushby|date=11 August 2023|access-date=11 August 2023|language=en-GB}}</ref><ref>{{cite web|url=https://www.radiotimes.com/tv/entertainment/reality-tv/strictly-come-dancing-2023-line-up-contestants/|title=Strictly Come Dancing 2023 line-up: Full cast of contestants confirmed|website=[[Radio Times]]|first1=Grace|last1=Henry|first2=Sophie|last2=Cockerham|first3=Lewis|last3=Knight|date=11 August 2023|access-date=11 August 2023|language=en-GB}}</ref>
+
+On 23 October, it was announced that [[Amanda Abbington]] had withdrawn from the competition after having missed the previous week.<ref name=":0">{{Cite web|url=https://www.theguardian.com/tv-and-radio/2023/oct/23/amanda-abbington-quits-strictly-come-dancing-medical-absence|title=Amanda Abbington quits Strictly Come Dancing after medical absence|website=[[The Guardian]]|first=Nadeem|last=Badshah|date=23 October 2023|access-date=23 October 2023|language=en-GB}}</ref>
+
+On 2 December, hours before the live episode was set to air, it was announced that [[Nigel Harman]] had been forced to withdraw from the competition due to a rib injury.<ref name=":2" />
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! scope="col" | Celebrity
+! scope="col" class="unsortable" | Notability
+! scope="col" | Professional partner
+! scope="col" | Status
+|- style="height:50px"
+! scope="row" | [[Les Dennis]]
+| Comedian, actor & television presenter
+| [[Nancy Xu]]
+| style="background:#f4c7b8;" |Eliminated 1st<br><small>on 1 October 2023</small>
+|- style="height:50px"
+! scope="row" | [[Nikita Kanda]]
+| [[BBC Asian Network]] presenter
+| [[Gorka Márquez]]
+| style="background:#f4c7b8;" |Eliminated 2nd<br><small>on 8 October 2023</small>
+|- style="height:50px"
+! scope="row" | [[Jody Cundy]]
+| [[Paralympic Games|Paralympic]] cyclist & swimmer
+| [[Jowita Przystał]]
+| style="background:#f4c7b8;" |Eliminated 3rd<br><small>on 15 October 2023</small>
+|- style="height:50px"
+! scope="row" | [[Eddie Kadi]]
+| Comedian & [[BBC Radio 1Xtra]] presenter 
+| [[Karen Hauer]]
+| style="background:#f4c7b8;" |Eliminated 4th<br><small>on 22 October 2023</small>
+|- style="height:50px"
+! scope="row" | [[Amanda Abbington]]
+| Stage & screen actress
+| [[Giovanni Pernice]]
+| bgcolor="lightgreen" | Withdrew<br>{{small|on 23 October 2023}}
+|- style="height:50px"
+! scope="row" | [[Zara McDermott]]
+| Media personality & television presenter
+| [[Graziano Di Prima]]
+| style="background:#f4c7b8;" |Eliminated 5th<br><small>on 29 October 2023</small>
+|- style="height:50px"
+! scope="row" | [[Adam Thomas]]
+| ''[[Waterloo Road (TV series)|Waterloo Road]]'' & ''[[Emmerdale]]'' actor
+| [[Luba Mushtuk]]
+| style="background:#f4c7b8;" |Eliminated 6th<br><small>on 5 November 2023</small>
+|- style="height:50px"
+! scope="row" | {{nowrap|[[Krishnan Guru-Murthy]]}}
+| ''[[Channel 4 News]]'' presenter & journalist
+| [[Lauren Oakley]]
+| style="background:#f4c7b8;" |Eliminated 7th<br><small>on 12 November 2023</small>
+|- style="height:50px"
+! scope="row" | [[Angela Rippon]]
+| Television presenter, journalist & newsreader 
+| [[Kai Widdrington]]
+| style="background:#f4c7b8;" |Eliminated 8th<br><small>on 19 November 2023</small>
+|- style="height:50px"
+! scope="row" | [[Angela Scanlon]]
+| Television presenter 
+| [[Carlos Gu]]
+| style="background:#f4c7b8;" |Eliminated 9th<br><small>on 26 November 2023</small>
+|- style="height:50px"
+! scope="row" | [[Nigel Harman]]
+| Stage & screen actor
+| [[Katya Jones]]
+| bgcolor="lightgreen" | Withdrew<br>{{small|on 2 December 2023}}
+|- style="height:50px"
+! scope="row" | [[Annabel Croft]]
+| Professional tennis player & [[pundit]]
+| [[Johannes Radebe]]
+| style="background:#f4c7b8;" |Eliminated 10th<br><small>on 10 December 2023</small>
+|- style="height:50px"
+! scope="row" | [[Bobby Brazier]]
+| ''[[EastEnders]]'' actor & model
+| [[Dianne Buswell]]
+| rowspan="2" style="background:silver;" |Runners-up <br><small>on 16 December 2023</small>
+|- style="height:50px"
+! scope="row" | [[Layton Williams]]
+| ''[[Bad Education (TV series)|Bad Education]]'' actor & [[West End theatre|West End]] performer
+| [[Nikita Kuzmin]]
+|- style="height:50px"
+! scope="row" | [[Ellie Leach]]
+| ''[[Coronation Street]]'' actress
+| [[Vito Coppola]]
+| style="background:gold;" | '''Winners'''<br><small>on 16 December 2023</small>
+|}
+
+==Scoring chart==
+The highest score each week is indicated in {{fontcolor|#004600|'''bold green'''}} with a dagger ({{dagger}}), while the lowest score each week is indicated in {{fontcolor|#800000|''italicized red''}} with a double-dagger ({{double-dagger}}).
+
+;Colour key:
+{{columns-list|colwidth=20em|
+{{legend|gold|Winners}}
+{{legend|silver|Runners-up}}
+{{legend|fff383|Excused from competition for the week}}
+{{legend|lightgreen|Withdrew from competition}}
+{{legend|lightblue|Bottom two}}
+{{legend|#f4c7b8|Eliminated}}
+}}
+{| class="wikitable sortable" style="text-align:center; font-size:95%"
+|+''Strictly Come Dancing'' (series 21) - Weekly scores
+|-
+! rowspan="2" scope="col" | Couple
+! rowspan="2" scope="col" | {{Abbr|Pl.|Placement}}
+! colspan="15" | Week
+|-
+! scope="col" | 1
+! scope="col" | 2
+! scope="col" | 1+2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" | 5
+! scope="col" | 6
+! scope="col" | 7
+! scope="col" | 8
+! scope="col" | 9
+! scope="col" | 10
+! scope="col" | 11
+! scope="col" | 12
+! scope="col" | 11+12
+! scope="col" | 13
+|-
+! scope="row" | Ellie & Vito
+| 1st
+| 29
+| 31
+| 60
+| 33
+| 28
+| 37
+| {{fontcolor|#004600|'''38'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''39'''}}{{dagger|alt=This was the highest score of the night.}}
+| 35
+| {{fontcolor|#004600|'''39'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''38'''}}{{dagger|alt=This was the highest score of the night.}} 
+| 36
+| {{sort|75|}} 37+38=75
+| 111
+| {{sort|115|}} bgcolor="gold"| 39+36+40={{fontcolor|#800000|''115''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|This couple finished in first place.}}
+|-
+! scope="row" | Bobby & Dianne
+| rowspan="2" | 2nd
+| 29
+| 29
+| 58
+| 32
+| 30
+| 32
+| 30
+| 30
+| 32
+| bgcolor="lightblue" | 35{{efn|name=Bottom2}}
+| 37
+| 34
+| {{sort|73|}} 38+35=73
+| bgcolor="lightblue" | 107{{efn|name=Bottom2}}
+| bgcolor="silver" {{sort|117|}} | 39+39+39=117{{efn|name=2nd|This couple finished in second place.}}
+|-
+! scope="row" | Layton & Nikita
+| 29
+| {{fontcolor|#004600|'''36'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''65'''}}{{dagger|alt=This was the highest score of the night.}}
+| 28
+| {{fontcolor|#004600|'''37'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''39'''}}{{dagger|alt=This was the highest score of the night.}}
+| 36
+| 36
+| {{fontcolor|#004600|'''39'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''39'''}}{{dagger|alt=This was the highest score of the night.}}
+| bgcolor="lightblue" | 34{{efn|name=Bottom2}}
+| {{fontcolor|#004600|'''40'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|76|}} 36+40={{fontcolor|#004600|'''76'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''116'''}}{{dagger|alt=This was the highest score of the night.}}
+| bgcolor="silver" {{sort|119|}} | 40+39+40={{fontcolor|#004600|'''119'''}}{{dagger|alt=This was the highest score of the night.}}{{efn|name=2nd|This couple finished in second place.}}
+|-
+! scope="row" | {{nowrap|Annabel & Johannes}}
+| 4th
+| 28
+| 22
+| 50
+| 30
+| 29
+| 27
+| 29
+| 35
+| 31
+| 35
+| 36
+| {{fontcolor|#800000|''33''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{sort|65|}} 32+33={{fontcolor|#800000|''65''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| bgcolor="f4c7b8" |{{fontcolor|#800000|''98''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="12" bgcolor="darkgrey" |
+|-
+! scope="row" | Nigel & Katya
+| 5th
+| {{fontcolor|#004600|'''32'''}}{{dagger|alt=This was the highest score of the night.}}
+| 27
+| 59
+| 25
+| 33
+| 29
+| 30
+| 33
+| 34
+| 31
+| 33
+| bgcolor="lightgreen" | {{efn|name=Quitter}}
+| colspan="2" rowspan="11" bgcolor="darkgray" |
+|-
+! scope="row" | Angela S. & Carlos
+|6th
+| 23
+| 29
+| 52
+| {{fontcolor|#004600|'''35'''}}{{dagger|alt=This was the highest score of the night.}}
+| 28
+| 28
+| 33
+| {{fontcolor|#800000|''27''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| 33
+| 38
+| bgcolor="f4c7b8" |{{fontcolor|#800000|''31''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="10" bgcolor="darkgray" |
+|-
+! scope="row" | Angela R. & Kai
+|7th
+| 28
+| 31
+| 59
+| 26
+| 31
+| 34
+| 33
+| bgcolor="lightblue" | 28{{efn|name=Bottom2}}
+| bgcolor="lightblue" | 32{{efn|name=Bottom2}}
+| bgcolor="f4c7b8" |{{fontcolor|#800000|''28''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="9" bgcolor="darkgray" |
+|-
+! scope="row" | Krishnan & Lauren
+| 8th
+| 22
+| 20
+| 42
+| 30
+| 28
+| 30
+| 27
+| 29
+| bgcolor="f4c7b8" |{{fontcolor|#800000|''25''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="8" bgcolor="darkgray" |
+|-
+! scope="row" | Adam & Luba
+| 9th
+| 19
+| 23
+| 42
+| 26
+| 32
+| 32
+| bgcolor="lightblue" | 32{{efn|name=Bottom2}}
+| bgcolor="f4c7b8" |{{fontcolor|#800000|''27''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="7" bgcolor="darkgray" |
+|-
+! scope="row" | Zara & Graziano
+| 10th
+| 19
+| 23
+| 42
+| bgcolor="lightblue" | 25{{efn|name=Bottom2}}
+| 28
+| bgcolor="lightblue" | 28{{efn|name=Bottom2}}
+| bgcolor="f4c7b8" |{{fontcolor|#800000|''25''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="6" bgcolor="darkgray" |
+|-
+! scope="row" | Amanda & Giovanni
+| 11th
+| 29
+| 32
+| 61
+| 30
+| 31
+| bgcolor="fff383" | {{efn|name=Sickie|This couple was excused from competition due to illness or injury, and was granted a [[Bye (sports)|bye]] to the following week.}}
+| bgcolor="lightgreen" | {{efn|name=Quitter|This couple withdrew from the competition.}}
+|-
+! scope="row" | Eddie & Karen
+| 12th
+| 22
+| 21
+| 43
+| 34
+| bgcolor="lightblue" | 24{{efn|name=Bottom2}}
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''24''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="4" bgcolor="darkgray" |
+|-
+! scope="row" | Jody & Jowita
+| 13th
+| 21
+| 16
+| 37
+| {{fontcolor|#800000|''20''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''19''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="3" bgcolor="darkgray" |
+|-
+! scope="row" | Nikita & Gorka
+| 14th
+| 18
+| 18
+| bgcolor="lightblue" | 36{{efn|name=Bottom2|This couple was in the bottom two, but was not eliminated.}}
+| bgcolor="#f4c7b8" |21{{efn|name=Elim}}
+| rowspan="2" bgcolor="darkgray" |
+|-
+! scope="row" | Les & Nancy
+| 15th
+| {{fontcolor|#800000|''16''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{fontcolor|#800000|''15''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''31''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim|This couple was eliminated.}}
+| bgcolor="darkgray" |
+|}
+;Notes
+{{notelist}}
+
+===Average chart===
+
+{| class="wikitable sortable" style="text-align:center; font-size:95%"
+|-
+! scope="col" | Couple
+! scope="col" | Rank by<br>average
+! scope="col" | Total<br>points
+! scope="col" | Number of<br>dances
+! scope="col" | Total<br>average
+|-
+! scope="row" | Layton & Nikita
+| 1st
+| 588
+| rowspan="3" | 16
+| 36.8
+|-
+! scope="row" | Ellie & Vito
+| 2nd
+| 573
+| 35.8
+|-
+! scope="row" | Bobby & Dianne
+| 3rd
+| 540
+| 33.8
+|-
+! scope="row" | Annabel & Johannes
+| 4th
+| 400
+| 13
+| 30.8
+|-
+! scope="row" | Nigel & Katya
+| 5th
+| 307
+| 10
+| 30.7
+|-
+! scope="row" | Amanda & Giovanni
+| rowspan="2" | 6th
+| 122
+| 4
+| rowspan="2" | 30.5
+|-
+! scope="row" | Angela S. & Carlos
+| 305
+| 10
+|-
+! scope="row" | Angela R. & Kai
+| 8th
+| 271
+| 9
+| 30.1
+|-
+! scope="row" | Adam & Luba
+| 9th
+| 191
+| 7
+| 27.3
+|-
+! scope="row" | Krishnan & Lauren
+| 10th
+| 211
+| 8
+| 26.4
+|-
+! scope="row" | Eddie & Karen
+| 11th
+| 125
+| 5
+| 25.0
+|-
+! scope="row" | Zara & Graziano
+| 12th
+| 148
+| 6
+| 24.7
+|-
+! scope="row" | Jody & Jowita
+| rowspan="2" | 13th
+| 76
+| 4
+| rowspan="2" | 19.0
+|-
+! scope="row" | Nikita & Gorka
+| 57
+| 3
+|-
+! scope="row" | Les & Nancy
+| 15th
+| 31
+| 2
+| 15.5
+|}
+
+==Weekly scores==
+''Unless indicated otherwise, individual judges scores in the charts below (given in parentheses) are listed in this order from left to right: [[Craig Revel Horwood]], [[Motsi Mabuse]], [[Shirley Ballas]], [[Anton Du Beke]]''.
+
+===Launch show===
+*Musical guest: [[Jessie Ware]] — "[[Free Yourself (Jessie Ware song)|Free Yourself]]"<ref>{{cite web|url=https://www.bbc.com/mediacentre/2023/strictly-come-dancing-couples-revealed-launch-show|title=Strictly Come Dancing 2023 couples revealed in launch show featuring spectacular performances from professional dancers and Judges|publisher=[[BBC]]|date=16 September 2023|accessdate=17 September 2023|language=en-GB}}</ref>
+
+===Week 1===
+There was no elimination this week; all scores carried over to the following week. Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2023/sep/23/strictly-come-dancing-week-one-live|title=Strictly Come Dancing: week one – as it happened|website=[[The Guardian]]|first=Michael|last=Hogan|date=23 September 2023|access-date=24 September 2023|language=en-GB}}</ref>
+! class="unsortable" scope="col" |Dance<ref name="Week1Songs">{{cite web|url=https://www.radiotimes.com/tv/entertainment/strictly-come-dancing-2023-songs-and-dances/|title=Strictly Come Dancing songs and dances revealed for week 1|website=[[Radio Times]]|first=Helen|last=Daly|date=22 September 2023|access-date=24 September 2023|language=en-GB}}</ref>
+! class="unsortable" scope="col" |Music<ref name="Week1Songs"/>
+|-
+! scope="row" |Adam & Luba
+| {{nowrap|19 (4, 5, 5, 5)}}
+|Cha-cha-cha
+| "[[Waffle House (song)|Waffle House]]" — [[Jonas Brothers]]
+|-
+! scope="row" |Angela S. & Carlos
+|23 (6, 6, 5, 6)
+|Tango
+| "[[Prisoner (Miley Cyrus song)|Prisoner]]" — [[Miley Cyrus]], feat. [[Dua Lipa]]
+|-
+! scope="row" |Eddie & Karen
+|22 (4, 6, 6, 6)
+|Quickstep
+| "[[Two Hearts (Phil Collins song)|Two Hearts]]" — [[Phil Collins]]
+|-
+! scope="row" |Angela R. & Kai
+|28 (7, 7, 7, 7)
+|Cha-cha-cha
+| "[[Get the Party Started#Shirley Bassey version|Get the Party Started]]" — [[Shirley Bassey]]
+|-
+! scope="row" |Nikita & Gorka
+|18 (3, 5, 5, 5)
+|Waltz
+| "[[Run to You (Whitney Houston song)|Run to You]]" — [[Whitney Houston]] 
+|-
+! scope="row" |Layton & Nikita
+|29 (7, 8, 7, 7)
+|Samba
+| "[[Touch (Little Mix song)|Touch]]" — [[Little Mix]]
+|-
+! scope="row" |Zara & Graziano
+|19 (3, 6, 5, 5)
+|Cha-cha-cha
+| "[[Crush (Jennifer Paige song)|Crush]]" — [[Jennifer Paige]]
+|-
+! scope="row" |Les & Nancy
+|16 (2, 4, 5, 5)
+|Tango
+| "[[Don't You Want Me]]" — [[Human League]]
+|-
+! scope="row" |Ellie & Vito
+|29 (7, 8, 7, 7)
+|Jive
+| "[[Can't Tame Her]]" — [[Zara Larsson]]
+|-
+! scope="row" |Jody & Jowita
+|21 (5, 5, 6, 5)
+|Quickstep
+| "[[I'm Sitting on Top of the World]]" — [[Bobby Darin]]
+|-
+! scope="row" |Bobby & Dianne
+|29 (6, 7, 8, 8)
+|Foxtrot
+| "[[All About You/You've Got a Friend|All About You]]" — [[McFly]]
+|-
+! scope="row" |Annabel & Johannes
+|28 (7, 7, 7, 7)
+|Cha-cha-cha
+| "[[Uptown Girl]]" — [[Billy Joel]]
+|-
+! scope="row" |Amanda & Giovanni
+|29 (7, 7, 8, 7)
+|Viennese waltz
+| "[[Pointless (song)|Pointless]]" — [[Lewis Capaldi]]
+|-
+! scope="row" |Krishnan & Lauren
+|22 (5, 6, 6, 5)
+|Cha-cha-cha
+| "[[Boom Shack-A-Lak]]" — [[Apache Indian (musician)|Apache Indian]]
+|-
+! scope="row" |Nigel & Katya
+|32 (8, 8, 8, 8)
+|Paso doble
+| "[[Smells Like Teen Spirit]]" — [[Nirvana (band)|Nirvana]]
+|}
+
+===Week 2===
+Musical guest: [[Jorja Smith]] — "Try Me"<ref>{{cite web|url=https://entertainment-focus.com/2023/10/01/les-dennis-is-first-celebrity-to-leave-strictly-come-dancing-2023/|title=Les Dennis is first celebrity to leave Strictly Come Dancing 2023|website=Entertainment Focus|first=Laura|last=Cooney|date=1 October 2023|access-date=1 October 2023|language=en-GB}}</ref>
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2023/sep/30/strictly-come-dancing-week-two-live|title=Strictly Come Dancing: week two results – as it happened|website=[[The Guardian]]|first=Michael|last=Hogan|date=1 October 2023|access-date=1 October 2023|language=en-GB}}</ref>
+! class="unsortable" scope="col" |Dance<ref name="Week2Songs">{{cite web|url=https://www.radiotimes.com/tv/entertainment/strictly-come-dancing-2023-songs-and-dances/|title=Strictly Come Dancing songs and dances revealed for week 2|website=[[Radio Times]]|first=Helen|last=Daly|date=26 September 2023|access-date=26 September 2023|language=en-GB}}</ref>
+! class="unsortable" scope="col" |Music<ref name="Week2Songs"/>
+! class="unsortable" scope="col" |Result<ref>{{cite web|url=https://www.telegraph.co.uk/tv/2023/10/01/strictly-come-dancing-2023-week-2-live-results-updates/|title=Strictly Come Dancing 2023: first results show – Les Dennis is a shock early elimination|website=[[The Daily Telegraph]]|first=Marianka|last=Swain|date=1 October 2023|access-date=1 October 2023|language=en-GB}}</ref>
+|-
+! scope="row" | Bobby & Dianne
+| {{nowrap|29 (7, 7, 7, 8)}}
+| Charleston
+| "[[Do Your Thing (Basement Jaxx song)|Do Your Thing]]" — [[Basement Jaxx]]
+| Safe
+|-
+! scope="row" | Annabel & Johannes
+| 22 (4, 6, 6, 6)
+| Quickstep
+| "[[Walking on Sunshine (Katrina and the Waves song)|Walking on Sunshine]]" — [[Katrina and the Waves]]
+| Safe
+|-
+! scope="row" | Jody & Jowita
+| 16 (3, 4, 4, 5)
+| Paso doble
+| "[[Thunderstruck]]" — [[AC/DC]]
+| Safe
+|-
+! scope="row" | Ellie & Vito
+| 31 (8, 8, 7, 8)
+| Foxtrot
+| "[[Perfect (Fairground Attraction song)|Perfect]]" — [[Fairground Attraction]]
+| Safe
+|-
+! scope="row" | Nigel & Katya
+| 27 (7, 7, 6, 7)
+| Viennese waltz
+| "[[Until I Found You]]" — [[Stephen Sanchez]]
+| Safe
+|-
+! scope="row" | Nikita & Gorka
+| 18 (3, 5, 5, 5)
+| Charleston
+| "[[Single Ladies (Put a Ring on It)]]" — [[Beyoncé]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Les & Nancy
+| 15 (2, 4, 4, 5)
+| Samba
+| "[[Rock the Boat (The Hues Corporation song)|Rock the Boat]]" — [[The Hues Corporation]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" |Adam & Luba
+| 23 (5, 6, 5, 7)
+| Tango
+| "[[Chosen (EP)|Somebody Told Me]]" — [[Måneskin]]
+| Safe
+|-
+! scope="row" |Amanda & Giovanni
+| 32 (8, 8, 8, 8)
+| Salsa
+| "[[Oye! (Gloria Estefan song)|Oye!]]" — [[Gloria Estefan]]
+| Safe
+|-
+! scope="row" | Krishnan & Lauren
+| 20 (4, 5, 5, 6)
+| Foxtrot
+| "[[Love Really Hurts Without You]]" — [[Billy Ocean]]
+| Safe
+|-
+! scope="row" | Eddie & Karen
+| 21 (3, 6, 5, 7)
+| Cha-cha-cha
+| "[[Ríe y Llora]]" — [[Celia Cruz]]
+| Safe
+|-
+! scope="row" | Zara & Graziano
+| 23 (6, 6, 5, 6)
+| Quickstep
+| "[[Anyone for You (Tiger Lily)]]" — [[George Ezra]]
+| Safe
+|-
+! scope="row" | Angela S. & Carlos
+| 29 (7, 7, 7, 8)
+| Jive
+| "[[Trouble (Shampoo song)|Trouble]]" — [[Shampoo (duo)|Shampoo]]
+| Safe
+|-
+! scope="row" | Angela R. & Kai
+| 31 (8, 8, 7, 8)
+| Foxtrot
+| "[[You Make Me Feel So Young]]" — [[Frank Sinatra]]
+| Safe
+|-
+! scope="row" | Layton & Nikita
+| 36 (9, 9, 9, 9)
+| Quickstep
+| "[[Puttin' On the Ritz]]" — [[Gregory Porter]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Nikita & Gorka
+*Mabuse: Nikita & Gorka
+*Du Beke: Nikita & Gorka
+*Ballas: ''Did not vote, but would have voted to save Nikita & Gorka''
+
+===Week 3: Movie Week===
+Musical guest: [[Madison Beer]] — "Showed Me (How I Fell in Love with You)"<ref>{{cite web|url=https://www.devonlive.com/news/celebs-tv/strictly-come-dancing-fans-spot-8815336|title=Strictly Come Dancing fans spot embarrassing wardrobe malfunction|website=Devon Live|first=Paul|last=Greaves|date=8 October 2023|access-date=8 October 2023|language=en-GB}}</ref>
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2023/oct/07/strictly-come-dancing-movie-week-live|title=Strictly Come Dancing: week three results – as it happened|website=[[The Guardian]]|first=Michael|last=Hogan|date=8 October 2023|access-date=8 October 2023|language=en-GB}}</ref>
+! class="unsortable" scope="col" |Dance<ref name="Week3Songs">{{Cite web |last=Baala |first=Sara |date=October 3, 2023 |title=Strictly confirms week 3 songs and dances |url=https://www.digitalspy.com/tv/reality-tv/a45426345/strictly-movie-week-2023-songs-dances/ |access-date=October 3, 2023 |website=Digital Spy |language=en-GB}}</ref>
+! class="unsortable" scope="col" |Music<ref name="Week3Songs" />
+! class="unsortable" scope="col" |Film
+! class="unsortable" scope="col" |Result<ref>{{cite web|url=https://www.dailyrecord.co.uk/tv/strictly-come-dancing-nikita-kanda-31136545|title=Strictly Come Dancing: Nikita Kanda second to be eliminated following crucial 'mistake'|website=[[Daily Record (Scotland)|Daily Record]]|first=Tasha|last=Hall|date=8 October 2023|access-date=8 October 2023|language=en-GB}}</ref>
+|-
+! scope="row" | Nigel & Katya
+| 25 (6, 6, 6, 7)
+| Jive
+| "[[Batman Theme]]"
+| ''[[Batman (1966 film)|Batman]]''
+| Safe
+|-
+! scope="row" | Angela R. & Kai
+| 26 (6, 7, 6, 7)
+| Quickstep
+| "[[Do-Re-Mi]]"
+| ''[[The Sound of Music (film)|The Sound of Music]]''
+| Safe
+|-
+! scope="row" | Zara & Graziano
+| 25 (6, 6, 6, 7)
+| Paso doble
+| "[[Puss in Boots (soundtrack)|The Puss Suite]]"
+| ''[[Puss in Boots (2011 film)|Puss in Boots]]''
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Layton & Nikita
+| 28 (7, 7, 7, 7)
+| Viennese waltz
+| "[[There Are Worse Things I Could Do]]"
+| ''[[Grease (film)|Grease]]''
+| Safe
+|-
+! scope="row" | Angela S. & Carlos
+| 35 (9, 9, 8, 9)
+| Charleston
+| "[[Damn Yankees (1958 film)#Song list|Who's Got the Pain]]"
+| ''[[Damn Yankees (1958 film)|Damn Yankees]]''
+| Safe
+|-
+! scope="row" |Amanda & Giovanni
+| 30 (6, 8, 8, 8)
+| Rumba
+| "[[Out of Reach (song)|Out of Reach]]"
+| ''[[Bridget Jones's Diary]]''
+| Safe
+|-
+! scope="row" | Nikita & Gorka
+| 21 (4, 6, 5, 6)
+| Jive
+| "[[Kids in America]]"
+| ''[[Clueless]]''
+| bgcolor="#f4c7b8" | Eliminated
+|-
+! scope="row" | Ellie & Vito
+| 33 (8, 9, 8, 8)
+| Viennese waltz
+| "[[Waiting on a Miracle]]"
+| ''[[Encanto]]''
+| Safe
+|-
+! scope="row" | Bobby & Dianne
+| 32 (8, 8, 8, 8)
+| Samba
+| "[[Young Hearts Run Free]]"
+| ''[[Romeo + Juliet]]''
+| Safe
+|-
+! scope="row" | Jody & Jowita
+| 20 (4, 5, 5, 6)
+| American Smooth
+| "[[Up opening sequence|Married Life]]"
+| ''[[Up (2009 film)|Up]]''
+| Safe
+|-
+! scope="row" | Eddie & Karen
+| {{nowrap|34 (8, 8, 10, 8)}}
+| Couple's choice
+| "[[Men in Black (song)|Men in Black]]"
+| ''[[Men in Black (1997 film)|Men in Black]]''
+| Safe
+|-
+! scope="row" | Annabel & Johannes
+| 30 (8, 8, 7, 7)
+| Waltz
+| "[[Moon River]]"
+| ''[[Breakfast at Tiffany's (film)|Breakfast at Tiffany's]]''
+| Safe
+|-
+! scope="row" |Adam & Luba
+| 26 (5, 7, 7, 7)
+| Jive
+| "[[Take On Me]]"
+| ''[[The Super Mario Bros. Movie]]''
+| Safe
+|-
+! scope="row" | Krishnan & Lauren
+| 30 (8, 8, 7, 7)
+| Charleston
+| "[[Cabaret (1972 film)|Money, Money]]"
+| ''[[Cabaret (1972 film)|Cabaret]]''
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Zara & Graziano
+*Mabuse: Zara & Graziano
+*Du Beke: Zara & Graziano
+*Ballas: ''Did not vote, but would have voted to save Zara & Graziano''
+
+===Week 4===
+Musical guest: [[Beverley Knight]]— "I'm on Fire"<ref>{{cite web|url=https://www.devonlive.com/news/celebs-tv/strictly-come-dancing-fans-accuse-8832938|title=Strictly Come Dancing fans accuse Beverley Knight of 'miming'|website=Devon Live|first=Elliot|last=Ball|date=15 October 2023|access-date=15 October 2023|language=en-GB}}</ref>
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2023/oct/13/strictly-come-dancing-week-four-live|title=Strictly Come Dancing: week four results – as it happened|website=[[The Guardian]]|first=Michael|last=Hogan|date=15 October 2023|access-date=15 October 2023|language=en-GB}}</ref>
+! class="unsortable" scope="col" |Dance<ref name="Week4Songs">{{Cite web |last=Anderton |first=Joe |date=October 10, 2023 |title=Strictly confirms week 4 songs and dances |url=https://www.digitalspy.com/tv/reality-tv/a45493639/strictly-2023-week-4-songs-dances/ |access-date=October 10, 2023 |website=[[Digital Spy]] |language=en-GB}}</ref>
+! class="unsortable" scope="col" |Music<ref name="Week4Songs" />
+! class="unsortable" scope="col" |Result<ref>{{cite web|url=https://www.independent.co.uk/arts-entertainment/tv/news/strictly-come-dancing-who-went-out-week-four-b2430089.html|title=Strictly Come Dancing says goodbye to its third contestant of 2023|website=[[The Independent]]|first=Annabel|last=Nugent|date=15 October 2023|access-date=15 October 2023|language=en-GB}}</ref>
+|-
+! scope="row" | Ellie & Vito
+| 28 (7, 7, 7, 7)
+| Samba
+|"[[Copacabana (song)|Copacabana]]" — [[Barry Manilow]]
+| Safe
+|-
+! scope="row" |Adam & Luba
+| 32 (8, 8, 8, 8)
+| Waltz
+|"[[I Wonder Why (Curtis Stigers song)|I Wonder Why]]" — [[Curtis Stigers]]
+| Safe
+|-
+! scope="row" | Jody & Jowita
+| 19 (3, 5, 5, 6)
+| Salsa
+|"[[Samba de Janeiro]]" — [[Bellini (German group)|Bellini]]
+| bgcolor="#f4c7b8"|Eliminated
+|-
+! scope="row" |Amanda & Giovanni
+| 31 (7, 8, 8, 8)
+| Foxtrot
+|"[[Everywhere (Fleetwood Mac song)|Everywhere]]" — [[Fleetwood Mac]]
+| Safe
+|-
+! scope="row" | Krishnan & Lauren
+| 28 (6, 7, 7, 8)
+| Paso doble
+| "[[By the Way (Red Hot Chili Peppers song)|By the Way]]" — [[Red Hot Chili Peppers]]
+| Safe
+|-
+! scope="row" | Zara & Graziano
+| 28 (7, 7, 7, 7)
+| Viennese waltz
+| "[[You Don't Have to Say You Love Me]]" — [[Brenda Lee]]
+| Safe
+|-
+! scope="row" | Annabel & Johannes
+| 29 (7, 7, 7, 8)
+| Jive
+|"[[Feel It Still]]" — [[Portugal. The Man]]
+| Safe
+|-
+! scope="row" | Eddie & Karen
+| 24 (4, 7, 6, 7)
+| American Smooth
+|"[[Sex Bomb]]" — [[Tom Jones (singer)|Tom Jones]]
+| bgcolor="lightblue"|Bottom two
+|-
+! scope="row" | Layton & Nikita
+| {{nowrap|37 (9, 10, 9, 9)}}
+| Cha-cha-cha
+|"[[Million Dollar Bill]]" — [[Whitney Houston]]
+| Safe
+|-
+! scope="row" | Nigel & Katya
+| 33 (8, 9, 8, 8)
+| Salsa
+|"[[Suavemente (Elvis Crespo song)|Suavemente]]" — [[Elvis Crespo]]
+| Safe
+|-
+! scope="row" | Angela S. & Carlos
+| 28 (7, 7, 7, 7)
+| Viennese waltz
+|"[[You Are the Reason]]" — [[Calum Scott]] & [[Leona Lewis]]
+| Safe
+|-
+! scope="row" | Angela R. & Kai
+| 31 (8, 7, 8, 8)
+| Rumba
+|"[[Rise Like a Phoenix]]" — [[Conchita Wurst]]
+| Safe
+|-
+! scope="row" | Bobby & Dianne
+| 30 (7, 7, 8, 8)
+| Tango
+|"[[Fashion (David Bowie song)|Fashion]]" — [[David Bowie]]
+| Safe
+|-
+|}
+;Judges' votes to save
+*Horwood: Eddie & Karen
+*Mabuse: Eddie & Karen
+*Du Beke: Eddie & Karen
+*Ballas: ''Did not vote, but would have voted to save Eddie & Karen''
+
+===Week 5===
+Musical guest: [[Bastille (band)|Bastille]] — "[[Pompeii (song)|Pompeii]]"<ref>{{cite web|url=https://www.liverpoolecho.co.uk/news/tv/bbc-strictly-come-dancing-fans-27961784|title=BBC Strictly Come Dancing fans think show bosses made a mistake with results show|website=[[Liverpool Echo]]|first=Lottie|last=Gibbons|date=22 October 2023|access-date=22 October 2023|language=en-GB}}</ref>
+
+[[Amanda Abbington]] announced that she would be unable to perform on the live show for medical reasons. Under the rules of the show, she was granted a [[Bye (sports)|bye]] to the following week.<ref>{{Cite web |last=Baalla |first=Sara |date=October 20, 2023 |title=Strictly confirms Amanda Abbington and Giovanni Pernice will miss live show |url=https://www.digitalspy.com/tv/reality-tv/a45599115/strictly-amanda-abbington-giovanni-pernice-miss-show/ |access-date=October 20, 2023 |website=Digital Spy |language=}}</ref>
+
+Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2023/oct/21/strictly-come-dancing-week-five-live|title=Strictly Come Dancing: week five results – as it happened|website=[[The Guardian]]|first=Michael|last=Hogan|date=22 October 2023|access-date=22 October 2023|language=en-GB}}</ref>
+! class="unsortable" scope="col" |Dance<ref name="Week5Songs">{{Cite web |last=Anderton |first=Joe |date=October 17, 2023 |title=Strictly songs and dances announced for week 5 |url=https://www.digitalspy.com/tv/reality-tv/a45557740/strictly-2023-week-5-songs-dances/ |access-date=October 17, 2023 |website=[[Digital Spy]] |language=en-GB}}</ref>
+! class="unsortable" scope="col" |Music<ref name="Week5Songs" />
+! class="unsortable" scope="col" |Result<ref>{{cite web|url=https://www.telegraph.co.uk/tv/2023/10/22/strictly-come-dancing-2023-week-5-live-results-updates/|title=Strictly Come Dancing 2023: week 5 results – comedian Eddie Kadi is eliminated|website=[[The Daily Telegraph]]|first=Marianka|last=Swain|date=22 October 2023|access-date=22 October 2023|language=en-GB}}</ref>
+|-
+! scope="row" | Annabel & Johannes
+| 27 (5, 7, 7, 8)
+| Charleston
+| "[[Ladies' Night (song)|Ladies' Night]]" — [[Kool & the Gang]]
+| Safe
+|-
+! scope="row" | Nigel & Katya
+| 29 (7, 7, 7, 8)
+| Foxtrot
+| "[[I Just Want to Make Love to You]]" — [[Etta James]]
+| Safe
+|-
+! scope="row" | Eddie & Karen
+| 24 (5, 6, 6, 7)
+| Samba
+| "[[Calm Down (Rema song)|Calm Down]]" — [[Rema (musician)|Rema]] & [[Selena Gomez]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Krishnan & Lauren
+| 30 (6, 8, 8, 8)
+| Quickstep
+| "[[The Lady Is a Tramp]]" — [[Frank Sinatra]]
+| Safe
+|-
+! scope="row" | Angela S. & Carlos
+| 28 (6, 7, 7, 8)
+| American Smooth
+| "[[Cherish (Madonna song)|Cherish]]" — [[Madonna]]
+| Safe
+|-
+! scope="row" | Ellie & Vito
+| 37 (9, 10, 9, 9)
+| Paso doble
+| "[[Insomnia (Faithless song)|Insomnia]]" — [[Faithless]]
+| Safe
+|-
+! scope="row" | Layton & Nikita
+| {{nowrap|39 (9, 10, 10, 10)}}
+| Salsa
+| "[[Quimbara]]" — [[Johnny Pacheco]] & [[Celia Cruz]]
+| Safe
+|-
+! scope="row" | Bobby & Dianne
+| 32 (7, 8, 8, 9)
+| Viennese waltz
+| "[[Golden Hour (song)|Golden Hour]]" — [[JVKE]]
+| Safe
+|-
+! scope="row" |Adam & Luba
+| 32 (7, 8, 8, 9)
+| Couple's choice
+| "[[Everybody (Backstreet's Back)]]",<br>"[[Get Down (You're the One for Me)]]"<br>& "[[Larger than Life (Backstreet Boys song)|Larger than Life]]"<br>All by the [[Backstreet Boys]]
+| Safe
+|-
+! scope="row" | Zara & Graziano
+| 28 (7, 7, 7, 7)
+| American Smooth
+| "[[Can't Fight the Moonlight]]" — [[LeAnn Rimes]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Angela R. & Kai
+| 34 (8, 9, 8, 9)
+| Argentine tango
+| "Tanguera" — Sexteto Mayor
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Zara & Graziano
+*Mabuse: Zara & Graziano
+*Du Beke: Zara & Graziano
+*Ballas: ''Did not vote, but would have voted to save Zara & Graziano''
+
+===Week 6: Halloween Week===
+Musical guest: [[Rick Astley]] — "Forever and More"<ref>{{cite web|url=https://www.liverpoolecho.co.uk/news/showbiz-news/strictly-come-dancing-fans-disbelief-28007452|title=Strictly Come Dancing fans in disbelief after Rick Astley's appearance on BBC show|website=[[Liverpool Echo]]|first=Ryan|last=Paton|date=29 October 2023|access-date=29 October 2023|language=en-GB}}</ref>
+
+After having missed the previous week, [[Amanda Abbington]] withdrew from the competition.<ref name=":0" />
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2023/oct/28/strictly-come-dancing-halloween-special-live|title=Strictly Come Dancing: Halloween results show – as it happened|website=[[The Guardian]]|first=Michael|last=Hogan|date=29 October 2023|access-date=29 October 2023|language=en-GB}}</ref>
+! class="unsortable" scope="col" |Dance<ref name="Week6Songs">{{Cite web |last=Anderton |first=Joe |date=October 24, 2023 |title=Strictly Come Dancing confirms Halloween Week songs and dances for 2023 series |url=https://www.digitalspy.com/tv/reality-tv/a45625121/strictly-come-dancing-halloween-dances-songs-2023/ |access-date=October 25, 2023 |website=[[Digital Spy]] |language=en-GB}}</ref>
+! class="unsortable" scope="col" |Music<ref name="Week6Songs" />
+! class="unsortable" scope="col" |Result<ref>{{cite web|url=https://www.telegraph.co.uk/tv/2023/10/29/strictly-come-dancing-2023-halloween-week-6-live-results/|title=Strictly Come Dancing 2023, Halloween week 6 results: Zara McDermott leaves the ballroom|website=[[The Daily Telegraph]]|first=Marianka|last=Swain|date=29 October 2023|access-date=29 October 2023|language=en-GB}}</ref>
+|-
+! scope="row" | Angela S. & Carlos
+| 33 (8, 8, 8, 9)
+| Paso doble
+| "BLACK swan SWAN lake" — District 78
+| Safe
+|-
+! scope="row" |Adam & Luba
+| 32 (7, 9, 8, 8)
+| American Smooth
+| "[[Magic Moments]]" — [[Perry Como]]
+| bgcolor=lightblue|Bottom two
+|-
+! scope="row" | Zara & Graziano
+| 25 (6, 6, 6, 7)
+| Charleston
+| "[[Jeepers Creepers (song)|Jeepers Creepers]]" — [[Al Donahue]] & His Orchestra
+| bgcolor=#f4c7b8|Eliminated
+|-
+! scope="row" | Layton & Nikita
+| 36 (9, 9, 9, 9)
+| Tango
+| "[[Vampire (Olivia Rodrigo song)|Vampire]]" — [[Olivia Rodrigo]]
+| Safe
+|-
+! scope="row" | Bobby & Dianne
+| 30 (6, 9, 7, 8)
+| Cha-cha-cha
+| "[[Come On-a My House]]" — [[Della Reese]]
+| Safe
+|-
+! scope="row" | Krishnan & Lauren
+| 27 (6, 7, 6, 8)
+| Viennese waltz
+| "[[Kiss from a Rose]]" — [[Seal (musician)|Seal]]
+| Safe
+|-
+! scope="row" | Angela R. & Kai
+| 33 (9, 8, 8, 8)
+| Charleston
+| "Theme from ''[[Murder, She Wrote]]''" — [[John Addison]]
+| Safe
+|-
+! scope="row" | Annabel & Johannes
+| 29 (7, 7, 7, 8)
+| Tango
+| "[[Need You Tonight]]" — [[INXS]]
+| Safe
+|-
+! scope="row" | Nigel & Katya
+| 30 (8, 7, 7, 8)
+| Cha-cha-cha
+| "[[I Was Made for Lovin' You]]" — [[Kiss (band)|Kiss]]
+| Safe
+|-
+! scope="row" | Ellie & Vito
+| {{nowrap|38 (9, 10, 10, 9)}}
+| Salsa
+| "[[Murder on the Dancefloor]]" — [[Sophie Ellis-Bextor]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Adam & Luba
+*Mabuse: Adam & Luba
+*Du Beke: Adam & Luba
+*Ballas: ''Did not vote, but would have voted to save Adam & Luba''
+
+===Week 7===
+Musical guest: [[Zara Larsson]] — "[[On My Love]]"<ref>{{cite web|url=https://www.manchestereveningnews.co.uk/news/tv/bbc-strictly-come-dancing-fans-28050732|title=BBC Strictly Come Dancing fans praise Zara Larsson for gesture during results show performance as they ask 'is it me'|website=[[Manchester Evening News]]|first=Jessica|last=Sansome|date=5 November 2023|access-date=5 November 2023|language=en-GB}}</ref>
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2023/nov/04/strictly-come-dancing-week-seven-live|title=Strictly Come Dancing: week seven – as it happened|website=[[The Guardian]]|first=Michael|last=Hogan|date=4 November 2023|access-date=4 November 2023|language=en-GB}}</ref>
+! class="unsortable" scope="col" |Dance<ref name="Week7Songs">{{Cite web |last=Warner |first=Sam |date=October 31, 2023 |title=Strictly Come Dancing confirms week 7 songs and dances |url=https://www.digitalspy.com/tv/reality-tv/a45697910/strictly-week-7-songs-dances/ |access-date=October 31, 2023 |website=[[Digital Spy]] |language=en-GB}}</ref>
+! class="unsortable" scope="col" |Music<ref name="Week7Songs" />
+! class="unsortable" scope="col" |Result<ref>{{cite web|url=https://www.telegraph.co.uk/tv/2023/11/05/strictly-come-dancing-2023-week-7-live-results-updates/|title=Strictly Come Dancing 2023, week 7 results: Angela Rippon gets a scare|website=[[The Daily Telegraph]]|first=Marianka|last=Swain|date=5 November 2023|access-date=5 November 2023|language=en-GB}}</ref>
+|-
+! scope="row" | Layton & Nikita
+| 36 (8, 10, 10, 8)
+| Jive
+| "[[Shake Ur Body]]" — [[Shy FX]], feat. [[Di (singer)|Di]]
+| Safe
+|-
+! scope="row" | Angela R. & Kai
+| 28 (7, 8, 6, 7)
+| Waltz
+| "[[Fascination (1905 song)|Fascination]]" — [[Nat King Cole]]
+| bgcolor=lightblue|Bottom two
+|-
+! scope="row" | Nigel & Katya
+| 33 (7, 9, 9, 8)
+| Tango
+| "[[Nothing Breaks Like a Heart]]" — [[Mark Ronson]], feat. [[Miley Cyrus]]
+| Safe
+|-
+! scope="row" | Angela S. & Carlos
+| 27 (6, 7, 7, 7)
+| Samba
+| "[[Ain't It Funny]]" — [[Jennifer Lopez]]
+| Safe
+|-
+! scope="row" | Annabel & Johannes
+| 35 (8, 9, 9, 9)
+| Couple's choice
+| "[[Wings (Birdy song)|Wings]]" — [[Birdy (singer)|Birdy]]
+| Safe
+|-
+! scope="row" | Bobby & Dianne
+| 30 (6, 8, 8, 8)
+| Argentine tango
+| "[[Sail (song)|Sail]]" — [[Awolnation]]
+| Safe
+|-
+! scope="row" | Ellie & Vito
+| {{nowrap|39 (9, 10, 10, 10)}}
+| American Smooth
+| "[[Ain't That a Kick in the Head?]]" — [[Robbie Williams]]
+| Safe
+|-
+! scope="row" |Adam & Luba
+| 27 (6, 7, 7, 7)
+| Rumba
+| "[[Dancing On My Own]]" — [[Calum Scott]]
+| bgcolor=#f4c7b8|Eliminated
+|-
+! scope="row" | Krishnan & Lauren
+| 29 (6, 8, 8, 7)
+| Couple's choice
+| "[[You Can Call Me Al]]" — [[Paul Simon]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Angela R. & Kai
+*Mabuse: Angela R. & Kai
+*Du Beke: Angela R. & Kai
+*Ballas: ''Did not vote, but would have voted to save Angela R. & Kai''
+
+===Week 8===
+Musical guests: [[Andrea Bocelli]] & Virginia Bocelli – "[[Hallelujah (Leonard Cohen song)|Hallelujah]]"<ref>{{cite web|url=https://www.examinerlive.co.uk/news/tv/bbc-hit-strictly-come-dancing-28093548|title=BBC hit with Strictly Come Dancing complaints over Andrea and Virginia Bocelli Remembrance Sunday performance |website=Examiner Live |first=Alex|last=Evans|date=12 November 2023|access-date=12 November 2023|language=en-GB}}</ref>
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2023/nov/11/strictly-come-dancing-week-eight-live|title=Strictly Come Dancing: week eight – as it happened|website=[[The Guardian]]|first=Michael|last=Hogan|date=11 November 2023|access-date=11 November 2023|language=en-GB}}</ref>
+! class="unsortable" scope="col" | Dance<ref name=":1">{{Cite web |last=Archer |first=Katie |date=2023-11-07 |title=Strictly week eight routine reveal: Who's dancing what this weekend |url=https://uk.news.yahoo.com/strictly-week-eight-routine-reveal-152525690.html |access-date=2023-11-07 |website=Yahoo! News}}</ref>
+! class="unsortable" scope="col" | Music<ref name=":1" />
+! class="unsortable" scope="col" |Result<ref>{{cite web|url=https://www.telegraph.co.uk/tv/2023/11/12/strictly-come-dancing-2023-week-8-live-performances-update/|title=Strictly Come Dancing 2023, week 8 results – Angela Rippon knocks out Krishnan Guru-Murthy|website=[[The Daily Telegraph]]|first=Marianka|last=Swain|date=12 November 2023|access-date=12 November 2023|language=en-GB}}</ref>
+|-
+! scope="row" | Krishnan & Lauren
+| 25 (5, 7, 6, 7)
+| Samba
+| "[[Bamboléo]]" — [[Gipsy Kings]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Bobby & Dianne
+| 32 (7, 8, 8, 9)
+| American Smooth
+| "[[Ghost of You (5 Seconds of Summer song)|Ghost of You]]" — [[5 Seconds of Summer]]
+| Safe
+|-
+! scope="row" | Angela R. & Kai
+| 32 (8, 8, 8, 8)
+| Paso doble
+| "[[Hung Up]]" — [[Madonna]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Nigel & Katya
+| 34 (8, 8, 9, 9)
+| Couple's choice
+| "[[Just the Way You Are (Bruno Mars song)|Just the Way You Are]]" — [[Bruno Mars]]
+| Safe
+|-
+! scope="row" | Ellie & Vito
+| 35 (8, 9, 9, 9)
+| Rumba
+| "[[True Colors (Cyndi Lauper song)|True Colors]]" — [[Cyndi Lauper]]
+| Safe
+|-
+! scope="row" | Annabel & Johannes
+| 31 (7, 8, 8, 8)
+| Samba
+| "[[Whenever, Wherever]]" — [[Shakira]]
+| Safe
+|-
+! scope="row" | Angela S. & Carlos
+| 33 (7, 9, 8, 9)
+| Waltz
+| "[[With You I'm Born Again]]" — [[Billy Preston]] & [[Syreeta Wright|Syreeta]]
+| Safe
+|-
+! scope="row" | Layton & Nikita
+| {{nowrap|39 (9, 10, 10, 10)}}
+| Argentine tango
+| "[[Tattoo (Loreen song)|Tattoo]]" — [[Loreen]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Angela R. & Kai
+*Mabuse: Angela R. & Kai
+*Du Beke: Angela R. & Kai
+*Ballas: ''Did not vote, but would have voted to save Krishnan & Lauren''
+
+===Week 9: Blackpool Week===
+Musical guests: [[Madness (band)|Madness]] – "C'est La Vie"<ref>{{cite web|url=https://jerseyeveningpost.com/morenews/entertainment/2023/11/19/eighth-celebrity-eliminated-from-strictly-after-blackpool-special/|title=Eighth celebrity eliminated from Strictly after Blackpool special|website=[[Jersey Evening Post]]|author=PA|date=19 November 2023|access-date=19 November 2023|language=en-GB}}</ref>
+
+This week's episode was staged in the [[Blackpool Tower#Tower Ballroom|Tower Ballroom]] at the [[Blackpool Tower]] in [[Blackpool, Lancashire]]. Couples are listed in the order they performed.
+
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2023/nov/18/strictly-come-dancing-blackpool-special-live|title=Strictly Come Dancing: Blackpool results – as it happened|website=[[The Guardian]]|first=Michael|last=Hogan|date=18 November 2023|access-date=19 November 2023|language=en-GB}}</ref>
+! class="unsortable" scope="col" |Dance<ref name="Week9Songs">{{Cite web |date=2023-11-13 |title=Routine Reveal: Blackpool Week |url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2Fd82d74a9-991f-44c2-963a-3db0a3b62d34 |access-date=2023-11-14 |website=BBC |language=en}}</ref>
+! class="unsortable" scope="col" |Music<ref name="Week9Songs" />
+! class="unsortable" scope="col" |Result<ref>{{cite web|url=https://www.telegraph.co.uk/tv/2023/11/19/strictly-come-dancing-2023-week-9-blackpool-live-results/|title=Strictly Come Dancing 2023, Blackpool week 9 results – Angela Rippon is eliminated|website=[[The Daily Telegraph]]|first=Marianka|last=Swain|date=19 November 2023|access-date=19 November 2023|language=en-GB}}</ref>
+|-
+! scope="row" | Bobby & Dianne
+| 35 (8, 9, 9, 9)
+| Jive
+| "[[Wake Me Up Before You Go-Go]]" — [[Wham!]]
+| bgcolor="lightblue"|Bottom two
+|-
+! scope="row" | Angela R. & Kai
+| 28 (6, 7, 7, 8)
+| American Smooth
+| "[[Tea for Two (song)|Tea for Two]]" — [[Ella Fitzgerald]]
+| bgcolor="f4c7b8"|Eliminated
+|-
+! scope="row" | Layton & Nikita
+| {{nowrap|39 (9, 10, 10, 10)}}
+| Couple's choice
+| "[[Ain't No Other Man]]" — [[Christina Aguilera]]
+| Safe
+|-
+! scope="row" | Annabel & Johannes
+| 35 (8, 9, 9, 9)
+| American Smooth
+| "[[Unchained Melody]]" — Benedetta Caretta
+| Safe
+|-
+! scope="row" | Ellie & Vito
+| 39 (9, 10, 10, 10)
+| Charleston
+| "[[Love Machine (Girls Aloud song)|Love Machine]]" — [[Girls Aloud]]
+| Safe
+|-
+! scope="row" | Angela S. & Carlos
+| 38 (8, 10, 10, 10)
+| Argentine tango
+| "[[Back to Black (song)|Back to Black]]" — [[Amy Winehouse]]
+| Safe
+|-
+! scope="row" | Nigel & Katya
+| 31 (7, 8, 8, 8)
+| Quickstep
+| "[[It Don't Mean a Thing (If It Ain't Got That Swing)]]" — [[Duke Ellington]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Bobby & Dianne
+*Mabuse: Bobby & Dianne
+*Du Beke: Bobby & Dianne
+*Ballas: ''Did not vote, but would have voted to save Bobby & Dianne''
+
+===Week 10===
+Musical guests: [[Texas (band)|Texas]] – "[[Inner Smile]]"<ref>{{cite web|url=https://www.manchestereveningnews.co.uk/news/tv/bbc-strictly-come-dancing-fans-28180106|title=BBC Strictly Come Dancing fans 'howling' as they spot 'editing blunder' that 'exposes' results show truth|website=[[Manchester Evening News]]|first=Jessica|last=Sansome|date=27 November 2023|access-date=27 November 2023|language=en-GB}}</ref>
+
+Couples are listed in the order they performed.
+
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+! scope="col" | Couple
+! scope="col" | Scores<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2023/nov/25/strictly-come-dancing-week-ten-live|title=Strictly Come Dancing: week 10 – as it happened|website=[[The Guardian]]|first=Michael|last=Hogan|date=25 November 2023|access-date=26 November 2023|language=en-GB}}</ref>
+! class="unsortable" scope="col" | Dance<ref name="Week10Songs">{{Cite web |date=2023-11-21 |title=Week Ten: Routine Reveal |url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2Fbf49aba4-0b2c-46c5-afe2-b6ef3973c920 |access-date=2023-11-21 |website=BBC |language=en}}</ref>
+! class="unsortable" scope="col" | Music<ref name="Week10Songs" />
+! class="unsortable" scope="col" | Result<ref>{{cite web|url=https://www.telegraph.co.uk/tv/2023/11/26/strictly-come-dancing-2023-week-10-live-results-updates/|title=Strictly Come Dancing 2023, week 10 Results: Angela Scanlon goes out|website=[[The Daily Telegraph]]|first=Marianka|last=Swain|date=26 November 2023|access-date=26 November 2023|language=en-GB}}</ref>
+|-
+! scope="row" | Layton & Nikita
+| 34 (8, 9, 8, 9)
+| American Smooth
+| "[[It's Oh So Quiet]]" — [[Björk]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Nigel & Katya
+| 33 (8, 8, 8, 9)
+| Rumba
+| "[[It's All Coming Back to Me Now#Celine Dion version|It's All Coming Back to Me Now]]" — [[Celine Dion]]
+| Safe
+|-
+! scope="row" | Annabel & Johannes
+| 36 (8, 9, 9, 10)
+| Paso doble
+| "[[España cañí]]" — [[Pascual Marquina Narro]]
+| Safe
+|-
+! scope="row" | Angela S. & Carlos
+| 31 (7, 7, 8, 9)
+| Cha-cha-cha
+| "[[I Will Survive]]" — [[Gloria Gaynor]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Bobby & Dianne
+| 37 (8, 9, 10, 10)
+| Couple's choice
+| "[[This Woman's Work#Maxwell's versions|This Woman's Work]]" — [[Maxwell (musician)|Maxwell]]
+| Safe
+|-
+! scope="row" | Ellie & Vito
+| 38 (9, 10, 10, 9)
+| Argentine tango
+| "[[Bills, Bills, Bills]]" — [[Destiny's Child]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Layton & Nikita
+*Mabuse: Layton & Nikita
+*Du Beke: Layton & Nikita
+*Ballas: ''Did not vote, but would have voted to save Angela S. & Carlos''
+
+===Week 11: Musicals Week (Quarter-final)===
+Musical guest: [[Joss Stone]] – "This Time" ''(from [[The Time Traveller's Wife (musical)|The Time Traveller's Wife]])''<ref>{{cite web|url=https://www.telegraph.co.uk/tv/2023/12/03/strictly-come-dancing-2023-week-11-musicals-live-results/|title=Strictly Come Dancing 2023, Musicals Week 11 Results, live: no elimination after Nigel Harman's exit|website=[[The Daily Telegraph]]|first=Marianka|last=Swain|date=2023-12-03|access-date=2023-12-03|language=en-GB}}</ref>
+
+Hours before the live performance was to begin, [[Nigel Harman]] announced that he had to withdraw from the competition after sustaining an injury.<ref name=":2">{{Cite web |last=Denman |first=Amy |date=2023-12-02 |title=Strictly Come Dancing's Nigel Harman quits competition hours before live show |url=https://www.mirror.co.uk/tv/tv-news/breaking-strictly-come-dancings-nigel-31581454 |access-date=2023-12-02 |website=The Mirror |language=en}}</ref> As a result, there was no elimination this week and all scores carried over to the following week.<ref>{{Cite web |last=Leigh & Nanji |first=Suzanne & Noor  |date=2023-12-02 |title=Nigel Harman pulls out of Strictly Come Dancing |url=https://www.bbc.co.uk/news/entertainment-arts-67600909 |access-date=2023-12-02 |website=BBC News |language=en}}</ref>
+
+Couples are listed in the order they performed.
+
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" | Couple
+! scope="col" | Scores<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2023/dec/02/strictly-come-dancing-the-quarter-final-live|title=Strictly Come Dancing: week 11 – as it happened|website=[[The Guardian]]|first=Michael|last=Hogan|date=2 December 2023|access-date=2023-12-02|language=en-GB}}</ref>
+! scope="col" class="unsortable"| Dance<ref name="Week11Songs">{{Cite web|url=https://www.londontheatre.co.uk/theatre-news/news/see-west-end-musicals-featured-on-strictly-come-dancing|title=See West End musicals featured on ''Strictly Come Dancing''|date=2023-11-30|access-date=2023-12-01|website=London Theatre|first=Gillian|last=Russo|language=en}}</ref>
+! scope="col" class="unsortable"| Music<ref name="Week11Songs" />
+! scope="col" class="unsortable"| Musical<ref name="Week11Songs" />
+|-
+! scope="row" | Ellie & Vito
+| 36 (9, 9, 9, 9)
+| Quickstep
+| "[[Belle (Disney song)|Belle]]"
+| ''[[Beauty and the Beast (musical)|Beauty and the Beast]]''
+|-
+! scope="row" | Annabel & Johannes
+| 33 (8, 8, 8, 9)
+| Foxtrot
+| "[[For Good]]"
+| ''[[Wicked (musical)|Wicked]]''
+|-
+! scope="row" | Layton & Nikita
+| {{nowrap|40 (10, 10, 10, 10)}}
+| Paso doble
+| "Backstage Romance"
+| ''[[Moulin Rouge! (musical)|Moulin Rouge!]]''
+|-
+! scope="row" | Bobby & Dianne
+| 34 (8, 8, 9, 9) 
+| Salsa
+| "[[(I've Had) The Time of My Life]]"
+| ''[[Dirty Dancing]]''
+|}
+
+===Week 12: Semi-final===
+Musical guests: [[Take That]] – "[[This Life (Take That song)|This Life]]"<ref>{{cite web|url=https://tellymix.co.uk/reality-tv/682457-take-that-to-perform-on-strictly-come-dancing.html|title=Watch Take That perform on Strictly Come Dancing 2023|website=Telly Mix|first=Kayleigh|last=Jade|date=2023-12-10|access-date=2023-12-10|language=en-GB}}</ref>
+
+Each couple performed two routines, and are listed in the order they performed.
+
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" | Couple
+! scope="col" | Scores<ref>{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2023/dec/09/strictly-come-dancing-the-semi-final-live|title=Strictly Come Dancing: the semi-final|website=[[The Guardian]]|first=Michael|last=Hogan|date=9 December 2023|access-date=2023-12-09|language=en-GB}}</ref>
+! scope="col" class="unsortable" | Dance<ref name="Week12Songs">{{Cite web |date=2023-12-05 |title=Semi-Final: Routine Reveal |url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2F732948de-6333-4bee-b431-62be7eb6cec4 |access-date=2023-12-05 |website=BBC |language=en}}</ref>
+! scope="col" class="unsortable" | Music<ref name="Week12Songs" />
+! scope="col" class="unsortable" | Result<ref>{{cite web|url=https://www.telegraph.co.uk/tv/2023/12/10/strictly-come-dancing-2023-semi-final-results-live/|title=Strictly Come Dancing 2023 Semi-Final Results: Annabel Croft is eliminated|website=[[The Daily Telegraph]]|first=Marianka|last=Swain|date=2023-12-10|access-date=2023-12-10|language=en-GB}}</ref>
+|-
+! rowspan="2" scope="row" | Bobby & Dianne
+| 38 (9, 9, 10, 10)
+| Quickstep
+| "[[Mack the Knife]]" — [[Bobby Darin]]
+| rowspan="2" bgcolor=lightblue| Bottom two
+|-
+| 35 (8, 9, 9, 9)
+| Paso doble
+| "[[Run Boy Run (song)|Run Boy Run]]" — [[Yoann Lemoine|Woodkid]]
+|-
+! rowspan="2" scope="row" | Layton & Nikita
+| 36 (9, 9, 9, 9)
+| Rumba
+| "[[Lift Me Up (Rihanna song)|Lift Me Up]]" — [[Rihanna]]
+| rowspan="2" | Safe
+|-
+| 40 (10, 10, 10, 10)
+| Charleston
+| "[[Fit as a Fiddle (song)|Fit as a Fiddle]]" — [[Gene Kelly]] & [[Donald O'Connor]]
+|-
+! rowspan="2" scope="row" | Annabel & Johannes
+| 32 (8, 8, 8, 8)
+| Salsa
+| "[[You'll Be Mine (Party Time)]]" — [[Gloria Estefan]]
+| rowspan="2" bgcolor=#f4c7b8|Eliminated
+|-
+| 33 (8, 8, 8, 9)
+| Viennese waltz
+| "[[Please Please Please Let Me Get What I Want]]" — [[Amelia Warner|Slow Moving Millie]]
+|-
+! rowspan="2" scope="rowspan=2" | Ellie & Vito 
+| 37 (9, 10, 9, 9)
+| Cha-cha-cha 
+| "[[Mambo Italiano]]" — [[Bette Midler]]
+| rowspan="2" | Safe
+|-
+| 38 (9, 9, 10, 10)
+| Couple's choice
+| "[[Blow Your Mind (Mwah)]]" & "[[Physical (Dua Lipa song)|Physical]]"  — [[Dua Lipa]] 
+|}
+;Judges' votes to save
+*Horwood: Annabel & Johannes
+*Mabuse: Bobby & Dianne
+*Du Beke: Bobby & Dianne
+*Ballas: Bobby & Dianne
+
+===Week 13: Final===
+Musical guest: [[Cher]] — "[[DJ Play a Christmas Song]]"<ref>{{Citation |title=Cher performs her hit DJ Play A Christmas Song in the Ballroom ✨ BBC Strictly 2023 |url=https://www.youtube.com/watch?v=pmbVssN3dZU |access-date=2024-02-13 |language=en}}</ref>
+
+Each couple performed three routines: one chosen by the judges, their showdance routine, and their favourite dance of the series. 
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+|-
+! scope="col" | Couple
+! scope="col" | Scores<ref name="Week13scores">{{cite web|url=https://www.theguardian.com/tv-and-radio/live/2023/dec/16/strictly-come-dancing-the-final-live|title=Strictly Come Dancing: the Final|website=[[The Guardian]]|first=Michael|last=Hogan|date=16 December 2023|access-date=2023-12-16|language=en-GB}}</ref>
+! scope="col" class="unsortable" | Dance<ref name="Week13Songs">{{Cite web |date=2023-12-11 |title=Grand Final: Routine Reveal |url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2Fe393bd73-17ac-46c9-9816-9f6a6a3925b4 |access-date=2023-12-12 |website=BBC |language=en}}</ref>
+! scope="col" class="unsortable" | Music<ref name="Week13Songs"/>
+! scope="col" class="unsortable" | Result<ref name="Week13scores"/>
+|-
+! rowspan="3" scope="rowspan=3" | Ellie & Vito 
+| 39 (9, 10, 10, 10)
+| Paso doble
+| "[[Insomnia (Faithless song)|Insomnia]]" — [[2WEI]]
+| rowspan="3" bgcolor=Gold| '''Winners'''
+|-
+| 36 (9, 9, 9, 9)
+| Showdance 
+| "[[On the Floor]]" & "[[Dance Again]]" — [[Jennifer Lopez]]
+|-
+| 40 (10, 10, 10, 10)
+| American Smooth
+| "[[Ain't That a Kick in the Head?]]" — [[Robbie Williams]]
+|-
+! rowspan="3" scope="row" | Bobby & Dianne
+| rowspan="3" | 39 (9, 10, 10, 10)
+| Samba
+| "[[Young Hearts Run Free]]" — [[Candi Staton]]
+| rowspan="6" bgcolor="silver" | Runners-up
+|-
+| Showdance 
+| "[[Someone in the Crowd]]",<br>"[[Another Day of Sun]]" & "Epilogue"<br>All from ''[[La La Land]]''
+|-
+| Couple's choice
+| "[[This Woman's Work#Maxwell's versions|This Woman's Work]]" — [[Maxwell (musician)|Maxwell]]
+|-
+! rowspan="3" scope="row" | Layton & Nikita
+| 40 (10, 10, 10, 10)
+| Quickstep
+| "[[Puttin' On the Ritz]]" — [[Gregory Porter]]
+|-
+|  39 (9, 10, 10, 10)
+| Showdance 
+| "[[Friend Like Me]]" — [[Ne-Yo]]
+|-
+| 40 (10, 10, 10, 10)
+| Argentine tango
+| "[[Tattoo (Loreen song)|Tattoo]]" — [[Loreen]]
+|}
+
+==Dance chart==
+The couples performed the following each week:
+*Weeks 1–11: One unlearned dance
+*Week 12 (Semi-Finals): Two unlearned dances
+*Week 13 (Finals): Judges' choice, showdance & favourite dance of the series
+
+{| class="wikitable unsortable" style="text-align:center; font-size:85%; line-height:20px"
+<!-- FONT SIZE CANNOT GO BELOW 85% PER [[MOS:SMALL]]. -->
+|+''Strictly Come Dancing'' (series 21) - Dance chart
+! rowspan="2" |Couple
+! colspan="16" |Week
+|-
+! scope="col" | 1
+! scope="col" | 2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" | 5
+! scope="col" | 6
+! scope="col" | 7
+! scope="col" | 8
+! scope="col" | 9
+! scope="col" | 10
+! scope="col" | 11
+! scope="col" colspan="2" | 12 
+! scope="col" colspan="3" | 13
+|-
+! scope="row" | Ellie & Vito
+| Jive
+| Foxtrot
+| Viennese waltz
+| Samba
+| Paso doble
+| Salsa
+| American Smooth
+| Rumba
+| Charleston
+| Argentine tango
+| Quickstep
+| {{nowrap|Cha-cha}}-cha
+| Couple's choice
+| Paso doble 
+| Showdance
+| American Smooth
+|-
+! scope="row" | Bobby & Dianne
+| Foxtrot
+| Charleston
+| Samba
+| Tango
+| Viennese waltz
+| {{nowrap|Cha-cha}}-cha
+| Argentine tango
+| American Smooth
+| Jive
+| Couple's choice
+| Salsa
+| Quickstep
+| Paso doble
+| Samba
+| Showdance
+| Couple's choice
+|-
+! scope="row" | Layton & Nikita
+| Samba
+| Quickstep
+| Viennese waltz
+| {{nowrap|Cha-cha}}-cha
+| Salsa
+| Tango
+| Jive
+| Argentine tango
+| Couple's choice
+| American Smooth
+| Paso doble
+| Rumba
+| Charleston
+|  Quickstep
+| Showdance
+| Argentine tango
+|-
+! scope="row" | Annabel & Johannes
+| Cha-cha-cha
+| Quickstep
+| Waltz
+| Jive
+| Charleston
+| Tango
+| Couple's choice
+| Samba
+| American Smooth
+| Paso doble
+| Foxtrot
+| Salsa 
+| Viennese waltz
+| colspan="3" bgcolor="darkgray" |
+|-
+! scope="row" | Nigel & Katya
+| Paso doble
+| Viennese waltz
+| Jive
+| Salsa
+| Foxtrot
+| Cha-cha-cha
+| Tango
+| Couple's choice
+| Quickstep
+| Rumba
+| colspan="6" bgcolor="darkgray" |
+|-
+! scope="row" | Angela S. & Carlos
+| Tango
+| Jive
+| Charleston
+| Viennese waltz
+| American Smooth
+| Paso doble
+| Samba
+| Waltz
+| Argentine tango
+| Cha-cha-cha
+| colspan="6" bgcolor="darkgray" |
+|-
+! scope="row" | Angela R. & Kai
+| {{nowrap|Cha-cha}}-cha
+| Foxtrot
+| Quickstep
+| Rumba
+| Argentine tango
+| Charleston
+| Waltz
+| Paso doble
+| American Smooth
+| colspan="7" bgcolor="darkgray" |
+|-
+! scope="row" | Krishnan & Lauren
+| Cha-cha-cha
+| Foxtrot
+| Charleston
+| Paso doble
+| Quickstep
+| Viennese waltz
+| Couple's choice
+| Samba
+| colspan="8" bgcolor="darkgray" |
+|-
+! scope="row" | Adam & Luba
+| Cha-cha-cha
+| Tango
+| Jive
+| Waltz
+| Couple's choice
+| American Smooth
+| Rumba
+| colspan="9" bgcolor="darkgray" |
+|-
+! scope="row" | Zara & Graziano
+| Cha-cha-cha
+| Quickstep
+| Paso doble
+| Viennese waltz
+| American Smooth
+| Charleston
+| colspan="10" bgcolor="darkgray" |
+|-
+! scope="row" | Amanda & Giovanni
+| Viennese waltz
+| Salsa
+| Rumba
+| Foxtrot
+| colspan="12" bgcolor="darkgray" |
+|-
+! scope="row" | Eddie & Karen
+| Quickstep
+| {{nowrap|Cha-cha}}-cha
+| Couple's choice
+| American Smooth
+| Samba
+| colspan="11" bgcolor="darkgrey" |
+|-
+! scope="row" | Jody & Jowita
+| Quickstep
+| Paso doble
+| American Smooth
+| Salsa
+| colspan="12" bgcolor="darkgray" |
+|-
+! scope="row" | Nikita & Gorka
+| Waltz
+| Charleston
+| Jive
+| colspan="13" bgcolor="darkgray" |
+|-
+! scope="row" | Les & Nancy
+| Tango
+| Samba
+| colspan="14" bgcolor="darkgray" |
+|}
+
+==Ratings==
+Weekly ratings for each show on [[BBC One]]. All ratings are provided by [[Barb Audiences|BARB]].<ref>{{cite web|url=https://www.barb.co.uk/viewing-data/four-screen-dashboard/|title=Four-screen dashboard (7-day data)|publisher=[[BARB]]|access-date=17 September 2023}}</ref>
+{| class="wikitable sortable" style="text-align:center"
+|-
+! scope="col"|Episode
+! scope="col"|Date
+! scope="col"|Official rating<br />(millions)
+! scope="col"|Weekly rank<br />for BBC One
+! scope="col"|Weekly rank<br />for all UK TV
+|-
+! scope="row"|Launch show
+| {{dts|16 September}} || 7.92 || 1 || 1
+|-
+! scope="row"|Week 1
+| {{dts|23 September}} || 8.44 || 1 || 1
+|-
+! scope="row"|Week 2
+| {{dts|30 September}} || 8.37 || 1 || 1
+|-
+! scope="row"|Week 2 results
+| {{dts|1 October}} || 7.36 || 2 || 3
+|-
+! scope="row"|Week 3
+| {{dts|7 October}} || 8.40 || 1 || 1
+|-
+! scope="row"|Week 3 results
+| {{dts|8 October}} || 7.33 || 2 || 3
+|-
+! scope="row"|Week 4
+| {{dts|14 October}} || 8.41 || 1 || 1
+|-
+! scope="row"|Week 4 results
+| {{dts|15 October}} || 8.05 || 2 || 2
+|-
+! scope="row"|Week 5
+| {{dts|21 October}} || 8.79 || 1 || 1
+|-
+! scope="row"|Week 5 results
+| {{dts|22 October}} || 8.36 || 2 || 2
+|-
+! scope="row"|Week 6
+| {{dts|28 October}} || 9.20 || 1 || 1
+|-
+! scope="row"|Week 6 results
+| {{dts|29 October}} || 8.58 || 2 || 2
+|-
+! scope="row"|Week 7
+| {{dts|4 November}} || 8.81  || 1 || 1 
+|-
+! scope="row"|Week 7 results
+| {{dts|5 November}} || 8.01 || 2 || 2
+|-
+! scope="row"|Week 8
+| {{dts|11 November}} || 8.80 || 1 || 1 
+|-
+! scope="row"|Week 8 results
+| {{dts|12 November}} || 8.44 || 2 || 2 
+|-
+! scope="row"|Week 9
+| {{dts|18 November}} || 9.78 || 1 || 2 
+|-
+! scope="row"|Week 9 results
+| {{dts|19 November}} || 8.67 || 2 || 3
+|-
+! scope="row"|Week 10
+| {{dts|25 November}} || 9.07 || 1 || 5
+|-
+! scope="row"|Week 10 results
+| {{dts|26 November}} || 8.79 || 2 || 6
+|-
+! scope="row"|Week 11
+| {{dts|2 December}} || 9.37 || 1 || 1
+|-
+! scope="row"|Week 11 results
+| {{dts|3 December}} || 6.71 || 3 || 11
+|-
+! scope="row"|Week 12
+| {{dts|9 December}} || 8.88  || 1 || 1
+|-
+! scope="row"|Week 12 results
+| {{dts|10 December}} || 8.45 || 2 || 2
+|-
+! scope="row"|Week 13
+| {{dts|16 December}} || 10.06 || 1 || 1
+|-
+! Series average<br>(excl. launch show)
+! 2023
+! 8.55
+! {{N/A}}
+! {{N/A}}
+|}
+
+==References==
+{{Reflist}}
+
+== External links ==
+* {{BBC Online|id=strictlycomedancing|title=''Strictly Come Dancing''}}
+
+{{Strictly Come Dancing}}
+
+<!--[[Category:2023 British television seasons]]-->
+[[Category:Strictly Come Dancing series]]
+[[Category:2023 British television seasons]]

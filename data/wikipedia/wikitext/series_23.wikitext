@@ -1,0 +1,1824 @@
+{{pp|small=yes}}
+{{Short description|None}}
+{{Use dmy dates|date=August 2025}}
+{{Use British English|date=August 2025}}
+{{Infobox television season
+| bgcolor              = #75E3B8
+| series_number        = 23
+| module1              = {{Infobox reality competition season
+| celebrity_winner    = [[Karen Carney]]
+| professional_winner = [[Carlos Gu]]
+| presenter = [[Tess Daly]]<br>[[Claudia Winkleman]]
+| judges    = [[Shirley Ballas]]<br>[[Anton Du Beke]]<br>[[Motsi Mabuse]]<br>[[Craig Revel Horwood]]
+}}
+| num_episodes         = 25
+| network              = [[BBC One]]
+| first_aired          = {{Start date|2025|9|20|df=y}}
+| last_aired           = {{End date|2025|12|20|df=y}}
+| prev_series          = [[Strictly Come Dancing series 22|Series 22]]
+}}
+'''''[[Strictly Come Dancing]]''''' returned for its twenty-third series with a launch show on 20 September 2025 on [[BBC One]], with live shows beginning from 27 September.<ref>{{cite web |url=https://www.manchestereveningnews.co.uk/news/tv/bbc-strictly-come-dancings-huge-32303246 |title=BBC Strictly Come Dancing's huge update on applying for tickets to live shows with strict rules |first=Jessica |last=Sansome |date=2025-08-19 |access-date=2025-08-19 |website=[[Manchester Evening News]]}}</ref><ref>{{cite web |title=Strictly Come Dancing {{!}} Shows and tours |url=https://www.bbc.co.uk/showsandtours/shows/strictly-come-dancing-2025 |date=2025-08-19 |access-date=2025-08-19 |website=BBC}}</ref> [[Tess Daly]] and [[Claudia Winkleman]] returned as hosts, whilst [[Janette Manrara]] and [[Fleur East]] returned to host ''[[Strictly Come Dancing: It Takes Two]]''.<ref>{{cite web |last=Sarrubba |first=Stefania |date=26 June 2025 |title=''Strictly'' kicks off 2025 series with line-up confirmation - is your favourite star returning? |url=https://www.digitalspy.com/tv/reality-tv/a65208644/strictly-2025-series-line-up-confirmation/ |access-date=14 July 2025 |website=[[Digital Spy]]}}</ref> [[Craig Revel Horwood]], [[Motsi Mabuse]], [[Shirley Ballas]] and [[Anton Du Beke]] returned to the judging panel.<ref>{{cite web |last=Ross |first=Alex |date=27 June 2025 |title=''Strictly Come Dancing'' confirm hosts and judges for 2025 series |url=https://hellorayo.co.uk/tay/entertainment/television/strictly-come-dancing-guide |access-date=14 July 2025 |website=[[Tay FM]]}}</ref><ref>{{cite web |last=Griffiths |first=Emmy |date=27 June 2025 |title=''Strictly Come Dancing'' confirms hosts and judges for 2025 - but viewers demand major change |url=https://www.hellomagazine.com/film/840760/strictly-come-dancing-confirms-hosts-and-judges-for-2025/?viewas=amp |access-date=14 July 2025 |website=[[Hello! (magazine)|Hello!]] |language=en}}</ref> It was the last series to be presented by Daly and Winkleman, who announced their departures on 23 October 2025.<ref>{{cite web |last=Saunders |first=Emma |editor-last=Moon |editor-first=Jenna |title='It's been an absolute dream': Tess Daly and Claudia Winkleman to leave Strictly |url=https://www.bbc.com/news/live/c77d3p6r2r8t |language=en-gb |publisher=[[BBC]] |date=23 October 2025 |access-date=23 October 2025 }}</ref><ref>{{cite web |last=Hibbs |first=James |title=BBC reacts to Strictly Come Dancing presenting bombshell as Tess and Claudia's final appearance dates confirmed |url=https://www.radiotimes.com/tv/entertainment/strictly-tess-claudia-bbc-reaction-newsupdate |language=en-gb |website=[[Radio Times]] |date=23 October 2025 |access-date=23 October 2025 }}</ref>
+
+The series concluded on 20 December 2025, when footballer [[Karen Carney]] and her partner [[Carlos Gu]] were announced as the winners, with [[Amber Davies]] and [[Nikita Kuzmin]], and [[George Clarke (internet personality)|George Clarke]] and [[Alexis Warr]] finishing as the runners-up.<ref>{{cite news|url=https://www.telegraph.co.uk/tv/2025/12/20/strictly-come-dancing-2025-final/#1766265103400 |title=Karen Carney crowned Strictly champion|work=[[The Daily Telegraph]]|first=Chris|last=Bennion|date=20 December 2025|accessdate=20 December 2025}}</ref>
+
+== Format ==
+{{Further|Strictly Come Dancing#Format}}
+{{Multiple image
+ | align        = right
+ | total_width  = 550
+
+ | header       = Hosts and Judges for ''Strictly Come Dancing'' series 23
+
+ | image1       = Tess Daly Cropped.jpg
+ | alt1         =
+ | caption1     = [[Tess Daly]]
+
+ | image2       = Claudia Winkleman at BAFTA 2026 01.jpg
+ | alt2         =
+ | caption2     = [[Claudia Winkleman]]
+
+ | image3       = Craig-Revel-Horwood-2022.png
+ | alt3         = 
+ | caption3     = [[Craig Revel Horwood]]
+
+ | image4       = 2022-06-22-Motsi Mabuse LEA Live Entertainment Award 15 -0167.jpg
+ | alt4         =
+ | caption4     = [[Motsi Mabuse]]
+
+ | image5       = Shirley_Ballas_20241205.jpg
+ | alt5         =
+ | caption5     = [[Shirley Ballas]]
+
+ | image6       = Anton_Du_Beke_in_2019.png
+ | alt6         =
+ | caption6     = [[Anton Du Beke]]
+}}
+The couples dance each week in a live show. The judges score each performance out of ten. After all the couples have danced they are then ranked according to the judges' scores and given points according to their rank, with the highest ranked couple receiving a number of points equal to the number of couples dancing that week e.g. 7 points where there are 7 couples dancing. When there are no tied scores the lowest scored couple will receive one point. However, in the event of a tie where two or more couples obtain the same judges score, the couple below those in the tie will be awarded one point below the points awarded to each of the tied couples. So, for example, if two couples obtain the same rank and obtain 7 points each, the couple immediately below them will be awarded 6 points. When couples are ranked equally by the judges the scoring of all other couples underneath will follow in the same descending order. Should there be any tied scores the lowest scored couple will therefore receive more than one point from the judges scores. The public are also invited to vote for their favourite couples, and the couples are ranked again according to the number of votes they receive, again receiving points; The couple with the most votes receiving the most points. Again in the unlikely event of a tie in the public vote the points are awarded in the same way as the points from the judges score.<ref name="format">{{cite web |title=BBC One – Strictly Come Dancing – About |url=https://www.bbc.co.uk/programmes/articles/16rGc8M34fT0wWYmrSMc8Cp/about |access-date=2025-10-01 |website=BBC |language=en-GB}}</ref>
+
+The points for judges' score and public vote are then added together, and the two couples with the fewest points are placed in the bottom two. If two couples have equal points, the points from the public vote are given precedence. As with the previous series, the bottom two couples have to perform a dance-off on the results show. Based on that performance alone, each judge then votes on which couple should stay and which couple should leave.<ref name="format" /> For the first time in the show's history, the casting vote was not made solely by the head judge in the dance-off and was instead rotated, with a different judge making the decision each week.<ref>{{cite web |last=White |first=Adam |title=Strictly Come Dancing announces shocking vote twist that ‘will change everything’ |url=https://www.independent.co.uk/arts-entertainment/tv/news/strictly-shirley-deciding-vote-dance-off-change-b2835068.html |language=en-gb |work=[[The Independent]] |date=27 September 2025 |access-date=5 October 2025}}</ref>
+
+== Professional dancers ==
+In April 2025, the BBC announced that all the professional dancers from the previous series; [[Dianne Buswell]], [[Nadiya Bychkova]], [[Amy Dowden]], [[Karen Hauer]], [[Katya Jones]], [[Neil Jones (dancer)|Neil Jones]], [[Nikita Kuzmin]], [[Gorka Márquez]], [[Luba Mushtuk]], [[Jowita Przystał]], [[Johannes Radebe]], [[Aljaž Škorjanec]], [[Kai Widdrington]], [[Nancy Xu]], [[Carlos Gu]], [[Lauren Oakley]], [[Michelle Tsiakkas]] and [[Vito Coppola]]; would be returning to this series.<ref>{{Cite press release |title=Professional Dancers confirmed as ''Strictly Come Dancing'' returns to BBC One and BBC iPlayer in autumn 2025 |date=11 April 2025 |publisher=[[BBC]] |url=https://www.bbc.com/mediacentre/2025/strictly-come-dancing-professional-dancers-confirmed |access-date=11 April 2025 |archive-url=https://archive.today/20250731205213/https://www.bbc.com/mediacentre/2025/strictly-come-dancing-professional-dancers-confirmed |archive-date=31 July 2025}}</ref> On 27 July, the BBC announced that two new professional dancers, [[Alexis Warr]] and [[Julian Caillon]], would join the series.<ref name="NewPros">{{Cite press release |title=''Strictly Come Dancing'' announces two new Professional Dancers |date=27 July 2025 |publisher=[[BBC]] |url=https://www.bbc.com/mediacentre/2025/strictly-come-dancing-two-new-pros |access-date=27 July 2025 |archive-url=https://archive.today/20250727144558/https://www.bbc.com/mediacentre/2025/strictly-come-dancing-two-new-pros |archive-date=27 July 2025}}</ref> Warr won the [[So You Think You Can Dance (American TV series) season 17|seventeenth season]] of ''[[So You Think You Can Dance (American TV series)|So You Think You Can Dance]]'' and was a [[Dance troupe|troupe]] member on the American version of ''[[Dancing with the Stars (American TV series)|Dancing with the Stars]]''.<ref name="NewPros" /> Caillon appeared as a professional dancer on three series of the Australian version of ''[[Dancing with the Stars (Australian TV series)|Dancing with the Stars]]''.<ref name="NewPros" />
+
+During the launch show, Julian Caillon and Alexis Warr received a celebrity partner for the first time, while Neil Jones, Gorka Márquez, Luba Mushtuk, Michelle Tsiakkas and Nancy Xu did not receive a partner. The rest of the pros were paired to a celebrity.<ref name="couples">{{cite web |url=https://www.bbc.com/mediacentre/2025/strictly-come-dancing-2025-couples-revealed-launch-show |title=''Strictly Come Dancing'' 2025 couples revealed in launch show |publisher=[[BBC]] |date=2025-09-20 |access-date=2025-09-20 |language=en-GB}}</ref><ref>{{cite web |url=https://www.radiotimes.com/tv/entertainment/strictly-come-dancing-2025-couples-confirmed-newsupdate |title=''Strictly Come Dancing'' confirms couples for star-studded 2025 season |website=[[Radio Times]] |first=Katelyn |last=Mensah |date=2025-09-20 |access-date=2025-09-20 |language=en-GB}}</ref>
+
+==Couples==
+On 11 August 2025, [[Harry Aikines-Aryeetey]] was announced as the first contestant to be competing in the series on ''[[Newsround]]''.<ref>{{cite web |title=Olympian and Gladiator Harry Aikines-Aryeetey aka Nitro is the first celebrity contestant confirmed for Strictly Come Dancing 2025 |url=https://bbc.co.uk/mediacentre/2025/strictly-come-dancing-harry-aikines-aryeetey-aka-nitro |website=[[BBC Media Centre]] |date=11 August 2025 |access-date=11 August 2025 |language=en-gb}}</ref> [[Dani Dyer]], [[Alex Kingston]] and [[Jimmy Floyd Hasselbaink]] were subsequently confirmed later that evening on ''[[The One Show]]''.<ref>{{cite web |title=Strictly Come Dancing announces Dani Dyer, Alex Kingston and Jimmy Floyd Hasselbaink for 2025 lineup |url=https://independent.co.uk/arts-entertainment/tv/news/strictly-come-dancing-cast-lineup-dani-dyer-b2805684.html |website=[[The Independent]] |first1=Ellie |last1=Muir |first2=Jacob |last2=Stolworthy |access-date=12 August 2025 |date=11 August 2025 |language=en-gb}}</ref> The celebrities continued to be revealed until 15 August 2025, when the full line-up was announced.<ref>{{cite web |url=https://manchestereveningnews.co.uk/news/tv/bbc-strictly-come-dancing-2025-32280817 |title=BBC Strictly Come Dancing 2025 line-up in full as 15 celebrities confirmed |website=[[Manchester Evening News]] |first1=Elizabeth |last1=Cotton |author2=Celebrity Writer |access-date=15 August 2025 |date=15 August 2025 |language=en-gb}}</ref> ''[[Game of Thrones]]'' actor and DJ [[Kristian Nairn]] was initially announced as the final celebrity to be competing in the series, however on 21 August 2025, he withdrew from the competition due to health reasons.<ref>{{cite web |last1=Rawlinson |first1=Kevin |title=Game of Thrones actor Kristian Nairn pulls out of Strictly Come Dancing |url=https://theguardian.com/tv-and-radio/2025/aug/21/game-of-thrones-actor-kristian-nairn-pulls-out-strictly-come-dancing |website=[[The Guardian]] |access-date=21 August 2025 |date=21 August 2025}}</ref> Former ''[[Emmerdale]]'' actor [[Lewis Cope]] was subsequently announced as his replacement on ''The One Show'' later that evening.<ref>{{cite web |url=https://bbc.co.uk/news/articles/c74d71j4433o |title=Game of Thrones star withdraws from Strictly with stress |website=[[BBC]] |first1=Ian |last1=Youngs |access-date=21 August 2025 |date=21 August 2025 |language=en-gb}}</ref><ref>{{Cite web |title=Actor Lewis Cope joins the cast of Strictly Come Dancing 2025 |url=https://bbc.co.uk/mediacentre/2025/strictly-come-dancing-lewis-cope/ |access-date=2025-08-21 |website=[[BBC]] |language=en}}</ref> On 23 September 2025, ''[[Love Island (2015 TV series)|Love Island]]'' winner and actress Dani Dyer, who was initially announced as a contestant and was paired up with [[Nikita Kuzmin]] during the launch show, was announced to be withdrawing from the series after fracturing her ankle during training,<ref>{{cite web |url=https://www.bbc.com/news/articles/c98d6z1j9neo |title=Dani Dyer pulls out of Strictly with broken ankle |website=[[BBC]] |first=Ian |last=Youngs |date=23 September 2025 |accessdate=23 September 2025 |language=en-GB}}</ref><ref>{{cite web |url=https://digitalspy.com/tv/reality-tv/a68020095/strictly-dani-dyer-quit-2025-injury/ |title=Strictly's Dani Dyer quits 2025 series after launch show |website=[[Digital Spy]] |first=Emily |last=Stedman  |date=23 September 2025 |accessdate=23 September 2025 |language=en-GB}}</ref> ''[[Love Island (2015 TV series)|Love Island]]'' winner and [[West End theatre|West End]] actress [[Amber Davies]] was announced as her replacement on 26 September, and began training with Kuzmin ahead of the first live show the following evening.<ref>{{cite web |url=https://www.bbc.com/news/articles/cp8w0zx58neo |title=Actress and West End star Amber Davies joins Strictly line-up |website=[[BBC]] |first=Helen |last=Bushby |date=26 September 2025 |accessdate=26 September 2025 |language=en-GB}}</ref><ref>{{cite web |url=https://www.radiotimes.com/tv/entertainment/strictly-come-dancing-amber-davies-joins-line-up-newsupdate |title=Strictly Come Dancing confirms Dani Dyer replacement - and it's another Love Island winner |website=[[Radio Times]] |first=Katelyn |last=Mensah |date=26 September 2025 |accessdate=26 September 2025 |language=en-GB}}</ref>
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! scope="col" | Celebrity
+! scope="col" class="unsortable"| Notability
+! scope="col" | Professional partner
+! scope="col" | Status
+|-
+! scope="row" | [[Thomas Skinner (businessman)|Thomas Skinner]]
+| ''[[The Apprentice (British TV series) series 15|The Apprentice]]'' contestant & businessman
+| [[Amy Dowden]]
+| style="background:#f4c7b8;" |Eliminated 1st<br><small>{{nowrap|on 5 October 2025}}</small>
+|-
+! scope="row" | [[Ross King (presenter)|Ross King]]
+| Television presenter 
+| [[Jowita Przystał]]
+| style="background:#f4c7b8;" |Eliminated 2nd<br><small>{{nowrap|on 12 October 2025}}</small>
+|-
+! scope="row" | [[Chris Robshaw]]
+| [[England national rugby union team|England]] rugby player
+| [[Nadiya Bychkova]]
+| style="background:#f4c7b8;" |Eliminated 3rd<br><small>{{nowrap|on 19 October 2025}}</small>
+|-
+! scope="row" | [[Stefan Dennis]]
+| ''[[Neighbours]]'' actor & singer
+| [[Dianne Buswell]]
+| bgcolor="lightgreen" | Withdrew<br><small>{{nowrap|on 20 October 2025}}</small>
+|-
+! scope="row" | {{nowrap|[[Jimmy Floyd Hasselbaink]]}}
+| [[Netherlands national football team|Netherlands]] footballer & manager
+| [[Lauren Oakley]]
+| style="background:#f4c7b8;" |Eliminated 4th<br><small>{{nowrap|on 26 October 2025}}</small>
+|-
+! scope="row" | [[Ellie Goldstein]]
+| Model & ''[[Malory Towers (TV series)|Malory Towers]]'' actress
+| [[Vito Coppola]]
+| style="background:#f4c7b8;" |Eliminated 5th<br><small>{{nowrap|on 2 November 2025}}</small>
+|-
+! scope="row" | [[Harry Aikines-Aryeetey]]
+| [[Athletics at the Summer Olympics|Olympic sprinter]] & ''[[Gladiators (2024 British TV series)|Gladiators]]'' star
+| [[Karen Hauer]]
+| style="background:#f4c7b8;" |Eliminated 6th<br><small>{{nowrap|on 9 November 2025}}</small>
+|-
+! scope="row" | [[Vicky Pattison]]
+| Television personality 
+| [[Kai Widdrington]]
+| style="background:#f4c7b8;"|Eliminated 7th<br><small>{{nowrap|on 16 November 2025}}</small>
+|-
+! scope="row" | [[La Voix (drag queen)|La Voix]]
+| {{nowrap|Drag queen & ''[[RuPaul's Drag Race UK series 6|RuPaul's Drag Race UK]]'' finalist}}
+| [[Aljaž Škorjanec]]
+| bgcolor="lightgreen" | Withdrew<br><small>{{nowrap|on 22 November 2025}}</small>
+|-
+! scope="row" | [[Alex Kingston]]
+| Stage & screen actress
+| {{nowrap|[[Johannes Radebe]]}}
+| style="background:#f4c7b8;"|Eliminated 8th<br><small>{{nowrap|on 30 November 2025}}</small>
+|-
+! scope="row" | [[Lewis Cope]]
+| ''[[Emmerdale]]'' actor 
+| [[Katya Jones]]
+| style="background:#f4c7b8;"|Eliminated 9th<br><small>{{nowrap|on 7 December 2025}}</small>
+|-
+! scope="row" | [[Balvinder Sopal]]
+| ''[[EastEnders]]'' actress
+| [[Julian Caillon]]
+| style="background:#f4c7b8;"|Eliminated 10th<br><small>{{nowrap|on 14 December 2025}}</small>
+|-
+! scope="row" | [[George Clarke (internet personality)|George Clarke]]
+| Social media personality & podcaster
+| [[Alexis Warr]]
+| rowspan="2" style="background:silver" |Runners-up<br><small>on 20 December 2025</small>
+|-
+! scope="row" | [[Amber Davies]]
+| ''[[Love Island (2015 TV series)|Love Island]]'' winner & [[West End theatre|West End]] actress
+| [[Nikita Kuzmin]]
+|-
+! scope="row" | [[Karen Carney]]
+| [[England women's national football team|England]] footballer & pundit
+| [[Carlos Gu]]
+| style="background:gold" |'''Winners'''<br><small>on 20 December 2025</small>
+|}
+
+==Scoring chart==
+The highest score each week is indicated in {{fontcolor|#004600|'''bold green'''}} with a dagger ({{dagger}}), while the lowest score each week is indicated in {{fontcolor|#800000|''italicized red''}} with a double-dagger ({{double-dagger}}).
+
+'''Color key:'''
+{{columns-list|colwidth=20em|
+{{legend|gold|Winners}}
+{{legend|silver|Co-runners-up}}
+{{legend|lightblue|Bottom two}}
+{{legend|#fff383|Excused from competition for the week}}
+{{legend|lightgreen|Withdrew}}
+{{legend|#f4c7b8|Eliminated}}
+}}
+{| class="wikitable sortable" style="text-align:center; font-size:95%"
+|+''Strictly Come Dancing'' series 23 - Weekly scores
+|-
+! rowspan="2" scope="col" | Couple
+! rowspan="2" scope="col" | {{Abbr|Pl.|Place}}
+! colspan="15" | Week
+|-
+! scope="col" | 1
+! scope="col" | 2
+! scope="col" | 1+2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" | 5
+! scope="col" | 6
+! scope="col" | 7
+! scope="col" | 8
+! scope="col" | 9
+! scope="col" | 10
+! scope="col" | 9+10
+! scope="col" | 11
+! scope="col" | 12
+! scope="col" | 13
+|-
+! scope="row" | Karen & Carlos
+| 1st
+| {{fontcolor|#004600|'''31'''}}{{dagger|alt=This was the highest score of the night.}}
+| 20 
+| 51
+| 25
+| 27
+| 28
+| 38
+| 35
+| 31
+| 39
+| {{sort|41|}} 40+1=41
+| 80
+| {{fontcolor|#800000|''34''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| 39+39={{fontcolor|#004600|'''78'''}}{{dagger|alt=This was the highest score of the night.}}
+| bgcolor="gold" |40+37+40={{fontcolor|#800000|''117''}}{{double-dagger|alt=This was the lowest score of the night.}}
+|-
+! scope="row" | Amber & Nikita
+| rowspan="2" | 2nd
+| 27
+| 29
+| {{fontcolor|#004600|'''56'''}}{{dagger|alt=This was the highest joint-score.}}
+| 35
+| 33
+| bgcolor="lightblue"| 33
+| 35
+| 38
+| {{fontcolor|#004600|'''38'''}}{{dagger|alt=This was the highest score of the night.}}
+| 36
+| {{sort|44|}} 40+4={{fontcolor|#004600|'''44'''}}{{dagger|alt=This was the highest score of the night.}}
+| 80
+| bgcolor="lightblue"| {{fontcolor|#004600|'''40'''}}{{dagger|alt=This was the highest score of the night.}}
+| bgcolor="lightblue"| 37+40=77
+| bgcolor="silver" |39+39+40={{fontcolor|#004600|'''118'''}}{{dagger|alt=This was the highest score of the night.}}
+|-
+! scope="row" | George & Alexis
+| 24
+| 30
+| 54
+| 31
+| 30
+| {{fontcolor|#800000|''27''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| 29
+| 34
+| 29
+| 39
+| {{sort|36|}} 34+2=36
+| 75
+| 35
+| 35+37=72
+| bgcolor="silver" |39+39+39={{fontcolor|#800000|''117''}}{{double-dagger|alt=This was the lowest score of the night.}}
+|- 
+! scope="row" | {{nowrap|Balvinder & Julian}}
+| 4th
+| 17
+| 30
+| 47
+| bgcolor="lightblue" | 26
+| bgcolor="lightblue" | 28
+| 28
+| bgcolor="lightblue" | 28
+| 34
+| bgcolor="lightblue" |{{fontcolor|#800000|''27''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{fontcolor|#800000|''33''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{sort|33|}} 28+5=33
+| bgcolor="lightblue" | 66
+| 35
+| bgcolor="f4c7b8"| 35+35={{fontcolor|#800000|''70''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| colspan=2 bgcolor="darkgray" |
+|-
+! scope="row" | Lewis & Katya
+| 5th
+| 28
+| 27
+| 55
+| {{fontcolor|#004600|'''37'''}}{{dagger|alt=This was the highest score of the night.}}
+| 34
+| {{fontcolor|#004600|'''34'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''40'''}}{{dagger|alt=This was the highest score of the night.}}
+| 35
+| 37
+| {{fontcolor|#004600|'''40'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|42|}} 36+6=42
+| {{fontcolor|#004600|'''82'''}}{{dagger|alt=This was the highest score of the night.}}
+| bgcolor="f4c7b8"| 35
+| colspan=3 bgcolor="darkgray" |
+|-
+! scope="row" | Alex & Johannes
+| 6th
+| 21
+| {{fontcolor|#004600|'''31'''}}{{dagger|alt=This was the highest score of the night.}}
+| 52
+| 30
+| {{fontcolor|#004600|'''36'''}}{{dagger|alt=This was the highest score of the night.}}
+| 32
+| 35
+| 30
+| 35
+| 35
+| {{sort|26|}} 23+3={{fontcolor|#800000|''26''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| bgcolor="f4c7b8"| {{fontcolor|#800000|''61''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| colspan=4 bgcolor="darkgray" |
+|-
+! scope="row" | La Voix & Aljaž
+| 7th
+| 24 
+| 19
+| 43
+| 28
+| {{fontcolor|#800000|''14''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| 28
+| 35
+| bgcolor="lightblue"|{{fontcolor|#800000|''29''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| 33
+| bgcolor="lightgreen" | 
+| colspan=5 bgcolor="darkgray" |
+|-
+! scope="row" | Vicky & Kai
+| 8th
+| 23
+| 24
+| 47
+| 25
+| 29
+| 33
+| 31
+| {{fontcolor|#004600|'''39'''}}{{dagger|alt=This was the highest score of the night.}}
+| bgcolor="f4c7b8"|{{fontcolor|#800000|''27''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| colspan=6 bgcolor="darkgray" |
+|-
+! scope="row" | Harry & Karen
+| 9th
+| 19
+| 26
+| 45
+| 32
+| 26
+| 30
+| {{fontcolor|#800000|''26''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| bgcolor="f4c7b8" | 30
+| colspan=7 bgcolor="darkgray" |
+|-
+! scope="row" | Ellie & Vito
+| 10th
+| 17
+| 23
+| 40
+| 27
+| 31
+| 28
+| bgcolor="f4c7b8" | 27
+| colspan=8 bgcolor="darkgray" |
+|-
+! scope="row" | Jimmy & Lauren
+| 11th
+| 27
+| 25
+| 52
+| 28
+| 29
+| bgcolor="f4c7b8" | 30
+| colspan=9 bgcolor="darkgray" |
+|-
+! scope="row" | Stefan & Dianne
+| 12th
+| 22
+| 17
+| 39
+| bgcolor="fff383" | 
+| 26
+| bgcolor="lightgreen" | 
+| colspan=9 bgcolor="darkgray" |
+|-
+! scope="row" | Chris & Nadiya
+| 13th
+| 14
+| 16
+| bgcolor="lightblue"| 30
+| 22
+| bgcolor="f4c7b8" | 24
+| colspan=10 bgcolor="darkgray" |
+|-
+! scope="row" | Ross & Jowita
+| 14th
+| {{fontcolor|#800000|''10''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| 15
+| {{fontcolor|#800000|''25''}}{{double-dagger|alt=This was the lowest joint-score.}}
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''19''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| colspan=11 bgcolor="darkgray" |
+|-
+! scope="row" | Thomas & Amy
+| 15th
+| 16
+| {{fontcolor|#800000|''13''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| bgcolor="f4c7b8" | 29
+| colspan=12 bgcolor="darkgray" |
+|-
+|}
+
+===Average chart===
+This table only counts for dances scored on a 40-points scale. The extra points for the Instant Dance are not included.
+{| class="wikitable sortable" style="text-align:center; font-size:95%"
+|-
+! scope="col" | Couple
+! scope="col" | Rank by<br>average
+! scope="col" | Total<br>points
+! scope="col" | Number of<br>dances
+! scope="col" | Total<br>average
+|-
+! scope="row" | Amber & Nikita
+| 1st
+| 579
+| 16
+| 36.2
+|-
+! scope="row" | Lewis & Katya
+| 2nd
+| 383
+| 11
+| 34.8
+|-
+! scope="row" | Karen & Carlos
+| 3rd
+| 543
+| rowspan="2" | 16
+| 33.9
+|-
+! scope="row" | George & Alexis
+| 4th
+| 531
+| 33.2
+|-
+! scope="row" | Alex & Johannes
+| 5th
+| 308
+| 10
+| 30.8
+|-
+! scope="row" | Balvinder & Julian
+| 6th
+| 384
+| 13
+| 29.5
+|-
+! scope="row" | Vicky & Kai
+| 7th
+| 231
+| 8
+| 28.9
+|-
+! scope="row" | Jimmy & Lauren
+| 8th
+| 139
+| 5
+| 27.8
+|-
+! scope="row" | Harry & Karen
+| 9th
+| 189
+| 7
+| 27.0
+|-
+! scope="row" | La Voix & Aljaž
+| 10th
+| 210
+| 8
+| 26.3
+|-
+! scope="row" | Ellie & Vito
+| 11th
+| 153
+| 6
+| 25.5
+|-
+! scope="row" | Stefan & Dianne
+| 12th
+| 65
+| 3
+| 21.7
+|-
+! scope="row" | Chris & Nadiya
+| 13th
+| 76
+| 4
+| 19.0
+|-
+! scope="row" | Ross & Jowita
+| 14th
+| 44
+| 3
+| 14.7
+|-
+! scope="row" | Thomas & Amy
+| 15th
+| 29
+| 2
+| 14.5
+|}
+
+==Weekly scores==
+''Unless indicated otherwise, individual judges scores in the charts below (given in parentheses) are listed in this order from left to right: [[Craig Revel Horwood]], [[Motsi Mabuse]], [[Shirley Ballas]], [[Anton Du Beke]]''.
+
+===Launch show===
+*Musical guest: [[Jessie J]] — "Living My Best Life"<ref>{{cite web |url=https://www.devonlive.com/news/celebs-tv/strictly-come-dancing-fans-tears-10515758 |title=''Strictly Come Dancing'' fans in tears as Jessie J performs after cancer treatment |publisher=[[Reach plc]] |website=[[Express & Echo|Devon Live]] |first1=Karen |last1=Price |first2=Katie |last2=Wilson |first3=Indigo |last3=Jones |date=2025-09-20 |access-date=2025-09-20 |language=en-GB}}</ref>
+
+===Week 1===
+Each couple performed one unlearned dance. There was no elimination this week; all scores carried over to the following week.
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web |last1=Goldsmith |first1=Adam |last2= |first2= |editor-last1=Yeung |editor-first1=Tinshui |title=Ex-footballer Karen Carney makes history at top of Strictly leaderboard in week one |url=https://www.bbc.com/news/live/c4gw4gg8g8gt |language=en-gb |publisher=[[BBC]] |date=27 September 2025 |access-date=29 September 2025 }}</ref>
+! class="unsortable" scope="col" |Dance<ref name="Week1PR">{{cite web |url=https://www.radiotimes.com/tv/entertainment/strictly-come-dancing-2025-songs-and-dances |title=Strictly Come Dancing 2025 songs and dances confirmed for Week 1 |website=[[Radio Times]] |first=Katelyn |last=Mensah |date=26 September 2025 |accessdate=26 September 2025 |language=en-GB}}</ref>
+! class="unsortable" scope="col" |Music<ref name="Week1PR" /><ref>{{Cite web |title=Instagram |url=https://www.instagram.com/p/DPGyq1piqo8/ |access-date=2025-09-27 |website=www.instagram.com}}</ref>
+|-
+! scope="row" |Chris & Nadiya
+| 14 (3, 4, 3, 4)
+|Samba
+| "[[Unbelievable (EMF song)|Unbelievable]]" — [[EMF (band)|EMF]]
+|-
+! scope="row" |Alex & Johannes
+| 21 (4, 6, 5, 6)
+|Viennese waltz
+| "[[Cry Me a River (Arthur Hamilton song)|Cry Me a River]]" — [[Michael Bublé]]
+|-
+! scope="row" |Harry & Karen
+| 19 (4, 5, 5, 5)
+|Cha-cha-cha
+| "[[Push It (Salt-n-Pepa song)|Push It]]" — [[Salt-N-Pepa]]
+|-
+! scope="row" |Stefan & Dianne
+| 22 (4, 6, 6, 6)
+| Foxtrot
+| "[[Neighbours theme song|Neighbours Theme]]" — [[Barry Crocker]]
+|-
+! scope="row" |Ellie & Vito
+| 17 (4, 4, 4, 5)
+|Cha-cha-cha
+| "[[Yes, And?]]" — [[Ariana Grande]] / "[[Vogue (Madonna song)|Vogue]]" — [[Madonna]]
+|-
+! scope="row" |Lewis & Katya
+| 28 (7, 7, 7, 7)
+|Jive
+| "[[Get Ready (The Temptations song)|Get Ready]]" — [[The Temptations]]
+|-
+! scope="row" |Ross & Jowita
+| 10 (2, 3, 2, 3)
+|Cha-cha-cha
+| "[[California Gurls]]" — [[Katy Perry]]
+|-
+! scope="row" |George & Alexis
+| 24 (6, 6, 6, 6)
+|American Smooth
+| "[[Stargazing (Myles Smith song)|Stargazing]]" — [[Myles Smith]]
+|-
+! scope="row" |Vicky & Kai
+| 23 (5, 6, 6, 6)
+| Cha-cha-cha
+| "[[Best of My Love (The Emotions song)|Best of My Love]]" — [[Ella Eyre]]
+|-
+! scope="row" |Jimmy & Lauren
+| 27 (6, 7, 7, 7)
+|Quickstep
+| "[[Chelsea Dagger]]" — [[The Fratellis]]
+|-
+! scope="row" |Balvinder & Julian
+| 17 (4, 4, 4, 5)
+|Samba
+| "[[(Shake, Shake, Shake) Shake Your Booty]]" — [[KC and the Sunshine Band]]
+|-
+! scope="row" |La Voix & Aljaž
+| 24 (6, 6, 6, 6)
+|American Smooth
+| "[[Pink Pony Club]]" — [[Chappell Roan]]
+|-
+! scope="row" |Thomas & Amy
+| 16 (2, 4, 5, 5)
+| Paso doble
+| "[[Battle Without Honor or Humanity]]" — [[Tomoyasu Hotei|Hotei]]
+|-
+! scope="row" |Amber & Nikita
+| 27 (7, 7, 7, 6)
+|Waltz
+| "[[When We Were Young (Adele song)|When We Were Young]]" — [[Adele]]
+|-
+! scope="row" |Karen & Carlos
+| 31 (7, 8, 8, 8)
+|Jive
+| "[[One Way or Another]]" — [[Blondie (band)|Blondie]]
+|}
+
+===Week 2===
+*Musical guest: [[Zara Larsson]] — "[[Midnight Sun (Zara Larsson song)|Midnight Sun]]"<ref name="Week2Results">{{cite web |last=Hogan |first=Michael |title=Strictly Come Dancing: week two results – as it happened |url=https://www.theguardian.com/tv-and-radio/live/2025/oct/04/strictly-come-dancing-week-two-live |language=en-gb |work=[[The Guardian]] |date=5 October 2025 |access-date=5 October 2025}}</ref>
+
+Each couple performed one unlearned dance. [[Motsi Mabuse]] had the casting vote this week.<ref name="Week2Results" />
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web |last1=Scott-Turner |first1=Freya |last2=Nanji |first2=Noor |editor-last1=Yeung |editor-first1=Tinshui |title=Doctor Who star Alex Kingston leads leaderboard with 'brilliant' Samba in Strictly Come Dancing |url=https://www.bbc.com/news/live/c4gvypdd0l2t |language=en-gb |publisher=[[BBC]] |date=4 October 2025 |access-date=4 October 2025 }}</ref>
+! scope="col" class="unsortable" |Dance<ref name="Week2PR">{{cite web |url=https://www.manchestereveningnews.co.uk/news/tv/strictly-come-dancings-full-list-32584313 |title=Strictly Come Dancing's full list of week two songs and dances confirmed |website=[[Manchester Evening News]] |first=Elizabeth |last=Cotton |date=30 September 2025 |accessdate=30 September 2025 |language=en-GB}}</ref>
+! scope="col" class="unsortable" |Music<ref name="Week2PR" />
+! scope="col" class="unsortable" |Result<ref>{{cite web |author=Telegraph Reporters |title=Thomas Skinner first celebrity voted off Strictly Come Dancing|url=https://www.telegraph.co.uk/news/2025/10/05/strictly-come-dancing-thomas-skinner-voted-off |language=en-gb |work=[[The Daily Telegraph]] |date=5 October 2025 |access-date=5 October 2025}}</ref>
+|-
+! scope="row" |La Voix & Aljaž
+| 19 (4, 5, 5, 5)
+| Jive
+| "[[Objection (Tango)]]" — [[Shakira]]
+| Safe
+|-
+! scope="row" |Karen & Carlos
+| 20 (4, 5, 5, 6)
+| Tango
+| "[[Training Season]]" — [[Dua Lipa]]
+| Safe
+|-
+! scope="row" |Jimmy & Lauren
+| 25 (6, 6, 6, 7)
+| Cha-cha-cha
+| "[[I Heard It Through the Grapevine]]" — [[Santa Esmeralda]]
+| Safe
+|-
+! scope="row" |Lewis & Katya
+| 27 (7, 7, 6, 7)
+| Viennese waltz
+| "[[Lose Control (Teddy Swims song)|Lose Control]]" — [[Teddy Swims]]
+| Safe
+|-
+! scope="row" |Alex & Johannes
+| 31 (7, 8, 8, 8)
+| Samba
+| "[[La Bamba (song)|La Bamba]]" — [[Connie Francis]]
+| Safe
+|-
+! scope="row" |Ellie & Vito
+| 23 (5, 6, 6, 6)
+| Waltz
+| "[[Your Song (Ellie Goulding song)|Your Song]]" — [[Ellie Goulding]]
+| Safe
+|-
+! scope="row" |Thomas & Amy
+| 13 (2, 3, 4, 4)
+| Salsa
+| "[[Bonkers (song)|Bonkers]]" — [[Dizzee Rascal]] & [[Armand van Helden]]
+| bgcolor="f4c7b8"|Eliminated
+|-
+! scope="row" |Harry & Karen
+| 26 (6, 7, 6, 7)
+| Quickstep
+| "[[Everybody Needs Somebody to Love]]" — [[The Blues Brothers]]
+| Safe
+|-
+! scope="row" |Ross & Jowita
+| 15 (2, 4, 4, 5)
+| Waltz
+| "[[Sunshine on Leith (song)|Sunshine on Leith]]" — [[The Proclaimers]]
+| Safe
+|-
+! scope="row" |Amber & Nikita
+| 29 (8, 7, 7, 7)
+| Samba
+| "[[Bam Bam (Camila Cabello song)|Bam Bam]]" — [[Camila Cabello]] feat. [[Ed Sheeran]]
+| Safe
+|-
+! scope="row" |Vicky & Kai
+| 24 (6, 6, 6, 6)
+| Foxtrot
+| "[[Rein Me In]]" — [[Sam Fender]] & [[Olivia Dean]]
+| Safe
+|-
+! scope="row" |Chris & Nadiya
+| 16 (3, 4, 4, 5)
+| Viennese waltz
+| "[[Die with a Smile]]" — [[Lady Gaga]] & [[Bruno Mars]]
+| bgcolor="lightblue"|Bottom two
+|-
+! scope="row" |Stefan & Dianne
+| 17 (4, 4, 4, 5)
+| Cha-cha-cha
+| "[[Give It Up (KC and the Sunshine Band song)|Give It Up]]" — [[KC and the Sunshine Band]]
+| Safe
+|-
+! scope="row" |George & Alexis
+| 30 (7, 7, 8, 8)
+| Paso doble
+| "Game of Survival" — [[Ruelle (singer)|Ruelle]]
+| Safe
+|-
+! scope="row" |Balvinder & Julian
+| 30 (7, 8, 8, 7)
+| Charleston
+| "[[Been Like This]]" — [[Meghan Trainor]] & [[T-Pain]]
+| Safe
+|}
+;Judges' votes to save<ref name="Week2Results" />
+* Ballas: Chris & Nadiya
+* Du Beke: Chris & Nadiya
+* Horwood: Chris & Nadiya
+* Mabuse: ''Did not vote, but would have voted to save Chris & Nadiya''
+
+===Week 3: Movie Week===
+*Musical guest: [[Lang Lang]] — "[[Reflection (song)|Reflection]]" (from ''[[Mulan (1998 film)|Mulan]]'')<ref name="Week3Results">{{cite web |last=Hogan |first=Michael |title=Strictly Come Dancing: week three results – as it happened |url=https://www.theguardian.com/tv-and-radio/live/2025/oct/11/strictly-come-dancing-week-three-live |language=en-gb |work=[[The Guardian]] |date=12 October 2025 |access-date=12 October 2025}}</ref>
+
+Each couple performed one unlearned dance to famous film songs. [[Shirley Ballas]] had the casting vote this week.<ref name="Week3Results" />
+
+Stage and screen star [[Cynthia Erivo]] mentored the couples and provided comments alongside the judges, but did not score the routines.<ref>{{cite web |last=Nanji |first=Noor |title=Strictly celebs starstruck as Wicked's Cynthia Erivo soars into movie week |url=https://www.bbc.com/news/articles/ce8681j3n07o |language=en-gb |publisher=[[BBC]] |date=11 October 2025 |access-date=12 October 2025 }}</ref>
+
+Stefan and Dianne, who were due to dance a Waltz to "[[List of songs featured in Shrek|It Is You (I Have Loved)]]" from the movie ''[[Shrek]]'', announced that they would be unable to perform on the live show due to Stefan's illness. Under the rules of the show, they were granted a [[Bye (sports)|bye]] to the following week.<ref>{{cite web|url=https://nz.news.yahoo.com/stefan-dennis-pulls-strictly-come-173820967.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAADzN7yLNSj-Gk_mLH-500l4zfiXxnbrNvKhYgnAxGCyDARA2pkBhBLbuYwX_nICAHrolQsE_EtfJixh6KwkuEfRmonheanFoyFukJAgF6SrBTejfWhkK8Hsm3LZsaLrA3x6OsSEmWuOdw7j-ApbYzOBg-7iCOYjMsY4wM7F6R3V5|title=Stefan Dennis pulls out of Strictly Come Dancing due to illness|website=[[Yahoo News]]|first=Ellie|last=Muir|date=2025-10-10|access-date=2024-10-10|language=en-GB}}</ref>
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width: 90%"
+! scope="col" | Couple
+! style="width:6em; scope="col" | Scores<ref>{{cite web |last1=Kupemba |first1=Danai Nesta |last2=Nanji |first2=Noor |last3=Whitehead |first3=Jamie |editor-last1=Whitehead |editor-first1=Jamie |title=Emmerdale star Lewis Cope scores first 10 of series as Strictly Movie Week wraps |url=https://www.bbc.com/news/live/c5yje5jwwd7t |language=en-gb |publisher=[[BBC]] |date=11 October 2025 |access-date=12 October 2025 }}</ref>
+! scope="col" class="unsortable" | Dance<ref name="Week3PR">{{cite web |url=https://www.manchestereveningnews.co.uk/news/tv/strictly-come-dancing-fans-say-32634339 |title=Strictly Come Dancing fans say 'weird' as they make same observation before Movie Week |website=[[Manchester Evening News]] |first=Jessica |last=Sansome |date=8 October 2025 |accessdate=8 October 2025 |language=en-GB}}</ref>
+! scope="col" class="unsortable" | Music<ref name="Week3PR" />
+! scope="col" class="unsortable" | Film<ref name="Week3PR" />
+! scope="col" class="unsortable" | Result<ref>{{cite web |last1=Seddon |first1=Dan |title=Strictly Come Dancing's Ross King becomes the second celebrity to leave competition |url=https://www.aol.co.uk/entertainment/strictly-come-dancings-ross-king-190409798.html |language=en-gb |website=[[AOL]] |date=12 October 2025 |access-date=12 October 2025}}</ref>
+|-
+! scope="row" |Amber & Nikita
+| 35 (8, 9, 9, 9)
+| American Smooth
+| "[[Sixteen Going on Seventeen]]"
+| ''[[The Sound of Music (film)|The Sound of Music]]''
+| Safe
+|-
+! scope="row" |Chris & Nadiya
+| 22 (4, 6, 6, 6)
+| Paso doble
+| "[[Sweet Child o' Mine]]"
+| ''[[Thor: Love and Thunder]]''
+| Safe
+|-
+! scope="row" |George & Alexis
+| 31 (6, 8, 9, 8)
+| Couple's choice
+| "[[Soda Pop (song)|Soda Pop]]"
+| ''[[KPop Demon Hunters]]''
+| Safe
+|-
+! scope="row" |La Voix & Aljaž
+| 28 (7, 7, 7, 7)
+| Waltz
+| "[[Feed the Birds|Feed the Birds (Tuppence a Bag)]]"
+| ''[[Mary Poppins (film)|Mary Poppins]]''
+| Safe
+|-
+! scope="row" |Ross & Jowita
+| 19 (4, 5, 5, 5)
+| Paso doble
+| "[[Thunderbirds merchandise#Music|Thunderbirds Theme]]"
+| ''[[Thunderbirds Are Go|Thunderbirds]]''
+| bgcolor="f4c7b8"|Eliminated
+|-
+! scope="row" |Balvinder & Julian
+| 26 (7, 7, 6, 6)
+| Foxtrot
+| "[[The Way You Look Tonight]]"
+| ''[[Swing Time (film)|Swing Time]]''
+| bgcolor="lightblue"|Bottom two
+|-
+! scope="row" |Karen & Carlos
+| 25 (4, 7, 7, 7)
+| Cha-cha-cha
+| "[[She's a Lady]]"
+| ''[[Miss Congeniality (film)|Miss Congeniality]]''
+| Safe
+|-
+! scope="row" |Jimmy & Lauren
+| 28 (7, 7, 6, 8)
+| Rumba
+| "[[No Time to Die (song)|No Time to Die]]"
+| ''[[No Time to Die]]''
+| Safe
+|-
+! scope="row" |Vicky & Kai
+| 25 (5, 7, 6, 7)
+| Charleston
+| "[[A Little Party Never Killed Nobody (All We Got)|A Little Party Never Killed Nobody]]"
+| ''[[The Great Gatsby (2013 film)|The Great Gatsby]]''
+| Safe
+|-
+! scope="row" |Ellie & Vito
+| 27 (6, 7, 7, 7)
+| Samba
+| "[[Dance the Night]]"
+| ''[[Barbie (film)|Barbie]]''
+| Safe
+|-
+! scope="row" |Alex & Johannes
+| 30 (7, 8, 7, 8)
+| Quickstep
+| "[[Suddenly I See]]"
+| ''[[The Devil Wears Prada (film)|The Devil Wears Prada]]''
+| Safe
+|-
+! scope="row" |Harry & Karen
+| 32 (8, 8, 8, 8)
+| Salsa
+| "[[I Always Wanted a Brother]]"
+| ''[[Mufasa: The Lion King]]''
+| Safe
+|-
+! scope="row" |Lewis & Katya
+| 37 (9, 10, 9, 9)
+| Paso doble
+| "[[The Mask of Zorro (soundtrack)|The Plaza of Execution]]"
+| ''[[The Mask of Zorro]]''
+| Safe
+|}
+;Judges' votes to save<ref name="Week3Results" />
+* Du Beke: Balvinder & Julian
+* Horwood: Balvinder & Julian
+* Mabuse: Balvinder & Julian
+* Ballas: ''Did not vote, but would have voted to save Balvinder & Julian''
+
+===Week 4===
+*Musical guest: [[Leigh-Anne Pinnock]] — "[[Been a Minute (Leigh-Anne Pinnock song)|Been a Minute]]"<ref name="Week4Results">{{cite web |last=Hogan |first=Michael |title=Strictly Come Dancing: week four results – as it happened |url=https://www.theguardian.com/tv-and-radio/live/2025/oct/18/strictly-come-dancing-week-four-live |language=en-gb |work=[[The Guardian]] |date=19 October 2025 |access-date=19 October 2025}}</ref>
+
+Each couple performed one unlearned dance. [[Craig Revel Horwood]] had the casting vote this week.<ref name="Week4Results" />
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web |last1=Davies |first1=Maia |last2=Lambert |first2=Guy |editor-last1=Burgess |editor-first1=Jack |title=Doctor Who star Alex Kingston scores a 10 for her rumba on Strictly Come Dancing |url=https://www.bbc.com/news/live/cy7pz5mgvddt |language=en-gb |publisher=[[BBC]] |date=18 October 2025 |access-date=19 October 2025 }}</ref>
+! scope="col" class="unsortable" |Dance<ref name="Week4PR">{{cite web |url=https://www.hellomagazine.com/film/861536/strictly-come-dancing-songs-dance-week-4-first-argentine-tango |title=Strictly 2025: Songs and dances confirmed for Week 4 – including first Argentine Tango |website=[[Hello! (magazine)|Hello!]] |first=Matthew |last=Moore |date=14 October 2025 |accessdate=15 October 2025 |language=en-GB}}</ref>
+! scope="col" class="unsortable" |Music<ref name="Week4PR" />
+! scope="col" class="unsortable" |Result<ref name="week4to5">{{cite web |last=Bennion |first=Chris |title=Strictly Come Dancing results: Chris Robshaw is eliminated while drag queen La Voix escapes dance-off |url=https://www.telegraph.co.uk/tv/2025/10/19/strictly-come-dancing-week-4-results |language=en-gb |work=[[The Daily Telegraph]] |date=19 October 2025 |access-date=19 October 2025}}</ref>
+|-
+! scope="row" |Karen & Carlos
+| 27 (6, 7, 7, 7)
+| Quickstep
+| "[[Beverley Knight discography|Marvellous Party]]" — [[Beverley Knight]]
+| Safe
+|-
+! scope="row" |Harry & Karen
+| 26 (6, 7, 6, 7)
+| Rumba
+| "[[It Must Have Been Love]]" — [[Roxette]]
+| Safe
+|-
+! scope="row" |Vicky & Kai
+| 29 (7, 7, 7, 8)
+| Samba
+| "[[La Isla Bonita]]" — [[Madonna]]
+| Safe
+|-
+! scope="row" |Stefan & Dianne
+| 26 (5, 7, 7, 7)
+| Charleston
+| "[[Dance Monkey]]" — [[Tones and I]]
+| Safe
+|-
+! scope="row" |Lewis & Katya
+| 34 (8, 9, 9, 8)
+| Foxtrot
+| "[[L-O-V-E]]" — [[Nat King Cole]]
+| Safe
+|-
+! scope="row" |Jimmy & Lauren
+| 29 (6, 8, 7, 8)
+| Couple's choice
+| "Rock It" — [[Merchant (reggae artist)|Merchant]] / "Follow the Leader" — The Soca Boys
+| Safe
+|-
+! scope="row" |George & Alexis
+| 30 (7, 8, 7, 8)
+| Tango
+| "[[Viva la Vida]]" — [[Coldplay]]
+| Safe
+|-
+! scope="row" |La Voix & Aljaž
+| 14 (3, 4, 2, 5)
+| Cha-cha-cha
+| "[[Hit Me with Your Best Shot]]" — [[Pat Benatar]]
+| Safe
+|-
+! scope="row" |Balvinder & Julian
+| 28 (7, 7, 7, 7)
+| Paso doble
+| "[[Rodrigo y Gabriela (album)|Diablo Rojo]]" — [[Rodrigo y Gabriela]]
+| bgcolor="lightblue"|Bottom two
+|-
+! scope="row" |Alex & Johannes
+| 36 (8, 9, 10, 9)
+| Rumba
+| "[[Fast Car]]" — [[Tracy Chapman]]
+| Safe
+|-
+! scope="row" |Chris & Nadiya
+| 24 (4, 6, 7, 7)
+| Salsa
+| "[[María (Ricky Martin song)|María]]" — [[Ricky Martin]]
+| bgcolor="f4c7b8"|Eliminated
+|-
+! scope="row" |Amber & Nikita
+| 33 (8, 9, 8, 8)
+| Argentine tango
+| "[[Angel of My Dreams]]" — [[Jade Thirlwall|JADE]]
+| Safe
+|-
+! scope="row" |Ellie & Vito
+| 31 (7, 8, 8, 8)
+| Couple's choice
+| "[[Golden (Huntrix song)|Golden]]" — [[Huntrix|Huntr/x]]
+| Safe
+|}
+;Judges' votes to save<ref name="Week4Results" />
+* Mabuse: Balvinder & Julian
+* Ballas: Chris & Nadiya
+* Du Beke: Chris & Nadiya
+* Horwood: Balvinder & Julian
+
+===Week 5: Icons Week===
+*Musical guest: [[Rachel Zegler]] — "[[Don't Cry for Me Argentina]]"<ref name="Week5Results">{{cite web |last=Hogan |first=Michael |title=Strictly Come Dancing: week five results – as it happened |url=https://www.theguardian.com/tv-and-radio/live/2025/oct/25/strictly-come-dancing-week-five-live |language=en-gb |work=[[The Guardian]] |date=26 October 2025 |access-date=27 October 2025}}</ref>
+
+Each couple performed one unlearned dance to a song by a popular musical icon, with the celebrity appearing in the guise of their icon. [[Anton Du Beke]] had the casting vote this week.<ref name="Week5Results" />
+
+[[Stefan Dennis]] and [[Dianne Buswell]] were forced to withdraw from the competition on 20 October as Dennis had torn his calf muscle during their performance the previous Saturday.<ref>{{cite web |url=https://www.bbc.co.uk/news/articles/crl2k475x02o |title=Stefan Dennis withdraws from Strictly Come Dancing due to injury |publisher=[[BBC]] |first=Jessica |last=Rawnsley |date=20 October 2025 |accessdate=20 October 2025 |language=en-gb}}</ref> Dennis was due to dance as [[Jon Bon Jovi]] to [[Bon Jovi]]'s "[[Livin' on a Prayer]]".<ref name="week4to5" />
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+! scope="col" |Couple
+! style="width:6em; scope="col" |Scores<ref>{{cite web |last1=Walker |first1=Amy |last2=Nanji |first2=Noor |editor-last1=Yeung |editor-first1=Tinshui |title=Lewis Cope storms Strictly leaderboard with a Johnny Cash Quickstep |url=https://www.bbc.com/news/live/c864x1v1yynt |language=en-gb |publisher=[[BBC]] |date=25 October 2025 |access-date=27 October 2025 }}</ref>
+! scope="col" class="unsortable" |Dance<ref name="Week5PR">{{cite web |url=https://www.liverpoolecho.co.uk/news/tv/bbc-strictly-come-dancing-full-32723498 |title=BBC Strictly Come Dancing full list of songs and dances confirmed for icons week |website=[[Liverpool Echo]] |first=Holly |last=Clarke |date=21 October 2025 |accessdate=23 October 2025 |language=en-GB}}</ref>
+! scope="col" class="unsortable" |Music<ref name="Week5PR" />
+! scope="col" class="unsortable" |Icon<ref name="Week5PR" />
+! scope="col" class="unsortable" |Result<ref>{{cite web |url=https://www.radiotimes.com/tv/entertainment/who-left-strictly-week-5-jimmy-floyd-hasselbaink-newsupdate |title=Who left Strictly 2025? Fourth celebrity to be voted out revealed |website=[[Radio Times]] |first=Christian |last=Tobin |date=26 October 2025 |accessdate=27 October 2025 |language=en-GB}}</ref>
+|-
+! scope="row" |Lewis & Katya
+| 34 (9, 9, 8, 8)
+| Quickstep
+| "[[Ring of Fire (song)|Ring of Fire]]" 
+| [[Johnny Cash]]
+| Safe
+|-
+! scope="row" |Karen & Carlos
+| 28 (7, 7, 7, 7)
+| Rumba
+| "[[Think Twice (Celine Dion song)|Think Twice]]" 
+| [[Celine Dion]]
+| Safe
+|-
+! scope="row" |Ellie & Vito
+| 28 (6, 8, 7, 7)
+| Salsa
+| "[[Wannabe]]", "[[Who Do You Think You Are (Spice Girls song)|Who Do You Think You Are]]" & "[[Spice Up Your Life]]" — [[Spice Girls]] 
+| [[Emma Bunton]]
+| Safe
+|-
+! scope="row" |Alex & Johannes
+| 32 (7, 8, 8, 9)
+| Foxtrot
+| "[[Here You Come Again (song)|Here You Come Again]]" 
+| [[Dolly Parton]]
+| Safe
+|-
+! scope="row" |George & Alexis
+| 27 (6, 7, 6, 8)
+| Jive
+| "[[As It Was]]" 
+| [[Harry Styles]]
+| Safe
+|-
+! scope="row" |Vicky & Kai
+| 33 (8, 8, 8, 9)
+| Couple's choice
+| "[[Fight for This Love]]" 
+| [[Cheryl (singer)|Cheryl]]
+| Safe
+|-
+! scope="row" |Balvinder & Julian
+| 28 (7, 7, 7, 7)
+| Quickstep
+| "[[Texas Hold 'Em (song)|Texas Hold 'Em]]" 
+| [[Beyoncé]]
+| Safe
+|-
+! scope="row" |Harry & Karen
+| 30 (6, 9, 7, 8)
+| Argentine tango
+| "[[Caught Up (Usher song)|Caught Up]]" 
+| [[Usher (musician)|Usher]]
+| Safe
+|-
+! scope="row" |Amber & Nikita
+| 33 (8, 8, 8, 9)
+| Cha-cha-cha
+| "[[Break Free (song)|Break Free]]" 
+| [[Ariana Grande]]
+| bgcolor="lightblue"|Bottom two
+|-
+! scope="row" |Jimmy & Lauren
+| 30 (7, 8, 7, 8)
+| American Smooth
+| "[[Purple Rain (song)|Purple Rain]]" 
+| [[Prince (musician)|Prince]]
+| bgcolor="f4c7b8"|Eliminated
+|-
+! scope="row" |La Voix & Aljaž
+| 28 (6, 7, 7, 8)
+| Salsa
+| "[[Strong Enough (Cher song)|Strong Enough]]" 
+| [[Cher]]
+| Safe
+|}
+;Judges' votes to save<ref name="Week5Results" />
+*Horwood: Amber & Nikita
+*Mabuse: Amber & Nikita
+*Ballas: Amber & Nikita
+*Du Beke: ''Did not vote, but would have voted to save Amber & Nikita''
+
+===Week 6: Halloween Week===
+*Musical guest: [[Cat Burns]] — "How To Be Human"<ref name="Week6Results">{{cite web |last=Hogan |first=Michael |title=Strictly Come Dancing: week six results – as it happened |url=https://www.theguardian.com/tv-and-radio/live/2025/nov/01/strictly-come-dancing-week-six-live |language=en-gb |work=[[The Guardian]] |date=2 November 2025 |access-date=2 November 2025}}</ref>
+
+Each couple performed one unlearned dance to [[Halloween]] themes. [[Shirley Ballas]] had the casting vote this week.<ref name="Week6Results" />
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web |last1=Gajda |first1=Krystyna |last2=Smith |first2=Cachella |last3=Nanji |first3=Noor |editor-last1=Chisholm |editor-first1=Johanna |title=Lewis Cope tops Strictly's Halloween leaderboard as he clinches the first perfect score of this series |url=https://www.bbc.com/news/live/c3w5jdzx8gjt |language=en-gb |publisher=[[BBC]] |date=1 November 2025 |access-date=2 November 2025 }}</ref>
+! scope="col" class="unsortable" |Dance<ref name="Week6PR">{{cite web |url=https://www.liverpoolecho.co.uk/news/tv/bbc-strictly-come-dancing-full-32767168 |title=BBC Strictly Come Dancing full list of songs and routines for Halloween special |website=[[Liverpool Echo]] |first=Holly |last=Clarke |date=28 October 2025 |accessdate=28 October 2025 |language=en-GB}}</ref>
+! scope="col" class="unsortable" |Music<ref name="Week6PR" />
+! scope="col" class="unsortable" |Result<ref>{{cite web |last=Bennion |first=Chris |title=‘We’ll dance together again’: An emotional exit for Strictly’s Ellie Goldstein |url=https://www.telegraph.co.uk/tv/0/strictly-come-dancing-week-6-results |language=en-gb |work=[[The Daily Telegraph]] |date=2 November 2025 |access-date=2 November 2025}}</ref>
+|-
+! scope="row"|Vicky & Kai
+| 31 (7, 8, 8, 8)
+| American Smooth
+| "[[Total Eclipse of the Heart]]" — [[Bonnie Tyler]]
+| Safe
+|-
+! scope="row"|Ellie & Vito
+| 27 (6, 7, 7, 7)
+| Tango
+| "[[Abracadabra (Lady Gaga song)|Abracadabra]]" — [[Lady Gaga]]
+| bgcolor="f4c7b8"|Eliminated
+|-
+! scope="row"|George & Alexis
+| 29 (6, 7, 8, 8)
+| Cha-cha-cha
+| "[[Apple (song)|Apple]]" — [[Charli XCX]]
+| Safe
+|-
+! scope="row"|La Voix & Aljaž
+| 35 (8, 9, 9, 9)
+| Paso doble
+| "[[Symphony No. 5 (Beethoven)|The 5th]]" — [[Ludwig van Beethoven]]
+| Safe
+|-
+! scope="row"|Lewis & Katya
+| 40 (10, 10, 10, 10)
+| Couple's choice
+| "[[Creep (Radiohead song)|Creep]]" — [[Radiohead]]
+| Safe
+|-
+! scope="row"|Balvinder & Julian
+| 28 (7, 7, 7, 7)
+| Rumba
+| "[[Stay (Shakespears Sister song)|Stay]]" — [[Shakespears Sister]]
+| bgcolor="lightblue"|Bottom two
+|-
+! scope="row"|Harry & Karen
+| 26 (6, 7, 6, 7)
+| American Smooth
+| "[[Mystical Magical]]" — [[Benson Boone]]
+| Safe
+|-
+! scope="row"|Karen & Carlos
+| 38 (9, 10, 9, 10)
+| Argentine tango
+| "[[Red Right Hand]]" — [[Nick Cave and the Bad Seeds]]
+| Safe
+|-
+! scope="row"|Alex & Johannes
+| 35 (8, 9, 9, 9)
+| Salsa
+| "[[Horny '98|Horny]]" — [[Mousse T.]] vs. [[Hot 'n' Juicy]]
+| Safe
+|-
+! scope="row"|Amber & Nikita
+| 35 (9, 9, 8, 9)
+| Viennese waltz
+| "[[I See Red (Everybody Loves an Outlaw song)|I See Red]]" — Everybody Loves an Outlaw
+| Safe
+|}
+;Judges' votes to save<ref name="Week6Results" />
+*Du Beke: Balvinder & Julian
+*Horwood: Balvinder & Julian
+*Mabuse: Balvinder & Julian
+*Ballas: ''Did not vote, but would have voted to save Balvinder & Julian''
+
+===Week 7===
+*Musical guest: [[James Morrison (singer)|James Morrison]] — "[[Fight Another Day (album)|Fight Another Day]]"<ref name="Week7Results">{{cite web |last=Hogan |first=Michael |title=Strictly Come Dancing: week seven results – as it happened |url=https://www.theguardian.com/tv-and-radio/live/2025/nov/08/strictly-come-dancing-week-seven-live |language=en-gb |work=[[The Guardian]] |date=9 November 2025 |access-date=9 November 2025}}</ref>
+
+Each couple performed one unlearned dance. [[Motsi Mabuse]] had the casting vote this week.<ref name="Week7Results" />
+
+Couples are listed in the order they performed.
+
+{| class="wikitable sortable" style="text-align:center; width:90%"
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web |last1=Khalil |first1=Hafsa |editor-last1=Spivey |editor-first1=Matt |title=Vicky Pattison steals show at halfway point of Strictly Come Dancing |url=https://www.bbc.com/news/live/cnvrl1g7gp8t |language=en-gb |publisher=[[BBC]] |date=8 November 2025 |access-date=8 November 2025 }}</ref>
+! scope="col" class="unsortable" |Dance<ref name="Week7PR">{{cite web |url=https://www.liverpoolecho.co.uk/news/tv/strictly-come-dancing-songs-routines-32812478 |title=Strictly Come Dancing songs and routines confirmed for week seven |website=[[Liverpool Echo]] |first=Holly |last=Clarke |date=4 November 2025 |accessdate=4 November 2025 |language=en-GB}}</ref>
+! scope="col" class="unsortable" |Music<ref name="Week7PR" />
+! scope="col" class="unsortable" |Result<ref>{{cite web |last=Stolworthy |first=Jacob |title=Harry Aikines-Aryeetey becomes sixth celebrity to leave Strictly Come Dancing |url=https://www.independent.co.uk/arts-entertainment/tv/news/harry-aikines-aryeetey-strictly-come-dancing-results-karen-hauer-b2861671.html |language=en-gb |work=[[The Independent]] |date=9 November 2025 |access-date=9 November 2025}}</ref>
+|-
+! scope="row"|Lewis & Katya
+| 35 (8, 9, 9, 9)
+| Cha-cha-cha
+| "[[I Like It Like That (Pete Rodriguez song)|I Like It Like That]]" — [[Pete Rodriguez (boogaloo musician)|Pete Rodriguez]]
+| Safe
+|-
+! scope="row"|Karen & Carlos
+| 35 (8, 10, 8, 9)
+| Charleston
+| "[[Upside Down (Diana Ross song)|Upside Down]]" — [[Diana Ross]] / "[[Think (Aretha Franklin song)|Think]]" — [[Aretha Franklin]]
+| Safe
+|-
+! scope="row"|Alex & Johannes
+| 30 (7, 8, 7, 8)
+| Paso doble
+| "[[Amparito Roca]]" — [[Jaime Teixidor]]
+| Safe
+|-
+! scope="row"|La Voix & Aljaž
+| 29 (6, 8, 7, 8)
+| Foxtrot
+| "[[Make Your Own Kind of Music]]" — [[Cass Elliot]]
+| bgcolor="lightblue"|Bottom two
+|-
+! scope="row" |Balvinder & Julian
+| 34 (7, 9, 9, 9)
+| Couple's choice
+| "[[Sapphire (song)|Sapphire]]" — [[Ed Sheeran]] feat. [[Arijit Singh]]
+| Safe
+|-
+! scope="row"|George & Alexis
+| 34 (8, 8, 9, 9)
+| Viennese waltz
+| "[[Somebody to Love (Queen song)|Somebody to Love]]" — [[Queen (band)|Queen]]
+| Safe
+|-
+! scope="row"|Amber & Nikita
+| 38 (9, 10, 9, 10)
+| Salsa
+| "[[You Make Me Feel (Mighty Real)]]" — [[Sylvester (singer)|Sylvester]]
+| Safe
+|-
+! scope="row"|Vicky & Kai
+| 39 (9, 10, 10, 10)
+| Tango
+| "[[The Fate of Ophelia]]" — [[Taylor Swift]]
+| Safe
+|-
+! scope="row"|Harry & Karen
+| 30 (7, 8, 7, 8)
+| Samba
+| "[[Conga (song)|Samba]]" — [[Gloria Estefan]]
+| bgcolor="f4c7b8"|Eliminated
+|}
+;Judges' votes to save<ref name="Week7Results" />
+* Ballas: La Voix & Aljaž 
+* Du Beke: La Voix & Aljaž
+* Horwood: La Voix & Aljaž
+* Mabuse: ''Did not vote, but would have voted to save La Voix & Aljaž''
+
+===Week 8===
+*Musical guest: [[Olly Murs]] — "Run This Town"<ref name="Week8Results">{{cite web |last=Hogan |first=Michael |title=Strictly Come Dancing: week eight results – live |url=https://www.theguardian.com/tv-and-radio/live/2025/nov/15/strictly-come-dancing-week-eight-live |language=en-gb |work=[[The Guardian]] |date=16 November 2025 |access-date=16 November 2025}}</ref>
+
+Each couple performed one unlearned dance. [[Craig Revel Horwood]] had the casting vote this week.<ref name="Week8Results" />
+
+Couples are listed in the order they performed.
+
+{| class="wikitable sortable" style="text-align:center; width:90%"
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web |last1=Goldsmith |first1=Adam |last2=Nanji |first2=Noor |last3=Cursino |first3=Malu |editor-last1=Yeung |editor-first1=Tinshui |title=YouTuber George Clarke in tears after personal routine on Strictly Come Dancing |url=https://www.bbc.com/news/live/cge24gz57x2t |language=en-gb |publisher=[[BBC]] |date=15 November 2025 |access-date=16 November 2025 }}</ref>
+! scope="col" class="unsortable" |Dance<ref name="Week8PR">{{cite web |url=https://entertainment-focus.com/2025/11/11/strictly-come-dancing-2025-week-8-songs-and-dances-revealed |title=''Strictly Come Dancing'' 2025 week 8 songs and dances revealed |website=Entertainment Focus |first=Pip |last=Ellwood-Hughes |date=11 November 2025 |accessdate=12 November 2025 |language=en-GB}}</ref>
+! scope="col" class="unsortable" |Music<ref name="Week8PR" />
+! scope="col" class="unsortable" |Result<ref>{{cite web |last=Muir |first=Ellie |title=Vicky Pattison becomes the seventh celebrity to exit Strictly Come Dancing |url=https://www.independent.co.uk/arts-entertainment/tv/news/strictly-come-dancing-results-vicky-pattison-kai-widdrington-who-left-b2866170.html |language=en-gb |work=[[The Independent]] |date=16 November 2025 |access-date=16 November 2025}}</ref>
+|-
+! scope="row"|Balvinder & Julian
+| 27 (6, 7, 7, 7)
+| American Smooth
+| "[[My Guy]]" — [[Mary Wells]]
+| bgcolor="lightblue"|Bottom two
+|-
+! scope="row"|Amber & Nikita
+| 38 (9, 10, 9, 10)
+| Paso doble
+| "[[Dream On (Aerosmith song)|Dream On]]" — [[Aerosmith]]
+| Safe
+|-
+! scope="row"|Alex & Johannes
+| 35 (8, 9, 9, 9)
+| Waltz
+| "[[Weekend in New England]]" — [[Barry Manilow]]
+| Safe
+|-
+! scope="row"|Vicky & Kai
+| 27 (6, 7, 7, 7)
+| Jive
+| "[[Sound of the Underground (song)|Sound of the Underground]]" — [[Girls Aloud]]
+| bgcolor="f4c7b8"|Eliminated
+|-
+! scope="row"|Karen & Carlos
+| 31 (7, 8, 8, 8)
+| American Smooth
+| "[[You Don't Own Me#Saygrace version|You Don't Own Me]]" — [[Saygrace]]
+| Safe
+|-
+! scope="row"|George & Alexis
+| 29 (6, 7, 8, 8)
+| Rumba
+| "[[Somewhere Only We Know#Lily Allen version|Somewhere Only We Know]]" — [[Lily Allen]]
+| Safe
+|-
+! scope="row"|Lewis & Katya
+| 37 (9, 10, 9, 9)
+| Tango
+| "[[12 to 12]]" — [[Sombr]]
+| Safe
+|-
+! scope="row"|La Voix & Aljaž
+| 33 (7, 8, 9, 9)
+| Couple's choice
+| "[[Don't Rain on My Parade]]" — [[Barbra Streisand]]
+| Safe
+|}
+;Judges' votes to save<ref name="Week8Results" />
+*Mabuse: Balvinder & Julian
+*Ballas: Balvinder & Julian
+*Du Beke: Balvinder & Julian
+*Horwood: ''Did not vote, but would have voted to save Balvinder & Julian''
+
+===Week 9: Blackpool Week===
+*Musical guests: [[Steps (pop group)|Steps]] — "[[When I Said Goodbye / Summer of Love|Summer of Love]]", "[[Last Thing on My Mind (Bananarama song)|Last Thing on My Mind]]", "[[Better the Devil You Know]]" and "[[Tragedy (Bee Gees song)|Tragedy]]"; [[Lewis Capaldi]] — "[[Something in the Heavens]]"<ref name="Week9Results">{{cite web |last=Hogan |first=Michael |title=Strictly Come Dancing: Blackpool results – as it happened |url=https://www.theguardian.com/tv-and-radio/live/2025/nov/22/strictly-come-dancing-blackpool-special-live |language=en-gb |work=[[The Guardian]] |date=23 November 2025 |access-date=24 November 2025}}</ref>
+*Special guests: [[Ashley Roberts]], [[Danny Mac]], [[Jay McGuiness]] and [[Layton Williams]]<ref name="Week9Results" />
+
+Each couple performed one unlearned dance. This week's episode was staged in the [[Blackpool Tower#Tower Ballroom|Tower Ballroom]] at the [[Blackpool Tower]] in [[Blackpool, Lancashire]].
+
+La Voix, who was due to dance a Samba to "[[Love Is in the Air (song)|Love Is in the Air]]" by [[John Paul Young]], was granted a bye to the following week due to an injury sustained in rehearsals.<ref>{{cite web |last=Glynn |first=Paul |title=La Voix to miss Strictly Blackpool specials due to injury |url=https://www.bbc.com/news/articles/cn7e02402dlo |date=2025-11-18 |access-date=2025-11-18 |publisher=BBC |language=en}}</ref> However, during the live show on 22 November, it was revealed that La Voix was unable to continue in the competition due to her injury. As a result, there was no elimination this week and all scores and public votes were carried over to the following week.<ref name=Wk9AllSafe>{{cite web|title=Strictly Come Dancing 2025 confirms popular star's full exit from series - prompting major announcement for Blackpool weekend|first=Molly|last=Moss|work=[[Radio Times]]|url=https://www.radiotimes.com/tv/entertainment/strictly-come-dancing-2025-la-voix-exit-newsupdate/|date=22 November 2025|access-date=22 November 2025}}</ref>
+
+Couples are listed in the order they performed.
+
+{| class="wikitable sortable" style="text-align:center; width:90%"
+! scope="col" |Couple
+! style="width:8em; scope="col" |Scores<ref>{{cite web |last1=Ahmed |first1=Nabiha |last2=Nanji |first2=Noor |last3=Jordan |first3=Dearbail |editor-last1=Yeung |editor-first1=Tinshui |title=La Voix 'most upset' for letting partner down by withdrawing from Strictly |url=https://www.bbc.com/news/live/cr4qvzkdd3vt |language=en-gb |publisher=[[BBC]] |date=22 November 2025 |access-date=24 November 2025 }}</ref>
+! scope="col" class="unsortable" |Dance<ref name="Week9PR">{{cite web |url=https://entertainment-focus.com/2025/11/18/strictly-come-dancing-2025-week-9-blackpool-week-songs-and-dances-revealed |title=''Strictly Come Dancing'' 2025 Week 9 Blackpool Week songs and dances revealed |website=Entertainment Focus |first=Pip |last=Ellwood-Hughes |date=18 November 2025 |accessdate=18 November 2025 |language=en-GB}}</ref>
+! scope="col" class="unsortable" |Music<ref name="Week9PR" />
+|-
+! scope="row"|Lewis & Katya
+| 40 (10, 10, 10, 10)
+| Charleston
+| "[[I Bet You Look Good on the Dancefloor]]" — [[Arctic Monkeys]]
+|-
+! scope="row"|Balvinder & Julian
+| 33 (8, 8, 8, 9)
+| Argentine tango
+| "[[The Logical Song]]" — [[Supertramp]]
+|-
+! scope="row"|Amber & Nikita
+| 36 (9, 9, 9, 9)
+| Quickstep
+| "[[Reach (S Club 7 song)|Reach]]" — [[S Club 7]]
+|-
+! scope="row" |Karen & Carlos
+| 39 (9, 10, 10, 10)
+| Paso doble
+| "[[O Fortuna (Orff)|O Fortuna]]" — ''[[Carmina Burana (Orff)|Carmina Burana]]''
+|-
+! scope="row"|Alex & Johannes
+| 35 (8, 9, 9, 9)
+| Couple's choice
+| "[[History Repeating (song)|History Repeating]] + [[Look at Me (Geri Halliwell song)|Look At Me]]" — [[Propellerheads]] feat. [[Shirley Bassey]] + [[Geri Halliwell]]
+|-
+! scope="row"|George & Alexis
+| 39 (9, 10, 10, 10)
+| Salsa
+| "[[Party Rock Anthem]]" — [[LMFAO]] / "[[Rock This Party (Everybody Dance Now)]]" — [[Bob Sinclar]] / "[[Mr. Saxobeat]]" — [[Alexandra Stan]]
+|}
+
+===Week 10===
+*Musical guest: [[Myles Smith]] — "[[Stay (If You Wanna Dance)]]"<ref name="Week10Results">{{cite web |last=Hogan |first=Michael |title=Strictly Come Dancing: week 10 results – as it happened |url=https://www.theguardian.com/tv-and-radio/live/2025/nov/29/strictly-come-dancing-week-10-live |language=en-gb |work=[[The Guardian]] |date=30 November 2025 |access-date=30 November 2025}}</ref>
+
+Each couple performed one unlearned and one instant dance.<ref>{{cite web |url=https://www.digitalspy.com/tv/reality-tv/a69522429/strictly-come-dancing-instant-dance-challenge/ |title=''Strictly Come Dancing'' reveals brand-new challenge for next week |website=[[Digital Spy]] |first=Divya |last=Soni |date=23 November 2025 |accessdate=28 November 2025 |language=en-GB}}</ref> [[Shirley Ballas]] had the casting vote this week.<ref name="Week10Results" />
+
+Couples are listed in the order they performed.
+
+{| class="wikitable sortable" style="text-align:center; width:90%"
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web |last1=Lambert |first1=Guy |last2=Yeung |first2=Tinshui |last3=Flynn |first3=Rachel |editor-last1=Whitehead |editor-first1=Jamie |editor-last2=Flynn |editor-first2=Rachel |title=Chaos, costume changes and two perfect scores in Strictly week 10 |url=https://www.bbc.com/news/live/cn5qdy6gww0t |language=en-gb |publisher=[[BBC]] |date=29 November 2025 |access-date=29 November 2025 }}</ref>
+! scope="col" class="unsortable" |Dance<ref name="Week10PR">{{cite web |url=https://www.digitalspy.com/tv/reality-tv/a69543856/strictly-come-dancing-week-10-songs-dances/ |title=''Strictly Come Dancing'' confirms week 10 songs and dances - including a Lady Gaga Couple’s Choice |website=[[Digital Spy]] |first=George |last=Lewis |date=25 November 2025 |accessdate=28 November 2025 |language=en-GB}}</ref><ref name="Week10PRID">{{cite web |url=https://www.radiotimes.com/tv/entertainment/strictly-fans-instant-dance-regular-feature-chaotic-scenes-newsupdate/ |title=''Strictly'' fans call for "iconic" format twist to become regular feature after chaotic scenes |website=[[Radio Times]] |first=Patrick |last=Cremona |date=29 November 2025 |accessdate=29 November 2025 |language=en-GB}}</ref>
+! scope="col" class="unsortable" |Music<ref name="Week10PR" /><ref name="Week10PRID" />
+! scope="col" class="unsortable" |Result<ref>{{cite web |last=Smart |first=Andrew |title=Who left ''Strictly Come Dancing''? Alex Kingston eliminated |url=https://www.westerntelegraph.co.uk/news/national/uk-today/25661390.left-strictly-come-dancing-alex-kingston-eliminated/ |language=en-gb |work=[[Western Telegraph]] |date=30 November 2025 |access-date=30 November 2025}}</ref>
+|-
+! rowspan="2" scope="row"| Alex & Johannes
+| 23 (4, 6, 6, 7)
+| Cha-cha-cha
+| "[[Ring My Bell]]" — [[Anita Ward]]
+| bgcolor=#f4c7b8 rowspan="2" scope="row"| Eliminated
+|-
+| 3
+| Rumba
+| "[[Show Me Heaven]]" — [[Maria McKee]]
+|-
+! rowspan="2" scope="row"| George & Alexis
+| 34 (8, 8, 9, 9)
+| Quickstep
+| "[[I Get a Kick Out of You]]" — [[Frank Sinatra]]
+| rowspan="2" scope="row"| Safe
+|-
+| 2
+| Tango
+| "[[When Doves Cry]]" — [[Prince (musician)|Prince]]
+|-
+! rowspan="2" scope="row"| Lewis & Katya
+| 36 (9, 9, 9, 9)
+| Rumba
+| "[[Falling (Harry Styles song)|Falling]]" — [[Harry Styles]]
+| rowspan="2" scope="row"| Safe
+|-
+| 6
+| Jive
+| "[[Wake Me Up Before You Go-Go]]" — [[Wham!]]
+|-
+! rowspan="2" scope="row"| Balvinder & Julian
+| 28 (7, 7, 7, 7)
+| Jive
+| "[[Right Back Where We Started From]]" — [[Maxine Nightingale]]
+| bgcolor=lightblue rowspan="2" scope="row"| Bottom two
+|-
+| 5
+| Paso doble
+| "[[Don't Let Me Be Misunderstood]]" — [[The Animals]]
+|-
+! rowspan="2" scope="row"| Karen & Carlos
+| 40 (10, 10, 10, 10)
+| Couple's choice
+| "[[Born This Way (song)|Born This Way]]" — [[Lady Gaga]]
+| rowspan="2" scope="row"| Safe
+|-
+| 1
+| Cha-cha-cha
+| "[[Beggin']]" — [[The Four Seasons (band)|The Four Seasons]]
+|-
+! rowspan="2" scope="row"| Amber & Nikita
+| 40 (10, 10, 10, 10)
+| Jive
+| "[[Proud Mary]]" — [[Tina Turner]]
+| rowspan="2" scope="row"| Safe
+|-
+| 4
+| Samba
+| "[[Whenever, Wherever]]" — [[Shakira]]
+|-
+|}
+;Judges' votes to save<ref name="Week10Results" />
+*Du Beke: Alex & Johannes
+*Horwood: Balvinder & Julian
+*Mabuse: Balvinder & Julian
+*Ballas: Balvinder & Julian
+
+===Week 11: Musicals Week (Quarter-final)===
+*Musical guests: [[Tom Fletcher]] — "The Explorer and the Bear" (from ''[[Paddington: The Musical]]''); The cast of ''[[Titanique]]''<ref name="Week11Results">{{Cite news |last=Hogan |first=Michael |date=2025-12-07 |title=Strictly Come Dancing: week 11 results – as it happened |url=https://www.theguardian.com/tv-and-radio/live/2025/dec/06/strictly-come-dancing-week-11-live |access-date=2025-12-07 |work=the Guardian |language=en-GB |issn=0261-3077}}</ref>
+
+Each couple performed one unlearned dance to famous [[Musical theatre|musicals]] songs.  [[Motsi Mabuse]] had the casting vote this week.<ref name="Week11Results" />
+
+Couples are listed in the order they performed.
+
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores<ref>{{cite web |last1=Scott-Turner |first1=Freya |last2=Nanji |first2=Noor |last3=Ahmed |first3=Nabiha |editor-last1=Humphrey |editor-first1=Andrew |title=Strictly's Musicals Week sees one couple achieve a perfect score |url=https://www.bbc.com/news/live/cvgny7d0072t |language=en-gb |publisher=[[BBC]] |date=6 December 2025 |access-date=6 December 2025 }}</ref>
+! scope="col" class="unsortable"|Dance<ref name="Week11PR">{{cite web |url=https://www.digitalspy.com/tv/reality-tv/a69610311/strictly-songs-dances-musicals-week-2025/ |title=''Strictly Come Dancing'' reveals all the songs and dances for Musicals Week |website=[[Digital Spy]] |first=Catherine |last=Earp |date=2 December 2025 |accessdate=5 December 2025 |language=en-GB}}</ref>
+! scope="col" class="unsortable"|Music<ref name="Week11PR" />
+! scope="col" class="unsortable"|Musical<ref name="Week11PR" />
+! scope="col" class="unsortable"|Result<ref>{{cite web |last=Roberts |first=Hannah |title=''Strictly'' favourite Lewis Cope eliminated from show in tense dance-off |url=https://www.independent.co.uk/arts-entertainment/tv/news/strictly-2025-who-left-lewis-amber-final-b2879704.html |language=en-gb |work=[[The Independent]] |date=7 December 2025 |access-date=7 December 2025}}</ref>
+|-
+! scope="row"|George & Alexis
+| 35 (8, 9, 9, 9)
+| Argentine tango
+| "[[The Phantom of the Opera (1986 musical)#Musical numbers|The Point of No Return]]"
+| ''[[The Phantom of the Opera (1986 musical)|The Phantom of the Opera]]''
+| Safe
+|-
+! scope="row"|Karen & Carlos
+| 34 (8, 8, 9, 9)
+| Samba
+| "[[The Rhythm of Life]]"
+| ''[[Sweet Charity]]''
+| Safe
+|-
+! scope="row"|Balvinder & Julian
+| 35 (8, 9, 9, 9)
+| Viennese waltz
+| "[[Never Enough (The Greatest Showman song)|Never Enough]]"
+| ''[[The Greatest Showman (musical)|The Greatest Showman]]''
+| Safe
+|-
+! scope="row"|Amber & Nikita
+| 40 (10, 10, 10, 10)
+| Charleston
+| "[[Sit Down, You're Rockin' the Boat]]"
+| ''[[Guys and Dolls]]''
+| bgcolor=lightblue rowspan="1" scope="row"| Bottom two
+|-
+! scope="row"|Lewis & Katya
+| 35 (8, 9, 9, 9)
+| Salsa
+| "[[West Side Story#Musical numbers|The Dance at the Gym]]"
+| ''[[West Side Story]]''
+| bgcolor=#f4c7b8 rowspan="1" scope="row"| Eliminated
+|}
+;Judges' votes to save<ref name="Week11Results" />
+* Ballas: Amber & Nikita
+* Du Beke: Amber & Nikita
+* Horwood: Amber & Nikita
+* Mabuse: ''Did not vote, but would have voted to save Amber & Nikita''
+
+===Week 12: Semi-final===
+*Musical guests: [[Kylie Minogue]] — "[[XMAS (song)|XMAS]]"; [[James (band)|James]] — "[[Sit Down (song)|Sit Down]]"<ref name="Week12Results">{{Cite news |last=Hogan |first=Michael |date=2025-12-14 |title=Strictly Come Dancing: semi-final results – as it happened |url=https://www.theguardian.com/tv-and-radio/live/2025/dec/13/strictly-come-dancing-the-semi-final-live |access-date=2025-12-14 |work=[[The Guardian]] |language=en-GB}}</ref>
+
+Each couple performed two unlearned dances. [[Craig Revel Horwood]] had the casting vote this week.<ref name="Week12Results" />
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col"|Couple
+! scope="col"|Scores<ref>{{cite web |last1=Lambert |first1=Guy |editor-last1=Bosotti |editor-first1=Rorey |title=Strictly’s last four couple in glitterball showdown to secure spot in next week’s final |url=https://www.bbc.com/news/live/c78n30eyxvlt |language=en-gb |publisher=[[BBC]] |date=13 December 2025 |access-date=13 December 2025 }}</ref>
+! scope="col" class="unsortable"|Dance<ref name="Week12PR">{{cite web |url=https://entertainment-focus.com/2025/12/09/strictly-come-dancing-2025-week-12-semi-final-songs-and-dances-revealed/ |title=''Strictly Come Dancing'' 2025 Week 12 Semi-Final songs and dances revealed |website=Entertainment Focus |first=Pip |last=Ellwood-Hughes |date=9 December 2025 |accessdate=10 December 2025 |language=en-GB}}</ref>
+! scope="col" class="unsortable"|Music<ref name="Week12PR" />
+! scope="col" class="unsortable"|Result<ref>{{cite web |url=https://www.bbc.com/news/articles/ckglkklj03zo |title=Strictly finalists confirmed after dance-off decider |website=BBC |first=Guy |last=Lambert |date=14 December 2025 |accessdate=14 December 2025 |language=en-GB}}</ref>
+|-
+! rowspan="2" scope="row"| Balvinder & Julian
+| rowspan="2" | 35 (8, 9, 9, 9)
+| Salsa
+| "[[Rhythm Is Gonna Get You]]" & "[[Get on Your Feet]]" — [[Gloria Estefan]]
+| bgcolor=#f4c7b8 rowspan="2" scope="row"| Eliminated
+|-
+| Waltz
+| "[[At This Moment]]" — [[Michael Bublé]]
+|-
+! rowspan="2" scope="row"| Amber & Nikita
+| 37 (9, 10, 9, 9)
+| Tango
+| "[[Higher (Michael Bublé album)|Higher]]" — [[Michael Bublé]]
+| bgcolor=lightblue rowspan="2"|Bottom two
+|-
+| 40 (10, 10, 10, 10)
+| Couple's choice
+| "[[Fly Me to the Moon]]" — [[Raye]]
+|-
+! rowspan="2" scope="row"| Karen & Carlos
+| rowspan="2" | 39 (9, 10, 10, 10)
+| Waltz
+| "[[One Moment in Time]]" — [[Whitney Houston]]
+| rowspan="2"|Safe
+|-
+| Salsa
+| "[[Turn the Beat Around]]" — [[Vicki Sue Robinson]]
+|-
+! rowspan="2" scope="row"| George & Alexis
+| 35 (8, 9, 9, 9)
+| Samba
+| "[[Nel blu, dipinto di blu|Volare]]" — [[Gipsy Kings]]
+| rowspan="2"|Safe
+|-
+| 37 (8, 9, 10, 10)
+| Charleston
+| "[[We No Speak Americano]]" — [[Yolanda Be Cool]] & [[DCUP]]
+|}
+;Judges' votes to save<ref name="Week12Results" />
+* Mabuse: Amber & Nikita
+* Ballas: Amber & Nikita
+* Du Beke: Amber & Nikita
+* Horwood: ''Did not vote, but would have voted to save Amber & Nikita''
+
+===Week 13: Final===
+*Musical guests: [[Five (group)|Five]] — "[[Everybody Get Up (Five song)|Everybody Get Up]]", "[[Got the Feelin']]", "[[If Ya Gettin' Down]]" & "[[Keep On Movin' (Five song)|Keep On Movin']]"<ref name="Week13Results">{{Cite news |last=Hogan |first=Michael |date=2025-12-20 |title=Strictly Come Dancing: the final – as it happened |url=https://www.theguardian.com/tv-and-radio/live/2025/dec/20/strictly-come-dancing-the-final-live |access-date=2025-12-20 |work=[[The Guardian]] |language=en-GB}}</ref>
+
+Each couple performed three routines: one chosen by the judges, their showdance routine, and their favourite dance of the series.
+
+Couples are listed in the order they performed.
+
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col"|Couple
+! scope="col"|Scores<ref>{{cite web |last5=Yeung |first5=Tinshui |last4=Walker |first4=Amy |last3=Nanji |first3=Noor |last2=Williams |first2=Katie |last1=Whitehead |first1=Jamie |editor-last1=Bosotti |editor-first1=Rorey |title=Strictly 2025 winners crowned as Tess and Claudia host their final show |url=https://www.bbc.com/news/live/cly14n9qqyqt |language=en-gb |publisher=[[BBC]] |date=20 December 2025 |access-date=20 December 2025 }}</ref>
+! scope="col" class="unsortable"|Dance<ref name="Week13PR">{{cite web |url=https://entertainment-focus.com/2025/12/16/strictly-come-dancing-2025-grand-final-songs-and-dances-revealed/ |title=''Strictly Come Dancing'' 2025 Grand Final songs and dances revealed |website=Entertainment Focus |first=Pip |last=Ellwood-Hughes |date=16 December 2025 |accessdate=16 December 2025 |language=en-GB}}</ref>
+! scope="col" class="unsortable"|Music<ref name="Week13PR" />
+! scope="col" class="unsortable"|Result<ref name="Week13Results" />
+|-
+! rowspan="3" scope="row"|Amber & Nikita
+| 39 (9, 10, 10, 10)
+| Paso doble
+| "[[Dream On (Aerosmith song)|Dream On]]" — [[Aerosmith]]
+| bgcolor=silver rowspan="6"|Runners-up
+|-
+| 39 (9, 10, 10, 10)
+| Showdance
+| "[[Rain on Me (Lady Gaga and Ariana Grande song)|Rain on Me]]" — [[Lady Gaga]] & [[Ariana Grande]]
+|-
+| 40 (10, 10, 10, 10)
+| Jive
+| "[[Proud Mary]]" — [[Tina Turner]]
+|-
+! rowspan="3" scope="row"|George & Alexis
+| rowspan="3" | 39 (9, 10, 10, 10)
+| Viennese waltz
+| "[[Somebody to Love (Queen song)|Somebody to Love]]" — [[Queen (band)|Queen]]
+|-
+| Showdance
+| "[[Human (The Killers song)|Human]]" — [[The Killers]]
+|-
+| Paso doble
+| "Game of Survival" — [[Ruelle (singer)|Ruelle]]
+|-
+! rowspan="3" scope="row"|Karen & Carlos
+| 40 (10, 10, 10, 10)
+| Argentine tango
+| "[[Red Right Hand]]" — [[Nick Cave and the Bad Seeds]]
+| bgcolor=gold rowspan="3"|'''Winners'''
+|-
+| 37 (8, 10, 9, 10)
+| Showdance
+| "[[Inner Smile]]" — [[Texas (band)|Texas]]
+|-
+| 40 (10, 10, 10, 10)
+| Jive
+| "[[One Way or Another]]" — [[Blondie (band)|Blondie]]
+|}
+
+==Dance chart==
+*Week 1–9: One unlearned dance
+*Week 10: One unlearned dance and one instant dance (previously learned style)
+*Week 11: One unlearned dance
+*Week 12: Two unlearned dances
+*Week 13 (Final): Judges' choice, showdance & favourite dance of the series
+
+{| class="wikitable unsortable" style="text-align:center; font-size:85%; line-height:20px"
+|+''Strictly Come Dancing'' series 23 - Dance chart
+! rowspan="2" |Couple
+! colspan="17" |Week
+|-
+! scope="col" | 1
+! scope="col" | 2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" | 5
+! scope="col" | 6
+! scope="col" | 7
+! scope="col" | 8
+! scope="col" | 9
+! colspan=2 scope="col" | 10{{efn|The second listed dance is the couple's instant dance, revealed immediately prior to their performance.}}
+! scope="col" | 11
+! colspan=2 scope="col" | 12
+! colspan=3 scope="col" | 13
+|-
+! scope="row" | Karen & Carlos
+| Jive
+| Tango
+| Cha-cha-cha
+| Quickstep
+| Rumba
+| Argentine tango
+| Charleston
+| American Smooth
+| Paso doble
+| Couple's choice
+| Cha-cha-cha
+| Samba
+| Waltz
+| Salsa
+| Argentine tango
+| Showdance
+| Jive
+|-
+! scope="row" | Amber & Nikita
+| Waltz
+| Samba
+| American Smooth
+| Argentine tango 
+| Cha-cha-cha
+| Viennese waltz
+| Salsa
+| Paso doble
+| Quickstep
+| Jive
+| Samba
+| Charleston
+| Tango
+| Couple's choice
+| Paso doble
+| Showdance
+| Jive
+|-
+! scope="row" | George & Alexis
+| American Smooth
+| Paso doble
+| Couple's choice
+| Tango
+| Jive
+| Cha-cha-cha
+| Viennese waltz
+| Rumba
+| Salsa
+| Quickstep
+| Tango
+| Argentine tango
+| Samba
+| Charleston
+| Viennese waltz
+| Showdance
+| Paso doble
+|-
+! scope="row" | Balvinder & Julian
+| Samba
+| Charleston
+| Foxtrot
+| Paso doble
+| Quickstep
+| Rumba
+| Couple's choice
+| American Smooth
+| Argentine tango
+| Jive
+| Paso doble
+| Viennese waltz
+| Salsa
+| Waltz
+| colspan="5" bgcolor="lightgrey" |
+|-
+! scope="row" | Lewis & Katya
+| Jive
+| Viennese waltz
+| Paso doble
+| Foxtrot
+| Quickstep
+| Couple's choice
+| Cha-cha-cha
+| Tango
+| Charleston
+| Rumba
+| Jive
+| Salsa
+| colspan="6" bgcolor="lightgrey" |
+|-
+! scope="row" | Alex & Johannes
+| Viennese waltz
+| Samba
+| Quickstep 
+| Rumba
+| Foxtrot
+| Salsa
+| Paso doble
+| Waltz
+| Couple's choice
+| Cha-cha-cha
+| Rumba
+| colspan="7" bgcolor="lightgrey" |
+|-
+! scope="row" | La Voix & Aljaž
+| American Smooth
+| Jive
+| Waltz
+| Cha-cha-cha
+| Salsa
+| Paso doble
+| Foxtrot
+| Couple's choice
+| bgcolor="lightgrey" | <s>''Samba''</s>{{efn|name=Withdrew|This couple withdrew from the competition without performing their planned dance.}}
+| colspan="8" bgcolor="lightgrey" |
+|-
+! scope="row" | Vicky & Kai
+| Cha-cha-cha
+| Foxtrot
+| Charleston
+| Samba
+| Couple's choice
+| American Smooth
+| Tango
+| Jive
+| colspan="9" bgcolor="lightgrey" | 
+|-
+! scope="row" | Harry & Karen
+| Cha-cha-cha
+| Quickstep
+| Salsa
+| Rumba
+| Argentine tango
+| American Smooth 
+| Samba
+| colspan="10" bgcolor="lightgrey" | 
+|-
+! scope="row" | Ellie & Vito
+| Cha-cha-cha
+| Waltz
+| Samba
+| Couple's choice
+| Salsa
+| Tango
+| colspan="11" bgcolor="lightgrey" | 
+|-
+! scope="row" | Jimmy & Lauren
+| Quickstep
+| Cha-cha-cha
+| Rumba
+| Couple's choice
+| American Smooth
+|colspan="12" bgcolor="lightgrey" |
+|-
+! scope="row" | Stefan & Dianne
+| Foxtrot
+| Cha-cha-cha
+| bgcolor="lightgrey" | <s>''Waltz''</s>{{efn|name=OutSick|This couple was excused from competition due to illness or injury, and was granted a [[Bye (sports)|bye]] to the following week.}}
+| Charleston
+| bgcolor="lightgrey" | {{efn|name=Withdrew}}
+|colspan="12" bgcolor="lightgrey" |
+|-
+! scope="row" | Chris & Nadiya
+| Samba
+| Viennese waltz
+| Paso doble
+| Salsa
+|colspan="13" bgcolor="lightgrey" |
+|-
+! scope="row" | Ross & Jowita
+| Cha-cha-cha
+| Waltz
+| Paso doble
+|colspan="14" bgcolor="lightgrey" |
+|-
+! scope="row" | Thomas & Amy
+| Paso doble
+| Salsa
+| colspan="15" bgcolor="lightgrey" |
+|}
+{{notelist}}
+
+==Ratings==
+Weekly ratings for each show on [[BBC One]]. All ratings are provided by [[Barb Audiences|BARB]].<ref>{{cite web |url=https://www.barb.co.uk/viewing-data/as-viewed-top-50 |title=Weekly top 50 shows |publisher=[[BARB]] |access-date=20 September 2025}}</ref>
+{| class="wikitable sortable" style="text-align:center"
+|-
+! scope="col"|Episode
+! scope="col"|Date
+! scope="col"|Official rating<br />(millions)
+! scope="col"|Weekly rank<br />for BBC One
+! scope="col"|Weekly rank<br />for all UK TV
+|-
+! scope="row"|Launch show
+| {{dts|20 September}} || 6.55 || 1 || 2
+|-
+! scope="row"|Week 1
+| {{dts|27 September}} || 7.69 || 1 || 1
+|-
+! scope="row"|Week 2
+| {{dts|4 October}} || 7.47 || 1 || 1
+|-
+! scope="row"|Week 2 results
+| {{dts|5 October}} || 6.99 || 2 || 2
+|- 
+! scope="row"|Week 3
+| {{dts|11 October}} || 7.61 || 3 || 3
+|-
+! scope="row"|Week 3 results
+| {{dts|12 October}} || 6.68 || 4 || 5
+|- 
+! scope="row"|Week 4
+| {{dts|18 October}} || 7.38 || 3 || 3
+|-
+! scope="row"|Week 4 results
+| {{dts|19 October}} || 6.85 || 4 || 4
+|- 
+! scope="row"|Week 5
+| {{dts|25 October}} || 7.53 || 3 || 3
+|-
+! scope="row"|Week 5 results
+| {{dts|26 October}} || 6.98 || 4 || 4
+|- 
+! scope="row"|Week 6
+| {{dts|1 November}} || 7.88 || 3 || 3
+|-
+! scope="row"|Week 6 results
+| {{dts|2 November}} || 7.48 || 4 || 4
+|- 
+! scope="row"|Week 7
+| {{dts|8 November}} || 7.42 || 2 || 2
+|-
+! scope="row"|Week 7 results
+| {{dts|9 November}} || 7.05 || 3 || 3
+|- 
+! scope="row"|Week 8
+| {{dts|15 November}} || 7.68 || 1 || 2
+|-
+! scope="row"|Week 8 results
+| {{dts|16 November}} || 7.09 || 2 || 3
+|- 
+! scope="row"|Week 9
+| {{dts|22 November}} || 8.00 || 1 || 7
+|-
+! scope="row"|Week 9 results
+| {{dts|23 November}} || 7.03 || 2 || 9
+|- 
+! scope="row"|Week 10
+| {{dts|29 November}} || 7.52 || 1 || 6
+|-
+! scope="row"|Week 10 results
+| {{dts|30 November}} || 7.23 || 2 || 8
+|- 
+! scope="row"|Week 11
+| {{dts|6 December}} || 7.23 || 2 || 7
+|-
+! scope="row"|Week 11 results
+| {{dts|7 December}} || 7.44 || 1 || 5
+|- 
+! scope="row"|Week 12
+| {{dts|13 December}} || 7.53 || 1 || 1 
+|-
+! scope="row"|Week 12 results
+| {{dts|14 December}} || 7.23 || 2 || 2 
+|- 
+! scope="row"|Week 13
+| {{dts|20 December}} || 8.49 || 1 || 1
+|-
+! Series average<br>(excl. launch show)
+! 2025
+! 7.40
+! {{N/A}}
+! {{N/A}}
+|}
+
+==References==
+{{Reflist}}
+
+== External links ==
+* {{BBC Online|id=strictlycomedancing|title=''Strictly Come Dancing''}}
+
+{{Strictly Come Dancing}}
+
+[[Category:2025 British television seasons]]
+[[Category:Strictly Come Dancing series]]

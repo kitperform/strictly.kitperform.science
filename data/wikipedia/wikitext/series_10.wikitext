@@ -1,0 +1,1724 @@
+{{More citations needed|date=August 2023}}
+{{Use dmy dates|date=July 2019}}
+{{Infobox television season
+| bgcolor      = #d4d4d5
+| image        = <!-- Do NOT place a non-free image here without complying with WP:NFCC #10c -->
+| module1      = {{Infobox reality competition season
+ | celebrity_winner    = [[Louis Smith (gymnast)|Louis Smith]]
+ | professional_winner = [[Flavia Cacace]]
+| presenter = [[Bruce Forsyth]]<br>[[Tess Daly]]<br>[[Claudia Winkleman]]
+| judges    = [[Darcey Bussell]]<br>[[Len Goodman]]<br>[[Craig Revel Horwood]]<br>[[Bruno Tonioli]]
+}}
+| network      = [[BBC One]]
+| first_aired  = {{Start date|df=y|2012|09|15}}
+| last_aired   = {{end date|df=y|2012|12|22}}
+| num_episodes = 25
+| prev_series  = [[Strictly Come Dancing series 9|Series 9]]
+| next_series  = [[Strictly Come Dancing series 11|Series 11]]
+}}
+'''''[[Strictly Come Dancing]]''''' returned for its '''tenth series''' and began with the launch show on 15 September 2012. The live shows began on 5 October.<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s104/strictly-come-dancing/news/a403163/strictly-come-dancing-return-date-confirmed-watch-series-10-trailer.html |title='Strictly Come Dancing' return date confirmed: Watch series 10 trailer – Strictly Come Dancing News – Reality TV |work=Digital Spy |date= 31 August 2012|access-date=3 September 2012}}</ref> [[Sir Bruce Forsyth]] and [[Tess Daly]] returned to present the main show on [[BBC One]] and [[Claudia Winkleman]] returned to present the results show with Daly. [[Zoe Ball]] returned to present the spin-off show ''[[Strictly Come Dancing: It Takes Two]]''. Judges [[Len Goodman]], [[Craig Revel Horwood]], and [[Bruno Tonioli]] all returned and were joined on the judging panel by [[Strictly Come Dancing (series 7)|series 7]] guest judge [[Darcey Bussell]], who replaced [[Alesha Dixon]].<ref>{{cite web|author=BBC Strictly Nora |url=https://www.bbc.co.uk/blogs/strictlycomedancing/2012/04/darcy-bussell-joins-strictly.shtml |title=Strictly Come Dancing: Darcey Bussell joins Strictly! |publisher=BBC |date= 25 April 2012|access-date=24 May 2012}}</ref>
+
+On 20 June 2012, it was announced that [[Katya Virshilas]] would not return to the show as a professional.<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s104/strictly-come-dancing/news/a388441/strictly-come-dancing-axes-professional-dancer-katya-virshilas.html |title='Strictly Come Dancing' axes professional dancer Katya Virshilas – Strictly Come Dancing News – Reality TV |work=Digital Spy |date= 20 June 2012|access-date=22 June 2012}}</ref> It was later announced that [[Karen Hauer]] of ''Burn the Floor'' fame would replace her.<ref name="KarenHauer">{{cite web|author=BBC Strictly James |url=https://www.bbc.co.uk/blogs/strictlycomedancing/2012/06/new-professional-dancer-for-st.shtml |title=Strictly Come Dancing: New professional dancer for Strictly 2012 |publisher=BBC |date=23 June 2012 |access-date=23 June 2012}}</ref>
+
+The show was broadcast from [[Wembley Arena]] on 17 November with all proceeds going to the BBC charity, [[Children in Need]].<ref>{{cite web|url=https://www.bbc.co.uk/showsandtours/shows/shows/strictly_come_dancing_2012 |title=Be in the audience – Strictly Come Dancing |publisher=BBC |year=2012 |access-date=3 September 2012}}</ref> The show on 10 November was hosted by Daly and Winkleman, while Forsyth took a break before the [[Wembley Arena]] show.<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s104/strictly-come-dancing/news/a432401/bruce-forsyth-to-take-strictly-come-dancing-break.html |title=Bruce Forsyth to take 'Strictly Come Dancing' break – Strictly Come Dancing News – Reality TV |work=Digital Spy |date=22 October 2012 |access-date=7 November 2012}}</ref>
+
+Series 10 was the last series of the show to be produced at the studios of the BBC Television Centre in West London. In March 2013 the Television Centre site was closed for redevelopment, with the production of future series moved to Elstree Studios.<ref>{{Cite web|url=https://www.tvbeurope.com/production-post/strictly-come-dancing-relocates-to-elstree|title=Strictly Come Dancing relocates to Elstree|date=11 December 2012}}</ref>
+
+[[Artistic gymnastics at the Summer Olympics|Olympic artistic gymnast]] [[Louis Smith (gymnast)|Louis Smith]] and [[Flavia Cacace]] won the series on 22 December, while [[Girls Aloud]] singer [[Kimberley Walsh]] and [[Pasha Kovalev]] and actress [[Denise van Outen]] and [[James Jordan (dancer)|James Jordan]] were the runners-up.
+
+== Format ==
+{{Further|Strictly Come Dancing#Format}}
+{{Multiple image
+ | align        = right
+ | total_width  = 550
+
+ | header       = Hosts and Judges for Strictly Come Dancing Series 10
+
+ | image1       = Bruce Forsyth1 (cropped) (cropped).jpg
+ | alt1         =
+ | caption1     = [[Bruce Forsyth]]
+
+ | image2       = Tess Daly Cropped.jpg
+ | alt2         =
+ | caption2     = [[Tess Daly]]
+
+ | image3       = Claudia Winkleman at BAFTA 2026 01.jpg
+ | alt3         =
+ | caption3     = [[Claudia Winkleman]]
+
+ | image4       = Craig-Revel-Horwood-2022.png
+ | alt4         = 
+ | caption4     = [[Craig Revel Horwood]]
+
+ | image5       = Darcey Bussell in 2016.jpg
+ | alt5         =
+ | caption5     = [[Darcey Bussell]]
+
+ | image6       = Len_Goodman_1.JPG
+ | alt6         =
+ | caption6     = [[Len Goodman]]
+
+ | image7       = BrunoTonioliin2009strictlytouratwembley.png
+ | alt7         =
+ | caption7     = [[Bruno Tonioli]]
+}}
+The couples dance each week in a live show. The judges score each performance out of ten. The couples are then ranked according to the judges' scores and given points according to their rank, with the lowest scored couple receiving one point, and the highest scored couple receiving the most points (the maximum number of points available depends on the number of couples remaining in the competition). The public are also invited to vote for their favourite couples, and the couples are ranked again according to the number of votes they receive, again receiving points; the couple with the fewest votes receiving one point, and the couple with the most votes receiving the most points.
+
+The points for judges' score and public vote are then added together, and the two couples with the fewest points are placed in the bottom two. If two couples have equal points, the points from the public vote are given precedence. The dance-off feature was reinstated, after being absent from the previous two series: the bottom two couples have to perform a final dance, after which each judge votes on which couple should stay and which couple should leave, with [[Len Goodman]], as head judge, having the last and [[Casting vote|deciding vote]].
+
+==Couples==
+This series featured fourteen celebrity contestants.
+
+[[Johnny Ball]] was originally partnered with [[Aliona Vilani]]; however, following an injury sustained in training before the first live show, [[Iveta Lukosiute]] was hired as a replacement partner.<ref>{{cite news|last=Baxter |first=Anthony |url=https://www.bbc.co.uk/news/newsbeat-19770277 |work=Newsbeat|title=Strictly Come Dancing: New partner for Johnny Ball |publisher=BBC News|date=29 September 2012 |access-date=30 September 2012}}</ref> This was officially intended as a short-term measure until Vilani was able to return; however, it was later confirmed that Lukosiute would be Ball's full-time partner.
+
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! scope="col" | Celebrity
+! scope="col" class="unsortable"| Notability
+! scope="col" | Professional partner
+! scope="col" | Status
+|- style="height:50px"
+! scope="row" | [[Johnny Ball]]
+| Television presenter
+| [[Iveta Lukošiūtė]]
+| bgcolor="#f4c7b8" | Eliminated 1st<br /><small>on 14 October 2012</small>
+|- style="height:50px"
+! scope="row" | [[Jerry Hall]]
+| Supermodel & actress
+| [[Anton Du Beke]]
+| bgcolor="#f4c7b8" | Eliminated 2nd<br /><small>on 21 October 2012</small>
+|- style="height:50px"
+! scope="row" | [[Sid Owen]]
+| ''[[EastEnders]]'' actor
+| [[Ola Jordan]]
+| bgcolor="#f4c7b8" | Eliminated 3rd<br/><small>on 28 October 2012</small>
+|- style="height:50px"
+! scope="row" | [[Colin Salmon]]
+| Film & television actor
+| [[Kristina Rihanoff]]
+| bgcolor="#f4c7b8" | Eliminated 4th<br/><small>on 4 November 2012</small>
+|- style="height:50px"
+! scope="row" | [[Fern Britton]]
+| Television presenter
+| [[Artem Chigvintsev]]
+| bgcolor="#f4c7b8" | Eliminated 5th<br/><small>on 11 November 2012</small>
+|- style="height:50px"
+! scope="row" | [[Richard Arnold (TV presenter)|Richard Arnold]]
+| ''[[Daybreak (2010 TV programme)|Daybreak]]'' presenter
+| [[Erin Boag]]
+| bgcolor="#f4c7b8" | Eliminated 6th<br/><small>on 18 November 2012</small>
+|- style="height:50px"
+! scope="row" | {{nowrap|[[Victoria Pendleton]]}}
+| [[Olympic track cyclist]]
+| [[Brendan Cole]]
+| bgcolor="#f4c7b8" | Eliminated 7th<br/><small>on 25 November 2012</small>
+|- style="height:50px"
+! scope="row" | [[Michael Vaughan]]
+| [[England cricket team|England]] cricketer
+| [[Natalie Lowe]]
+| bgcolor="#f4c7b8" | Eliminated 8th<br/><small>on 2 December 2012</small>
+|- style="height:50px"
+! scope="row" | [[Nicky Byrne]]
+| [[Westlife]] singer
+| [[Karen Hauer]]
+| bgcolor="#f4c7b8" | Eliminated 9th<br/><small>on 9 December 2012</small>
+|- style="height:50px"
+! scope="row" | [[Lisa Riley]]
+| ''[[Emmerdale]]'' actress 
+| [[Robin Windsor]]
+| bgcolor="#f4c7b8" | Eliminated 10th<br/><small>on 16 December 2012</small>
+|- style="height:50px"
+! scope="row" | [[Dani Harmer]]
+| Children's television actress
+| [[Vincent Simone]]
+| bgcolor="#d1c571" | Fourth place<br/><small>on 22 December 2012</small>
+|- style="height:50px"
+! scope="row" | [[Denise van Outen]]
+| Actress, singer & presenter
+| [[James Jordan (dancer)|James Jordan]]
+| bgcolor="silver" rowspan=2 | Runners-up<br /><small>on 22 December 2012</small>
+|- style="height:50px"
+! scope="row" | [[Kimberley Walsh]]
+| [[Girls Aloud]] singer
+| [[Pasha Kovalev]]
+|- style="height:50px"
+! scope="row" | [[Louis Smith (gymnast)|Louis Smith]]
+| [[Artistic gymnastics at the Summer Olympics|Olympic artistic gymnast]]
+| [[Flavia Cacace]]
+| bgcolor="gold" | '''Winners'''<br><small>on 22 December 2012</small>
+|}
+
+==Scoring chart==
+The highest score each week is indicated in {{fontcolor|#004600|'''bold green'''}} with a dagger ({{dagger}}), while the lowest score each week is indicated in {{fontcolor|#800000|''italicized red''}} with a double-dagger ({{double-dagger}}).
+
+'''Color key:'''
+{{columns-list|colwidth=20em|
+{{legend|gold|Winners}}
+{{legend|silver|Runners-up}}
+{{legend|#d1c571|Fourth place}}
+{{legend|lightblue|Bottom two}}
+{{legend|#f4c7b8|Eliminated}}
+}}
+{| class="wikitable sortable" style="text-align:center; font-size:90%"
+|+''Strictly Come Dancing'' (series 10) – Weekly scores
+|-
+! rowspan="3" scope="col" | Couple
+! rowspan="3" scope="col" | {{Abbr|Pl.|Place}}
+! colspan="14" | Week
+|-
+! scope="col" rowspan="2" | 1
+! scope="col" rowspan="2" | 2
+! scope="col" rowspan="2" | 1+2
+! scope="col" rowspan="2" | 3
+! scope="col" rowspan="2" | 4
+! scope="col" rowspan="2" | 5
+! scope="col" rowspan="2" | 6
+! scope="col" rowspan="2" | 7
+! scope="col" rowspan="2" | 8
+! scope="col" rowspan="2" | 9
+! scope="col" rowspan="2" | 10
+! scope="col" rowspan="2" | 11
+! scope="col" colspan="2" | 12
+|-
+! {{nowrap|Show 1}}
+! {{nowrap|Show 2}}
+|-
+! scope="row" | Louis & Flavia
+| 1st
+| 27
+| 30
+| {{fontcolor|#004600|'''57'''}}{{dagger|alt=This was the highest score of the night.}}
+| 30
+| {{fontcolor|#004600|'''35'''}}{{dagger|alt=This was the highest score of the night.}}
+| 29
+| 33
+| 30
+| 27
+| {{fontcolor|#004600|'''37'''}}{{dagger|alt=This was the highest score of the night.}}
+| 37
+| {{sort|69|}} | 31+38=69
+| {{sort|79|}} | 39+40={{fontcolor|#004600|'''79'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|118|}} style="background:gold;" | +39={{fontcolor|#800000|''118''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|This couple finished in first place.}}
+|-
+! scope="row" | Denise & James
+| rowspan="2" |2nd
+| 25
+| {{fontcolor|#004600|'''32'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''57'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''32'''}}{{dagger|alt=This was the highest score of the night.}}
+| 28
+| {{fontcolor|#004600|'''35'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''36'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''39'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''37'''}}{{dagger|alt=This was the highest score of the night.}}
+| 32
+| bgcolor="lightblue" | 35{{efn|name=Bottom2}}
+| {{sort|77|}} bgcolor="lightblue" | 39+38=77{{efn|name=Bottom2}}
+| {{sort|79|}} | 39+40={{fontcolor|#004600|'''79'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|119|}} style="background:silver;" | +40={{fontcolor|#004600|'''119'''}}{{dagger|alt=This was the highest score of the night.}}{{efn|name=2nd|This couple finished in second place.}}
+|-
+! scope="row" | {{nowrap|Kimberley & Pasha}}
+| 28
+| 26
+| 54
+| 29
+| 31
+| 33
+| bgcolor="lightblue" | 34{{efn|name=Bottom2}}
+| 34
+| 34
+| 34
+| {{fontcolor|#004600|'''40'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|78|}} | 38+40={{fontcolor|#004600|'''78'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|78|}} | 39+39=78
+| {{sort|118|}} style="background:silver;" | +40={{fontcolor|#800000|''118''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=2nd}}
+|-
+! scope="row" | Dani & Vincent
+| 4th
+| 21
+| 27
+| 48
+| 29
+| 27
+| 33
+| 34
+| 36
+| 36
+| 34
+| 38
+| {{sort|72|}} | 34+38=72
+| {{sort|71|}} bgcolor="dlc571" | 36+35={{fontcolor|#800000|''71''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="11" bgcolor="darkgray" |
+|-
+! scope="row" | Lisa & Robin
+| 5th
+| {{fontcolor|#004600|'''30'''}}{{dagger|alt=This was the highest score of the night.}}
+| 25
+| 55
+| 29
+| 26
+| 27
+| 32
+| 32
+| 27
+| 31
+| 30
+| {{sort|63|}} bgcolor="f4c7b8" | 31+32={{fontcolor|#800000|''63''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="10" bgcolor="darkgray" |
+|-
+! scope="row" | Nicky & Karen
+| 6th
+| 17
+| 18
+| {{fontcolor|#800000|''35''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| 27
+| 26
+| 25
+| 30
+| bgcolor="lightblue" | 30{{efn|name=Bottom2}}
+| 36
+| bgcolor="lightblue" | 30{{efn|name=Bottom2}}
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''27''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="9" bgcolor="darkgray" |
+|-
+! scope="row" | Michael & Natalie
+| 7th
+| 20
+| {{fontcolor|#800000|''15''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{fontcolor|#800000|''35''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| bgcolor="lightblue" | 19{{efn|name=Bottom2}}
+| 31
+| 31
+| {{fontcolor|#800000|''26''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| 35
+| bgcolor="lightblue" | 26{{efn|name=Bottom2}}
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''24''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="8" bgcolor="darkgray" |
+|-
+! scope="row" | Victoria & Brendan
+| 8th
+| {{fontcolor|#800000|''16''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| 26
+| 42
+| 22
+| 31
+| 23
+| 30
+| {{fontcolor|#800000|''24''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''21''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="7" bgcolor="darkgray" |
+|-
+! scope="row" | Richard & Erin
+| 9th
+| 22
+| 19
+| bgcolor="lightblue" | 41{{efn|name=Bottom2}}
+| 25
+| 22
+| bgcolor="lightblue" | {{fontcolor|#800000|''17''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Bottom2}}
+| 29
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''24''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="6" bgcolor="darkgray" |
+|-
+! scope="row" | Fern & Artem
+| 10th
+| 19
+| 24
+| 43
+| 23
+| 21
+| 24
+| bgcolor="f4c7b8" | 27{{efn|name=Elim}}
+| rowspan="5" bgcolor="darkgray" |
+|-
+! scope="row" | Colin & Kristina
+| 11th
+| 23
+| 24
+| 47
+| 26
+| bgcolor="lightblue" | 24{{efn|name=Bottom2|This couple was in the bottom two, but was not eliminated.}}
+| bgcolor="f4c7b8" | 27{{efn|name=Elim}}
+| rowspan="4" bgcolor="darkgray" |
+|-
+! scope="row" | Sid & Ola
+| 12th
+| 26
+| 22
+| 48
+| {{fontcolor|#800000|''17''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''17''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="3" bgcolor="darkgray" |
+|-
+! scope="row" | Jerry & Anton
+| 13th
+| 18
+| 18
+| 36
+| bgcolor="f4c7b8" | 18{{efn|name=Elim}}
+| rowspan="2" bgcolor="darkgray" |
+|-
+! scope="row" | Johnny & Iveta
+| 14th
+| 17
+| 20
+| bgcolor="f4c7b8" | 37{{efn|name=Elim|This couple was eliminated.}}
+| bgcolor="darkgray" |
+|}
+;Notes
+{{notelist}}
+
+===Average chart===
+This table only counts for dances scored on a traditional 40-point scale.
+{| class="wikitable sortable" style="text-align:center; font-size:95%"
+|-
+! scope="col" | Couple
+! scope="col" | Rank by<br>average
+! scope="col" | Total<br>points
+! scope="col" | Number of<br>dances
+! scope="col" | Total<br>average
+|-
+! scope="row" | Denise & James
+| 1st
+| 527
+| rowspan="3" | 15
+| 35.1
+|-
+! scope="row" | Kimberley & Pasha
+| 2nd
+| 519
+| 34.6
+|-
+! scope="row" | Louis & Flavia
+| 3rd
+| 502
+| 33.5
+|-
+! scope="row" | Dani & Vincent
+| 4th
+| 458
+| 14
+| 32.7
+|-
+! scope="row" | Lisa & Robin
+| 5th
+| 352
+| 12
+| 29.3
+|-
+! scope="row" | Nicky & Karen
+| 6th
+| 266
+| 10
+| 26.6
+|-
+! scope="row" | Michael & Natalie
+| 7th
+| 227
+| 9
+| 25.2
+|-
+! scope="row" | Colin & Kristina
+| 8th
+| 124
+| 5
+| 24.8
+|-
+! scope="row" | Victoria & Brendan
+| 9th
+| 193
+| 8
+| 24.1
+|-
+! scope="row" | Fern & Artem
+| 10th
+| 138
+| 6
+| 23.0
+|-
+! scope="row" | Richard & Erin
+| 11th
+| 158
+| 7
+| 22.6
+|-
+! scope="row" | Sid & Ola
+| 12th
+| 82
+| 4
+| 20.5
+|-
+! scope="row" | Johnny & Iveta
+| 13th
+| 37
+| 2
+| 18.5
+|-
+! scope="row" | Jerry & Anton
+| 14th
+| 54
+| 3
+| 18.0
+|}
+
+==Weekly scores==
+''Unless indicated otherwise, individual judges scores in the charts below (given in parentheses) are listed in this order from left to right: [[Craig Revel Horwood]], [[Darcey Bussell]], [[Len Goodman]], [[Bruno Tonioli]].''
+
+=== Week 1===
+Six of the couples performed on the first night and the other eight performed on the second night. Couples performed either the [[Cha-cha-cha (dance)|cha-cha-cha]] or the [[waltz]]. There was no elimination this week; all scores and votes carried over to the following week. Couples are listed in the order they performed.
+
+;Night 1 (Friday)
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" | Couple
+! scope="col" | Scores<ref name="Week 1 scores">{{cite web|author=BBC Strictly Nora |url=https://www.bbc.co.uk/blogs/blogstrictlycomedancing/posts/Week1-Final-Leaderboard |title=Blogs – Strictly Come Dancing – Week 1: Final Leaderboard |publisher=BBC |access-date=7 October 2012}}</ref>
+! scope="col" class="unsortable"| Dance<ref name="Week 1 dances and songs">{{cite web|author=BBC Strictly James |url=https://www.bbc.co.uk/blogs/blogstrictlycomedancing/posts/Tonights-dances-and-new-opening-sequence |title=Blogs – Strictly Come Dancing – Tonight's dances and new opening sequence |publisher=BBC |access-date=7 October 2012}}</ref>
+! scope="col" class="unsortable"| Music<ref name="Week 1 dances and songs"/>
+|-
+! scope="row" | Fern & Artem
+| 19 (4, 5, 5, 5)
+| Cha-cha-cha
+| "[[Signed, Sealed, Delivered I'm Yours]]" — [[Stevie Wonder]]
+|-
+! scope="row" | Nicky & Karen
+| 17 (2, 5, 5, 5)
+| Waltz
+| "[[I Wonder Why (Curtis Stigers song)|I Wonder Why]]" — [[Curtis Stigers]]
+|-
+! scope="row" | Victoria & Brendan
+| 16 (3, 4, 5, 4)
+| Cha-cha-cha
+| "[[Spinning Around]]" — [[Kylie Minogue]]
+|-
+! scope="row" | Michael & Natalie
+| 20 (5, 5, 6, 4)
+| Waltz
+| "[[If You Don't Know Me by Now]]" — [[Simply Red]]
+|-
+! scope="row" | Colin & Kristina
+| 23 (4, 7, 6, 6)
+| Cha-cha-cha
+|"[[I Got You (I Feel Good)]]" — [[James Brown]]
+|-
+! scope="row" | Denise & James
+| 25 (6, 6, 6, 7)
+| Waltz
+| "[[With You I'm Born Again]]" — [[Billy Preston]] & [[Syreeta Wright]]
+|}
+;Night 2 (Saturday)
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" | Couple
+! scope="col" | Scores<ref name="Week 1 scores"/>
+! scope="col" class="unsortable"| Dance
+! scope="col" class="unsortable"| Music
+|-
+! scope="row" | Kimberley & Pasha
+| 28 (7, 7, 7, 7)
+| Cha-cha-cha
+| "[[Domino (Jessie J song)|Domino]]" — [[Jessie J]]
+|-
+! scope="row" | Sid & Ola
+| 26 (6, 6, 7, 7)
+| Waltz
+| "[[I Won't Give Up]]" — [[Jason Mraz]]
+|-
+! scope="row" | Johnny & Iveta
+| 17 (3, 5, 5, 4)
+| Cha-cha-cha
+| "[[Drive My Car (song)|Drive My Car]]" — [[The Beatles]]
+|-
+! scope="row" | Dani & Vincent
+| 21 (5, 5, 6, 5)
+| Waltz
+| "[[Open Arms (Journey song)|Open Arms]]" — [[Mariah Carey]]
+|-
+! scope="row" | Lisa & Robin
+| 30 (8, 8, 7, 7)
+| Cha-cha-cha
+| "[[Think (Aretha Franklin song)|Think]]" — [[Aretha Franklin]]
+|-
+! scope="row" | Richard & Erin
+| 22 (5, 5, 7, 5)
+| Waltz
+| "[[You Don't Bring Me Flowers]]" — [[Barbra Streisand]]
+|-
+! scope="row" | Jerry & Anton
+| 18 (3, 5, 5, 5)
+| Cha-cha-cha
+| "[[Everybody Loves to Cha Cha Cha]]" — [[Sam Cooke]]
+|-
+! scope="row" | Louis & Flavia
+| 27 (6, 8, 6, 7)
+| Cha-cha-cha
+| "[[Forget You]]" — [[Cee Lo Green]]
+|}
+
+===Week 2===
+Musical guest: [[Scissor Sisters]] — "[[Let's Have a Kiki]]"
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" | Couple
+! scope="col" | Scores
+! scope="col" class="unsortable"| Dance
+! scope="col" class="unsortable"| Music
+! scope="col" class="unsortable"| Result
+|-
+! scope="row" | Nicky & Karen
+| 18 (4, 5, 4, 5)
+| Cha-cha-cha
+| "[[Dynamite (Taio Cruz song)|Dynamite]]" — [[Taio Cruz]]
+| Safe
+|-
+! scope="row" | Colin & Kristina
+| 24 (6, 6, 6, 6)
+| Viennese waltz
+| "[[Kiss from a Rose]]" — [[Seal (musician)|Seal]]
+| Safe
+|-
+! scope="row" | Dani & Vincent
+| 27 (7, 6, 7, 7)
+| Salsa
+| "[[Mama Do the Hump]]" — [[Rizzle Kicks]]
+| Safe
+|-
+! scope="row" | Fern & Artem
+| 24 (6, 6, 6, 6)
+| Viennese waltz
+| "[[She's Always a Woman]]" — [[Billy Joel]]
+| Safe
+|-
+! scope="row" | Richard & Erin
+| 19 (3, 6, 5, 5)
+| Cha-cha-cha
+| "[[Love Shack]]" — [[The B-52's]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Victoria & Brendan
+| 26 (6, 6, 7, 7)
+| Foxtrot
+| "[[Moondance (Van Morrison song)|Moondance]]" — [[Michael Bublé]]
+| Safe
+|-
+! scope="row" | Michael & Natalie
+| 15 (2, 5, 4, 4)
+| Jive
+| "[[This Ole House]]" — [[Shakin' Stevens]]
+| Safe
+|-
+! scope="row" | Louis & Flavia
+| 30 (7, 7, 8, 8)
+| Viennese waltz
+| "[[Puppy Love (Paul Anka song)|Puppy Love]]" — [[Donny Osmond]]
+| Safe
+|-
+! scope="row" | Denise & James
+| 32 (8, 8, 8, 8)
+| Jive
+| "[[Tutti Frutti (song)|Tutti Frutti]]" — [[Little Richard]]
+| Safe
+|-
+! scope="row" | Johnny & Iveta
+| 20 (5, 5, 5, 5)
+| Foxtrot
+| "[[Everything (Michael Bublé song)|Everything]]" — [[Michael Bublé]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Sid & Ola
+| 22 (6, 6, 5, 5)
+| Salsa
+| "[[Hips Don't Lie]]" — [[Shakira]]
+| Safe
+|-
+! scope="row" | Kimberley & Pasha
+| 26 (7, 6, 6, 7)
+| Foxtrot
+| "[[Someone like You (Adele song)|Someone Like You]]" — [[Adele]]
+| Safe
+|-
+! scope="row" | Jerry & Anton
+| 18 (3, 5, 5, 5)
+| Foxtrot
+| "[[Pennies from Heaven (song)|Pennies from Heaven]]" — [[Frank Sinatra]]
+| Safe
+|-
+! scope="row" | Lisa & Robin
+| 25 (7, 6, 6, 6)
+| Viennese waltz
+| "[[Never Tear Us Apart (Paloma Faith song)|Never Tear Us Apart]]" — [[Paloma Faith]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Richard & Erin
+*Bussell: Richard & Erin
+*Tonioli: Richard & Erin
+*Goodman: ''Did not vote, but would have voted to save Richard & Erin''
+
+===Week 3: Hollywood Week ===
+Musical guest: [[Dionne Warwick]] — "[[(There's) Always Something There to Remind Me]]"
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" | Couple
+! scope="col" | Scores
+! scope="col" class="unsortable"| Dance
+! scope="col" class="unsortable"| Music
+! scope="col" class="unsortable"| Film
+! scope="col" class="unsortable"| Result
+|-
+! scope="row" | Fern & Artem
+| 23 (5, 6, 6, 6)
+| Charleston
+| "[[Supercalifragilisticexpialidocious]]"
+| ''[[Mary Poppins (film)|Mary Poppins]]''
+| Safe
+|-
+! scope="row" | Victoria & Brendan
+| 22 (4, 5, 7, 6)
+| Rumba
+| "[[Up Where We Belong]]"
+| ''[[An Officer and a Gentleman]]''
+| Safe 
+|-
+! scope="row" | Michael & Natalie
+| 19 (3, 6, 6, 4)
+| Cha-cha-cha
+| "[[Hot Stuff (Donna Summer song)|Hot Stuff]]"
+| ''[[The Full Monty]]''
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Jerry & Anton
+| 18 (3, 6, 5, 4)
+| Quickstep
+| "[[Mrs. Robinson]]"
+| ''[[The Graduate]]''
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Sid & Ola
+| 17 (4, 4, 5, 4)
+| Tango
+| "[[Here I Go Again]]"
+| ''[[Rock of Ages (2012 film)|Rock of Ages]]''
+| Safe
+|-
+! scope="row" | Kimberley & Pasha
+| 29 (7, 7, 7, 8)
+| Quickstep
+| "[[Get Happy (song)|Get Happy]]"
+| ''[[Summer Stock]]''
+| Safe
+|-
+! scope="row" | Denise & James
+| 32 (8, 8, 8, 8)
+| Foxtrot
+| "[[You've Got a Friend in Me]]"
+| ''[[Toy Story]]''
+| Safe
+|-
+! scope="row" | Colin & Kristina
+| 26 (7, 7, 6, 6)
+| Argentine tango
+| "[[GoldenEye (song)|GoldenEye]]"
+| ''[[GoldenEye]]''
+| Safe
+|-
+! scope="row" | Richard & Erin
+| 25 (6, 7, 6, 6)
+| Quickstep
+| "[[9 to 5 (Dolly Parton song)|9 to 5]]"
+| ''[[9 to 5 (film)|9 to 5]]''
+| Safe
+|-
+! scope="row" | Dani & Vincent
+| 29 (7, 6, 8, 8)
+| Foxtrot
+| "[[Over the Rainbow]]"
+| ''[[The Wizard of Oz]]''
+| Safe
+|-
+! scope="row" | Lisa & Robin
+| 29 (8, 6, 7, 8)
+| Jive
+| "[[Hanky Panky (Madonna song)|Hanky Panky]]"
+| ''[[Dick Tracy (1990 film)|Dick Tracy]]''
+| Safe
+|-
+! scope="row" | Nicky & Karen
+| 27 (6, 7, 7, 7)
+| Quickstep
+| "Hey! Pachuco!"
+| ''[[The Mask (1994 film)|The Mask]]''
+| Safe
+|-
+! scope="row" | Louis & Flavia
+| 30 (8, 8, 6, 8)
+| Salsa
+| "[[(I've Had) The Time of My Life]]"
+| ''[[Dirty Dancing]]''
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Michael & Natalie
+*Bussell: Michael & Natalie
+*Tonioli: Jerry & Anton
+*Goodman: Michael & Natalie
+
+===Week 4: Halloween Week===
+Musical guest: [[Paloma Faith]] — "[[Never Tear Us Apart]]"
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" | Couple
+! scope="col" | Scores
+! scope="col" class="unsortable"| Dance
+! scope="col" class="unsortable"| Music
+! scope="col" class="unsortable"| Result
+|-
+! scope="row" | Dani & Vincent
+| 27 (6, 6, 8, 7)
+| Cha-cha-cha
+| "Scooby Doo, Where Are You" — [[Larry Markes]]
+| Safe
+|-
+! scope="row" | Richard & Erin
+| 22 (5, 5, 7, 5)
+| Paso doble
+| "[[O Fortuna (Orff)|O Fortuna]]" — [[Carl Orff]]
+| Safe
+|-
+! scope="row" | Lisa & Robin
+| 26 (6, 6, 7, 7)
+| Charleston
+| "[[Witch Doctor (song)|Witch Doctor]]" — [[David Seville]]
+| Safe
+|-
+! scope="row" | Sid & Ola
+| 17 (2, 5, 5, 5)
+| Cha-cha-cha
+| "[[Ghostbusters (song)|Ghostbusters]]" — [[Ray Parker Jr.]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Nicky & Karen
+| 26 (6, 6, 7, 7)
+| Tango
+| "[[Weird Science (song)|Weird Science]]" — [[Oingo Boingo]]
+| Safe
+|-
+! scope="row" | Fern & Artem
+| 21 (4, 5, 6, 6)
+| American Smooth
+| "[[Killer Queen]]" — [[Queen (band)|Queen]]
+| Safe
+|-
+! scope="row" | Denise & James
+| 28 (7, 7, 7, 7)
+| Cha-cha-cha
+| "[[Super Freak]]" — [[Rick James]]
+| Safe
+|-
+! scope="row" | Michael & Natalie
+| 31 (8, 8, 8, 7)
+| Quickstep
+| "[[That Old Black Magic]]" — [[Sammy Davis, Jr.]]
+| Safe
+|-
+! scope="row" | Victoria & Brendan 
+| 31 (7, 8, 8, 8)
+| Tango
+| "[[White Wedding (song)|White Wedding]]" — [[Billy Idol]]
+| Safe
+|-
+! scope="row" | Colin & Kristina
+| 24 (5, 7, 6, 6)
+| Salsa
+| "[[Superstition (song)|Superstition]]" — [[Stevie Wonder]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Louis & Flavia
+| 35 (8, 9, 9, 9)
+| Tango
+| "[[Disturbia (song)|Disturbia]]" — [[Rihanna]]
+| Safe
+|-
+! scope="row" | Kimberley & Pasha
+| 31 (8, 8, 7, 8)
+| Paso doble
+| "[[Hungry Like the Wolf]]" — [[Duran Duran]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Colin & Kristina
+*Bussell: Colin & Kristina
+*Tonioli: Colin & Kristina
+*Goodman: ''Did not vote, but would have voted to save Sid & Ola''
+
+===Week 5===
+Musical guests:
+*[[The Wanted]] — "[[I Found You (The Wanted song)|I Found You]]"
+*[[Andrea Bocelli]] — "[[Nessun dorma]]"
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" | Couple
+! scope="col" | Scores
+! scope="col" class="unsortable"| Dance
+! scope="col" class="unsortable"| Music
+! scope="col" class="unsortable"| Result
+|-
+! scope="row" | Kimberley & Pasha
+| 33 (8, 8, 8, 9)
+| Salsa
+| "[[Naughty Girl (Beyoncé Knowles song)|Naughty Girl]]" — [[Beyoncé]]
+| Safe
+|-
+! scope="row" | Lisa & Robin
+| 27 (7, 7, 6, 7)
+| Tango
+| "[[Let's Stick Together (song)|Let's Stick Together]]" — [[Bryan Ferry]]
+| Safe
+|-
+! scope="row" | Richard & Erin
+| 17 (3, 5, 5, 4)
+| Foxtrot
+| "[[Big Spender]]" — [[Shirley Bassey]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Denise & James
+| 35 (9, 8, 9, 9)
+| Viennese waltz
+| "[[At Last]]" — [[Etta James]]
+| Safe
+|-
+! scope="row" | Victoria & Brendan 
+| 23 (6, 6, 6, 5)
+| Samba
+| "[[It's Not Unusual]]" — [[Tom Jones (singer)|Tom Jones]]
+| Safe
+|-
+! scope="row" | Louis & Flavia
+| 29 (6, 7, 8, 8)
+| Samba
+| "[[La Bomba (Ricky Martin song)|La Bomba]]" — [[Ricky Martin]]
+| Safe
+|-
+! scope="row" | Colin & Kristina
+| 27 (6, 7, 7, 7)
+| Foxtrot
+| "[[Ac-Cent-Tchu-Ate the Positive]]" — [[Aretha Franklin]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Nicky & Karen
+| 25 (4, 7, 7, 7)
+| Rumba
+| "[[I Don't Want to Miss a Thing]]" — [[Aerosmith]]
+| Safe
+|-
+! scope="row" | Fern & Artem
+| 24 (6, 6, 6, 6)
+| Paso doble
+| "[[España cañí]]" — [[Pascual Marquina Narro]]
+| Safe
+|-
+! scope="row" | Michael & Natalie
+| 31 (7, 8, 8, 8)
+| Foxtrot
+| "[[I Get the Sweetest Feeling]]" — [[Jackie Wilson]]
+| Safe
+|-
+! scope="row" | Dani & Vincent
+| 33 (8, 8, 9, 8)
+| Jive
+| "[[Dance with Me Tonight]]" — [[Olly Murs]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Richard & Erin
+*Bussell: Richard & Erin
+*Tonioli: Richard & Erin
+*Goodman: ''Did not vote, but would have voted to save Richard & Erin''
+
+===Week 6===
+[[Florence and The Machine]] — “[[Spectrum (Say My Name)]]”
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" | Couple
+! scope="col" | Scores
+! scope="col" class="unsortable"| Dance
+! scope="col" class="unsortable"| Music
+! scope="col" class="unsortable"| Result
+|-
+! scope="row" | Denise & James
+| 36 (9, 9, 9, 9)
+| Paso doble
+| "[[Seven Nation Army]]" — [[The White Stripes]]
+| Safe
+|-
+! scope="row" | Richard & Erin
+| 29 (7, 8, 7, 7)
+| Charleston
+| "[[Pencil Full of Lead]]" — [[Paolo Nutini]]
+| Safe
+|-
+! scope="row" | Louis & Flavia
+| 33 (6, 9, 9, 9)
+| Waltz
+| "[[Moon River]]" — [[Andy Williams]]
+| Safe
+|-
+! scope="row" | Fern & Artem
+| 27 (6, 7, 7, 7)
+| Salsa
+| "[[You'll Be Mine (Party Time)]]" — [[Gloria Estefan]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Victoria & Brendan
+| 30 (7, 7, 8, 8)
+| Quickstep
+| "[[Luck Be a Lady]]" — [[Frank Sinatra]]
+| Safe
+|-
+! scope="row" | Dani & Vincent
+| 34 (8, 8, 9, 9)
+| Tango
+| "[[Rumour Has It (Adele song)|Rumour Has It]]" — [[Adele]]
+| Safe
+|-
+! scope="row" | Nicky & Karen
+| 30 (7, 7, 8, 8)
+| Foxtrot
+| "[[The Best Is Yet to Come]]" — [[Michael Bublé]]
+| Safe
+|-
+! scope="row" | Kimberley & Pasha
+| 34 (8, 8, 9, 9)
+| Viennese waltz
+| "[[A Thousand Years (Christina Perri song)|A Thousand Years]]" — [[Christina Perri]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Michael & Natalie
+| 26 (5, 7, 7, 7)
+| Salsa
+| "[[I Want You Back]]" — [[The Jackson 5]]
+| Safe
+|-
+! scope="row" | Lisa & Robin
+| 32 (8, 8, 8, 8)
+| Foxtrot
+| "[[This Will Be (An Everlasting Love)]]" — [[Natalie Cole]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Kimberley & Pasha
+*Bussell: Kimberley & Pasha
+*Tonioli: Kimberley & Pasha
+*Goodman: ''Did not vote, but would have voted to save Kimberley & Pasha''
+
+===Week 7: Wembley===
+*[[Girls Aloud]] — "[[Something New (Girls Aloud song)|Something New]]"
+
+This week's show was broadcast live from [[Wembley Arena]]. Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" | Couple
+! scope="col" | Scores
+! scope="col" class="unsortable"| Dance
+! scope="col" class="unsortable"| Music
+! scope="col" class="unsortable"| Result
+|-
+! scope="row" | Lisa & Robin
+| 32 (8, 8, 8, 8)
+| Samba
+| "[[Car Wash (song)|Car Wash]]" — [[Rose Royce]]
+| Safe
+|-
+! scope="row" | Nicky & Karen
+| 30 (6, 8, 8, 8)
+| Jive
+| "[[Jailhouse Rock (song)|Jailhouse Rock]]" — [[Elvis Presley]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Denise & James
+| 39 (9, 10, 10, 10)
+| Charleston
+| "[[Walk Like an Egyptian]]" — [[The Bangles]]
+| Safe
+|-
+! scope="row" | Louis & Flavia
+| 30 (7, 8, 8, 7)
+| American Smooth
+| "[[I Got a Woman]]" — [[Ray Charles]]
+| Safe
+|-
+! scope="row" | Richard & Erin
+| 24 (5, 6, 7, 6)
+| Salsa
+| "[[Club Tropicana]]" — [[Wham!]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Victoria & Brendan
+| 24 (5, 6, 7, 6)
+| Paso doble
+| "[[Bicycle Race]]" — [[Queen (band)|Queen]]
+| Safe
+|-
+! scope="row" | Dani & Vincent
+| 36 (9, 9, 9, 9)
+| Quickstep
+| "[[You Can't Hurry Love]]" — [[Phil Collins]]
+| Safe
+|-
+! scope="row" | Kimberley & Pasha
+| 34 (8, 8, 9, 9)
+| Samba
+| "[[Livin' la Vida Loca]]" — [[Ricky Martin]]
+| Safe
+|-
+! scope="row" | Michael & Natalie
+| 35 (9, 9, 9, 8)
+| American Smooth
+| "[[Theme from New York, New York|New York, New York]]" — [[Frank Sinatra]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Nicky & Karen
+*Bussell: Nicky & Karen
+*Tonioli: Nicky & Karen
+*Goodman: ''Did not vote, but would have voted to save Nicky & Karen''
+
+===Week 8===
+Musical guest: [[The Script]] — “[[Hall of Fame (song)|Hall of Fame]]”
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" | Couple
+! scope="col" | Scores
+! scope="col" class="unsortable"| Dance
+! scope="col" class="unsortable"| Music
+! scope="col" class="unsortable"| Result
+|-
+! scope="row" | Dani & Vincent
+| 36 (9, 9, 9, 9)
+| Samba
+| "[[Single Ladies (Put a Ring on It)]]" — [[Beyoncé]]
+| Safe
+|-
+! scope="row" | Kimberley & Pasha
+| 34 (8, 9, 8, 9)
+| Tango
+| "[[When Doves Cry]]" — [[Prince (musician)|Prince]]
+| Safe
+|-
+! scope="row" | Victoria & Brendan
+| 21 (4, 6, 6, 5)
+| Salsa
+| "[[Candy (Robbie Williams song)|Candy]]" — [[Robbie Williams]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Louis & Flavia
+| 27 (6, 7, 7, 7)
+| Paso doble
+| "[[Dirty Diana]]" — [[Michael Jackson]]
+| Safe
+|-
+! scope="row" | Lisa & Robin
+| 27 (7, 6, 7, 7)
+| Rumba
+| "[[As If We Never Said Goodbye]]" — [[Barbra Streisand]]
+| Safe
+|-
+! scope="row" | Michael & Natalie
+| 26 (6, 7, 7, 6)
+| Argentine tango
+| "[[Bust Your Windows]]" — [[Jazmine Sullivan]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Nicky & Karen
+| 36 (9, 9, 9, 9)
+| Charleston
+| "[[Doop (song)|Doop]]" — [[Doop (band)|Doop]]
+| Safe
+|-
+! scope="row" | Denise & James
+| 37 (9, 9, 9, 10)
+| American Smooth
+| "[[Imagine (John Lennon song)|Imagine]]" — [[Eva Cassidy]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Michael & Natalie
+*Bussell: Michael & Natalie
+*Tonioli: Michael & Natalie
+*Goodman: ''Did not vote, but would have voted to save Michael & Natalie''
+
+===Week 9===
+Musical guests:
+*[[JLS]] — "[[Hold Me Down]]"
+*[[Alfie Boe]] — "[[Bridge over Troubled Water (song)|Bridge over Troubled Water]]"
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" | Couple
+! scope="col" | Scores
+! scope="col" class="unsortable"| Dance
+! scope="col" class="unsortable"| Music
+! scope="col" class="unsortable"| Result
+|-
+! scope="row" | Kimberley & Pasha
+| 34 (9, 8, 8, 9)
+| Jive
+| "[[Land of a Thousand Dances]]" — [[Wilson Pickett]]
+| Safe
+|-
+! scope="row" | Dani & Vincent
+| 34 (8, 8, 9, 9)
+| Viennese waltz
+| "[[That's Amore]]" — [[Dean Martin]]
+| Safe
+|-
+! scope="row" | Michael & Natalie
+| 24 (5, 7, 6, 6)
+| Samba
+| "[[Tequila (Champs song)|Tequila]]" — [[The Champs]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Nicky & Karen
+| 30 (7, 8, 7, 8)
+| Argentine tango
+| "[[Skyfall (Adele song)|Skyfall]]" — [[Adele]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Lisa & Robin
+| 31 (7, 8, 8, 8)
+| Quickstep
+| "[[Bring Me Sunshine]]" — [[The Jive Aces]]
+| Safe
+|-
+! scope="row" | Denise & James
+| 32 (8, 8, 8, 8)
+| Salsa
+| "[[Rhythm of the Night (song)|Rhythm of the Night]]" — Valeria
+| Safe
+|-
+! scope="row" | Louis & Flavia
+| 37 (8, 10, 9, 10)
+| Charleston
+| "[[Deleted Scenes from the Cutting Room Floor#Track listing|Dr. Wanna Do]]" — [[Caro Emerald]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Nicky & Karen
+*Bussell: Nicky & Karen
+*Tonioli: Nicky & Karen
+*Goodman: ''Did not vote, but would have voted to save Nicky & Karen''
+
+===Week 10: Dance Fusion Week (Quarter-final)===
+Musical guest: [[Michael Bublé]] — "[[It's Beginning to Look a Lot Like Christmas]]"
+
+Each couple performed one routine that demonstrated a [[Fusion dance|fusion]] of two distinct dance styles. Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" | Couple
+! scope="col" | Scores
+! scope="col" class="unsortable"| Dance
+! scope="col" class="unsortable"| Music
+! scope="col" class="unsortable"| Result
+|-
+! scope="row" | Denise & James
+| 35 (8, 9, 9, 9)
+| Jive &<br>Quickstep
+| "[[Reet Petite]]" — [[Jackie Wilson]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Lisa & Robin
+| 30 (7, 8, 7, 8)
+| Cha-cha-cha<br>& Tango
+| "[[Voulez-Vous (song)|Voulez-Vous]]" — [[ABBA]]
+| Safe
+|-
+! scope="row" | Nicky & Karen
+| 27 (5, 7, 8, 7)
+| American Smooth<br>& Samba
+| "[[Troublemaker (Olly Murs song)|Troublemaker]]" — [[Olly Murs]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Dani & Vincent
+| 38 (9, 10, 9, 10)
+| Charleston<br>& Quickstep
+| "Happy Feet" — from ''[[King of Jazz]]''
+| Safe
+|-
+! scope="row" | Louis & Flavia
+| 37 (9, 9, 9, 10)
+| Rumba<br>& Tango
+| "[[With or Without You]]" — [[U2]]
+| Safe
+|-
+! scope="row" | Kimberley & Pasha
+| 40 (10, 10, 10, 10)
+| Cha-cha-cha<br>& Tango
+| "[[It's Raining Men]]" — [[The Weather Girls]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Denise & James
+*Bussell: Denise & James
+*Tonioli: Denise & James
+*Goodman: ''Did not vote, but would have voted to save Denise & James''
+
+===Week 11: Semi-final===
+Musical guest: [[Katherine Jenkins]] — "[[Santa Baby]]"
+
+Dance guests: [[Katherine Jenkins]] & [[Mark Ballas]]
+
+Each couple performed two routines, and are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" | Couple
+! scope="col" | Scores
+! scope="col" class="unsortable"| Dance
+! scope="col" class="unsortable"| Music
+! scope="col" class="unsortable"| Result
+|-
+! scope="row" rowspan=2 | Dani & Vincent
+| 34 (8, 8, 9, 9)
+| American Smooth
+| "[[Haven't Met You Yet]]" — [[Michael Bublé]]
+| rowspan=2 | Safe
+|-
+| 38 (9, 9, 10, 10)
+| Argentine tango
+| "[[Libertango]]" — [[Astor Piazzolla]]
+|-
+! scope="row" rowspan=2 | Louis & Flavia
+| 31 (7, 8, 8, 8)
+| Jive
+| "[[Why Do Fools Fall in Love (song)|Why Do Fools Fall in Love]]" — [[Frankie Lymon & The Teenagers]]
+| rowspan=2 | Safe
+|-
+| 38 (9, 10, 9, 10)
+| Foxtrot
+| "[[Somebody That I Used to Know]]" — [[Gotye]]
+|-
+! scope="row" rowspan=2 | Denise & James
+| 39 (9, 10, 10, 10)
+| Tango
+| "[[Roxanne (The Police song)|Roxanne]]" — [[The Police]]
+| rowspan=2 bgcolor="lightblue" | Bottom two
+|-
+| 38 (9, 9, 10, 10)
+| Rumba
+| "[[The First Time Ever I Saw Your Face]]" — [[Roberta Flack]]
+|-
+! scope="row" rowspan=2 | Kimberley & Pasha
+| 38 (9, 10, 9, 10)
+| American Smooth
+| "[[Fever (Little Willie John song)|Fever]]" — [[Peggy Lee]]
+| rowspan=2 | Safe
+|-
+| {{nowrap|40 (10, 10, 10, 10)}}
+| Charleston
+| "[[Those Magnificent Men in Their Flying Machines]]" — [[Ron Goodwin]]
+|-
+! scope="row" rowspan=2 | Lisa & Robin
+| 31 (7, 8, 8, 8)
+| Salsa
+| "[[Best Years of Our Lives (song)|Best Years of Our Lives]]" — [[Modern Romance (band)|Modern Romance]]
+|rowspan=2 bgcolor="f4c7b8" | Eliminated
+|-
+| 32 (8, 8, 8, 8)
+| American Smooth
+| "[[All That Jazz (song)|All That Jazz]]" — from ''[[Chicago (musical)|Chicago]]''
+|}
+;Judges' votes to save
+*Horwood: Denise & James
+*Bussell: Denise & James
+*Tonioli: Denise & James
+*Goodman: ''Did not vote, but would have voted to save Denise & James''
+
+=== Week 12: Final ===
+Musical guest: [[Robbie Williams]] — "[[Different (Robbie Williams song)|Different]]"
+
+During the first show, each couple performed two routines, one of which was their showdance routine and the other chosen by the judges. At the end of the first show, the couple was the lowest combined scores was eliminated. During the second show, each couple performed their favourite dance of the series. Couples are listed in the order they performed.
+
+====Show 1====
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" | Couple
+! scope="col" | Scores
+! scope="col" class="unsortable"| Dance
+! scope="col" class="unsortable"| Music
+! scope="col" class="unsortable"| Result
+|-
+! scope="row" rowspan=2 | Denise & James
+| 39 (9, 10, 10, 10)
+| Jive
+| "[[Tutti Frutti (song)|Tutti Frutti]]" — [[Little Richard]]
+| rowspan="2" | Safe
+|-
+| 40 (10, 10, 10, 10)
+| Showdance
+| "[[Flashdance... What a Feeling]]" — [[Irene Cara]]
+|-
+! scope="row" rowspan=2 | Dani & Vincent
+| 36 (9, 9, 9, 9)
+| Tango
+|"[[Rumour Has It (Adele song)|Rumour Has It]]" — [[Adele]]
+| rowspan="2" bgcolor="dlc571" | Fourth place
+|-
+| 35 (8, 9, 9, 9)
+| Showdance
+| "[[Bohemian Rhapsody]]" — [[Queen (band)|Queen]]
+|-
+! scope="row" rowspan=2 | Kimberley & Pasha
+| rowspan="2" | 39 (9, 10, 10, 10)
+| Viennese waltz
+| "[[A Thousand Years (Christina Perri song)|A Thousand Years]]" — [[Christina Perri]]
+| rowspan="2" | Safe
+|-
+| Showdance
+| "[[Crazy in Love]]" — [[Beyoncé]]
+|-
+! scope="row" rowspan=2 | Louis & Flavia
+| 39 (9, 10, 10, 10)
+| Salsa
+| "[[(I've Had) The Time of My Life]]" — from ''[[Dirty Dancing]]''
+| rowspan="2" | Safe
+|-
+| 40 (10, 10, 10, 10)
+| Showdance
+| "[[Rule the World (Take That single)|Rule the World]]" — [[Take That]]
+|}
+
+====Show 2====
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" | Couple
+! scope="col" | Scores
+! scope="col" class="unsortable"| Dance
+! scope="col" class="unsortable"| Music
+! scope="col" class="unsortable"| Result
+|-
+! scope="row" | Denise & James
+| 40 (10, 10, 10, 10)
+| Charleston
+| "[[Walk Like an Egyptian]]" — [[The Puppini Sisters]]
+| rowspan="2" bgcolor="silver" | Runners-up
+|-
+! scope="row" | Kimberley & Pasha
+| 40 (10, 10, 10, 10)
+| Tango
+| "[[When Doves Cry]]" — [[Prince (musician)|Prince]]
+|-
+! scope="row" | Louis & Flavia
+| 39 (9, 10, 10, 10)
+| Charleston
+| "[[Deleted Scenes from the Cutting Room Floor#Track listing|Dr. Wanna Do]]" — [[Caro Emerald]]
+| bgcolor="gold" | '''Winners'''
+|}
+
+==Dance chart==
+The couples performed the following each week:
+*Week 1: One unlearned dance (cha-cha-cha or waltz)
+*Weeks 2–9: One unlearned dance
+*Week 10: One fusion dance
+*Week 11: Two unlearned dances
+*Week 12 (Show 1): Judges' choice & showdance
+*Week 12 (Show 2): Favourite dance of the series<ref>[https://www.bbc.co.uk/iplayer/episode/b01phg49/Strictly_Come_Dancing_Series_10_Week_11_Results/ BBC iPlayer – Strictly Come Dancing: Series 10: Week 11 Results<!-- Bot generated title -->]</ref>
+
+{| class="wikitable unsortable" style="text-align:center; font-size:85%; line-height:20px"
+|+''Strictly Come Dancing'' (series 10) – Dance chart
+! rowspan="2" |Couple
+! colspan="15" |Week
+|-
+! scope="col" | 1
+! scope="col" | 2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" | 5
+! scope="col" | 6
+! scope="col" | 7
+! scope="col" | 8
+! scope="col" | 9
+! scope="col" | 10
+! scope="col" colspan="2" | 11
+! scope="col" colspan="3" | 12
+|-
+! scope="row" | Louis & Flavia
+| {{nowrap|Cha-cha}}-cha
+| Viennese waltz
+| Salsa
+| Tango
+| Samba
+| Waltz
+| American Smooth
+| Paso doble
+| Charleston
+| {{nowrap|Rumba &}}<br>Tango
+| Jive
+| Foxtrot
+| Salsa
+| Showdance
+| Charleston
+|-
+! scope="row" | Denise & James
+| Waltz
+| Jive
+| Foxtrot
+| {{nowrap|Cha-cha}}-cha
+| Viennese waltz
+| Paso doble
+| Charleston
+| American Smooth
+| Salsa
+| {{nowrap|Jive &}}<br>Quickstep
+| Tango
+| Rumba
+| Jive
+| Showdance
+| Charleston
+|-
+! scope="row" | Kimberley & Pasha
+| Cha-cha-cha
+| Foxtrot
+| Quickstep
+| Paso doble
+| Salsa
+| Viennese waltz
+| Samba
+| Tango
+| Jive
+| {{nowrap|Cha-cha}}-cha<br>{{nowrap|& Tango}}
+| American Smooth
+| Charleston
+| Viennese waltz
+| Showdance
+| Tango
+|-
+! scope="row" | Dani & Vincent
+| Waltz
+| Salsa
+| Foxtrot
+| {{nowrap|Cha-cha}}-cha
+| Jive
+| Tango
+| Quickstep
+| Samba
+| Viennese waltz
+| Charleston<br>{{nowrap|& Quickstep}}
+| American Smooth
+| Argentine tango
+| Tango
+| Showdance
+| rowspan="11" bgcolor="darkgrey" |
+|-
+! scope="row" | Lisa & Robin
+| Cha-cha-cha
+| Viennese waltz
+| Jive
+| Charleston
+| Tango
+| Foxtrot
+| Samba
+| Rumba
+| Quickstep
+| {{nowrap|Cha-cha}}-cha<br>{{nowrap|& Tango}}
+| Salsa
+| American Smooth
+| colspan="2" rowspan="10" bgcolor="darkgrey" |
+|-
+! scope="row" | Nicky & Karen
+| Waltz
+| {{nowrap|Cha-cha}}-cha
+| Quickstep
+| Tango
+| Rumba
+| Foxtrot
+| Jive
+| Charleston
+| Argentine tango
+| American Smooth<br>{{nowrap|& Samba}}
+| colspan="2" rowspan="9" bgcolor="darkgrey" |
+|-
+! scope="row" | Michael & Natalie
+| Waltz
+| Jive
+| {{nowrap|Cha-cha}}-cha
+| Quickstep
+| Foxtrot
+| Salsa
+| American Smooth
+| Argentine tango
+| Samba
+| rowspan="8" bgcolor="darkgrey" |
+|-
+! scope="row" | Victoria & Brendan
+| Cha-cha-cha
+| Foxtrot
+| Rumba
+| Tango
+| Samba
+| Quickstep
+| Paso doble
+| Salsa
+| rowspan="7" bgcolor="darkgrey" |
+|-
+! scope="row" | Richard & Erin
+| Waltz
+| Cha-cha-cha
+| Quickstep
+| Paso doble
+| Foxtrot
+| Charleston
+| Salsa
+| rowspan="6" bgcolor="darkgrey" |
+|-
+! scope="row" | Fern & Artem
+| Cha-cha-cha
+| Viennese waltz
+| Charleston
+| American Smooth
+| Paso doble
+| Salsa
+| rowspan="5" bgcolor="darkgrey" |
+|-
+! scope="row" | Colin & Kristina
+| Cha-cha-cha
+| Viennese waltz
+| Argentine tango
+| Salsa
+| Foxtrot
+| rowspan="4" bgcolor="darkgrey" |
+|-
+! scope="row" | Sid & Ola
+| Waltz
+| Salsa
+| Tango
+| {{nowrap|Cha-cha}}-cha
+| rowspan="3" bgcolor="darkgrey" |
+|-
+! scope="row" | Jerry & Anton
+| Cha-cha-cha
+| Foxtrot
+| Quickstep
+| rowspan="2" bgcolor="darkgrey" |
+|-
+! scope="row" | Johnny & Iveta
+| Cha-cha-cha
+| Foxtrot
+| bgcolor="darkgrey" |
+|}
+
+==Ratings==
+Weekly ratings for each show on [[BBC One]]. All ratings are provided by BARB.<ref>{{cite web|url=https://www.barb.co.uk/viewing-data/four-screen-dashboard/|title=Four-screen dashboard (7-day data)|publisher=[[BARB]]|access-date=24 September 2022}}</ref>
+{| class="wikitable sortable" style="text-align:center"
+|-
+! scope="col"|Episode
+! scope="col"|Date
+! scope="col"|Official rating<br />(millions)
+! scope="col"|Weekly rank<br />for BBC One
+! scope="col"|Weekly rank<br />for all UK TV
+! scope="col"|Share
+|-
+!scope="row"|Launch show
+|{{dts|15 September}} || 8.96 || 1 || 3 || 40.2%<ref>{{cite web |last=Kanter |first=Jake |date=17 September 2012 |title=Best Strictly launch since 2006 &#124; Broadcast |url=http://www.broadcastnow.co.uk/ratings/best-strictly-launch-since-2006/5046673.article |access-date=16 October 2013 |publisher=Broadcastnow.co.uk}}</ref>
+|-
+!scope="row"|Week 1 (Night 1)
+|{{dts|5 October}} || 9.22 || 2 || 3 || 34.0%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s104/strictly-come-dancing/news/a410934/strictly-come-dancing-2012-launches-with-solid-ratings.html |title='Strictly Come Dancing' 2012 launches with solid ratings – Strictly Come Dancing News – Reality TV |work=Digital Spy |date=8 October 2012 |access-date=16 October 2013}}</ref>
+|-
+!scope="row"|Week 1 (Night 2)
+|{{dts|6 October}} || 9.97 || 1 || 2 || 40.7%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s104/strictly-come-dancing/news/a410855/strictly-come-dancing-edges-x-factor-on-first-saturday.html |title='Strictly Come Dancing' edges 'X Factor' on first Saturday – Strictly Come Dancing News – Reality TV |work=Digital Spy |date=7 October 2012 |access-date=16 October 2013}}</ref>
+|-
+!scope="row"|Week 2
+|{{dts|13 October}} || 10.83 || 1 || 1 || 43.5%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s104/strictly-come-dancing/news/a430541/strictly-come-dancing-claims-biggest-win-over-x-factor-since-2006.html |title='Strictly Come Dancing' claims biggest win over 'X Factor' since 2006 – Strictly Come Dancing News – Reality TV |work=Digital Spy |date=14 October 2012 |access-date=16 October 2013}}</ref>
+|-
+!scope="row"|Week 2 results
+|{{dts|14 October}} || 8.53 || 2 || 6 || 32.5%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s183/downton-abbey/news/a430667/downton-abbey-regains-sunday-crown-x-factor-overtakes-strictly.html |title='Downton Abbey' regains Sunday crown, 'X Factor' overtakes 'Strictly' – Downton Abbey News – TV |work=Digital Spy |date=15 October 2012 |access-date=16 October 2013}}</ref>
+|-
+!scope="row"|Week 3
+|{{dts|20 October}} || 10.97 || 1 || 1 || 44.2%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s104/strictly-come-dancing/news/a432247/strictly-come-dancing-quicksteps-away-from-x-factor-on-saturday-night.html |title=Strictly Come Dancing quicksteps away from X Factor on Saturday night – Strictly Come Dancing News – Reality TV |work=Digital Spy |date=21 October 2012 |access-date=16 October 2013}}</ref>
+|-
+!scope="row"|Week 3 results
+|{{dts|21 October}} || 9.70 || 2 || 3 || 36.6%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s104/strictly-come-dancing/news/a432444/strictly-come-dancing-scores-first-ever-sunday-victory-over-x-factor.html |title=Strictly Come Dancing scores first ever Sunday victory over X Factor – Strictly Come Dancing News – Reality TV |work=Digital Spy |date=22 October 2012 |access-date=16 October 2013}}</ref>
+|-
+!scope="row"|Week 4
+|{{dts|27 October}} || 10.59 || 1 || 1 || 43.5%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/news/a434237/armando-iannuccis-the-thick-of-it-bows-out-with-750000.html |title=Armando Iannucci's 'The Thick of It' bows out with 750,000 – TV News |work=Digital Spy |date=30 October 2012 |access-date=16 October 2013}}</ref>
+|-
+!scope="row"|Week 4 results
+|{{dts|28 October}} || 9.79 || 2 || 3 || 36.4%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s104/strictly-come-dancing/news/a433973/strictly-come-dancing-results-show-grows-to-new-high-of-94m.html |title='Strictly Come Dancing' results show grows to new high of 9.4m – Strictly Come Dancing News – Reality TV |work=Digital Spy |date=29 October 2012 |access-date=16 October 2013}}</ref>
+|-
+!scope="row"|Week 5
+|{{dts|3 November}} || 10.95 || 1 || 1 || 43.7%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/news/a435510/strictly-come-dancing-widens-lead-over-the-x-factor.html |title='Strictly Come Dancing' widens lead over 'The X Factor' – TV News |work=Digital Spy |date=4 November 2012 |access-date=16 October 2013}}</ref>
+|-
+!scope="row"|Week 5 results
+|{{dts|4 November}} || 9.94 || 2 || 3 || 37.4%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s183/downton-abbey/news/a435896/downton-abbey-series-three-ends-with-10-million.html |title='Downton Abbey' series three ends with 10 million – Downton Abbey News – TV |work=Digital Spy |date=5 November 2012 |access-date=16 October 2013}}</ref>
+|-
+!scope="row"|Week 6
+|{{dts|10 November}} || 11.38 || 1 || 1 || 42.6%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s104/strictly-come-dancing/news/a437341/strictly-come-dancing-smashes-10m-on-saturday-night-peaks-with-114m.html |title=Strictly Come Dancing smashes 10m on Saturday night, peaks with 11.4m – Strictly Come Dancing News – Reality TV |work=Digital Spy |date=12 November 2012 |access-date=16 October 2013}}</ref>
+|-
+!scope="row"|Week 6 results
+|{{dts|11 November}} || 10.90 || 2 || 2 || 40.7%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s100/im-a-celebrity-uk/news/a437420/im-a-celebrity-2012-launches-with-103-million-beats-x-factor.html |title='I'm a Celebrity' 2012 launches with 10.3&nbsp;million, beats 'X Factor' – I'm A Celebrity News – Reality TV |work=Digital Spy |date=12 November 2012 |access-date=16 October 2013}}</ref>
+|-
+!scope="row"|Week 7
+|{{dts|17 November}} || 11.41 || 1 || 1 || 43.9%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s100/im-a-celebrity-uk/news/a439009/im-a-celebrity-outperforms-x-factor-for-a-second-time.html |title='I'm a Celebrity' outperforms 'X Factor' for a second time – I'm A Celebrity News – Reality TV |work=Digital Spy |date=18 November 2012 |access-date=16 October 2013}}</ref>
+|-
+!scope="row"|Week 7 results
+|{{dts|18 November}} || 10.47 || 2 || 2 || 36.2%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s103/the-x-factor/news/a439161/ella-henderson-james-arthur-bottom-two-boosts-x-factor-ratings.html |title=Ella Henderson, James Arthur bottom two boosts 'X Factor' ratings – X Factor News – Reality TV |work=Digital Spy |date=19 November 2012 |access-date=16 October 2013}}</ref>
+|-
+!scope="row"|Week 8
+|{{dts|24 November}} || 11.19 || 1 || 1 || 42.3%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s53/merlin/news/a440827/merlin-soars-to-series-high-on-bbc-one.html |title='Merlin' soars to series high on BBC One – Merlin News – Cult |work=Digital Spy |date=26 November 2012 |access-date=16 October 2013}}</ref>
+|-
+!scope="row"|Week 8 results
+|{{dts|25 November}} || 10.45 || 2 || 2 || 39.0%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s100/im-a-celebrity-uk/news/a440856/im-a-celebrity-relinquishes-sunday-night-crown-to-strictly.html |title='I'm a Celebrity' relinquishes Sunday night crown to 'Strictly' – I'm A Celebrity News – Reality TV |work=Digital Spy |date=26 November 2012 |access-date=16 October 2013}}</ref>
+|-
+!scope="row"|Week 9
+|{{dts|1 December}} || 10.93 || 1 || 1 || 41.7%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s100/im-a-celebrity-uk/news/a442308/im-a-celebrity-grabs-95-million-for-charlie-brooks-win.html |title='I'm a Celebrity' grabs 9.5&nbsp;million for Charlie Brooks win – I'm A Celebrity News – Reality TV |work=Digital Spy |date=2 December 2012 |access-date=16 October 2013}}</ref>
+|-
+!scope="row"|Week 9 results
+|{{dts|2 December}} || 9.81 || 2 || 2 || 34.0%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s104/strictly-come-dancing/news/a442524/strictly-come-dancing-countryfile-beat-corrie-in-sunday-ratings.html |title='Strictly Come Dancing', 'Countryfile' beat Corrie in Sunday ratings – Strictly Come Dancing News – Reality TV |work=Digital Spy |date=3 December 2012 |access-date=16 October 2013}}</ref>
+|-
+!scope="row"|Week 10
+|{{dts|8 December}} || 12.04 || 1 || 1 || 45.3%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s103/the-x-factor/news/a443999/christopher-maloneys-x-factor-exit-overshadowed-by-strictly.html |title=Christopher Maloney's 'X Factor' exit overshadowed by 'Strictly' – X Factor News – Reality TV |work=Digital Spy |date=9 December 2012 |access-date=16 October 2013}}</ref>
+|-
+!scope="row"|Week 10 results
+|{{dts|9 December}} || 10.54 || 2 || 2 || 37.7%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/s103/the-x-factor/news/a444151/the-x-factor-final-lowest-rated-in-seven-years.html |title='The X Factor' final lowest-rated in seven years – X Factor News – Reality TV |work=Digital Spy |date=10 December 2012 |access-date=16 October 2013}}</ref>
+|-
+!scope="row"|Week 11
+|{{dts|15 December}} || 11.52 || 1 || 1 || 43.8%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/news/a445528/celebrity-take-me-out-pulls-in-38m-viewers.html |title=Celebrity 'Take Me Out' pulls in 3.8m viewers – TV News |work=Digital Spy |date=16 December 2012 |access-date=16 October 2013}}</ref>
+|-
+!scope="row"|Week 11 results
+|{{dts|16 December}} || 11.40 || 2 || 2 || 42.5%<ref>{{cite web|url=http://www.digitalspy.co.uk/tv/news/a445613/bradley-wiggins-sports-personality-of-the-year-win-seen-by-145m.html |title=Bradley Wiggins Sports Personality of the Year win seen by 14.5m – TV News |work=Digital Spy |date=17 December 2012 |access-date=16 October 2013}}</ref>
+|-
+!scope="row"|Week 12
+|{{dts|22 December}} || 13.37 || 1 || 1 || 49.1%<ref name="digitalspy1">{{cite web|url=http://www.digitalspy.co.uk/tv/s104/strictly-come-dancing/news/a446999/strictly-come-dancing-2012-finale-second-most-watched-ever.html |title='Strictly Come Dancing' 2012 finale second most-watched ever – Strictly Come Dancing News – Reality TV |work=Digital Spy |date=23 December 2012 |access-date=16 October 2013}}</ref>
+|-
+!scope="row"| Week 12 results
+|{{dts|22 December}} || 13.35 || 2 || 2 || 46.4%<ref name="digitalspy1"/>
+|-
+! Series average<br>(excl. launch show)
+! 2012
+! 10.80
+! {{N/A}}
+! {{N/A}}
+! 40.7%
+|}
+
+== References ==
+{{reflist}}
+
+==External links==
+*{{BBC Online|id=strictlycomedancing|title=''Strictly Come Dancing''}}
+
+{{Strictly Come Dancing}}
+
+{{DEFAULTSORT:Strictly Come Dancing (Series 10)}}
+[[Category:Strictly Come Dancing series|Season 10]]
+[[Category:2012 British television seasons]]

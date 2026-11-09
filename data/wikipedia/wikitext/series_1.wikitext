@@ -1,0 +1,825 @@
+{{short description|2004 British television show}}
+{{More citations needed|date=August 2023}}
+{{EngvarB|date=July 2019}}
+{{Use dmy dates|date=July 2019}}
+{{Infobox television season
+| bgcolor      = #4c4aa6
+| image        =
+| caption      = 
+| module1      = {{Infobox reality competition season
+ | celebrity_winner    = [[Natasha Kaplinsky]]
+ | professional_winner = [[Brendan Cole]]
+| presenter = [[Bruce Forsyth]]<br>[[Tess Daly]]
+| judges    = [[Len Goodman]]<br>[[Arlene Phillips]]<br>[[Craig Revel Horwood]]<br>[[Bruno Tonioli]]
+}}
+| network      = [[BBC One]]
+| first_aired  = {{start date|df=y|2004|5|15}}
+| last_aired   = {{end date|df=y|2004|7|3}}
+| num_episodes = 9
+| next_series  = [[Strictly Come Dancing series 2|Series 2]] 
+}}
+'''''[[Strictly Come Dancing]]''''' aired its '''first series''' on [[BBC One]] from 15 May 2004 to 3 July 2004. The series was presented by [[Bruce Forsyth]] and [[Tess Daly]], while [[Justin Lee Collins]] presented [[BBC Three]]'s spin-off show ''Strictly Come Dancing: On Three''. The judging panel consisted of [[Len Goodman]], [[Arlene Phillips]], [[Craig Revel Horwood]], and [[Bruno Tonioli]].<ref>{{cite news|last=Grieveson-Smith|first=Jess|title=Who were the first celebrities on Strictly Come Dancing and where are they now?|url=https://www.examinerlive.co.uk/news/tv/who-were-first-celebrities-strictly-21862398|work=YorkshireLive|date=16 October 2021|access-date=21 January 2024}}</ref>
+
+On 3 July 2004, journalist [[Natasha Kaplinsky]] and [[Brendan Cole]] were announced as the winners, while ''[[EastEnders]]'' actor [[Christopher Parker]] and [[Hanna Karttunen]] finished in second place.<ref>{{cite news|title=Kaplinsky wins TV dancing contest|url=https://news.bbc.co.uk/2/hi/entertainment/3864373.stm|publisher=[[BBC News]]|date=4 July 2004|access-date=21 January 2024}}</ref>
+
+This was the only series to air in the spring/summer season; all other series of ''Strictly Come Dancing'' would air in the autumn/winter season.
+
+==Format==
+{{Further|Strictly Come Dancing#Format}}
+{{Multiple image
+ | align        = center
+ | total_width  = 550
+
+ | header       = Hosts and Judges for ''Strictly Come Dancing'' (Series 1)
+
+ | image1       = Bruce Forsyth1 (cropped) (cropped).jpg
+ | alt1         =
+ | caption1     = [[Bruce Forsyth]]
+
+ | image2       = Tess Daly Cropped.jpg
+ | alt2         =
+ | caption2     = [[Tess Daly]]
+
+ | image3       = Craig-Revel-Horwood-2022.png
+ | alt3         = 
+ | caption3     = [[Craig Revel Horwood]]
+
+ | image4       = Arlenephillips@strictly.png
+ | alt4         =
+ | caption4     = [[Arlene Phillips]]
+
+ | image5       = Len_Goodman_1.JPG
+ | alt5         =
+ | caption5     = [[Len Goodman]]
+
+ | image6       = BrunoTonioliin2009strictlytouratwembley.png
+ | alt6         =
+ | caption6     = [[Bruno Tonioli]]
+}}
+{{clear}}
+The couples dance each week in a live show. The judges score each performance out of ten. The couples are then ranked according to the judges' scores and given points according to their rank, with the lowest scored couple receiving one point, and the highest scored couple receiving the most points (the maximum number of points available depends on the number of couples remaining in the competition). The public are also invited to vote for their favourite couples, and the couples are ranked again according to the number of votes they receive, again receiving points; the couple with the fewest votes receiving one point, and the couple with the most votes receiving the most points.
+
+The points for judges' score and public vote are then added together, and the two couples with the fewest points are placed in the bottom two. If two couples have equal points, the points from the public vote are given precedence.
+
+== Couples==
+This series featured eight celebrity contestants. 
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! scope="col" | Celebrity
+! scope="col" class="unsortable"| Notability
+! scope="col" | Professional partner
+! scope="col" | Status
+|-
+! scope="row" | [[Jason Wood (comedian)|Jason Wood]]
+| Stand-up comedian
+| [[Kylie Jones]]
+| bgcolor="f4c7b8" | Eliminated 1st<br><small>on 22 May 2004</small>
+|-
+! scope="row" | [[David Dickinson]] 
+| ''[[Bargain Hunt]]'' presenter & antiques expert
+| [[Camilla Dallerup]]
+| bgcolor="f4c7b8" | {{nowrap|Eliminated 2nd}}<br><small>on 29 May 2004</small>
+|-
+! scope="row" | [[Verona Joseph]]
+| ''[[Holby City]]'' actress
+| [[Paul Killick]]
+| bgcolor="f4c7b8" | Eliminated 3rd<br><small>on 5 June 2004</small>
+|-
+! scope="row" | [[Claire Sweeney]]
+| Actress, singer & television presenter
+| [[John Byrnes (dancer)|John Byrnes]]
+| bgcolor="f4c7b8" | Eliminated 4th<br><small>on 12 June 2004</small>
+|-
+! scope="row" | [[Martin Offiah]]
+| [[England national rugby league team|England]] rugby player
+| [[Erin Boag]]
+| bgcolor="f4c7b8" | Eliminated 5th<br><small>on 19 June 2004</small>
+|-
+! scope="row" | [[Lesley Garrett]]
+| Classical singer
+| [[Anton Du Beke]]
+| bgcolor="f4c7b8" | Eliminated 6th<br><small>on 26 June 2004</small>
+|-
+! scope="row" | {{nowrap|[[Christopher Parker]]}}
+| ''[[EastEnders]]'' actor
+| [[Hanna Karttunen]]
+| bgcolor="silver" | Runners-up<br /><small>on 3 July 2004</small>
+|-
+! scope="row" | [[Natasha Kaplinsky]] 
+| ''[[BBC News]]'' presenter & journalist
+| [[Brendan Cole]] 
+| bgcolor="gold" | '''Winners'''<br /><small>on 3 July 2004</small>
+|}
+
+==Scoring chart==
+The highest score each week is indicated in {{fontcolor|#004600|'''bold green'''}} with a dagger ({{dagger}}), while the lowest score each week is indicated in {{fontcolor|#800000|''italicized red''}} with a double-dagger ({{double-dagger}}).
+
+'''Color key:'''
+{{columns-list|colwidth=20em|
+{{legend|gold|Winners}}
+{{legend|silver|Runners-up}}
+{{legend|lightblue|Bottom two}}
+{{legend|#f4c7b8|Eliminated}}
+}}
+{| class="wikitable sortable" style="text-align:center; font-size:95%"
+|+''Strictly Come Dancing'' (series 1) - Weekly scores
+|-
+! scope="col" rowspan="2" | Couple
+! scope="col" rowspan="2" | {{Abbr|Pl.|Place}}
+! colspan="9" | Week
+|-
+! scope="col" | 1
+! scope="col" | 2
+! scope="col" | 1+2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" | 5
+! scope="col" | 6
+! scope="col" | 7
+! scope="col" | 8
+|-
+! scope="row" | Natasha & Brendan
+| 1st
+| 27
+| {{fontcolor|#004600|'''31'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''58'''}}{{dagger|alt=This was the highest score of the night.}}
+| bgcolor="lightblue" | 26{{efn|name=Bottom2}}
+| {{fontcolor|#004600|'''35'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''37'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|67|}} | 31+36={{fontcolor|#004600|'''67'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|71|}} | 36+35={{fontcolor|#004600|'''71'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|102|}} bgcolor="gold"|  36+31+35={{fontcolor|#004600|'''102'''}}{{dagger|alt=This was the highest score of the night.}}{{efn|This couple finished in first place.}}
+|-
+! scope="row" | {{nowrap|Christopher & Hanna}}
+| 2nd
+| 19
+| 23
+| 42
+| {{fontcolor|#800000|''19''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| 28
+| {{fontcolor|#800000|''15''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{sort|37|}} | 22+15={{fontcolor|#800000|''37''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{sort|37|}} bgcolor="lightblue" | 21+16={{fontcolor|#800000|''37''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Bottom2}}
+| {{sort|63|}} bgcolor="silver" | 24+17+22={{fontcolor|#800000|''63''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|This couple finished in second place.}}
+|-
+! scope="row" | Lesley & Anton
+| 3rd
+| {{fontcolor|#004600|'''29'''}}{{dagger|alt=This was the highest score of the night.}}
+| 27
+| 56
+| 29
+| bgcolor="lightblue" | 30{{efn|name=Bottom2}}
+| bgcolor="lightblue" | 27{{efn|name=Bottom2}}
+| {{sort|60|}} bgcolor="lightblue" | 34+26=60{{efn|name=Bottom2}}
+| {{sort|62|}} bgcolor="#f4c7b8" | 33+29=62{{efn|name=Elim}}
+| colspan="1" rowspan="6" bgcolor="darkgray" |
+|-
+! scope="row" | Martin & Erin
+| 4th
+| 25
+| 21
+| 46
+| 21
+| {{fontcolor|#800000|''24''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| 22
+| {{sort|48|}} bgcolor="#f4c7b8" | 24+24=48{{efn|name=Elim}}
+| rowspan="5" bgcolor="darkgray" |
+|-
+! scope="row" | Claire & John
+| 5th
+| 27
+| 26
+| 53
+| {{fontcolor|#004600|'''34'''}}{{dagger|alt=This was the highest score of the night.}}
+| 31
+| bgcolor="#f4c7b8" | 32{{efn|name=Elim}}
+| rowspan="4" bgcolor="darkgray" |
+|-
+! scope="row" | Verona & Paul
+| 6th
+| 27
+| 24
+| 51
+| 24
+| bgcolor="#f4c7b8" | {{fontcolor|#800000|''24''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="3" bgcolor="darkgray" |
+|-
+! scope="row" | David & Camilla
+| 7th
+| {{fontcolor|#800000|''16''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| 21
+| bgcolor="lightblue" | {{fontcolor|#800000|''37''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Bottom2|This couple was in the bottom two, but was not eliminated.}}
+| bgcolor="#f4c7b8" | 20{{efn|name=Elim}}
+| rowspan="2" bgcolor="darkgray" |
+|-
+! scope="row" | Jason & Kylie
+| 8th
+| 21
+| {{fontcolor|#800000|''19''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| bgcolor="#f4c7b8" | 40{{efn|name=Elim|This couple was eliminated.}}
+| bgcolor="darkgray" |
+|}
+;Notes
+{{notelist}}
+===Average chart===
+This table only counts for dances scored on a traditional 40-point scale.
+{| class="wikitable sortable" style="text-align:center; font-size:95%"
+|-
+! scope="col" | Couple
+! scope="col" | Rank by<br>average
+! scope="col" | Total<br>points
+! scope="col" | Number of<br>dances
+! scope="col" | Total<br>average
+|-
+! scope="row" | Natasha & Brendan
+| 1st
+| 396
+| 12
+| 33.0
+|-
+! scope="row" | Claire & John
+| 2nd
+| 150
+| 5
+| 30.0
+|-
+! scope="row" | Lesley & Anton
+| 3rd
+| 264
+| 9
+| 29.3
+|-
+! scope="row" | Verona & Paul
+| 4th
+| 99
+| 4
+| 24.8
+|-
+! scope="row" | Martin & Erin
+| 5th
+| 161
+| 7
+| 23.0
+|-
+! scope="row" | Christopher & Hanna
+| 6th
+| 241
+| 12
+| 20.1
+|-
+! scope="row" | Jason & Kylie
+| 7th
+| 40
+| 2
+| 20.0
+|-
+! scope="row" | David & Camilla
+| 8th
+| 57
+| 3
+| 19.0
+|}
+
+==Weekly scores==
+
+''Unless indicated otherwise, individual judges scores in the charts below are given (in parentheses) in this order from left to right:'' ''[[Craig Revel Horwood]], [[Arlene Phillips]], [[Len Goodman]], [[Bruno Tonioli]].''
+
+===Week 1===
+Couples performed either the [[Cha-cha-cha (dance)|cha-cha-cha]] or the [[waltz]], and are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+|-
+! scope="row" | Natasha & Brendan
+| 27 (5, 7, 8, 7)
+| Cha-cha-cha
+| "[[Chain of Fools]]" — [[Aretha Franklin]]
+|-
+! scope="row" | Lesley & Anton
+| 29 (6, 8, 8, 7)
+| Waltz
+| "[[Cavatina (Myers)|He Was Beautiful]]" — [[Cleo Laine]]
+|-
+! scope="row" | Christopher & Hanna
+| 19 (4, 4, 7, 4)
+| Cha-cha-cha
+| "[[Lady Marmalade]]" — [[Labelle]]
+|-
+! scope="row" | Jason & Kylie
+| 21 (5, 5, 6, 5)
+| Waltz
+| "[[Three Times A Lady]]" — [[Commodores]]
+|-
+! scope="row" | Verona & Paul
+| 27 (7, 6, 7, 7)
+| Cha-cha-cha
+| "[[Respect (song)|Respect]]" — [[Aretha Franklin]]
+|-
+! scope="row" | Claire & John
+| 27 (7, 7, 8, 5)
+| Waltz
+| "[[Unchained Melody]]" — [[The Righteous Brothers]]
+|-
+! scope="row" | David & Camilla
+| 16 (2, 4, 6, 4)
+| Cha-cha-cha
+| "[[Sex Bomb (song)|Sex Bomb]]" — [[Tom Jones (singer)|Tom Jones]]
+|-
+! scope="row" | Martin & Erin
+| 25 (5, 6, 7, 7)
+| Waltz
+| "[[Come Away With Me]]" — [[Norah Jones]]
+|}
+
+===Week 2===
+Couples performed either the [[quickstep]] or the [[rumba]], and are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Natasha & Brendan
+| 31 (7, 8, 8, 8)
+| Quickstep
+| "[[The Lady is a Tramp]]" — [[Frank Sinatra]]
+| Safe
+|-
+! scope="row" | Martin & Erin
+| 21 (3, 5, 7, 6)
+| Rumba
+| "[[Hero (Mariah Carey song)|Hero]]" — [[Mariah Carey]]
+| Safe
+|-
+! scope="row" | Christopher & Hanna
+| 23 (5, 6, 6, 6)
+| Quickstep
+| "[[You're the One That I Want]]" — ''from [[Grease (musical)|Grease]]''
+| Safe
+|-
+! scope="row" | Claire & John
+| 26 (6, 6, 7, 7)
+| Rumba
+| "[[Angels (Robbie Williams song)|Angels]]" — [[Robbie Williams]]
+| Safe
+|-
+! scope="row" | Verona & Paul
+| 24 (6, 6, 6, 6)
+| Quickstep
+| "[[If My Friends Could See Me Now]]" — ''from [[Sweet Charity]]''
+| Safe
+|-
+! scope="row" | Jason & Kylie
+| 19 (2, 5, 7, 5)
+| Rumba
+| "[[Leave Right Now]]" — [[Will Young]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | David & Camilla
+| 21 (3, 6, 6, 6)
+| Quickstep
+| "[[Let's Face The Music and Dance]]" — ''from [[Follow the Fleet]]''
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Lesley & Anton
+| 27 (6, 7, 7, 7)
+| Rumba
+| "[[You'll Never Find Another Love Like Mine]]" — [[Lou Rawls]]
+| Safe
+|}
+
+===Week 3: Blackpool Week===
+This week's episode was staged in the [[Blackpool Tower#Tower Ballroom|Tower Ballroom]] at the [[Blackpool Tower]] in [[Blackpool, Lancashire]]. Couples performed either the [[Jive (dance)|jive]] or the [[tango]], and are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Verona & Paul
+| 24 (6, 6, 6, 6)
+| Jive
+| "[[Proud Mary]]" — [[Tina Turner]]
+| Safe
+|-
+! scope="row" | Lesley & Anton
+| 29 (7, 8, 7, 7)
+| Tango
+| "Sensation" — [[Chong Lim]]
+| Safe
+|-
+! scope="row" | Martin & Erin
+| 21 (5, 5, 5, 6)
+| Jive
+| "[[Great Balls of Fire]]" — [[Jerry Lee Lewis]]
+| Safe
+|-
+! scope="row" | David & Camilla
+| 20 (4, 6, 5, 5)
+| Tango
+| "[[La Cumparsita]]" — [[Gerardo Matos Rodríguez]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Christopher & Hanna
+| 19 (5, 4, 5, 5)
+| Jive
+| "[[Do You Love Me]]" — [[The Contours]]
+| Safe
+|-
+! scope="row" | Claire & John
+| 34 (8, 9, 9, 8)
+| Tango
+| "[[Roxanne (The Police song)|Roxanne]]" — [[The Police]]
+| Safe
+|-
+! scope="row" | Natasha & Brendan
+| 26 (7, 7, 5, 7)
+| Jive
+| "[[Jump, Jive and Wail]]" — [[Louis Prima]]
+| bgcolor="lightblue" | Bottom two
+|}
+
+===Week 4===
+Couples performed either the [[foxtrot]] or the [[Pasodoble|paso doble]], and are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Claire & John
+| 31 (8, 8, 7, 8)
+| Paso doble
+| "[[España cañí]]" — [[Pascual Marquina Narro]]
+| Safe
+|-
+! scope="row" | Christopher & Hanna
+| 28 (6, 7, 8, 7)
+| Foxtrot
+| "[[Flying Without Wings]]" — [[Westlife]]
+| Safe
+|-
+! scope="row" | Verona & Paul
+| 24 (5, 6, 6, 7)
+| Paso doble
+| "[[Boléro]]" — [[Maurice Ravel]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Natasha & Brendan
+| 35 (8, 9, 9, 9)
+| Foxtrot
+| "[[The Girl from Ipanema]]" — [[Antônio Carlos Jobim]]
+| Safe
+|-
+! scope="row" | Lesley & Anton
+| 30 (7, 7, 8, 8)
+| Paso doble
+| "Scott & Fran's Paso Doble" — ''from [[Strictly Ballroom]]''
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Martin & Erin
+| 24 (6, 5, 7, 6)
+| Foxtrot
+| "[[Let There Be Love (1940 song)|Let There Be Love]]" — [[Nat King Cole]]
+| Safe
+|}
+
+===Week 5===
+Couples performed the [[samba]] and then a group [[Viennese waltz]]. Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Lesley & Anton
+| 27 (7, 6, 7, 7)
+| Samba
+| "[[Mas que Nada]]" — [[Jorge Ben]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Martin & Erin
+| 22 (5, 5, 6, 6)
+| Samba
+| "[[Crickets Sing for Anamaria]]" — [[Marcos Valle]]
+| Safe
+|-
+! scope="row" | Christopher & Hanna
+| 15 (3, 4, 4, 4)
+| Samba
+| "[[Soul Bossa Nova]]" — [[Quincy Jones]]
+| Safe
+|-
+! scope="row" | Claire & John
+| 32 (8, 8, 8, 8)
+| Samba
+| "[[Shake Your Bon-Bon]]" — [[Ricky Martin]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Natasha & Brendan
+| 37 (9, 10, 9, 9)
+| Samba
+| "[[Love Is in the Air (song)|Love Is in the Air]]" — [[John Paul Young]]
+| Safe
+|-
+! scope="row" | Christopher & Hanna<br>Claire & John<br>Lesley & Anton<br>Martin & Erin<br>Natasha & Brendan
+|
+| Group<br>Viennese waltz
+| colspan="2" |"[[If I Ain't Got You]]" — [[Alicia Keys]]
+|}
+
+===Week 6: Quarterfinal===
+Each couple performed two unlearned routines, and are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" rowspan=2 | Martin & Erin
+| 24 (5, 6, 6, 7)
+| Quickstep
+| "[[It Don't Mean a Thing (If It Ain't Got That Swing)]]" — [[Duke Ellington]]
+| rowspan=2 bgcolor="f4c7b8" | Eliminated
+|-
+| 24 (6, 6, 6, 6)
+| Cha-cha-cha
+| "[[Smooth (Santana song)|Smooth]]" — [[Santana (band)|Santana]]
+|-
+! scope="row" rowspan=2 | Natasha & Brendan
+| 31 (8, 7, 8, 8)
+| Tango
+| "[[Libertango]]" — [[Astor Piazzolla]]
+| rowspan=2 | Safe
+|-
+| 36 (9, 9, 9, 9)
+| Rumba
+| "[[Endless Love (song)|Endless Love]]" — [[Lionel Richie]]
+|-
+! scope="row" rowspan=2 | Christopher & Hanna
+| 22 (5, 6, 5, 6)
+| Waltz
+| "[[I Have Nothing]]" — [[Whitney Houston]]
+| rowspan=2 | Safe
+|-
+| 15 (3, 4, 5, 3)
+| Paso doble
+| "[[Bamboléo|Bamboleo]]" — [[Gipsy Kings]]
+|-
+! scope="row" rowspan=2 | Lesley & Anton
+| 34 (8, 8, 9, 9)
+| Foxtrot
+| "[[I've Got You Under My Skin]]" — [[Frank Sinatra]]
+| rowspan=2 bgcolor="lightblue" | Bottom two
+|-
+| 26 (6, 6, 7, 7)
+| Cha-cha-cha
+| "[[Spinning Around]]" — [[Kylie Minogue]]
+|}
+
+===Week 7: Semifinal===
+Each couple performed two unlearned routines, and are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" rowspan=2 | Lesley & Anton
+| 33 (8, 8, 8, 9)
+| Quickstep
+| "[[That Old Black Magic]]" — [[Sammy Davis Jr]]
+| rowspan=2 bgcolor="f4c7b8" | Eliminated
+|-
+| 29 (7, 7, 8, 7)
+| Jive
+| "[[My Baby Just Cares for Me]]" — [[Nina Simone]]
+|-
+! scope="row" rowspan=2 | Natasha & Brendan
+| 36 (9, 9, 9, 9)
+| Waltz
+| "[[With You I'm Born Again]]" — [[Billy Preston]] & [[Syreeta Wright]]
+| rowspan=2 | Safe
+|-
+| 35 (8, 9, 9, 9)
+| Paso doble
+| "[[O Fortuna (Orff)|O Fortuna]]" — [[Carl Orff]]
+|-
+! scope="row" rowspan=2 | Christopher & Hanna
+| 21 (2, 6, 7, 6)
+| Tango
+| "[[Toxic (song)|Toxic]]" — [[Britney Spears]]
+| rowspan=2 bgcolor="lightblue" | Bottom two
+|-
+| 16 (2, 4, 5, 5)
+| Rumba
+| "[[Careless Whisper]]" — [[George Michael]]
+|}
+
+===Week 8: Final===
+Each couple performed three routines: their favourite ballroom dance, their favourite Latin dance, and their showdance routine. Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" rowspan=3| Natasha & Brendan
+| 36 (9, 9, 9, 9)
+| Quickstep
+| "[[The Lady is a Tramp]]" — [[Frank Sinatra]]
+| rowspan=3 bgcolor="gold" | '''Winners'''
+|-
+| 31 (7, 7, 9, 8)
+| Samba
+| "[[Love Is in the Air (song)|Love Is in the Air]]" — [[John Paul Young]]
+|-
+| 35 (8, 9, 9, 9)
+| Showdance
+| "[[(I've Had) The Time of My Life]]" — [[Bill Medley]] & [[Jennifer Warnes]]
+|-
+! scope="row" rowspan=3 | Christopher & Hanna
+| 24 (6, 5, 6, 7)
+| Waltz
+| "[[I Have Nothing]]" — [[Whitney Houston]]
+| rowspan=3 bgcolor="silver" | Runners-up
+|-
+| 17 (3, 3, 7, 4)
+| Jive
+| "[[Do You Love Me]]" — [[The Contours]]
+|-
+| 22 (4, 6, 7, 5)
+| Showdance
+| "[[Fame (Irene Cara song)|Fame]]" — [[Irene Cara]]
+|}
+
+==Dance chart==
+The couples performed the following each week:
+*Week 1: One unlearned dance (cha-cha-cha or waltz)
+*Week 2: One unlearned dance (quickstep or rumba)
+*Week 3: One unlearned dance (jive or tango)
+*Week 4: One unlearned dance (foxtrot or paso doble)
+*Week 5: Samba & Viennese waltz group dance
+*Week 6 (Quarterfinal): Two unlearned dances
+*Week 7 (Semifinal): Two unlearned dances
+*Week 8 (Final): Favourite ballroom dance, favourite Latin dance & showdance
+
+{| class="wikitable unsortable" style="text-align:center; font-size:85%; line-height:20px"
+|+''Strictly Come Dancing'' (series 1) - Dance chart
+! rowspan="2" |Couple
+! colspan="13" |Week
+|-
+! scope="col" | 1
+! scope="col" | 2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" colspan="2" | 5
+! scope="col" colspan="2" | 6
+! scope="col" colspan="2" | 7
+! scope="col" colspan="3" | 8
+|-
+! scope="row" | Natasha & Brendan
+| {{nowrap|Cha-cha}}-cha
+| Quickstep
+| Jive
+| Foxtrot
+| Samba
+| rowspan="5" | Group<br>Viennese waltz
+| Tango
+| Rumba
+| Waltz
+| Paso doble
+| Quickstep
+| Samba
+| Showdance
+|-
+! scope="row" | Christopher & Hanna
+| Cha-cha-cha
+| Quickstep
+| Jive
+| Foxtrot
+| Samba
+| Waltz
+| Paso doble
+| Tango
+| Rumba
+| Waltz
+| Jive
+| Showdance
+|-
+! scope="row" | Lesley & Anton
+| Waltz
+| Rumba
+| Tango
+| Paso doble
+| Samba
+| Foxtrot
+| {{nowrap|Cha-cha}}-cha
+| Quickstep
+| Jive
+| colspan="3" bgcolor="darkgray" |
+|-
+! scope="row" | Martin & Erin
+| Waltz
+| Rumba
+| Jive
+| Foxtrot
+| Samba
+| Quickstep
+| Cha-cha-cha
+| colspan="5" bgcolor="darkgray" |
+|-
+! scope="row" | Claire & John
+| Waltz
+| Rumba
+| Tango
+| Paso doble
+| Samba
+| colspan="7" bgcolor="darkgray" |
+|-
+! scope="row" | Verona & Paul
+| Cha-cha-cha
+| Quickstep
+| Jive
+| Paso doble
+| colspan="9" bgcolor="darkgray" |
+|-
+! scope="row" | David & Camilla
+| Cha-cha-cha
+| Quickstep
+| Tango
+| colspan="10" bgcolor="darkgray" |
+|-
+! scope="row" | Jason & Kylie
+| Waltz
+| Rumba
+| colspan="11" bgcolor="darkgray" |
+|}
+
+==Ratings==
+Weekly ratings for each show on [[BBC One]]. All ratings are provided by [[Barb Audiences|BARB]].<ref>{{cite web|url=https://www.barb.co.uk/viewing-data/four-screen-dashboard/|title=Four-screen dashboard (7-day data)|publisher=[[BARB]]|access-date=17 September 2023}}</ref>
+{| class="wikitable sortable" style="text-align:center"
+|-
+! scope="col"|Episode
+! scope="col"|Date
+! scope="col"|Official rating<br />(millions)
+! scope="col"|Weekly rank<br />for BBC One
+! scope="col"|Weekly rank<br />for all UK TV
+|-
+! scope="row"|Week 1
+| {{dts|15 May}} || 4.61 || 20 || 40
+|-
+! scope="row"|Week 2
+| {{dts|22 May}} || 5.68 || 12 || 31
+|-
+! scope="row"|Week 3
+| {{dts|29 May}} || 6.07 || 11 || 28
+|-
+! scope="row"|Week 4
+| {{dts|5 June}} || 6.00 || 8 || 39
+|-
+! scope="row"|Week 5
+| {{dts|13 June}} || 5.37 || 11 || 29
+|-
+! scope="row"|Week 6
+| {{dts|19 June}} || 5.94 || 11 || 26
+|-
+! scope="row"|Week 7
+| {{dts|26 June}} || 7.00 || 13 || 22
+|-
+! scope="row"|Week 8
+| {{dts|3 July}} || 8.14 || 9 || 17
+|-
+! scope="row"|Week 8 results
+| {{dts|3 July}} || 9.28 || 7 || 10
+|-
+! Series average
+! 2004
+! 6.45
+! {{N/A}}
+! {{N/A}}
+|}
+
+==References==
+{{Reflist}}
+{{Strictly Come Dancing}}
+
+[[Category:Strictly Come Dancing series|Season 01]]
+[[Category:2004 British television seasons]]

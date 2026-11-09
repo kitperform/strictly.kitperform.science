@@ -1,0 +1,1799 @@
+{{More citations needed|date=August 2023}}
+{{Use dmy dates|date=July 2019}}
+{{Use British English|date=July 2018}}
+{{Infobox television season
+| series_number = 14
+| bgcolor       = #99979e
+| image         = <!-- Do NOT place a non-free image here without complying with WP:NFCC #10c -->
+| module1       = {{Infobox reality competition season
+ | celebrity_winner    = [[Ore Oduba]]
+ | professional_winner = [[Joanne Clifton]]
+| presenter = [[Tess Daly]]<br>[[Claudia Winkleman]]
+| judges    = [[Darcey Bussell]]<br>[[Len Goodman]]<br>[[Craig Revel Horwood]]<br>[[Bruno Tonioli]]
+}}
+| network       = [[BBC One]]
+| first_aired   = {{Start date|2016|09|03|df=yes}}
+| last_aired    = {{End date|2016|12|17|df=yes}}
+| num_episodes  = 26
+| prev_series   = [[Strictly Come Dancing series 13|Series 13]]
+| next_series   = [[Strictly Come Dancing series 15|Series 15]]
+}}
+
+'''''[[Strictly Come Dancing]]''''' returned for its '''fourteenth series''' with a launch show on 3 September on [[BBC One]], while the live shows began on 23 September 2016. [[Tess Daly]] and [[Claudia Winkleman]] returned as hosts, while [[Zoe Ball]] returned to host ''[[Strictly Come Dancing: It Takes Two]]'' on [[BBC Two]]. [[Darcey Bussell]], [[Len Goodman]], [[Craig Revel Horwood]], and [[Bruno Tonioli]] returned as judges.<ref>{{cite web|last=McGeorge |first=Alistair |url=https://www.mirror.co.uk/tv/tv-news/strictly-come-dancing-judges-will-7406250 |title=Strictly Come Dancing judges 'will return with Len Goodman set for new contract'|work=Daily Mirror |date=20 February 2016 |access-date=14 July 2016}}</ref> This was Goodman's final series as head judge.<ref>{{cite web|url=https://www.bbc.co.uk/mediacentre/latestnews/2016/strictly |title=Tess Daly, Claudia Winkleman and the fabulous four Judges are back for Strictly Come Dancing 2016 |publisher=BBC Media Centre |date=13 July 2016 |access-date=14 July 2016}}</ref>
+
+[[BBC Sport]] presenter [[Ore Oduba]] and [[Joanne Clifton]] were announced as the winners on 17 December 2016, while [[Louise Redknapp]] and [[Kevin Clifton]], and [[Danny Mac]] and [[Oti Mabuse]] were the runners-up.
+
+== Format ==
+{{Further|Strictly Come Dancing#Format}}
+{{Multiple image
+ | align        = right
+ | total_width  = 550
+
+ | header       = Hosts and Judges for Strictly Come Dancing Series 14
+
+ | image1       = Tess Daly Cropped.jpg
+ | alt1         =
+ | caption1     = [[Tess Daly]]
+
+ | image2       = Claudia Winkleman at BAFTA 2026 01.jpg
+ | alt2         =
+ | caption2     = [[Claudia Winkleman]]
+
+ | image3       = Craig-Revel-Horwood-2022.png
+ | alt3         = 
+ | caption3     = [[Craig Revel Horwood]]
+
+ | image4       = Darcey Bussell in 2016.jpg
+ | alt4         =
+ | caption4     = [[Darcey Bussell]]
+
+ | image5       = Len_Goodman_1.JPG
+ | alt5         =
+ | caption5     = [[Len Goodman]]
+
+ | image6       = BrunoTonioliin2009strictlytouratwembley.png
+ | alt6         =
+ | caption6     = [[Bruno Tonioli]]
+}}
+
+The couples dance each week in a live show. The judges score each performance out of ten. The couples are then ranked according to the judges' scores and given points according to their rank, with the lowest scored couple receiving one point, and the highest scored couple receiving the most points (the maximum number of points available depends on the number of couples remaining in the competition). The public are also invited to vote for their favourite couples, and the couples are ranked again according to the number of votes they receive, again receiving points; the couple with the fewest votes receiving one point, and the couple with the most votes receiving the most points.
+
+The points for judges' score and public vote are then added together, and the two couples with the fewest points are placed in the bottom two. If two couples have equal points, the points from the public vote are given precedence. As with the previous series, the bottom two couples have to perform a dance-off on the results show. Based on that performance alone, each judge then votes on which couple should stay and which couple should leave, with [[Len Goodman]], as head judge, having the last and [[Casting vote|deciding vote]].
+
+==Professional dancers==
+On 28 June 2016, the list of professionals who were returning for the fourteenth series was revealed. Professionals from the last series who did not return included [[Ola Jordan]], [[Tristan MacManus]], [[Kristina Rihanoff]], [[Gleb Savchenko]], and [[Aliona Vilani]]. They were replaced by [[Katya Jones]] and her husband [[Neil Jones (dancer)|Neil Jones]], ''[[Burn the Floor]]'' dancer [[Gorka Márquez]], former ''[[Dancing with the Stars (American TV series)|Dancing with the Stars]]'' troupe member [[Oksana Platero]], and ex-[[Britain's Got Talent (series 7)|Britain's Got Talent contestants]] [[AJ Pritchard]] and [[Chloe Hewitt]].<ref>{{cite web|url=https://www.bbc.co.uk/mediacentre/latestnews/2016/bbc-one-new-dancers-strictly|title=Three new professional dancers join the Strictly Come Dancing line-up for 2016|publisher=BBC Media Centre|date=26 July 2016|access-date=26 July 2016}}</ref><ref>{{cite web|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2Ff245a196-3e06-4dd4-bdc7-a9de97ff0226|title=BBC Blogs – Strictly Come Dancing – 2016 Strictly Professional Dancer line up revealed!|date=28 June 2016|publisher=BBC|access-date=14 July 2016}}</ref> Chloe Hewitt and Neil Jones were not partnered with a celebrity, although they were on standby for any pro who might have been injured or unable to compete, and also performed in group dances and appeared on the ''Strictly'' companion programme, ''[[Strictly Come Dancing: It Takes Two|It Takes Two]]''.<ref>{{cite web|url=https://www.tellymix.co.uk/reality-tv/strictly-come-dancing/275407-strictly-come-dancing-2016-two-pros-dont-get-celebrity-partners.html|title=Two of Strictly's new pros don't get celebrity partners|last=Darvill|first=Josh|date=1 September 2016|publisher=Tellymix|access-date=1 September 2016}}</ref>
+
+==Couples==
+This series featured fifteen celebrity contestants. On 8 August 2016, former [[Shadow Chancellor]] [[Ed Balls]] was announced as the first celebrity contestant,<ref>{{cite web|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2F5226be8c-cd7b-4ca9-8fe8-0bfcbc4e3b2e|title=Ed Balls revealed as the first Strictly celeb of 2016!|publisher=BBC |date=8 August 2016 |access-date=8 August 2016}}</ref> with more celebrities being announced throughout the month. The line up was completed on 22 August on ''[[The One Show]]''.<ref>{{cite web|url=https://www.digitalspy.com/tv/strictly-come-dancing/news/a804713/strictly-come-dancing-2016-lesley-joseph-confirmed-contestant |title=Lesley Joseph confirmed as a contestant for this year |website=Digital Spy |date=22 August 2016 |access-date=25 August 2016}}</ref>
+
+On 11 October, [[Will Young]] announced that he was leaving the show for "personal reasons".<ref>{{cite web|url=https://www.bbc.co.uk/news/entertainment-arts-37622797|title=Will Young quits Strictly Come Dancing|date=11 October 2016|work=BBC News |access-date=11 October 2016}}</ref>
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! scope="col" | Celebrity
+! scope="col" class="unsortable"| Notability
+! scope="col" | Professional partner
+! scope="col" | Status
+|- style="height:50px"
+! scope="row" | [[Melvin Odoom]] 
+| Television & radio presenter
+| [[Janette Manrara]]
+| bgcolor="f4c7b8" | Eliminated 1st<br /><small>on 2 October 2016</small>
+|- style="height:50px"
+! scope="row" | [[Tameka Empson]]
+| ''[[EastEnders]]'' actress
+| [[Gorka Márquez]]
+| bgcolor="f4c7b8" | Eliminated 2nd<br /><small>on 9 October 2016</small>
+|- style="height:50px"
+! scope="row" | [[Will Young]]
+| Singer-songwriter & actor
+| [[Karen Clifton]]
+| bgcolor="lightgreen" | Withdrew <br /><small>on 11 October 2016</small>
+|- style="height:50px"
+! scope="row" | [[Naga Munchetty]]
+| ''[[BBC Breakfast]]'' newsreader & journalist
+| [[Pasha Kovalev]]
+| bgcolor="f4c7b8" | Eliminated 3rd<br /><small>on 16 October 2016</small>
+|- style="height:50px"
+! scope="row" | [[Lesley Joseph]]
+| Stage & screen actress
+| [[Anton Du Beke]]
+| bgcolor="f4c7b8" | Eliminated 4th<br /><small>on 23 October 2016</small>
+|- style="height:50px"
+! scope="row" | [[Anastacia]]
+| Singer-songwriter
+| [[Brendan Cole]]<br/>{{small|Gorka Márquez (Week 5)}}
+| bgcolor="f4c7b8" | Eliminated 5th<br /><small>on 30 October 2016</small>
+|- style="height:50px"
+! scope="row" | [[Laura Whitmore]]
+| Television presenter 
+| [[Giovanni Pernice]]
+| bgcolor="f4c7b8" | Eliminated 6th<br /><small>on 6 November 2016</small>
+|- style="height:50px"
+! scope="row" | [[Daisy Lowe]]
+| Fashion model
+| [[Aljaž Škorjanec]]
+| bgcolor="f4c7b8" | Eliminated 7th<br /><small>on 13 November 2016</small>
+|- style="height:50px"
+! scope="row" | [[Greg Rutherford]]
+| [[Athletics at the Summer Olympics|Olympic long jumper]]
+| [[Natalie Lowe]]
+| bgcolor="f4c7b8" | Eliminated 8th<br /><small>on 20 November 2016</small>
+|- style="height:50px"
+! scope="row" | [[Ed Balls]]
+| [[Labour Party (UK)|Labour Party]] politician
+| [[Katya Jones]]
+| bgcolor="f4c7b8" | Eliminated 9th<br /><small>on 27 November 2016</small>
+|- style="height:50px"
+! scope="row" | [[Robert Rinder|Judge Rinder]]
+| Criminal law barrister & television judge
+| [[Oksana Platero]]
+| bgcolor="f4c7b8" | Eliminated 10th<br /><small>on 4 December 2016</small>
+|- style="height:50px"
+! scope="row" | {{nowrap|[[Claudia Fragapane]]}}
+| [[Artistic gymnastics at the Summer Olympics|Olympic artistic gymnast]]
+| [[AJ Pritchard]]
+| bgcolor="f4c7b8" | Eliminated 11th<br /><small>on 11 December 2016</small>
+|- style="height:50px"
+! scope="row" | [[Danny Mac]]
+| ''[[Hollyoaks]]'' actor
+| [[Oti Mabuse]]
+| bgcolor="silver" rowspan=2 | Runners-up<br><small>on 17 December 2016</small>
+|- style="height:50px"
+! scope="row" | [[Louise Redknapp]]
+| [[Eternal (band)|Eternal]] singer & television presenter 
+| [[Kevin Clifton]]
+|- style="height:50px"
+! scope="row" | [[Ore Oduba]]
+| [[BBC Sport]] presenter
+| [[Joanne Clifton]]
+| bgcolor="gold" | '''Winners'''<br><small>on 17 December 2016</small>
+|}
+
+==Scoring chart==
+The highest score each week is indicated in {{fontcolor|#004600|'''bold green'''}} with a dagger ({{dagger}}), while the lowest score each week is indicated in {{fontcolor|#800000|''italicized red''}} with a double-dagger ({{double-dagger}}).
+
+'''Color key:'''
+{{columns-list|colwidth=20em|
+{{legend|gold|Winners}}
+{{legend|silver|Runners-up}}
+{{legend|lightblue|Bottom two}}
+{{legend|#fff383|Excused from competition for the week}}
+{{legend|lightgreen|Withdrew from competition}}
+{{legend|#f4c7b8|Eliminated}}
+}}
+{| class="wikitable sortable" style="text-align:center; font-size:95%"
+|+''Strictly Come Dancing'' (series 14) - Weekly scores
+|-
+! rowspan="2" scope="col" | Couple
+! rowspan="2" scope="col" | {{Abbr|Pl.|Place}}
+! colspan="14" | Week
+|-
+! scope="col" | 1
+! scope="col" | 2 
+! scope="col" | 1+2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" | 5
+! scope="col" | 6
+! scope="col" | 7
+! scope="col" | 8
+! scope="col" | 9
+! scope="col" | 10
+! scope="col" | 11
+! scope="col" | 12
+! scope="col" | 13
+|-
+! scope="row" | Ore & Joanne
+| 1st
+| 27
+| 27
+| 54
+| 35
+| {{fontcolor|#004600|'''39'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''36'''}}{{dagger|alt=This was the highest score of the night.}}
+| 32
+| bgcolor="lightblue" | 34{{efn|name=Bottom2}}
+| 35
+| 38
+| {{sort|40|}} | 36+4=40
+| bgcolor="lightblue" | 36{{efn|name=Bottom2}}
+| {{sort|77|}} | 38+39={{fontcolor|#004600|'''77'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|119|}} bgcolor="gold" | 39+40+40={{fontcolor|#004600|'''119'''}}{{dagger|alt=This was the highest score of the night.}}{{efn|This couple finished in first place.}}
+|-
+! scope="row" | Danny & Oti
+| rowspan="2"|2nd
+| 31
+| {{fontcolor|#004600|'''32'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''63'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''36'''}}{{dagger|alt=This was the highest score of the night.}}
+| 36
+| 35
+| 30
+| 38
+| {{fontcolor|#004600|'''38'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''40'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|45|}} | 40+5={{fontcolor|#004600|'''45'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''38'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{sort|76|}} style="background:lightblue;"| 37+39=76{{efn|name=Bottom2}}
+| {{sort|116|}} bgcolor="silver" | 36+40+40={{fontcolor|#800000|''116''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=2nd|This couple finished in second place.}}
+|-
+! scope="row" | Louise & Kevin
+| 31
+| {{fontcolor|#004600|'''32'''}}{{dagger|alt=This was the highest score of the night.}}
+| {{fontcolor|#004600|'''63'''}}{{dagger|alt=This was the highest score of the night.}}
+| 31
+| 33
+| 33
+| 35
+| {{fontcolor|#004600|'''39'''}}{{dagger|alt=This was the highest score of the night.}}
+| 37
+| 38
+| {{sort|45|}} | 39+6={{fontcolor|#004600|'''45'''}}{{dagger|alt=This was the highest score of the night.}}
+| 37
+| {{sort|73|}} | 37+36={{fontcolor|#800000|''73''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{sort|116|}} bgcolor="silver" | 38+38+40={{fontcolor|#800000|''116''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=2nd}}
+|-
+! scope="row" | Claudia & AJ
+| 4th 
+| 26
+| 30
+| 56
+| {{fontcolor|#004600|'''36'''}}{{dagger|alt=This was the highest score of the night.}}
+| 30
+| 32
+| {{fontcolor|#004600|'''36'''}}{{dagger|alt=This was the highest score of the night.}}
+| 33
+| 36
+| bgcolor="lightblue" | 36{{efn|name=Bottom2}}
+| {{sort|39|}} |36+3=39
+| 37
+| {{sort|73|}} bgcolor="f4c7b8" | 35+38={{fontcolor|#800000|''73''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="12" bgcolor="darkgrey" |
+|-
+! scope="row" | {{nowrap|Judge Rinder & Oksana}} 
+| 5th
+| 25
+| 27
+| 52
+| 27
+| 27
+| 29
+| 32
+| 33
+| 33
+| 33
+| {{sort|31|}} bgcolor="lightblue" | 29+2=31{{efn|name=Bottom2}}
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''31''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="11" bgcolor="darkgrey" |
+|-
+! scope="row" | Ed & Katya
+| 6th
+| {{fontcolor|#800000|''21''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| 23
+| {{fontcolor|#800000|''44''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{fontcolor|#800000|''24''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{fontcolor|#800000|''16''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{fontcolor|#800000|''18''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| 26
+| {{fontcolor|#800000|''27''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{fontcolor|#800000|''25''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{fontcolor|#800000|''23''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| {{sort|24|}} bgcolor="f4c7b8" | 23+1={{fontcolor|#800000|''24''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="10" bgcolor="darkgrey" |
+|-
+! scope="row" | Greg & Natalie
+| 7th
+| 27
+| 26
+| 53
+| 32
+| 28
+| 24
+| 26
+| 32
+| bgcolor="lightblue" | 31{{efn|name=Bottom2}}
+| bgcolor="f4c7b8" | 32{{efn|name=Elim}}
+| rowspan="9" bgcolor="darkgrey" |
+|-
+! scope="row" | Daisy & Aljaž
+| 8th
+| {{fontcolor|#004600|'''32'''}}{{dagger|alt=This was the highest score of the night.}}
+| 30
+| 62
+| 31
+| 31
+| bgcolor="lightblue" | 32{{efn|name=Bottom2}}
+| bgcolor="lightblue" | 33{{efn|name=Bottom2}}
+| 34
+| bgcolor="f4c7b8" | 31{{efn|name=Elim}}
+| rowspan="8" bgcolor="darkgrey" |
+|-
+! scope="row" | Laura & Giovanni
+| 9th 
+| 25
+| {{fontcolor|#004600|'''32'''}}{{dagger|alt=This was the highest score of the night.}}
+| 57
+| bgcolor="lightblue" | 30{{efn|name=Bottom2}}
+| 33
+| bgcolor="fff383" | {{efn|name=OutSick|This couple was excused from competition due to illness or injury, and was granted a [[Bye (sports)|bye]] to the following week.}}
+| {{fontcolor|#004600|'''36'''}}{{dagger|alt=This was the highest score of the night.}}
+| bgcolor="f4c7b8" | 32{{efn|name=Elim}}
+| rowspan="7" bgcolor="darkgrey" |
+|-
+! scope="row" | Anastacia & Brendan
+| 10th
+| 28
+| {{fontcolor|#800000|''22''}}{{double-dagger|alt=This was the lowest score of the night.}}
+| bgcolor="lightblue" | 50{{efn|name=Bottom2|This couple was in the bottom two, but was not eliminated.}}
+| 27
+| bgcolor="lightblue" | 27{{efn|name=Bottom2}}
+| 30
+| bgcolor="f4c7b8" | {{fontcolor|#800000|''25''}}{{double-dagger|alt=This was the lowest score of the night.}}{{efn|name=Elim}}
+| rowspan="6" bgcolor="darkgrey" |
+|-
+! scope="row" | Lesley & Anton
+| 11th 
+| 23
+| 26
+| 49
+| 27
+| 31
+| bgcolor="f4c7b8" | 24{{efn|name=Elim}}
+| rowspan="5" bgcolor="darkgrey" |
+|-
+! scope="row" | Naga & Pasha
+| 12th 
+| 23
+| 23
+| 46
+| 25
+| bgcolor="f4c7b8" | 24{{efn|name=Elim}}
+| rowspan="4" bgcolor="darkgrey" |
+|-
+! scope="row" | Will & Karen
+| 13th
+| 30
+| 27
+| 57
+| 31
+| bgcolor="lightgreen" | {{efn|This couple withdrew from the competition.}}
+|-
+! scope="row" | Tameka & Gorka
+| 14th
+| 26
+| 29
+| 55
+| bgcolor="f4c7b8" | 28{{efn|name=Elim}}
+| rowspan="2" bgcolor="darkgrey" |
+|-
+! scope="row" | Melvin & Janette
+| 15th
+| 22
+| 23
+| bgcolor="f4c7b8" | 45{{efn|name=Elim|This couple was eliminated.}}
+| bgcolor="darkgrey" |
+|}
+;Notes
+{{notelist}}
+
+===Average chart===
+This table only counts for dances scored on a traditional 40-point scale.
+{| class="wikitable sortable" style="text-align:center; font-size:95%"
+|-
+! scope="col" | Couple
+! scope="col" | Rank by<br>average
+! scope="col" | Total<br>points
+! scope="col" | Number of<br>dances
+! scope="col" | Total<br>average
+|-
+! scope="row" | Danny & Oti
+| 1st
+| 586
+| rowspan="3" | 16
+| 36.6
+|-
+! scope="row" | Louise & Kevin
+| 2nd
+| 574
+| 35.9
+|-
+! scope="row" | Ore & Joanne
+| 3rd
+| 571
+| 35.7
+|-
+! scope="row" | Claudia & AJ
+| 4th
+| 441
+| 13
+| 33.9
+|-
+! scope="row" | Daisy & Aljaž
+| 5th
+| 254
+| 8
+| 31.8
+|-
+! scope="row" | Laura & Giovanni
+| 6th
+| 188
+| 6
+| 31.3
+|-
+! scope="row" | Judge Rinder & Oksana
+| 7th
+| 326
+| 11
+| 29.6
+|-
+! scope="row" | Will & Karen
+| 8th
+| 88
+| 3
+| 29.3
+|-
+! scope="row" | Greg & Natalie
+| 9th
+| 258
+| 9
+| 28.7
+|-
+! scope="row" | Tameka & Gorka
+| 10th
+| 85
+| 3
+| 27.7
+|-
+! scope="row" | Anastacia & Brendan
+| 11th
+| 159
+| 6
+| 26.5
+|-
+! scope="row" | Lesley & Anton
+| 12th
+| 131
+| 5
+| 26.2
+|-
+! scope="row" | Naga & Pasha
+| 13th
+| 95
+| 4
+| 23.8
+|-
+! scope="row" | Ed & Katya
+| 14th
+| 226
+| 10
+| 22.6
+|-
+! scope="row" | Melvin & Janette
+| 15th
+| 45
+| 2
+| 22.5
+|}
+
+==Weekly scores==
+''Unless indicated otherwise, individual judges scores in the charts below (given in parentheses) are listed in this order from left to right: [[Craig Revel Horwood]], [[Darcey Bussell]], [[Len Goodman]], [[Bruno Tonioli]]''.
+
+===Week 1===
+Six of the couples performed on the first night and the other nine couples performed on the second night. There was no elimination this week; all scores and votes carried over to the following week. Couples are listed in the order they performed.
+
+;Night 1 (Friday)
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance<ref name="Week 1">{{cite web|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2Fc12453bf-521c-49b3-9441-510d4a375dc4|title=Revealed! Week One songs and dances|date=21 September 2016 |publisher=BBC|access-date=24 September 2016}}</ref>
+! scope="col" class="unsortable"|Music<ref name="Week 1" />
+|-
+! scope="row" | Laura & Giovanni
+| 25 (5, 6, 7, 7)
+| Cha-cha-cha
+| "[[Venus (Shocking Blue song)|Venus]]" — [[Shocking Blue]]
+|-
+! scope="row" | Naga & Pasha
+| 23 (5, 6, 6, 6)
+| Waltz
+| "[[Run to You (Whitney Houston song)|Run to You]]" — [[Whitney Houston]]
+|-
+! scope="row" | Judge Rinder & Oksana
+| 25 (6, 7, 6, 6)
+| Cha-cha-cha
+| "[[Mercy (Duffy song)|Mercy]]" — [[Duffy (singer)|Duffy]]
+|-
+! scope="row" | Lesley & Anton 
+| 23 (5, 6, 6, 6)
+| Waltz
+| "[[What'll I Do]]" — [[Alison Krauss]] 
+|-
+! scope="row" | Ore & Joanne
+| 27 (7, 7, 6, 7)
+| Tango
+| "[[Geronimo (Sheppard song)|Geronimo]]" — [[Sheppard (band)|Sheppard]]
+|-
+! scope="row" | Greg & Natalie
+| 27 (6, 7, 7, 7)
+| Jive
+| "[[Get Ready (The Temptations song)|Get Ready]]" — [[The Temptations]]
+|}
+;Night 2 (Saturday)
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance<ref name="Week 1" />
+! scope="col" class="unsortable"|Music<ref name="Week 1" />
+|-
+! scope="row" | Louise & Kevin
+| 31 (8, 7, 8, 8)
+| Jive
+| "[[Jump, Jive an' Wail]]" — [[The Brian Setzer Orchestra]]
+|-
+! scope="row" | Melvin & Janette
+| 22 (4, 6, 6, 6)
+| Cha-cha-cha
+| "[[Loco in Acapulco]]" — [[Four Tops]]
+|-
+! scope="row" | Daisy & Aljaž
+| 32 (7, 8, 9, 8)
+| Waltz
+| "[[Unforgettable (Nat King Cole song)|Unforgettable]]" — [[Nat King Cole]]
+|-
+! scope="row" | Danny & Oti
+| 31 (8, 8, 7, 8)
+| Cha-cha-cha
+| "[[Cake by the Ocean]]" — [[DNCE]]
+|-
+! scope="row" | Tameka & Gorka
+| 26 (6, 6, 7, 7)
+| Paso doble
+| "[[Y Viva España]]" — [[Sylvia Vrethammar|Sylvia]]
+|-
+! scope="row" | Anastacia & Brendan
+| 28 (8, 7, 7, 6)
+| Cha-cha-cha
+| "[[Lady Marmalade]]" — from ''[[Moulin Rouge!]]''
+|-
+! scope="row" | Ed & Katya
+| 21 (5, 5, 6, 5)
+| Waltz
+| "[[Are You Lonesome Tonight? (song)|Are You Lonesome Tonight?]]" — [[Elvis Presley]]
+|-
+! scope="row" | Claudia & AJ
+| 26 (6, 6, 7, 7)
+| Cha-cha-cha
+| "[[What Makes You Beautiful]]" — [[One Direction]]
+|-
+! scope="row" | Will & Karen
+| 30 (8, 8, 7, 7)
+| Tango
+| "[[Let's Dance (David Bowie song)|Let's Dance]]" — [[David Bowie]]
+|}
+
+===Week 2===
+Musical guest: [[Barry Gibb]] — "In the Now"
+
+Due to an injury, Anastacia & Brendan were unable to participate in the dance-off. Therefore, the couple with the fewest public votes were eliminated. Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance<ref name=":0" />
+! scope="col" class="unsortable"|Music<ref name=":0">{{cite web|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2Fc5e016e2-9204-477a-9969-5fe0eceaa6f7|title=Songs and dances for Week Two revealed!|date=27 September 2016|website=Strictly Come Dancing|access-date=29 September 2016}}</ref>
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Ore & Joanne
+| 27 (6, 7, 7, 7)
+| Cha-cha-cha
+| "[[Hot Stuff (Donna Summer song)|Hot Stuff]]" — [[Donna Summer]]
+| Safe
+|-
+! scope="row" | Claudia & AJ
+| 30 (6, 8, 8, 8)
+| Waltz
+| "[[You Light Up My Life (song)|You Light Up My Life]]" — [[Whitney Houston]]
+| Safe
+|-
+! scope="row" | Will & Karen
+| 27 (5, 7, 8, 7)
+| Jive
+| "[[Rock Around the Clock]]" — [[Bill Haley & His Comets]]
+| Safe
+|-
+! scope="row" | Lesley & Anton
+| 26 (6, 7, 7, 6)
+| Cha-cha-cha
+| "[[Quizás, Quizás, Quizás|Perhaps, Perhaps, Perhaps]]" — [[The Pussycat Dolls]]
+| Safe
+|-
+! scope="row" | Greg & Natalie
+| 26 (6, 7, 6, 7)
+| Tango
+| "[[Jump (Van Halen song)|Jump]]" — [[Van Halen]]
+| Safe
+|- 
+! scope="row" | Tameka & Gorka
+| 29 (7, 7, 7, 8)
+| Charleston
+| "[[Yes Sir, That's My Baby (song)|Yes Sir, That's My Baby]]" — [[Firehouse Five Plus Two]]
+| Safe
+|-
+! scope="row" | Laura & Giovanni
+| 32 (8, 8, 8, 8)
+| Waltz
+| "[[If I Ain't Got You]]" — [[Alicia Keys]]
+| Safe
+|-
+! scope="row" | Melvin & Janette
+| 23 (5, 6, 6, 6)
+| Tango
+| "[[Moving On Up (M People song)|Moving on Up]]" — [[M People]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Louise & Kevin
+| 32 (8, 8, 8, 8)
+| Viennese waltz
+| "[[Hallelujah (Leonard Cohen song)|Hallelujah]]" — [[k.d. lang]]
+| Safe
+|-
+! scope="row" | Anastacia & Brendan
+| 22 (4, 6, 6, 6)
+| Salsa
+| "[[Sax (song)|Sax]]" — [[Fleur East]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Ed & Katya
+| 23 (3, 7, 6, 7)
+| Charleston
+| "The Banjo's Back in Town" — [[Alma Cogan]]
+| Safe
+|-
+! scope="row" | Naga & Pasha
+| 23 (4, 6, 6, 7)
+| Cha-cha-cha
+| "[[A Fool in Love]]" — [[Ike & Tina Turner]]
+| Safe
+|-
+! scope="row" | Judge Rinder & Oksana
+| 27 (6, 7, 7, 7)
+| American Smooth
+| "[[Marvin Gaye (song)|Marvin Gaye]]" — [[Charlie Puth]], feat. [[Meghan Trainor]]
+| Safe
+|-
+! scope="row" | Daisy & Aljaž
+| 30 (7, 8, 7, 8)
+| Cha-cha-cha
+| "[[Forget You]]" — [[CeeLo Green]]
+| Safe
+|-
+! scope="row" | Danny & Oti
+| 32 (8, 8, 8, 8)
+| Viennese waltz
+| "[[Never Tear Us Apart]]" — [[INXS]]
+| Safe
+|}
+
+===Week 3: Movie Week===
+Musical guests: [[Alfie Boe]] & [[Michael Ball (singer)|Michael Ball]] — "[[Somewhere (West Side Story song)|Somewhere]]" ''(from [[West Side Story (1961 film)|West Side Story]])''
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance<ref name=":1">{{cite web|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2F7da8a9fd-555c-4d19-9d26-c85b5e5971f1 |title=BBC Blogs – Strictly Come Dancing – All the listings for Movie Week! |publisher=BBC |access-date=11 October 2016}}</ref>
+! scope="col" class="unsortable"|Music<ref name=":1" />
+! scope="col" class="unsortable"|Film
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Daisy & Aljaž
+| {{nowrap|31 (7, 8, 8, 8)}}
+| Quickstep
+| "[[A Spoonful of Sugar]]"
+| ''[[Mary Poppins (film)|Mary Poppins]]''
+| Safe
+|-
+! scope="row" | Anastacia & Brendan
+| 27 (6, 7, 7, 7)
+| Viennese waltz
+| "[[A Thousand Years (Christina Perri song)|A Thousand Years]]"
+| ''[[The Twilight Saga: Breaking Dawn – Part 1|The Twilight Saga:<br>Breaking Dawn – Part 1]]''
+| Safe
+|-
+! scope="row" | Danny & Oti
+| 36 (9, 9, 9, 9)
+| Paso doble
+| "[[The Mask of Zorro#Soundtrack|The Train/El Sombrero Blanco]]"
+| ''[[The Mask of Zorro]]''
+| Safe
+|-
+! scope="row" | Lesley & Anton
+| 27 (6, 7, 7, 7)
+| Quickstep
+| "A Couple of Swells"
+| ''[[Easter Parade (film)|Easter Parade]]''
+| Safe
+|-
+! scope="row" | Will & Karen
+| 31 (8, 8, 7, 8)
+| Salsa
+| "[[Jai Ho! (You Are My Destiny)]]"
+| ''[[Slumdog Millionaire]]''
+| Safe
+|- 
+! scope="row" | Naga & Pasha
+| 25 (5, 6, 7, 7)
+| Tango
+| "[[Theme from Mission: Impossible]]"
+| ''[[Mission: Impossible (film)|Mission: Impossible]]''
+| Safe
+|-
+! scope="row" | Judge Rinder & Oksana
+| 27 (7, 8, 6, 6)
+| Charleston
+| "[[Meet the Flintstones]]"
+| ''[[The Flintstones (film)|The Flintstones]]''
+| Safe
+|-
+! scope="row" | Ore & Joanne
+| 35 (8, 9, 9, 9)
+| American Smooth
+| "[[Singin' in the Rain (song)|Singin' in the Rain]]"
+| ''[[Singin' in the Rain]]''
+| Safe
+|-
+! scope="row" | Laura & Giovanni
+| 30 (7, 7, 7, 9)
+| Salsa
+| "[[Rhythm of the Night (song)|Rhythm of the Night]]"
+| ''[[Moulin Rouge!]]''
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Greg & Natalie
+| 32 (8, 8, 8, 8)
+| American Smooth
+| "[[(Everything I Do) I Do It for You]]"
+| ''[[Robin Hood: Prince of Thieves]]''
+| Safe
+|-
+! scope="row" | Claudia & AJ
+| 36 (9, 9, 9, 9)
+| Charleston
+| "You Give a Little Love"
+| ''[[Bugsy Malone]]''
+| Safe
+|-
+! scope="row" | Tameka & Gorka
+| 28 (6, 7, 7, 8)
+| Tango
+| "[[The Heat Is On (Glenn Frey song)|The Heat Is On]]"
+| ''[[Beverly Hills Cop]]''
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Ed & Katya
+| 24 (4, 6, 7, 7)
+| Samba
+| "[[Cuban Pete (song)|Cuban Pete]]"
+|''[[The Mask (1994 film)|The Mask]]''
+| Safe
+|-
+! scope="row" | Louise & Kevin
+| 31 (7, 8, 8, 8)
+| Cha-cha-cha
+| "[[Flashdance... What a Feeling]]"
+| ''[[Flashdance]]''
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Laura & Giovanni
+*Bussell: Tameka & Gorka
+*Tonioli: Laura & Giovanni
+*Goodman: Laura & Giovanni
+
+===Week 4===
+Musical guest: [[Madness (band)|Madness]] — "Mr. Apples"
+
+[[Will Young]] withdrew from the competition earlier in the week for personal reasons.<ref>{{Cite web |last=Welsh |first=Daniel |date=27 May 2022 |title=Will Young Opens Up About Why Quitting Strictly Was The Best Decision He Ever Made |url=https://www.huffingtonpost.co.uk/entry/will-young-leaving-strictly-come-dancing-was-best-decision_uk_6291011ae4b0933e737331ac |access-date=26 September 2023 |website=HuffPost UK |language=}}</ref>
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance<ref name=":2">{{cite web|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2F56eec936-694d-4bda-ab2d-8ecea203319d |title=BBC Blogs – Strictly Come Dancing – Who's dancing to what this weekend...? |publisher=BBC  |access-date=11 October 2016}}</ref>
+! scope="col" class="unsortable"|Music<ref name=":2" />
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Greg & Natalie
+| 28 (7, 7, 7, 7)
+| Salsa
+| "[[Wrapped Up]]" — [[Olly Murs]]
+| Safe
+|-
+! scope="row" | Laura & Giovanni
+| 33 (8, 8, 8, 9)
+| Quickstep
+| "[[The Ballroom Blitz]]" — [[Sweet (band)|Sweet]]
+| Safe
+|-
+! scope="row" | Anastacia & Brendan
+| 27 (6, 7, 7, 7)
+| Rumba
+| "[[The Way We Were (song)|The Way We Were]]" — [[Barbra Streisand]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Claudia & AJ
+| 30 (6, 8, 8, 8)
+| Foxtrot
+| "[[I Really Like You]]" — [[Carly Rae Jepsen]]
+| Safe
+|-
+! scope="row" | Ed & Katya
+| 16 (2, 5, 5, 4)
+| Paso doble
+| "[[Holding Out for a Hero]]" — [[Bonnie Tyler]]
+| Safe
+|- 
+! scope="row" | Naga & Pasha
+| 24 (5, 6, 7, 6)
+| Charleston
+| "Minnie the Mermaid" — [[Firehouse Five Plus Two]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Louise & Kevin
+| 33 (8, 8, 8, 9)
+| Foxtrot
+| "[[Tears Dry on Their Own]]" — [[Amy Winehouse]]
+| Safe
+|-
+! scope="row" | Danny & Oti
+| 36 (9, 9, 9, 9)
+| Quickstep
+| "[[I Won't Dance]]" — [[Fred Astaire]]
+| Safe
+|-
+! scope="row" | Daisy & Aljaž
+| 31 (7, 8, 8, 8)
+| Rumba
+| "[[Careless Whisper]]" — [[George Michael]]
+| Safe
+|-
+! scope="row" | Judge Rinder & Oksana
+| 27 (6, 7, 7, 7)
+| Viennese waltz
+| "[[Boom Bang-a-Bang]]" — [[Lulu (singer)|Lulu]]
+| Safe
+|-
+! scope="row" | Lesley & Anton
+| 31 (7, 8, 8, 8)
+| Charleston
+| "Won't You Charleston with Me?" — from ''[[The Boy Friend (musical)|The Boy Friend]]''
+| Safe
+|-
+! scope="row" | Ore & Joanne
+| 39 (9, 10, 10, 10)
+| Jive
+| "[[Runaway Baby]]" — [[Bruno Mars]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Anastacia & Brendan
+*Bussell: Anastacia & Brendan
+*Tonioli: Anastacia & Brendan
+*Goodman: ''Did not vote, but would have voted to save Anastacia & Brendan''
+
+===Week 5===
+Musical guest: [[LeAnn Rimes]] — "How to Kiss a Boy"
+
+[[Brendan Cole]] was unable to dance due to illness; [[Anastacia]] performed with [[Gorka Márquez]] instead.
+
+[[Laura Whitmore]] suffered an ankle injury during rehearsals and was unable to perform on the live show. Under the rules of the show, she was granted a [[Bye (sports)|bye]] to the following week.<ref>{{Cite web |last=Agius |first=Nicola |date=22 October 2016 |title=Laura Whitmore 'devastated' as she's forced to pull out of Strictly Come Dancing after sustaining injury |url=https://www.mirror.co.uk/tv/tv-news/laura-whitmore-left-devastated-shes-9104488 |access-date=26 September 2023 |website=Mirror |language=}}</ref>
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance<ref name=":3">{{cite web|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2Fc6bb1ad7-18fc-4802-b4ec-d2f9baaad0ad|title=Week Five is coming – which dances are our couples taking on?|date=18 October 2016}}</ref>
+! scope="col" class="unsortable"|Music<ref name=":3" />
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Judge Rinder & Oksana
+| 29 (6, 8, 8, 7)
+| Jive
+| "[[Boogie Woogie Bugle Boy]]" — [[The Andrews Sisters]]
+| Safe
+|-
+! scope="row" | Lesley & Anton
+| 24 (5, 6, 7, 6)
+| Tango
+| "[[Whatever Lola Wants]]" — [[Gotan Project]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Greg & Natalie
+| 24 (4, 6, 7, 7)
+| Cha-cha-cha
+| "[[We Found Love]]" — [[Rihanna]], feat. [[Calvin Harris]]
+| Safe
+|-
+! scope="row" | Anastacia & Gorka
+| 30 (7, 7, 8, 8)
+| Quickstep
+| "[[My Kind of Town]]" — [[Frank Sinatra]]
+| Safe
+|-
+! scope="row" | Louise & Kevin
+| 33 (8, 8, 8, 9)
+| Rumba
+| "[[Always on My Mind]]" — [[Michael Bublé]]
+| Safe
+|- 
+! scope="row" | Ed & Katya
+| 18 (2, 6, 6, 4)
+| American Smooth
+| "[[Is This the Way to Amarillo]]" — [[Tony Christie]]
+| Safe
+|-
+! scope="row" | Ore & Joanne
+| 36 (9, 9, 9, 9)
+| Waltz
+| "[[I Will Always Love You]]" — Claudia Streza
+| Safe
+|-
+! scope="row" | Daisy & Aljaž
+| 32 (8, 8, 8, 8)
+| Charleston
+| "Happy Feet" — The Manhattan Rhythm Kings
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Danny & Oti
+| 35 (8, 9, 9, 9)
+| Rumba
+| "[[How Will I Know]]" — [[Sam Smith (singer)|Sam Smith]]
+| Safe
+|-
+! scope="row" | Claudia & AJ
+| 32 (8, 7, 8, 9)
+| Samba
+| "[[Young Hearts Run Free]]" — [[Candi Staton]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Daisy & Aljaž
+*Bussell: Daisy & Aljaž
+*Tonioli: Daisy & Aljaž
+*Goodman: ''Did not vote, but would have voted to save Daisy & Aljaž''
+
+===Week 6: Halloween Week===
+Musical guest: [[Laura Mvula]] — "[[Ready or Not (Fugees song)|Ready or Not]]"
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance<ref name=":4">{{cite web|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2F4e69cd0b-531a-4b3a-9f52-a6c070d9e32c|title=All the songs and dances for the Halloween Spooktacular revealed!|date=25 October 2016}}</ref>
+! scope="col" class="unsortable"|Music<ref name=":4" />
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Louise & Kevin
+| 35 (8, 9, 9, 9)
+| Charleston
+| "[[Crazy in Love]]" — [[Emeli Sandé]]
+| Safe
+|-
+! scope="row" | Judge Rinder & Oksana
+| 32 (8, 8, 8, 8)
+| Paso doble
+| "[[Born This Way (song)|Born This Way]]" — [[Lady Gaga]]
+| Safe
+|-
+! scope="row" | Claudia & AJ
+| 36 (9, 9, 9, 9)
+| American Smooth
+| "[[Black Magic (Little Mix song)|Black Magic]]" — [[Little Mix]]
+| Safe
+|-
+! scope="row" | Anastacia & Brendan
+| 25 (4, 7, 7, 7)
+| Jive
+| "[[Bat Out of Hell (song)|Bat Out of Hell]]" — [[Meat Loaf]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Danny & Oti
+| 30 (7, 8, 7, 8)
+| Foxtrot
+| "[[Take Me to Church]]" — [[Hozier (musician)|Hozier]]
+| Safe
+|- 
+! scope="row" | Laura & Giovanni
+| 36 (9, 9, 9, 9)
+| Tango
+| "[[Paint It Black]]" — [[The Rolling Stones]]
+| Safe
+|-
+! scope="row" | Ore & Joanne
+| 32 (6, 8, 9, 9)
+| Charleston
+| "[[I Want Candy]]" — [[Bow Wow Wow]]
+| Safe
+|-
+! scope="row" | Greg & Natalie
+| 26 (4, 7, 7, 8)
+| Rumba
+| "[[Bring Me to Life]]" — [[Evanescence]]
+| Safe
+|-
+! scope="row" | Daisy & Aljaž
+| 33 (8, 8, 8, 9)
+| Paso doble
+| "[[Don't Let Me Be Misunderstood]]" — [[Santa Esmeralda]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Ed & Katya
+| 26 (4, 7, 7, 8)
+| Cha-cha-cha
+| "[[Love Potion No. 9 (song)|Love Potion No. 9]]" — Hansel Martinez
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Daisy & Aljaž
+*Bussell: Daisy & Aljaž
+*Tonioli: Daisy & Aljaž 
+*Goodman: ''Did not vote, but would have voted to save Daisy & Aljaž''
+
+===Week 7===
+Musical guest: [[Gary Barlow]] — "Dare"
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance<ref name=":5">{{cite web|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2F8e2dc895-95f4-42f2-85fd-c028354a0607|title=Songs and dances for week severrrrrn revealed!|date=1 November 2016}}</ref>
+! scope="col" class="unsortable"|Music<ref name=":5" />
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Danny & Oti 
+| 38 (9, 10, 9, 10)
+| Jive 
+| "[[Long Tall Sally]]" — Cagey Strings Band
+| Safe
+|-
+! scope="row" | Daisy & Aljaž 
+| 34 (8, 8, 9, 9)
+| Viennese waltz
+| "[[Daisy Bell]]" — [[Harry Dacre]]
+| Safe
+|-
+! scope="row" | Ore & Joanne 
+| 34 (8, 8, 9, 9)
+| Salsa  
+| "[[Turn the Beat Around]]" — [[Vicki Sue Robinson]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Ed & Katya 
+| 27 (6, 7, 7, 7)
+| Quickstep 
+| "[[Help! (song)|Help!]]" — [[The Beatles]]
+| Safe
+|-
+! scope="row" | Laura & Giovanni 
+| 32 (7, 8, 8, 9)
+| Samba 
+| "[[Bamboléo]]" — [[Gipsy Kings]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Judge Rinder & Oksana 
+| 33 (8, 9, 8, 8)
+| Quickstep 
+| "[[It Don't Mean a Thing (If It Ain't Got That Swing)]]" — Chantz Powell
+| Safe
+|-
+! scope="row" | Louise & Kevin
+| {{nowrap|39 (9, 10, 10, 10)}}
+| Argentine tango
+| "Tanguera" — Sexteto Mayor
+| Safe
+|-
+! scope="row" | Greg & Natalie
+| 32 (8, 8, 8, 8)
+| Viennese waltz
+| "[[You Don't Own Me]]" — [[Grace (Australian singer)|Grace]]
+| Safe
+|-
+! scope="row" | Claudia & AJ
+| 33 (8, 8, 8, 9)
+| Paso doble
+| "[[Shut Up and Dance (Walk the Moon song)|Shut Up and Dance]]" — [[Walk the Moon]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Ore & Joanne
+*Bussell: Ore & Joanne
+*Tonioli: Ore & Joanne
+*Goodman: ''Did not vote, but would have voted to save Ore & Joanne''
+
+===Week 8===
+Musical guest: [[André Rieu]] and his Orchestra — "[[Hallelujah (Leonard Cohen song)|Hallelujah]]"
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance<ref name=":6">{{cite web|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2F9df95fde-a996-4275-975e-8bd94473faf8|title=The full song and dance list for Week Eight...|date=8 November 2016}}</ref>
+! scope="col" class="unsortable"|Music<ref name=":6" />
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Daisy & Aljaž
+| 31 (7, 8, 8, 8)
+| Salsa
+| "[[Groove Is in the Heart]]" — [[Deee-Lite]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Greg & Natalie 
+| 31 (7, 8, 8, 8)
+| Paso doble 
+| "Tamacun" — [[Rodrigo y Gabriela]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Judge Rinder & Oksana
+| 33 (7, 9, 9, 8)
+| Foxtrot
+| "[[You Make Me Feel So Young]]" — [[Frank Sinatra]]
+| Safe
+|-
+! scope="row" | Ore & Joanne
+| 35 (8, 9, 9, 9)
+| Rumba 
+| "[[Ordinary People (John Legend song)|Ordinary People]]" — [[John Legend]]
+| Safe
+|-
+! scope="row" | Ed & Katya
+| 25 (4, 7, 8, 6)
+| Salsa
+| "[[Gangnam Style]]" — [[Psy]]
+| Safe
+|-
+! scope="row" | Claudia & AJ
+| 36 (9, 9, 9, 9)
+| Viennese waltz
+| "[[Breakaway (Kelly Clarkson song)|Breakaway]]" — [[Kelly Clarkson]]
+| Safe
+|-
+! scope="row" | Danny & Oti
+| 38 (9, 9, 10, 10)
+| Argentine tango
+| "[[I Heard It Through the Grapevine]]" — [[Marvin Gaye]]
+| Safe
+|-
+! scope="row" | Louise & Kevin
+| 37 (9, 9, 9, 10)
+| American Smooth
+| "[[Big Spender]]" — [[Shirley Bassey]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Greg & Natalie
+*Bussell: Greg & Natalie
+*Tonioli: Daisy & Aljaž
+*Goodman: Greg & Natalie
+
+===Week 9: Blackpool Week===
+Musical guests:
+*[[Simple Minds]] — "[[Don't You (Forget About Me)]]"
+*[[Rick Astley]] — "Dance"
+
+This week's episode was staged in the [[Blackpool Tower#Tower Ballroom|Tower Ballroom]] at the [[Blackpool Tower]] in [[Blackpool, Lancashire]]. Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance<ref name=":7">{{cite web|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2F621fe999-950d-4460-9dd5-beb6f85cc17d|title=The songs and dances for the Blackpool Bonanza!|date=15 November 2016}}</ref>
+! scope="col" class="unsortable"|Music<ref name=":7" />
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Claudia & AJ
+| 36 (9, 9, 9, 9)
+| Jive
+| "[[Mickey (Toni Basil song)|Mickey]]" — [[Toni Basil]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Ore & Joanne
+| 38 (8, 10, 10, 10)
+| Viennese waltz
+| "[[That's Life (song)|That's Life]]" — [[Frank Sinatra]]
+| Safe
+|-
+! scope="row" | Louise & Kevin
+| 38 (9, 9, 10, 10)
+| Paso doble
+| "Explosive" — [[Bond (band)|Bond]]
+| Safe
+|-
+! scope="row" | Danny & Oti
+| 40 (10, 10, 10, 10)
+| Charleston
+| "[[Puttin' On the Ritz]]" — [[Gregory Porter]]
+| Safe
+|-
+! scope="row" | Ed & Katya
+| 23 (4, 6, 7, 6)
+| Jive
+| "[[Great Balls of Fire]]" — [[Jerry Lee Lewis]]
+| Safe
+|-
+! scope="row" | Greg & Natalie
+| 32 (8, 8, 8, 8)
+| Quickstep
+| "Born to Hand Jive" — [[Sha Na Na]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Judge Rinder & Oksana
+| 33 (8, 9, 8, 8)
+| Salsa
+| "[[Spice Up Your Life]]" — [[Spice Girls]]
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Claudia & AJ 
+*Bussell: Claudia & AJ 
+*Tonioli: Claudia & AJ 
+*Goodman: ''Did not vote, but would have voted to save Claudia & AJ''
+
+===Week 10===
+Musical guest: [[Ellie Goulding]] — "[[Still Falling for You]]"
+
+Each couple performed one routine, and then all couples participated in a [[Cha-cha-cha (dance)|cha-cha-cha]] marathon for additional points. Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance<ref name=":8">{{cite web|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2Fe5dc4549-87b1-4498-8f1c-01d9265904ae|title=Week Ten's songs and dances revealed!|date=22 November 2016}}</ref>
+! scope="col" class="unsortable"|Music<ref name=":8" />
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Danny & Oti 
+| {{nowrap|40 (10, 10, 10, 10)}}
+| Samba 
+| "[[Magalenha]]" — [[Sérgio Mendes]], feat. [[Carlinhos Brown]]
+| Safe
+|-
+! scope="row" | Ore & Joanne 
+| 36 (8, 9, 9, 10)
+| Paso doble 
+| "[[Everybody Wants to Rule the World]]" — [[Lorde]]
+| Safe
+|-
+! scope="row" | Louise & Kevin 
+| 39 (9, 10, 10, 10)
+| Waltz 
+| "[[At This Moment]]" — [[Michael Bublé]]
+| Safe
+|-
+! scope="row" | Judge Rinder & Oksana
+| 29 (6, 8, 8, 7)
+| Rumba 
+| "[[Lean on Me (song)|Lean on Me]]" — [[Bill Withers]]
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Ed & Katya
+| 23 (4, 6, 7, 6)
+| Tango
+| "[[(I Can't Get No) Satisfaction]]" — [[The Rolling Stones]]
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Claudia & AJ
+| 36 (9, 9, 9, 9)
+| Argentine tango
+| "[[Cry Me a River (Justin Timberlake song)|Cry Me a River]]" — [[Justin Timberlake]]
+| Safe
+|-
+! scope="row" | Ed & Katya
+| 1
+| rowspan="6" | Cha-Cha-Challenge<br>''(Cha-cha-cha Marathon)''
+| colspan="2" rowspan="6" | "[[I Like It Like That (Pete Rodriguez song)|I Like It Like That]]" — [[Pete Rodriguez (boogaloo musician)|Pete Rodriguez]]
+|-
+! scope="row" | Judge Rinder & Oksana
+| 2
+|-
+! scope="row" | Claudia & AJ
+| 3
+|-
+! scope="row" | Ore & Joanne
+| 4
+|-
+! scope="row" | Danny & Oti
+| 5
+|-
+! scope="row" | Louise & Kevin
+| 6
+|}
+;Judges' votes to save
+*Horwood: Judge Rinder & Oksana
+*Bussell: Judge Rinder & Oksana
+*Tonioli: Judge Rinder & Oksana
+*Goodman: ''Did not vote, but would have voted to save Judge Rinder & Oksana''
+
+===Week 11: Musicals Week (Quarter-final)===
+Musical guest: [[Elaine Paige]] — "[[Don't Cry for Me Argentina]]" ''(from [[Evita (musical)|Evita]])''
+
+Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance
+! scope="col" class="unsortable"|Music
+! scope="col" class="unsortable"|Musical
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" | Ore & Joanne
+| 36 (9, 9, 9, 9)
+| Foxtrot
+| "[[Pure Imagination]]"
+| ''[[Charlie and the Chocolate Factory (musical)|Charlie and the Chocolate Factory]]''
+| bgcolor="lightblue" | Bottom two
+|-
+! scope="row" | Judge Rinder & Oksana
+| 31 (7, 8, 8, 8)
+| Samba
+| "[[December, 1963 (Oh, What a Night)]]"
+| ''[[Jersey Boys]]''
+| bgcolor="f4c7b8" | Eliminated
+|-
+! scope="row" | Louise & Kevin
+| 37 (9, 9, 9, 10)
+| Quickstep
+| "[[The Deadwood Stage (Whip-Crack-Away!)]]"
+| ''[[Calamity Jane (musical)|Calamity Jane]]''
+| Safe
+|-
+! scope="row" | Claudia & AJ
+| 37 (9, 9, 9, 10)
+| Salsa
+| "[[I Just Can't Wait to Be King]]"
+| ''[[The Lion King (musical)|The Lion King]]''
+| Safe
+|-
+! scope="row" | Danny & Oti
+| {{nowrap|38 (9, 10, 9, 10)}}
+| Tango
+| "[[One Night Only (song)|One Night Only]]"
+| ''[[Dreamgirls]]''
+| Safe
+|}
+;Judges' votes to save
+*Horwood: Ore & Joanne
+*Bussell: Ore & Joanne
+*Tonioli: Ore & Joanne
+*Goodman: ''Did not vote, but would have voted to save Ore & Joanne''
+
+===Week 12: Semi-final===
+Musical guest: [[Sting (musician)|Sting]] — "One Fine Day"
+
+Each couple performed two routines. Couples are listed in the order they performed. 
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance<ref name=":10" />
+! scope="col" class="unsortable"|Music<ref name=":10">{{cite web|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2F44b4e5cf-133d-4e91-b52b-e9c0fed5b091|title=Semi-final – Songs and Dances Revealed!|date=6 December 2016}}</ref>
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" rowspan=2 | Louise & Kevin
+| 37 (9, 9, 9, 10)
+| Tango
+| "[[Glad All Over]]" — [[The Dave Clark Five]]
+| rowspan=2 | Safe
+|-
+| 36 (9, 9, 9, 9)
+| Samba
+| "[[Aquarela do Brasil]]" — Thiago Thomé
+|-
+! scope="row" rowspan=2 | Danny & Oti 
+| 37 (9, 9, 9, 10)
+| Salsa
+| "[[C'est la vie (Khaled song)|Vivir Mi Vida]]" — [[Marc Anthony]]
+| rowspan=2 bgcolor="lightblue" | Bottom two
+|-
+| 39 (10, 9, 10, 10)
+| American Smooth
+| "[[Misty Blue]]" — [[Dorothy Moore]]
+|-
+! scope="row" rowspan=2 | Claudia & AJ
+| 35 (8, 9, 9, 9)
+| Rumba
+| "[[Bleeding Love]]" — [[Leona Lewis]]
+| rowspan=2 bgcolor="f4c7b8" | Eliminated
+|-
+| 38 (9, 9, 10, 10)
+| Quickstep
+| "[[When You're Smiling]]" — [[Andy Williams]]
+|-
+! scope="row" rowspan=2 | Ore & Joanne
+| 38 (8, 10, 10, 10)
+| Quickstep
+| "[[Are You Gonna Be My Girl]]" — [[Jet (band)|Jet]]
+| rowspan=2 | Safe  
+|-
+| 39 (9, 10, 10, 10)
+| Argentine tango
+| "[[Can't Get You Out of My Head]]" — [[Kylie Minogue]]
+|}
+;Judges' votes to save
+*Horwood: Danny & Oti
+*Bussell: Danny & Oti
+*Tonioli: Danny & Oti
+*Goodman: ''Did not vote, but would have voted to save Danny & Oti''
+
+===Week 13: Final===
+Musical guest: [[Emeli Sandé]] — "Highs & Lows"
+
+Each couple performed three routines: one chosen by the judges, their showdance routine, and their favourite dance of the series. Couples are listed in the order they performed.
+{| class="wikitable sortable" style="text-align:center; width:90%"
+|-
+! scope="col" |Couple
+! scope="col" |Scores
+! scope="col" class="unsortable"|Dance<ref name="bbc.co.uk">{{cite web|url=https://www.bbc.co.uk/webarchive/https%3A%2F%2Fwww.bbc.co.uk%2Fblogs%2Fstrictlycomedancing%2Fentries%2F7b3927d5-1a2e-4144-8428-6425c9255748|title=The Grand Final – Songs and Dances Revealed!|date=13 December 2016}}</ref>
+! scope="col" class="unsortable"|Music<ref name="bbc.co.uk" />
+! scope="col" class="unsortable"|Result
+|-
+! scope="row" rowspan=3 | Ore & Joanne
+| 39 (9, 10, 10, 10)
+| American Smooth
+| "[[Singin' in the Rain (song)|Singin' in the Rain]]" — from ''[[Singin' in the Rain]]''
+| rowspan=3 bgcolor="gold" | '''Winners'''
+|-
+| 40 (10, 10, 10, 10)
+| Showdance
+| "[[I Got Rhythm]]" — [[George Gershwin]] & [[Ira Gershwin]]
+|-
+| 40 (10, 10, 10, 10)
+| Jive
+| "[[Runaway Baby]]" — [[Bruno Mars]]
+|-
+! scope="row" rowspan=3 | Louise & Kevin 
+| 38 (9, 9, 10, 10)
+| Cha-cha-cha
+| "[[Flashdance... What a Feeling]]" — from ''[[Flashdance]]''
+| rowspan="3" bgcolor="silver" | Runners-up
+|-
+| 38 (9, 9, 10, 10)
+| Showdance
+| "[[One Moment in Time]]" — [[Whitney Houston]]
+|-
+| 40 (10, 10, 10, 10)
+| Argentine tango
+| "Tanguera" — Sexteto Mayor
+|-
+! scope="row" rowspan=3 | Danny & Oti
+| 36 (9, 9, 9, 9)
+| Quickstep
+| "[[I Won't Dance]]" — [[Fred Astaire]]
+| rowspan="3" bgcolor="silver" | Runners-up
+|-
+| 40 (10, 10, 10, 10)
+| Showdance
+| "[[Set Fire to the Rain]]" — [[Adele]]
+|-
+| 40 (10, 10, 10, 10)
+| Samba
+| "[[Magalenha]]" — [[Sérgio Mendes]], feat. [[Carlinhos Brown]]
+|}
+
+==Dance chart==
+The couples performed the following each week:
+*Weeks 1–9: One unlearned dance
+*Week 10: One unlearned dance & cha-cha-cha marathon
+*Week 11 (Quarter-final): One unlearned dance
+*Week 12 (Semi-final): Two unlearned dances
+*Week 13 (Final): Judges' choice, showdance & favourite dance of the series
+
+{| class="wikitable unsortable" style="text-align:center; font-size:85%; line-height:20px"
+|+''Strictly Come Dancing'' (series 14) - Dance chart
+! rowspan="2" |Couple
+! colspan="17" |Week
+|-
+! scope="col" | 1
+! scope="col" | 2
+! scope="col" | 3
+! scope="col" | 4
+! scope="col" | 5
+! scope="col" | 6
+! scope="col" | 7
+! scope="col" | 8
+! scope="col" | 9
+! scope="col" colspan="2" | 10
+! scope="col" | 11
+! scope="col" colspan="2" | 12
+! scope="col" colspan="3" | 13
+|-
+! scope="row" | Ore & Joanne
+| Tango
+| Cha-cha-cha
+| American Smooth
+| Jive
+| Waltz
+| Charleston
+| Salsa
+| Rumba
+| Viennese waltz
+| Paso doble
+| rowspan="6" | Cha-cha-cha<br>Marathon
+| Foxtrot
+| Quickstep
+| Argentine tango
+| American Smooth
+| Showdance
+| Jive
+|-
+! scope="row" | Danny & Oti
+| {{nowrap|Cha-cha}}-cha
+| Viennese waltz
+| Paso doble
+| Quickstep
+| Rumba
+| Foxtrot
+| Jive
+| Argentine tango
+| Charleston
+| Samba
+| Tango
+| Salsa
+| American Smooth
+| Quickstep
+| Showdance
+| Samba
+|-
+! scope="row" | Louise & Kevin
+| Jive
+| Viennese waltz
+| Cha-cha-cha
+| Foxtrot
+| Rumba
+| Charleston
+| Argentine tango
+| American Smooth
+| Paso doble
+| Waltz
+| Quickstep
+| Tango
+| Samba
+| Cha-cha-cha
+| Showdance
+| Argentine tango
+|-
+! scope="row" | Claudia & AJ
+| Cha-cha-cha
+| Waltz
+| Charleston
+| Foxtrot
+| Samba
+| American Smooth
+| Paso doble
+| Viennese waltz
+| Jive
+| Argentine tango
+| Salsa 
+| Rumba
+| Quickstep
+| colspan="3" rowspan="12" bgcolor="darkgrey" |
+|-
+! scope="row" | Judge Rinder & Oksana
+| Cha-cha-cha
+| American Smooth
+| Charleston
+| Viennese waltz
+| Jive
+| Paso doble
+| Quickstep
+| Foxtrot
+| Salsa
+| Rumba
+| Samba
+| colspan="2" rowspan="11" bgcolor="darkgrey" |
+|-
+! scope="row" | Ed & Katya
+| Waltz
+| Charleston
+| Samba
+| Paso doble
+| American Smooth
+| Cha-cha-cha
+| Quickstep
+| Salsa
+| Jive
+| Tango
+| rowspan="10" bgcolor="darkgrey" |
+|-
+! scope="row" | Greg & Natalie
+| Jive
+| Tango
+| American Smooth
+| Salsa
+| Cha-cha-cha
+| Rumba
+| Viennese waltz
+| Paso doble
+| Quickstep
+| colspan="2" rowspan="9" bgcolor="darkgrey" |
+|-
+! scope="row" | Daisy & Aljaž
+| Waltz
+| Cha-cha-cha
+| Quickstep
+| Rumba
+| Charleston
+| Paso doble
+| Viennese waltz
+| Salsa
+| rowspan="8" bgcolor="darkgrey" |
+|-
+! scope="row" | Laura & Giovanni
+| Cha-cha-cha
+| Waltz
+| Salsa
+| Quickstep
+| bgcolor="darkgray" |
+| Tango
+| Samba
+| rowspan="7" bgcolor="darkgrey" |
+|-
+! scope="row" | Anastacia {{nowrap|& Brendan}}
+| Cha-cha-cha
+| Salsa
+| Viennese waltz
+| Rumba
+| Quickstep
+| Jive
+| rowspan="6" bgcolor="darkgrey" |
+|-
+! scope="row" | Lesley & Anton
+| Waltz
+| Cha-cha-cha
+| Quickstep
+| Charleston
+| Tango
+| rowspan="5" bgcolor="darkgrey" |
+|-
+! scope="row" | Naga & Pasha
+| Waltz
+| Cha-cha-cha
+| Tango
+| Charleston
+| rowspan="4" bgcolor="darkgrey" |
+|-
+! scope="row" | Will & Karen
+| Tango 
+| Jive
+| Salsa
+| Viennese waltz
+|-
+! scope="row" | Tameka & Gorka
+| Paso doble
+| Charleston
+| Tango
+| rowspan="2" bgcolor="darkgrey" |
+|-
+! scope="row" | Melvin & Janette
+| Cha-cha-cha
+| Tango
+| bgcolor="darkgrey" |
+|}
+
+==Ratings==
+Weekly ratings for each show on [[BBC One]]. All ratings are provided by BARB.<ref>{{cite web|url=https://www.barb.co.uk/viewing-data/four-screen-dashboard/|title=Four-screen dashboard (7-day data)|publisher=[[BARB]]|access-date=24 September 2022}}</ref>
+{| class="wikitable sortable" style="text-align:center"
+|-
+! scope="col"|Episode
+! scope="col"|Date
+! scope="col"|Official rating<br />(millions)
+! scope="col"|Weekly rank<br />for BBC One
+! scope="col"|Weekly rank<br />for all UK TV
+! scope="col"|Share
+|-
+!scope="row"|Launch show
+|{{dts|3 September}} || 10.43 || 2 || 2 || 46.4%<ref>{{cite tweet|number=772371566323724289|user=bbcstrictlyPR|title=The launch of @bbcstrictly was the most watched show on TV in the UK yesterday with a 46.4% audience share|author=BBC Strictly Press|date=4 September 2016}}</ref>
+|-
+!scope="row"|Week 1 (Night 1)
+|{{dts|23 September}} || 9.30 || 3 || 3 || 34.4%<ref name="digitalspy1">{{cite web|url=http://forums.digitalspy.co.uk/showpost.php?p=84108665&postcount=7552 |title=Digital Spy Forums – View Single Post – The Ratings Thread (Part 68) |work=Digital Spy |access-date=11 October 2016}}</ref>
+|-
+!scope="row"|Week 1 (Night 2)
+|{{dts|24 September}} || 10.13 || 2 || 2 || 44.9%<ref>{{cite tweet|user=overnightstv|author=overnights.tv|number=780333593205899264|date=26 September 2016|title=BBC1's #StrictlyComeDancing viewed by 8.6m/44.9% for Saturday's show: #XFactor2016 had 7.1m/35.3% on ITV @syco}}</ref>
+|-
+!scope="row"|Week 2
+|{{dts|1 October}} || 10.61 || 2 || 2 || 44.6%<ref>{{cite tweet|user=overnightstv|author=overnights.tv|number=782875366931238912|date=3 October 2016|title=#StrictlyComeDancing on Saturday watched by an impressive 9.2m / 44.6%, getting ahead of #TheXFactor (6.9m / 33.0%)}}</ref>
+|-
+!scope="row"|Week 2 results
+|{{dts|2 October}} || 8.97 || 3 || 3 || 36.6%<ref name="digitalspy1"/>
+|-
+!scope="row"|Week 3
+|{{dts|8 October}} || 11.00 || 2 || 2 || 44.8%<ref>{{cite tweet|user=bbcstrictlyPR|author=BBC Strictly Press|number=785036852378165248|date=9 October 2016|title=A peak audience of 10.6m tuned into @bbcstrictly's #MovieWeek last night with a 9.6m average and a 44.8% audience share.}}</ref>
+|-
+!scope="row"|Week 3 results
+|{{dts|9 October}} || 9.74 || 3 || 3 || 41.1%<ref>{{cite tweet|user=bbcstrictlyPR|author=BBC Strictly Press|number=785402435200282624|date=10 October 2016|title=Last night's Strictly Come Dancing Results show had a peak audience of 9.7m, and averaged 9m with a 41.1% audience share}}</ref>
+|-
+!scope="row"|Week 4
+|{{dts|15 October}} || 11.21 || 2 || 2 || 46.3%<ref>{{cite tweet|user=bbcstrictlyPR|author=BBC Strictly Press|number=787573525330726912|date=16 October 2016|title=Last night's @bbcstrictly had a peak audience of 10.8&nbsp;million, average 9.8&nbsp;million / 46.3% share. #Strictly was the most watched show on TV!}}</ref>
+|-
+!scope="row"|Week 4 results
+|{{dts|16 October}} || 9.86 || 3 || 3 || 42.2%<ref>{{cite tweet|user=overnightstv|author=overnights.tv|number=787936832759668736|date=17 October 2016|title=BBC1's #StrictlyComeDancing still ruling Sunday night with 9.3m/42.2% @edballs @ClaudiaWinkle @TessDaly}}</ref>
+|-
+!scope="row"|Week 5
+|{{dts|22 October}} || 11.21 || 2 || 2 || 45.5%<ref>{{cite tweet|user=bbcstrictlyPR|author=BBC Strictly Press|number=790110994404081664|date=23 October 2016|title=Last night's Strictly Come Dancing had a peak audience of 10.8m, and averaged 9.8m with a 45.5% audience share. Biggest show on TV again.|access-date=2 October 2017}}</ref>
+|-
+!scope="row"|Week 5 results
+|{{dts|23 October}} || 10.51 || 3 || 3 || 42.8%<ref>{{cite tweet|user=bbcstrictlyPR|author=BBC Strictly Press|number=790472608395460608|date=24 October 2016|title=Strictly Come Dancing: The Results was the most watched show on TV yesterday with a peak audience of 10.6m. Average 9.7m and 42.8% share.|access-date=2 October 2017}}</ref>
+|-
+!scope="row"|Week 6
+|{{dts|29 October}} || 11.22 || 2 || 2 || 44.8%<ref>{{cite tweet|user=bbcstrictlyPR|author=BBC Strictly Press|number=792661971887878145|date=30 October 2016|title=The @bbcstrictly #Halloween Special was watched by a peak audience of 10.6m last night -the biggest show on TV! Average 9.8m &amp; 44.8% share 🎃|access-date=2 October 2017}}</ref>
+|-
+!scope="row"|Week 6 results
+|{{dts|30 October}} || 9.93 || 3 || 3 || 36.9%<ref>{{cite tweet|user=bbcstrictlyPR|author=BBC Strictly Press|number=793025466605142016|date=31 October 2016|title=Last nights @bbcstrictly #halloween The Results was watched by an average audience of 9.1m &amp; had a 36.9% share. Highest rated show on TV|access-date=2 October 2017}}</ref>
+|-
+!scope="row"| Week 7
+|{{dts|5 November}} || 11.43 || 2 || 2 || 46.2%<ref>{{cite tweet|user=bbcstrictlyPR|author=BBC Strictly Press|number=795198705112678401|date=6 November 2016|title=Last nights @bbcstrictly was watched by a peak audience of 10.7m, with a 46.2% audience share and average of 9.7m.Most watched show on TV 📺|access-date=2 October 2017}}</ref>
+|-
+!scope="row"|Week 7 results
+|{{dts|6 November}} || 10.81 || 3 || 3 || 42.5%<ref>{{cite tweet|user=bbcstrictlyPR|author=BBC Strictly Press|number=795560891299352576|date=7 November 2016|title=Strictly Come Dancing: The Results was the most watched show on TV yesterday with a peak audience of 11m. Average 10.1m and 42.5 share.|access-date=2 October 2017}}</ref>
+|-
+!scope="row"|Week 8
+|{{dts|12 November}} || 11.31 || 3 || 4 || 45.4%<ref>{{cite tweet|user=bbcstrictlyPR|author=BBC Strictly Press|number=797734841072701440|date=13 November 2016|title=Last night's @bbcstrictly was watched by a peak of 10.9m and an audience share of 45.4%. Average audience 10m. Most watched show on TV 📺💃|access-date=2 October 2017}}</ref>
+|-
+!scope="row"|Week 8 results
+|{{dts|13 November}} || 11.37 || 2 || 3 || 44.7%<ref>{{cite tweet|user=bbcstrictlyPR|author=BBC Strictly Press|number=798099188311556096|date=14 November 2016|title=Last night's @bbcstrictly The Results was watched by a peak of 11.7m with a 44.7% audience share. Average audience 10.8m. Most watched show!|access-date=2 October 2017}}</ref>
+|-
+!scope="row"|Week 9
+|{{dts|19 November}} || 12.24 || 1 || 1 || 47.9%<ref>{{cite tweet|user=bbcstrictlyPR|author=BBC Strictly Press|number=800274612001107968|date=20 November 2016|title=Last night's Strictly Blackpool Special was watched by a peak audience of 11.9m! Average was 10.7m &amp; 47.9% share. Most watched show on TV! ✨|access-date=2 October 2017}}</ref>
+|-
+!scope="row"|Week 9 results
+|{{dts|20 November}} || 11.03 || 3 || 4 || 41.2%<ref>{{cite tweet|user=bbcstrictlyPR|author=BBC Strictly Press|number=800634219760386048|date=21 November 2016|title=Last night's @bbcstrictly results show was watched by a peak of 11.3m and average of 10.3m/41.2% share. Most watched show on TV💃 📺|access-date=2 October 2017}}</ref>
+|-
+!scope="row"|Week 10
+|{{dts|26 November}} || 11.65 || 2 || 2 || 47.6%<ref>{{cite tweet|user=bbcstrictlyPR|author=BBC Strictly Press|number=802808955550466048|date=27 November 2016|title=✨Last night's @bbcstrictly was watched by a peak of 11.5m w. an audience share of 47.6%. Average audience 10.2m. Most watched show on TV ✨|access-date=2 October 2017}}</ref>
+|-
+!scope="row"|Week 10 results
+|{{dts|27 November}} || 11.11 || 3 || 3 || 44.1%<ref>{{cite tweet|user=bbcstrictlyPR|author=BBC Strictly Press|number=803191211246821376|date=28 November 2016|title=Last night's #Strictly The Results show had a peak audience of 11.4m viewers. Average was 10.6m &amp; 44.1% share. Most watched show on TV! ✨|access-date=2 October 2017}}</ref>
+|-
+!scope="row"|Week 11
+|{{dts|3 December}} || 11.92 || 1 || 2 || 49.1%<ref>{{cite tweet|user=bbcstrictlyPR|author=BBC Strictly Press|number=805345487612153856|date=4 December 2016|title=Last night's @bbcstrictly #MusicalsWeek had a peak audience of 11.2m viewers. Average was 10.4m &amp; 49.1% share. Most watched show on TV! 📺💃🏻|access-date=2 October 2017}}</ref>
+|-
+!scope="row"|Week 11 results
+|{{dts|4 December}} || 11.39 || 3 || 4 || 44.6%<ref>{{cite tweet|user=bbcstrictlyPR|author=BBC Strictly Press|number=805707743705395200|date=5 December 2016|title=Last Night's @bbcstrictly was watched by a peak of 11.7m, with a 10.7m average and a 44.6% audience share, most watched show on TV on Sunday|access-date=2 October 2017}}</ref>
+|-
+!scope="row"|Week 12
+|{{dts|10 December}} || 11.34 || 2 || 2 || 46.5%<ref>{{cite tweet|user=bbcstrictlyPR|author=BBC Strictly Press|number=807883680513458176|date=11 December 2016|title=Last nights @bbcstrictly semi-final had a peak audience of 10.9m viewers. Average was 10m &amp; 46.5 share, most watched show on tv 📺✨|access-date=2 October 2017}}</ref>
+|-
+!scope="row"|Week 12 results
+|{{dts|11 December}} || 11.46 || 1 || 1 || 43.7%<ref>{{cite tweet|user=bbcstrictlyPR|author=BBC Strictly Press|number=808244933668769792|date=12 December 2016|title=Last night's @bbcstrictly was watched by a peak of 12.1m viewers with a 11m average and a 43.7 share, most watched show on TV on Sunday ✨📺|access-date=2 October 2017}}</ref>
+|-
+!scope="row"|Week 13
+|{{dts|17 December}} || 13.30 || 1 || 1 || 53.5%<ref>{{cite tweet|user=bbcstrictlyPR|author=BBC Strictly Press|number=810429986507255808|date=18 December 2016|title=A huge peak of 13.1&nbsp;million viewers watched @bbcstrictly The Final last night! An average of 11.8&nbsp;million and a 53.5% audience share ✨📺|access-date=2 October 2017}}</ref>
+|-
+! Series average<br>(excl. launch show)
+! 2016
+! 10.96
+! {{N/A}}
+! {{N/A}}
+! 44.1%
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{URL|www.bbc.co.uk/strictlycomedancing}}
+
+{{Strictly Come Dancing}}
+<!--{{Strictly Come Dancing Series 14}}-->
+
+{{DEFAULTSORT:Strictly Come Dancing (series 14)}}
+[[Category:2016 British television seasons]]
+[[Category:Strictly Come Dancing series|Series 14]]
+[[Category:2016 in British television]]
+[[Category:Ed Balls]]
