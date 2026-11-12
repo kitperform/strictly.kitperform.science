@@ -145,6 +145,13 @@ class SeriesPage:
                     for t in el.find_all("table"):
                         if t in tables:
                             week["tables"].append((label, t))
+                elif el.name == "section":
+                    sub_h = el.find(["h4", "h5"])
+                    sub_label = cell_text(sub_h, br=" ") if sub_h else label
+                    for t in el.find_all("table"):
+                        if t in tables:
+                            week["tables"].append((sub_label if re.match(r"^(Show|Night) \d", sub_label or "") else label, t))
+                    week["paragraphs"].extend(self.paragraphs(el))
             # judges' votes list: heading in <dl>/<p>, items in the next <ul>
             for i, el in enumerate(kids):
                 if el.name in ("dl", "p"):
@@ -224,6 +231,10 @@ class SeriesPage:
         if sec is None:
             return []
         return [cell_text(li, br=" ") for ul in sec.find_all("ul") for li in ul.find_all("li")]
+
+    def couples_prose(self):
+        sec = self.section("Couples")
+        return [(cell_text(p, br=" "), links(p)) for p in sec.find_all("p", recursive=False)] if sec is not None else []
 
     def professional_dancers_text(self):
         sec = self.section("Professional_dancers")

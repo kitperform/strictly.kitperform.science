@@ -1,0 +1,3 @@
+venue_key,name,city,wiki_title,source_capture_key,source_locator,source_kind,note
+bbc-television-centre,BBC Television Centre,London,BBC Television Centre,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,curated/venues.csv,editorial,venue lookup
+wembley-arena,Wembley Arena,London,Wembley Arena,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,curated/venues.csv,editorial,venue lookup

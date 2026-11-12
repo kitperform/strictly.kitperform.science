@@ -1,0 +1,13 @@
+week_key,series_key,week_number,round_stage,theme_key,heading_raw,dance_brief_raw,lifecycle_status,source_capture_key,source_locator,source_kind,note
+S10W01,S10,1,regular,,Week 1,One unlearned dance (cha-cha-cha or waltz),results_in,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,section=Week 1,stated,
+S10W02,S10,2,regular,,Week 2,One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,section=Week 2,stated,
+S10W03,S10,3,regular,hollywood-week,Week 3: Hollywood Week,One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,section=Week 3: Hollywood Week,stated,
+S10W04,S10,4,regular,halloween-week,Week 4: Halloween Week,One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,section=Week 4: Halloween Week,stated,
+S10W05,S10,5,regular,,Week 5,One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,section=Week 5,stated,
+S10W06,S10,6,regular,,Week 6,One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,section=Week 6,stated,
+S10W07,S10,7,regular,wembley,Week 7: Wembley,One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,section=Week 7: Wembley,stated,
+S10W08,S10,8,regular,,Week 8,One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,section=Week 8,stated,
+S10W09,S10,9,regular,,Week 9,One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,section=Week 9,stated,
+S10W10,S10,10,quarter_final,dance-fusion-week,Week 10: Dance Fusion Week (Quarter-final),One fusion dance,results_in,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,section=Week 10: Dance Fusion Week (Quarter-final),stated,
+S10W11,S10,11,semi_final,,Week 11: Semi-final,Two unlearned dances,results_in,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,section=Week 11: Semi-final,stated,
+S10W12,S10,12,final,,Week 12: Final,Favourite dance of the series,results_in,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,section=Week 12: Final,stated,

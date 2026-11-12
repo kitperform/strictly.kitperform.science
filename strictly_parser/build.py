@@ -273,11 +273,17 @@ class Build:
         used_venues = {self.meta.get("home_venue_key")}
         for wk, h in headings.items():
             prose = " ".join(p for p, _ in h["paragraphs"])
+            venue = None
             if re.search(r"Blackpool Tower|Tower Ballroom", prose) or "blackpool" in h["theme"].lower():
-                used_venues.add("blackpool-tower-ballroom")
+                venue = "blackpool-tower-ballroom"
+            elif re.search(r"Wembley Arena", prose) or "wembley" in h["theme"].lower():
+                venue = "wembley-arena"
+            if venue:
+                used_venues.add(venue)
                 for code, ekey in self.week_eps.get(wk, {}).items():
-                    self.episodes[ekey]["venue_key"] = "blackpool-tower-ballroom"
-                    self.episodes[ekey]["note"] = (self.episodes[ekey]["note"] + "; " if self.episodes[ekey]["note"] else "") + "venue stated in the week prose"
+                    if self.episodes[ekey]["episode_kind"] != "results" or venue == "blackpool-tower-ballroom":
+                        self.episodes[ekey]["venue_key"] = venue
+                        self.episodes[ekey]["note"] = (self.episodes[ekey]["note"] + "; " if self.episodes[ekey]["note"] else "") + "venue stated in the week prose"
                 for t in self.T["themes"]:
                     if t["theme_key"] == slugify(h["theme"]):
                         t["is_location_theme"] = "true"
@@ -507,6 +513,31 @@ class Build:
                         "roster_status": "unpartnered", "display_name_in_series": name, "is_head_judge": "false", "replaces_person_key": "", "replaced_by_person_key": "",
                         "paired_with_person_key": "", "reason": "", "reason_text": "", "event_date": "", "first_week_key": week_key(self.skey, 1), "last_week_key": "",
                         **self.prov("section=Professional dancers; prose", "stated", "did not receive a celebrity partner at the launch show")})
+        for text, lk in self.page.couples_prose():
+            m = re.search(r"([A-Z][\w'’\-]+(?: [A-Z][\w'’\-]+){1,2}) was originally partnered with ([A-Z][\w'’\-]+(?: [A-Z][\w'’\-]+){1,2})", text)
+            if not m:
+                continue
+            celeb_name, old_name = m.group(1), m.group(2)
+            ckey = next((c["couple_key"] for c in self.couples_by_key.values() if c["celebrity_display_name"] == celeb_name), None)
+            if not ckey:
+                continue
+            old_slug = self.add_person(next((w for t, w, h in lk if t == old_name), None), old_name, "section=Couples; prose")
+            rows = [p for p in self.T["couple_partnerships"] if p["couple_key"] == ckey]
+            if rows and rows[0]["pro_person_key"] != old_slug:
+                reason = self.reason_from(text)
+                rows[0].update({"partnership_kind": "replacement_pre_week1", "reason": reason, "reason_text": "replaced the original partner before the first live show (Couples prose)",
+                                "couple_partnership_key": f"{ckey}-P2"})
+                self.T["couple_partnerships"].append({
+                    "couple_partnership_key": f"{ckey}-P1", "couple_key": ckey, "pro_person_key": old_slug, "week_from": 0, "week_to": 0, "_fixed_to": True,
+                    "partnership_kind": "pre_series_only", "reason": reason, "reason_text": "original launch pairing; never competed (A105)",
+                    **self.prov("section=Couples; prose", "stated")})
+                celeb_slug = ckey.split("-", 1)[1]
+                self.T["series_people"].append({
+                    "series_person_key": f"{self.skey}-{old_slug}-professional", "series_key": self.skey, "person_key": old_slug, "role": "professional",
+                    "roster_status": "paired_withdrew_pre_week1", "display_name_in_series": old_name, "is_head_judge": "false", "replaces_person_key": "",
+                    "replaced_by_person_key": rows[0]["pro_person_key"], "paired_with_person_key": self.couples_by_key[ckey]["celebrity_person_key"], "reason": reason,
+                    "reason_text": "", "event_date": "", "first_week_key": "", "last_week_key": "", **self.prov("section=Couples; prose", "stated")})
+                self.couples_by_key[ckey]["professional_display_name"] = self.couples_by_key[ckey]["professional_display_name"]
         self.apply_roster_changes()
         self.check("couples parsed", len(self.T["couples"]) > 0, f"{len(self.T['couples'])} couples")
 
@@ -1474,7 +1505,7 @@ class Build:
         keys = Counter(p["performance_key"] for p in T["performances"])
         self.check("check 12: performance keys unique", max(keys.values(), default=0) == 1, "")
         for ckey in self.couples_by_key:
-            rows = sorted((p for p in T["couple_partnerships"] if p["couple_key"] == ckey), key=lambda p: p["week_from"])
+            rows = sorted((p for p in T["couple_partnerships"] if p["couple_key"] == ckey and p["partnership_kind"] != "pre_series_only"), key=lambda p: p["week_from"])
             ok = rows and rows[0]["week_from"] == 1 and all(rows[i]["week_to"] + 1 == rows[i + 1]["week_from"] for i in range(len(rows) - 1))
             if not ok:
                 self.check(f"check 11: partnerships contiguous {ckey}", False, str(rows))
