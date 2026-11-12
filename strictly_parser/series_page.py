@@ -109,10 +109,18 @@ class SeriesPage:
             hm = HEADING_RE.match(heading)
             kids = self.children(sec)
             tables = [t for t in sec.find_all("table") if "wikitable" in " ".join(t.get("class", []))]
+            theme = (hm.group(2) or "").strip() if hm else ""
+            stage = (hm.group(3) or "").strip() if hm else ""
+            if re.fullmatch(r"(quarter-?\s*final|semi-?\s*final|final)", theme, re.I):
+                theme, stage = "", theme
+            order_links = []
+            for p in sec.find_all("p", recursive=False):
+                if re.search(r"listed in this order|in the following order", p.get_text()):
+                    order_links = [(t, w) for t, w, h in links(p)] or [(n.strip(), None) for n in re.split(r",| and ", cell_text(p).split(":")[-1]) if n.strip()]
             week = {
                 "number": int(m.group(1)), "heading": heading,
-                "theme": (hm.group(2) or "").strip() if hm else "",
-                "stage_text": (hm.group(3) or "").strip() if hm else "",
+                "theme": theme,
+                "stage_text": stage, "order_links": order_links,
                 "paragraphs": self.paragraphs(sec),
                 "sub_labels": [], "tables": [], "votes": None, "votes_direction": None, "votes_heading": None,
                 "guest_lists": [],

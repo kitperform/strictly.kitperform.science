@@ -186,7 +186,8 @@ class Build:
             h = headings.get(wk)
             stage = "regular"
             if h and h["stage_text"]:
-                stage = slugify(h["stage_text"]).replace("-", "_")
+                stage = re.sub(r"[\s-]+", "_", h["stage_text"].strip().lower())
+                stage = {"quarterfinal": "quarter_final", "semifinal": "semi_final"}.get(stage, stage)
             theme_key = slugify(h["theme"]) if h and h["theme"] else ""
             if theme_key and not any(t["theme_key"] == theme_key for t in self.T["themes"]):
                 kind = "film" if "movie" in theme_key or "film" in theme_key else "icon" if "icon" in theme_key else "musical" if "musical" in theme_key else "none"
@@ -384,7 +385,8 @@ class Build:
 
     # ------------------------------------------------------------ weekly tables
     def weekly(self):
-        self.week_rounds = {}        # week -> round_key
+        self.week_rounds = {}        # week -> round_key announced in that week
+        self.perf_rounds = {}        # week -> round_key whose vote the week's scores counted towards
         self.week_results = defaultdict(dict)  # week -> couple_key -> (result_status, raw)
         self.week_rows = defaultdict(set)      # week -> couple keys with a row
         self.week_has_scores = {}
@@ -419,7 +421,7 @@ class Build:
                     m = re.match(r"^(Show|Night) (\d)", label)
                     if m:
                         code = SUB_LABEL_CODE[(m.group(1), m.group(2))][0]
-                ekey = self.week_eps[wk].get(code) or self.week_eps[wk].get("P")
+                ekey = self.week_eps[wk].get(code) or (self.week_eps[wk].get("P") if code == "P" else None)
                 if not ekey:
                     ekey = f"{wkk}-{code}"
                     self.episodes[ekey] = {"episode_key": ekey, "series_key": self.skey, "week_key": wkk, "episode_kind": "performance", "sub_label": "none",
@@ -445,7 +447,7 @@ class Build:
             if role == "theme":
                 theme_col = name
             roles.append(role)
-        self.week_has_scores[wk] = False
+        self.week_has_scores.setdefault(wk, False)
         has_result_col = "result" in roles
         running = 0
         seq_by_couple = Counter()
@@ -470,7 +472,7 @@ class Build:
             dance_txt = cells["dance"]["text"] if "dance" in cells else ""
             music_txt = cells["music"]["text"] if "music" in cells else ""
             result_txt = cells["result"]["text"] if has_result_col and not cells["result"].get("colspanned") else ""
-            if has_result_col:
+            if has_result_col and not cells["result"].get("colspanned") and not (ckey in self.week_results[wk] and self.week_results[wk][ckey][0] and not result_txt):
                 self.week_results[wk][ckey] = (result_txt, cells["result"]["bg"])
             if not dance_txt and not music_txt:
                 continue  # rule L1
@@ -556,6 +558,9 @@ class Build:
             parts = re.split(r"\s+[—–]\s+", seg, maxsplit=1)
             title = parts[0].strip().strip('"“”').strip()
             artist = parts[1].strip() if len(parts) > 1 else ""
+            fm = re.match(r"^(?:theme )?from (.+?)\.?$", artist, re.I)
+            if fm:
+                src, artist = fm.group(1).strip(), ""
             song_wiki = next((w for t, w in lk if w and t.lower() == title.lower()), "")
             artist_wiki = next((w for t, w in lk if w and artist and t.lower() == artist.lower()), "")
             skey = f"song:{slugify(title)}:{slugify(song_wiki) if song_wiki else 'none'}"
@@ -621,7 +626,7 @@ class Build:
                 "raw_text": line, "vote_direction": direction, "casting_vote_slug": holder or "",
                 **self.prov(f"section={h['heading']}; votes list; item {pos}")})
         # pivotal rule (check 7)
-        used, inferred = "", "false"
+        used, inferred, holder_vote = "", "false", None
         if vote_rows and holder:
             cast = [v for v in vote_rows if v["vote_kind"] == "cast" and v["couple_key"]]
             tally = Counter(v["couple_key"] for v in cast)
@@ -631,15 +636,17 @@ class Build:
                 saved = [c for c in at_risk if c not in eliminated]
                 target = saved[0] if len(saved) == 1 else (tally.most_common(1)[0][0] if tally else None)
             holder_vote = next((v for v in cast if v["judge_slug"] == holder), None)
+            pivotal_ran = False
             if holder_vote is None:
                 used = "false"
             elif target:
+                pivotal_ran = True
                 t2 = Counter(tally)
                 if holder_vote["couple_key"] == target:
                     t2[target] -= 1
                 others = max([n for c, n in t2.items() if c != target], default=0)
                 used = "false" if t2[target] > others else "true"
-            inferred = "true" if used != "" and not any(v["is_casting_vote_stated"] == "true" for v in vote_rows) else "false"
+            inferred = "true" if pivotal_ran and not any(v["is_casting_vote_stated"] == "true" for v in vote_rows) else "false"
         decided_at = self.week_eps[wk].get("R") or self.week_eps[wk].get("S2") or self.week_eps[wk].get("N2") or self.week_eps[wk].get("P")
         dance_off = "held" if votes else ("not_in_format" if self.effective_rule(wk, "dance_off_used") != "true" else "held")
         self.T["results_rounds"].append({
@@ -651,10 +658,10 @@ class Build:
             "votes_carried_over": "false" if (combined_from and combined_from in self.carry_weeks) else "", "combined_reason": reason,
             "casting_vote_source_kind": holder_kind if holder else "",
             **self.prov(f"section={h['heading']}; Result column and votes list" + ("; Scoring chart column " + label if combined_from else ""),
-                        "stated", "casting_vote_used by the pivotal rule (check 7)" if used else "")})
+                        "stated", "casting_vote_used=true by the pivotal rule (check 7)" if used == "true" else ("casting vote holder did not cast a vote" if used == "false" and holder and vote_rows and holder_vote is None else ""))})
         for seq, w in enumerate(weeks, 1):
             self.T["results_round_weeks"].append({"results_round_week_key": f"{rkey}|{week_key(self.skey, w)}", "round_key": rkey, "week_key": week_key(self.skey, w), "seq": seq})
-            self.week_rounds[w] = rkey if w == wk else self.week_rounds.get(w)
+            self.perf_rounds[w] = rkey
         self.week_rounds[wk] = rkey
         self.T["dance_off_votes"].extend(vote_rows)
         # vote labels onto the seats of this week's performance episode(s)
@@ -663,7 +670,9 @@ class Build:
                 s["vote_label"] = self.vote_labels[s["judge_slug"]]
         if direction == "save" and votes and eliminated:
             tally = Counter(v["couple_key"] for v in vote_rows if v["vote_kind"] == "cast")
-            self.check(f"round {rkey}: eliminated couple has fewest save votes", tally[eliminated[0]] <= min(tally[c] for c in at_risk if c != eliminated[0]), str(dict(tally)))
+            others = [tally[c] for c in at_risk if c != eliminated[0]]
+            if others:
+                self.check(f"round {rkey}: eliminated couple has fewest save votes", tally[eliminated[0]] <= min(others), str(dict(tally)))
         if direction == "eliminate" and votes and eliminated:
             tally = Counter(v["couple_key"] for v in vote_rows if v["vote_kind"] == "cast")
             self.check(f"round {rkey}: eliminated couple most named to eliminate", tally.most_common(1)[0][0] == eliminated[0], str(dict(tally)))
@@ -846,7 +855,7 @@ class Build:
             p["d_total_mismatch"] = "true" if p["_marks"] and sum(p["_marks"]) != p["stated_total"] else "false"
             p["d_scale_max"] = 10 * len(self.seat_order)
             p["d_total_40"] = round(p["stated_total"] * 40 / p["d_scale_max"], 2) if p["stated_total"] != "" and p["d_scale_max"] else ""
-            p["d_results_round_key"] = self.week_rounds.get(int(p["week_key"][-2:]), "")
+            p["d_results_round_key"] = self.perf_rounds.get(int(p["week_key"][-2:]), "")
             p["d_partnership_kind"] = "original"
             p["air_date"] = self.episodes[p["episode_key"]]["air_date"]
             p["series_number"], p["week_number"] = self.n, int(p["week_key"][-2:])
@@ -890,8 +899,8 @@ class Build:
         # person aliases: vote-list surnames
         for slug, label in self.vote_labels.items():
             if label != self.people[slug]["family_name"] or True:
-                self.T["person_aliases"].append({"person_alias_key": f"{slug}|vote_list|{label}|any", "person_key": slug, "alias": label, "alias_kind": "vote_list_surname",
-                                                 "context": "vote_list", "series_key": "", **self.prov("Judges' votes lists", "stated", "")})
+                self.T["person_aliases"].append({"person_alias_key": f"{slug}|vote_list|{label}|{self.skey}", "person_key": slug, "alias": label, "alias_kind": "vote_list_surname",
+                                                 "context": "vote_list", "series_key": self.skey, **self.prov("Judges' votes lists", "stated", "")})
         for (label, ctx), ov in self.label_overrides.items():
             self.T["couple_labels"].append({"couple_label_key": f"{ov['couple_key']}|{ctx}|{label}", "couple_key": ov["couple_key"], "label": label, "context": ctx,
                                             "week_from": "", "week_to": "", "is_typo": ov["is_typo"], **self.prov("curated/couple_labels.csv", "editorial", ov["note"])})

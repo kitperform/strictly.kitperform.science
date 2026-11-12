@@ -4,11 +4,16 @@ import unicodedata
 from urllib.parse import unquote
 
 
+# Letters with no NFKD decomposition, so that "Przystał" -> "przystal" rather than "przysta".
+TRANSLIT = str.maketrans({"ł": "l", "Ł": "L", "ø": "o", "Ø": "O", "đ": "d", "Đ": "D", "ß": "ss", "æ": "ae", "Æ": "AE", "œ": "oe", "Œ": "OE", "þ": "th", "Þ": "Th", "ı": "i"})
+
+
 def slugify(text: str) -> str:
     """NFC -> strip diacritics -> lower -> non-alphanumerics to '-' -> collapse."""
     if text is None:
         return ""
-    t = unicodedata.normalize("NFKD", text)
+    t = text.translate(TRANSLIT)
+    t = unicodedata.normalize("NFKD", t)
     t = "".join(ch for ch in t if not unicodedata.combining(ch))
     t = t.replace("&", " and ").lower()
     t = re.sub(r"[^a-z0-9]+", "-", t)
@@ -17,9 +22,14 @@ def slugify(text: str) -> str:
 
 def wiki_title_from_href(href):
     """'./Chris_Appleton' -> 'Chris Appleton'; None for refs, anchors and external links."""
-    if not href or not href.startswith("./"):
+    if not href:
         return None
-    t = href[2:]
+    for prefix in ("./", "/wiki/", "https://en.wikipedia.org/wiki/"):
+        if href.startswith(prefix):
+            t = href[len(prefix):]
+            break
+    else:
+        return None
     if "#" in t:
         t = t.split("#", 1)[0]
     if not t:

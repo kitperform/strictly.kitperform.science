@@ -21,7 +21,7 @@
 | `performances.csv` | 94 |
 | `performance_music.csv` | 95 |
 | `songs.csv` | 95 |
-| `artists.csv` | 65 |
+| `artists.csv` | 62 |
 | `judge_marks.csv` | 352 |
 | `dance_off_votes.csv` | 24 |
 | `dances.csv` | 15 |

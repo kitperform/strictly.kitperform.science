@@ -125,3 +125,14 @@ def test_music_and_people(tables):
     unpartnered = [r for r in tables["series_people"] if r["roster_status"] == "unpartnered"]
     assert {r["person_key"] for r in unpartnered} == {"neil-jones", "aleksandra-isaeva", "cristian-priori", "lethabo-monametsi"}
     assert not tables["discrepancies"]
+
+
+def test_review_fixes(tables):
+    pm = by_key(tables["performance_music"], "performance_key", "S24W01-P-graeme-hall-cha-cha-cha")[0]
+    assert pm["artist_key"] == "" and pm["source_work_text"] == "Smokey Joe's Cafe" and pm["source_work_wiki_title"]
+    assert not [a for a in tables["artists"] if a["name"].lower().startswith("from ")]
+    assert by_key(tables["performances"], "performance_key", "S24W01-P-will-best-samba")[0]["d_results_round_key"] == "S24R01-02"
+    assert by_key(tables["people"], "person_key", "jowita-przystal")
+    assert all(a["person_alias_key"].endswith("|S24") and a["series_key"] == "S24" for a in tables["person_aliases"])
+    r = by_key(tables["results_rounds"], "round_key", "S24R06")[0]
+    assert r["casting_vote_inferred"] == "false" and "did not cast" in r["note"]

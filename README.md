@@ -66,6 +66,14 @@ python -m pytest -q tests             # acceptance tests against the series 24 c
 
 The parser reads `data/wikipedia/parsoid/series_24.parsoid.html` (fetched at the revision recorded in `data/wikipedia/wikitext/MANIFEST.csv`) and the tables in `curated/`. It exits non-zero if any integrity check in the report fails. Re-fetch with `scripts/fetch-wikitext.py 24 --parsoid 24` and re-run to pick up a new week.
 
+Known limits before series 1 to 23 can be built (from the code review of the Phase 0 parser):
+
+- per-week judge-order overrides (guest and absent judges, 3- and 5-judge weeks) are read from the heading but not yet applied to seats, marks or the scoring scale;
+- group routines, marathons and multi-couple row headers have no `performer_group`/`group_key` path yet;
+- `competed_unscored` is not yet set for a couple whose every routine in a week was unscored;
+- legacy (non-Parsoid) HTML has no `<section>` wrappers, so series 1 to 21 need Parsoid re-captures at their manifest revisions (`scripts/fetch-wikitext.py N --parsoid N`) or a sibling-walking fallback;
+- each new series needs rows in `curated/series_meta.csv`, `series_panels.csv` and `format_rules.csv`.
+
 ## Local setup
 
 ```sh
