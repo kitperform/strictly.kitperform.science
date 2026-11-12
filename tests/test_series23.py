@@ -92,6 +92,11 @@ def test_final_a242(t23):
     assert one(t23["episodes"], "episode_key", "S23W13-P")["episode_kind"] == "performance_and_results"
 
 
+def test_musicals_week_is_a_theme_column(t23):
+    w11 = [p for p in t23["performances"] if p["week_key"] == "S23W11"]
+    assert w11 and all(p["theme_column_label"] == "Musical" and p["theme_reference_text"] and p["music_raw"].startswith(('"', "“")) for p in w11)
+
+
 def test_volumes(t23):
     assert len(t23["couples"]) == 15 and len(t23["couple_weeks"]) == 15 * 13
     assert len(t23["judge_marks"]) == 128 * 4 and len(t23["performances"]) == 134

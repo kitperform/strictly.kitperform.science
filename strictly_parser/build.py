@@ -84,7 +84,7 @@ class Build:
             slug, basis = "unlinked-" + slugify(display), "unlinked_name"
         if slug not in self.people:
             name = display or title
-            toks = (title or display or "").replace("(", " (").split(" (")[0].split(" ")
+            toks = (title or display or "").replace("(", " (").split(" (")[0].split()
             row = {"person_key": slug, "slug": slug, "person_kind": kind, "identity_basis": basis, "wiki_title": title or "",
                    "canonical_name": title.split(" (")[0] if title else display, "given_name": toks[0] if toks else "",
                    "family_name": " ".join(toks[1:]) if len(toks) > 1 else "", "gender": "", **self.prov(locator)}
@@ -211,11 +211,16 @@ class Build:
                               "lifecycle_status": "scheduled",
                               **(self.prov(f"section={h['heading']}") if h else self.prov(f"section=Ratings; row=Week {wk}", "inferred", "rule S1: week evidenced only by a Ratings date"))}
         for b in self.page.dance_chart_bullets():
-            m = re.match(r"^Weeks? (\d+)(?:[–-](\d+))?:\s*(.*)$", b)
+            m = re.match(r"^Weeks?\s+([\d–\-,\s]+(?:and\s+[\d–\-,\s]+)*?)\s*(?:\([^)]*\))?\s*:\s*(.*)$", b)
             if m:
-                for wk in range(int(m.group(1)), int(m.group(2) or m.group(1)) + 1):
+                wks = set()
+                for part in re.split(r",|\band\b", m.group(1)):
+                    rm = re.match(r"\s*(\d+)\s*(?:[–-]\s*(\d+))?\s*$", part)
+                    if rm:
+                        wks.update(range(int(rm.group(1)), int(rm.group(2) or rm.group(1)) + 1))
+                for wk in wks:
                     if wk in self.weeks:
-                        self.weeks[wk]["dance_brief_raw"] = m.group(3)
+                        self.weeks[wk]["dance_brief_raw"] = m.group(2)
         couples_n = len(self.page.couples_rows())
         self.T["series"].append({
             "series_key": self.skey, "series_kind": "numbered", "series_number": self.n, "parent_series_key": "", "label": f"Series {self.n}",
@@ -230,8 +235,19 @@ class Build:
         if iso:
             self.T["series"][0]["infobox_first_aired"] = iso[0]
             self.T["series"][0]["infobox_last_aired"] = iso[-1] if len(iso) > 1 else ""
+        used_venues = {self.meta.get("home_venue_key")}
+        for wk, h in headings.items():
+            prose = " ".join(p for p, _ in h["paragraphs"])
+            if re.search(r"Blackpool Tower|Tower Ballroom", prose) or "blackpool" in h["theme"].lower():
+                used_venues.add("blackpool-tower-ballroom")
+                for code, ekey in self.week_eps.get(wk, {}).items():
+                    self.episodes[ekey]["venue_key"] = "blackpool-tower-ballroom"
+                    self.episodes[ekey]["note"] = (self.episodes[ekey]["note"] + "; " if self.episodes[ekey]["note"] else "") + "venue stated in the week prose"
+                for t in self.T["themes"]:
+                    if t["theme_key"] == slugify(h["theme"]):
+                        t["is_location_theme"] = "true"
         for vk, v in self.venues.items():
-            if vk == self.meta.get("home_venue_key"):
+            if vk in used_venues:
                 self.T["venues"].append({"venue_key": vk, "name": v["name"], "city": v["city"], "wiki_title": v["wiki_title"], **self.prov("curated/venues.csv", "editorial", "venue lookup")})
         # format rules
         for r in self.format_curated:
@@ -470,14 +486,22 @@ class Build:
                 "replaced_by_person_key": "", "paired_with_person_key": "", "reason": reason or "", "reason_text": "", "event_date": "",
                 "first_week_key": week_key(self.skey, w_from), "last_week_key": week_key(self.skey, w_to) if w_to != "" else "",
                 **self.prov("section=Couples; professional partner cell", "stated")})
+            event = ""
+            prod = " ".join(p for p, _ in self.page.professional_dancers_text()) + " " + self.page.lead_text()
+            old_sur = old_name.split(" ")[-1]
+            em = re.search(rf"On (\d{{1,2}} \w+ \d{{4}}),? it was announced that[^.]*?{re.escape(old_sur)}[^.]*?(?:no longer compete|withdr|would not continue)", prod)
+            if em:
+                dd = parse_date(em.group(1), self.year)
+                event = dd.isoformat() if dd else ""
+            self.T["series_people"][-1]["event_date"] = event
             if perm_week is not None:
                 old = [r for r in self.T["series_people"] if r["person_key"] == old_slug and r["role"] == "professional"]
                 if old:
-                    old[0]["last_week_key"] = week_key(self.skey, perm_week - 1) if perm_week > w_from else week_key(self.skey, w_from - 1)
+                    old[0]["last_week_key"] = week_key(self.skey, w_from - 1)
                 self.T["series_people"].append({
                     "series_person_key": f"{self.skey}-{old_slug}-professional-2", "series_key": self.skey, "person_key": old_slug, "role": "professional",
                     "roster_status": "left_mid_series", "display_name_in_series": old_name, "is_head_judge": "false", "replaces_person_key": "",
-                    "replaced_by_person_key": new_slug, "paired_with_person_key": "", "reason": reason or "", "reason_text": "", "event_date": "",
+                    "replaced_by_person_key": new_slug, "paired_with_person_key": "", "reason": reason or "", "reason_text": "", "event_date": event,
                     "first_week_key": week_key(self.skey, perm_week), "last_week_key": "", **self.prov(f"section=Week {perm_week}; prose", "stated")})
 
     def resolve_couple(self, label, context, week=None):
@@ -571,7 +595,7 @@ class Build:
         for name in header:
             l = name.lower()
             role = "couple" if l.startswith("couple") else "scores" if l.startswith("score") else "dance" if l.startswith("dance") else \
-                   "music" if l.startswith("music") else "result" if l.startswith("result") else "theme"
+                   "music" if l == "music" or l.startswith("music ") else "result" if l.startswith("result") else "theme"
             if role == "theme":
                 theme_col = name
             roles.append(role)
@@ -718,8 +742,12 @@ class Build:
                 segments.extend(f'"{t}"' for t in titles)
             else:
                 segments.append(s)
-        for seq, seg in enumerate(segments, 1):
-            seg = seg.strip()
+        seq = 0
+        for seg in segments:
+            seg = seg.strip().strip("&,").strip()
+            if not seg:
+                continue
+            seq += 1
             src = None
             sm = re.search(r"\((?:from|theme from) (.+?)\)\s*$", seg)
             if sm:
@@ -735,16 +763,27 @@ class Build:
             skey = f"song:{slugify(title)}:{slugify(song_wiki) if song_wiki else 'none'}"
             if not any(s["song_key"] == skey for s in self.T["songs"]):
                 self.T["songs"].append({"song_key": skey, "title": title, "wiki_title": song_wiki, **self.prov(f"section={heading}; table row={label}; col=Music")})
-            akey = ""
+            # a credit naming several linked acts ('A feat. B', 'A & B') becomes one row per act (section 3.16)
+            credits = [artist] if artist else []
             if artist:
-                akey = slugify(artist_wiki or artist)
-                if not any(a["artist_key"] == akey for a in self.T["artists"]):
-                    self.T["artists"].append({"artist_key": akey, "name": artist, "wiki_title": artist_wiki, **self.prov(f"section={heading}; table row={label}; col=Music")})
-            self.T["performance_music"].append({
-                "performance_music_key": f"{perf['performance_key']}-{slugify(title)}" + (f"-{seq}" if seq > 1 and slugify(title) == slugify(segments[0].split('—')[0].strip().strip('\"')) else ""),
-                "performance_key": perf["performance_key"], "seq": seq, "song_key": skey, "artist_key": akey,
-                "source_work_text": src or "", "source_work_wiki_title": next((w for t, w in lk if w and src and t.lower() == src.lower()), ""),
-                "raw_text": seg, **self.prov(f"section={heading}; table row={label}; col=Music")})
+                parts = [x.strip(" ,") for x in re.split(r"\s*(?:,\s*)?(?:&|feat\.|featuring|\band\b)\s*", artist) if x.strip(" ,")]
+                if len(parts) > 1 and sum(1 for x in parts if any(t.lower() == x.lower() and w for t, w in lk)) >= 2:
+                    credits = parts
+            base_key = f"{perf['performance_key']}-{slugify(title)}"
+            n_same = sum(1 for m in self.T["performance_music"] if m["performance_music_key"].startswith(base_key) and m["performance_key"] == perf["performance_key"])
+            for ai, credit in enumerate(credits or [""]):
+                akey = ""
+                if credit:
+                    cw = next((w for t, w in lk if w and t.lower() == credit.lower()), "")
+                    akey = slugify(cw or credit)
+                    if not any(a["artist_key"] == akey for a in self.T["artists"]):
+                        self.T["artists"].append({"artist_key": akey, "name": credit, "wiki_title": cw, **self.prov(f"section={heading}; table row={label}; col=Music")})
+                suffix = n_same + ai
+                self.T["performance_music"].append({
+                    "performance_music_key": base_key + (f"-{suffix + 1}" if suffix else ""),
+                    "performance_key": perf["performance_key"], "seq": seq, "song_key": skey, "artist_key": akey,
+                    "source_work_text": src or "", "source_work_wiki_title": next((w for t, w in lk if w and src and t.lower() == src.lower()), ""),
+                    "raw_text": seg, **self.prov(f"section={heading}; table row={label}; col=Music")})
 
     # ------------------------------------------------------------ votes and rounds
     def parse_votes(self, wk, h):
@@ -970,6 +1009,9 @@ class Build:
                     kind, note = "inferred", "week not yet scored on the captured page"
                 pship = self.partnership_at(ckey, wk)
                 pro = pship["pro_person_key"]
+                if part == "competed" and pship.get("partnership_kind") == "substitute_temporary" and not reason:
+                    reason, party, scope = pship["reason"] or "unspecified", "professional", "whole_week"
+                    note = (note + "; " if note else "") + "original professional absent; stand-in danced (CouplePartnership)"
                 # D: a professional who missed only the results show (A237 W6)
                 if part == "competed" and not reason:
                     prose_w = " ".join(p for p, _ in self.headings.get(wk, {"paragraphs": []})["paragraphs"])
@@ -1133,7 +1175,11 @@ class Build:
             self.T["couple_labels"].append({"couple_label_key": f"{ov['couple_key']}|{ctx}|{label}", "couple_key": ov["couple_key"], "label": label, "context": ctx,
                                             "week_from": "", "week_to": "", "is_typo": ov["is_typo"], **self.prov("curated/couple_labels.csv", "editorial", ov["note"])})
         for c in self.T["couples"]:
-            c["d_pro_slugs"] = "|".join(p["pro_person_key"] for p in self.T["couple_partnerships"] if p["couple_key"] == c["couple_key"])
+            slugs = []
+            for p in self.T["couple_partnerships"]:
+                if p["couple_key"] == c["couple_key"] and (not slugs or slugs[-1] != p["pro_person_key"]):
+                    slugs.append(p["pro_person_key"])
+            c["d_pro_slugs"] = "|".join(slugs)
             c["d_reached_final"] = "true" if c["exit_kind"] == "finalist" else "false"
 
     # ------------------------------------------------------------ checks

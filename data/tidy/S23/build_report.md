@@ -19,14 +19,14 @@
 | `couple_labels.csv` | 45 |
 | `couple_weeks.csv` | 195 |
 | `performances.csv` | 134 |
-| `performance_music.csv` | 142 |
+| `performance_music.csv` | 150 |
 | `songs.csv` | 136 |
-| `artists.csv` | 98 |
+| `artists.csv` | 102 |
 | `judge_marks.csv` | 512 |
 | `dance_off_votes.csv` | 40 |
 | `dances.csv` | 16 |
 | `themes.csv` | 5 |
-| `venues.csv` | 1 |
+| `venues.csv` | 2 |
 | `source_captures.csv` | 2 |
 | `discrepancies.csv` | 0 |
 | `crosscheck/chart_cells.csv` | 228 |

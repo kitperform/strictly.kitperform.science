@@ -39,7 +39,7 @@ def test_professional_change_a237(t22):
     assert w7["performing_pro_slug"] == "lauren-oakley" and w7["d_partnership_kind"] == "substitute_temporary" and w7["couple_label_raw"] == "JB & Lauren"
     assert one(t22["couple_weeks"], "couple_week_key", "S22W09-jb-gill")["d_partnership_kind"] == "replacement_permanent"
     c = one(t22["couples"], "couple_key", "S22-jb-gill")
-    assert c["chart_label"] == "JB & Amy/Lauren" and c["professional_display_name"] == "Amy Dowden" and c["d_pro_slugs"] == "amy-dowden|lauren-oakley|lauren-oakley"
+    assert c["chart_label"] == "JB & Amy/Lauren" and c["professional_display_name"] == "Amy Dowden" and c["d_pro_slugs"] == "amy-dowden|lauren-oakley"
     roster = {r["series_person_key"]: r for r in t22["series_people"]}
     assert roster["S22-lauren-oakley-professional"]["roster_status"] == "unpartnered" and roster["S22-lauren-oakley-professional"]["last_week_key"] == "S22W06"
     assert roster["S22-lauren-oakley-professional-2"]["roster_status"] == "partnered_mid_series" and roster["S22-lauren-oakley-professional-2"]["replaces_person_key"] == "amy-dowden"
@@ -79,6 +79,24 @@ def test_labels_and_music(t22):
     assert [m["song_key"].split(":")[1] for m in songs] == ["uptown-funk", "treasure", "24k-magic"] and {m["artist_key"] for m in songs} == {""}
     w7 = one(t22["performances"], "performance_key", "S22W07-P-jb-gill-couples-choice")
     assert w7["theme_reference_text"] == "Bruno Mars" and w7["theme_column_label"] == "Icon"
+
+
+def test_musicals_week_columns(t22):
+    p = one(t22["performances"], "performance_key", "S22W11-P-sarah-hadland-charleston")
+    assert p["theme_column_label"] == "Musical" and p["theme_reference_text"] == "Wicked" and p["music_raw"].startswith('"Popular"')
+    assert [m["song_key"] for m in t22["performance_music"] if m["performance_key"] == p["performance_key"]] == ["song:popular:popular-wicked-song"]
+    assert not [sng for sng in t22["songs"] if sng["title"] in ("Wicked", "Six", "Mary Poppins")]
+    mar = [m for m in t22["performance_music"] if m["performance_key"] == "S22W10-P-chris-mccausland-samba"]
+    assert [(m["seq"], m["artist_key"]) for m in mar] == [(1, "gloria-estefan"), (2, "celia-cruz")]
+    duo = [m for m in t22["performance_music"] if m["performance_key"] == "S22W10-P-pete-wicks-tango"]
+    assert {m["artist_key"] for m in duo} == {"philip-bailey", "phil-collins"} and len({m["song_key"] for m in duo}) == 1
+    assert one(t22["episodes"], "episode_key", "S22W09-P")["venue_key"] == "blackpool-tower-ballroom"
+    assert one(t22["weeks"], "week_key", "S22W01")["dance_brief_raw"] == "One unlearned dance"
+    assert one(t22["people"], "person_key", "tom-dean")["family_name"] == "Dean"
+    cw7 = one(t22["couple_weeks"], "couple_week_key", "S22W07-jb-gill")
+    assert cw7["absence_reason"] == "illness" and cw7["affected_party"] == "professional" and cw7["absence_scope"] == "whole_week"
+    roster = {r["series_person_key"]: r for r in t22["series_people"]}
+    assert roster["S22-amy-dowden-professional-2"]["event_date"] == "2024-11-04" and roster["S22-amy-dowden-professional"]["last_week_key"] == "S22W06"
 
 
 def test_final_and_volumes(t22):
