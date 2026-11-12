@@ -14,3 +14,5 @@ S20,,,ranking_points_dance_off,true,2,save,head_judge,unstated,public_vote_prece
 S20,1,,,,,,,,,,,,false,,stated,section=Week 1; prose,"'There was no elimination this week; all scores carried over to the following week.'"
 S19,,,ranking_points_dance_off,true,2,save,head_judge,unstated,public_vote_precedence,yes,4,40,true,all,stated,section=Format,"Format section: ranking points, public vote precedence on ties, bottom two dance-off, judges vote to save, head judge Ballas has the deciding vote; rank tie rule not stated (A239)"
 S19,1,,,,,,,,,,,,false,,stated,section=Week 1; prose,"'There was no elimination this week; all scores and votes carried over to the following week.' (A202)"
+S18,,,ranking_points_dance_off,true,2,save,head_judge,unstated,public_vote_precedence,yes,3,30,true,all,stated,section=Format,"Format section: ranking points, public vote precedence on ties, bottom two dance-off, judges vote to save, head judge Ballas has the deciding vote; three scoring judges, 30-point scale (A198)"
+S18,1,,,,,,,,,,,,false,,stated,section=Week 1; prose,"'There was no elimination this week; all scores and votes carried over to the following week.'"

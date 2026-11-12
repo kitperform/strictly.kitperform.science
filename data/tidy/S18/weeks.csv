@@ -1,0 +1,10 @@
+week_key,series_key,week_number,round_stage,theme_key,heading_raw,dance_brief_raw,lifecycle_status,source_capture_key,source_locator,source_kind,note
+S18W01,S18,1,regular,,Week 1,One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,section=Week 1,stated,
+S18W02,S18,2,regular,,Week 2,One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,section=Week 2,stated,
+S18W03,S18,3,regular,movie-week,Week 3: Movie Week,One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,section=Week 3: Movie Week,stated,
+S18W04,S18,4,regular,,Week 4,One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,section=Week 4,stated,
+S18W05,S18,5,regular,,Week 5,One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,section=Week 5,stated,
+S18W06,S18,6,regular,,Week 6,One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,section=Week 6,stated,
+S18W07,S18,7,quarter_final,musicals-week,Week 7: Musicals Week (Quarter-final),One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,section=Week 7: Musicals Week (Quarter-final),stated,
+S18W08,S18,8,semi_final,,Week 8: Semi-final,Two unlearned dances,results_in,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,section=Week 8: Semi-final,stated,
+S18W09,S18,9,final,,Week 9: Final,"Judges' choice, showdance & favourite dance of the series",results_in,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,section=Week 9: Final,stated,

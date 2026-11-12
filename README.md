@@ -15,8 +15,8 @@ Part of the [Kit Perform](https://github.com/kitperform) family of performance-a
 - `scripts/fetch-wikipedia.sh` (HTML) and `scripts/fetch-wikitext.py` (wikitext + manifest, optional `--parsoid N`) — reproducible fetchers
 - `strictly_parser/` — the Phase 0 parser: turns a captured series page into the tidy CSV dataset defined in `docs/data-model-v2.md` section 10
 - `curated/` — small hand-maintained tables for facts the page does not state (head judge, format rules, label typos, dance families); see `curated/README.md`
-- `data/tidy/S19/` to `data/tidy/S24/` — the parser's output per series: one CSV per table plus `build_report.md` with the integrity checks
-- `tests/` — pytest acceptance tests pinning known facts of series 19 to 24 (withdrawals, byes, instant dances, rotating casting votes, the triple dance-off, carried-over weeks, finals)
+- `data/tidy/S18/` to `data/tidy/S24/` — the parser's output per series: one CSV per table plus `build_report.md` with the integrity checks
+- `tests/` — pytest acceptance tests pinning known facts of series 18 to 24 (withdrawals, byes, instant dances, rotating casting votes, the triple dance-off, carried-over weeks, finals)
 - `prototypes/` — parser prototypes that established the approach (`prototypes/README.md`)
 - `scraping-evaluation.ipynb`, `four-tens-experimentation.ipynb` — early Jupyter experiments (merged in from the former `strictly-jupyter` fork)
 
@@ -60,7 +60,7 @@ The project is in early-stage discovery.
 ```sh
 python3 -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
-python -m strictly_parser 24          # writes data/tidy/S24/*.csv and build_report.md (19 to 23 likewise)
+python -m strictly_parser 24          # writes data/tidy/S24/*.csv and build_report.md (18 to 23 likewise)
 python -m pytest -q tests             # acceptance tests against the series 24 capture
 ```
 
@@ -68,7 +68,7 @@ The parser reads `data/wikipedia/parsoid/series_24.parsoid.html` (fetched at the
 
 Known limits before series 1 to 23 can be built (from the code review of the Phase 0 parser):
 
-- per-week judge-order overrides drive seats, marks, absent and replacement rows and the scoring scale (series 19), but 3- and 5-judge weeks and a competing professional sitting as a judge (series 7, 12, 15, 18) are untested;
+- per-week judge-order overrides drive seats, marks, absent and replacement rows and the scoring scale (series 18 and 19 cover three judges, a substitute professional and a remote non-scoring judge); five-judge weeks (series 7, 12) are untested;
 - marathons and instant dances have a `group_key`; group routines and multi-couple row headers (series 1 to 8) have no `performer_group` path yet;
 - `competed_unscored` is not yet set for a couple whose every routine in a week was unscored (series 6);
 - legacy (non-Parsoid) HTML has no `<section>` wrappers, so series 1 to 21 need Parsoid re-captures at their manifest revisions (`scripts/fetch-wikitext.py N --parsoid N`) or a sibling-walking fallback;
