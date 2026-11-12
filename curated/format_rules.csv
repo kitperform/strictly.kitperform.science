@@ -22,3 +22,5 @@ S16,,,ranking_points_dance_off,true,2,save,head_judge,unstated,public_vote_prece
 S16,1,,,,,,,,,,,,false,,inferred,section=Scoring chart; column 1+2,"Week 1 had no Result column and the chart carries a 1+2 column; the page does not say so in prose (A170)"
 S15,,,ranking_points_dance_off,true,2,save,head_judge,unstated,public_vote_precedence,yes,4,40,true,all,stated,section=Format,"Format section: ranking points, public vote precedence on ties, bottom two dance-off, judges vote to save, head judge Ballas has the deciding vote"
 S15,1,,,,,,,,,,,,false,,stated,section=Week 1; prose,"'There was no elimination this week; all scores and votes carried over to the following week.' (A160)"
+S14,,,ranking_points_dance_off,true,2,save,head_judge,unstated,public_vote_precedence,yes,4,40,true,all,stated,section=Format,"Format section: ranking points, public vote precedence on ties, bottom two dance-off, judges vote to save, head judge Goodman has the deciding vote"
+S14,1,,,,,,,,,,,,false,,stated,section=Week 1; prose,"Two nights; 'There was no elimination this week; all scores and votes carried over to the following week.' (A148)"

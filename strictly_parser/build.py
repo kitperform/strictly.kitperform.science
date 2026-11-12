@@ -572,6 +572,8 @@ class Build:
             return "illness"
         if re.search(r"medical (?:reasons|advice|grounds)|health reasons|health grounds", text, re.I):
             return "medical_advice"
+        if re.search(r"personal reasons|personal grounds|family reasons", text, re.I):
+            return "personal"
         if re.search(r"filming|unavailable|commitments|scheduling|prior engagement|work commitment", text, re.I):
             return "scheduling_conflict"
         if re.search(r"covid|coronavirus|tested positive", text, re.I):
@@ -686,12 +688,15 @@ class Build:
             if not h["tables"]:
                 self.warn(f"week {wk}: no wikitable in section")
                 continue
-            for label, table in h["tables"]:
+            multi_codes = [c for c in ("N1", "N2", "S1", "S2") if c in self.week_eps.get(wk, {})]
+            for ti, (label, table) in enumerate(h["tables"]):
                 code = "P"
                 if label:
                     m = re.match(r"^(Show|Night) (\d)", label)
                     if m:
                         code = SUB_LABEL_CODE[(m.group(1), m.group(2))][0]
+                elif len(h["tables"]) > 1 and len(multi_codes) == len(h["tables"]) and "P" not in self.week_eps.get(wk, {}):
+                    code = multi_codes[ti]  # rule E2: unlabelled tables follow the Ratings nights/shows in order
                 ekey = self.week_eps[wk].get(code) or (self.week_eps[wk].get("P") if code == "P" else None)
                 if not ekey:
                     ekey = f"{wkk}-{code}"
@@ -966,6 +971,7 @@ class Build:
         else:
             rkey, label, weeks, reason = f"{self.skey}R{wk:02d}", str(wk), [wk], "single_week"
         direction = h["votes_direction"] or self.effective_rule(wk, "vote_direction")
+        prose_all = " ".join(p for p, _ in h["paragraphs"])
         holder = self.casting.get(wk)
         holder_kind = "stated"
         if not holder and self.effective_rule(wk, "casting_vote_mode") == "head_judge":
@@ -1027,6 +1033,13 @@ class Build:
             mechanism, dance_off, direction = "none", "cancelled_withdrawal", ""
             at_risk = at_risk + withdrawn
             round_note = "no dance-off: an at-risk couple withdrew during the results show (week prose)"
+        elif not votes and eliminated and re.search(r"unable to (?:participate|compete|take part) in the dance-off|dance-off (?:did not|could not) take place|no dance-off", prose_all, re.I):
+            # the dance-off was cancelled and the public vote alone decided (A152)
+            cause = self.reason_from(prose_all)
+            dance_off = {"injury": "cancelled_injury", "illness": "cancelled_injury"}.get(cause, "cancelled_injury")
+            mechanism = "lowest_public_vote" if re.search(r"fewest public votes|lowest public vote|public vote", prose_all, re.I) else mechanism
+            direction = ""
+            round_note = "dance-off cancelled (an at-risk couple could not dance); the public vote decided the exit (week prose)"
         self.T["results_rounds"].append({
             "round_key": rkey, "series_key": self.skey, "round_kind": "final_placing" if is_final else "standard", "label": label,
             "deciding_week_key": wkk, "decided_at_episode_key": decided_at or "", "week_keys": "|".join(week_key(self.skey, w) for w in weeks),
@@ -1143,6 +1156,8 @@ class Build:
                             rk = ""
                         at_risk = res in ("bottom_two", "bottom_three", "eliminated")
                         rnd = next((r for r in self.T["results_rounds"] if r["round_key"] == rk), None)
+                        if res in ("bottom_two", "bottom_three", "eliminated") and rnd is not None and rnd["dance_off_status"].startswith("cancelled"):
+                            note = "dance-off cancelled this week; the couple was at risk but did not dance off"
                         if res == "withdrew" and rnd is not None and rnd["dance_off_status"] == "cancelled_withdrawal":
                             at_risk = True
                             note = "announced in the bottom two, withdrew before the dance-off (A226)"
