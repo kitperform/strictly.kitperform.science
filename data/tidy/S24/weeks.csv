@@ -1,0 +1,14 @@
+week_key,series_key,week_number,round_stage,theme_key,heading_raw,dance_brief_raw,lifecycle_status,source_capture_key,source_locator,source_kind,note
+S24W01,S24,1,regular,,Week 1,One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_24:r1384576516:parsoid_html,section=Week 1,stated,
+S24W02,S24,2,regular,movie-week,Week 2: Movie Week,One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_24:r1384576516:parsoid_html,section=Week 2: Movie Week,stated,
+S24W03,S24,3,regular,,Week 3,One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_24:r1384576516:parsoid_html,section=Week 3,stated,
+S24W04,S24,4,regular,icons-week,Week 4: Icons Week,One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_24:r1384576516:parsoid_html,section=Week 4: Icons Week,stated,
+S24W05,S24,5,regular,,Week 5,One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_24:r1384576516:parsoid_html,section=Week 5,stated,
+S24W06,S24,6,regular,halloween-week,Week 6: Halloween Week,One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_24:r1384576516:parsoid_html,section=Week 6: Halloween Week,stated,
+S24W07,S24,7,regular,,Week 7,One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_24:r1384576516:parsoid_html,section=Week 7,stated,
+S24W08,S24,8,regular,,Week 8,One unlearned dance,scheduled,enwiki:Strictly_Come_Dancing_series_24:r1384576516:parsoid_html,section=Week 8,stated,
+S24W09,S24,9,regular,,,,scheduled,enwiki:Strictly_Come_Dancing_series_24:r1384576516:parsoid_html,section=Ratings; row=Week 9,inferred,rule S1: week evidenced only by a Ratings date
+S24W10,S24,10,regular,,,,scheduled,enwiki:Strictly_Come_Dancing_series_24:r1384576516:parsoid_html,section=Ratings; row=Week 10,inferred,rule S1: week evidenced only by a Ratings date
+S24W11,S24,11,regular,,,,scheduled,enwiki:Strictly_Come_Dancing_series_24:r1384576516:parsoid_html,section=Ratings; row=Week 11,inferred,rule S1: week evidenced only by a Ratings date
+S24W12,S24,12,regular,,,,scheduled,enwiki:Strictly_Come_Dancing_series_24:r1384576516:parsoid_html,section=Ratings; row=Week 12,inferred,rule S1: week evidenced only by a Ratings date
+S24W13,S24,13,regular,,,,scheduled,enwiki:Strictly_Come_Dancing_series_24:r1384576516:parsoid_html,section=Ratings; row=Week 13,inferred,rule S1: week evidenced only by a Ratings date

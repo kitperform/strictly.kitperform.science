@@ -1,0 +1,4 @@
+series_key,week_number,episode_code,elimination_mechanism,dance_off_used,at_risk_group_size,vote_direction,casting_vote_mode,rank_tie_policy,combined_tie_break,showdance_scored,default_scoring_judges,default_scale_max,week_has_elimination,field_subset,source_kind,source_locator,note
+S24,,,ranking_points_dance_off,true,2,save,rotating,shared_points_dense,public_vote_precedence,yes,4,40,true,all,stated,section=Format,"Format section: ranking points, public vote precedence on ties, bottom two dance-off, judges vote to save; casting vote named weekly"
+S24,1,,,,,,,,,,,,false,,stated,section=Week 1; prose,"'There was no elimination this week; all scores carried over to the following week.'"
+S24,6,,,,3,eliminate,,,,,,,,,stated,section=Week 6: Halloween Week; prose,"Triple dance-off; judges vote for the one couple to be eliminated (A253)"

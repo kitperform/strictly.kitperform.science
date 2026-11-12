@@ -13,6 +13,10 @@ Part of the [Kit Perform](https://github.com/kitperform) family of performance-a
 - `data/wikipedia/wikitext/` — raw wikitext of the same pages fetched through the MediaWiki Action API, with `MANIFEST.csv` recording page id, revision id, revision timestamp and sha1 for every capture
 - `data/wikipedia/parsoid/` — Parsoid HTML of series 24 at the same revision as its wikitext
 - `scripts/fetch-wikipedia.sh` (HTML) and `scripts/fetch-wikitext.py` (wikitext + manifest, optional `--parsoid N`) — reproducible fetchers
+- `strictly_parser/` — the Phase 0 parser: turns a captured series page into the tidy CSV dataset defined in `docs/data-model-v2.md` section 10
+- `curated/` — small hand-maintained tables for facts the page does not state (head judge, format rules, label typos, dance families); see `curated/README.md`
+- `data/tidy/S24/` — the parser's output for series 24: one CSV per table plus `build_report.md` with the integrity checks
+- `tests/` — pytest acceptance tests that pin known series 24 facts (triple dance-off, byes, casting votes, carried-over opening weeks)
 - `prototypes/` — parser prototypes that established the approach (`prototypes/README.md`)
 - `scraping-evaluation.ipynb`, `four-tens-experimentation.ipynb` — early Jupyter experiments (merged in from the former `strictly-jupyter` fork)
 
@@ -50,6 +54,17 @@ The project is in early-stage discovery.
     - prototype Beautiful Soup code to scrape data into the database model, start experimenting
       - write code to link tables via foreign keys
     - give a lightning talk at PyData Southampton on TBD
+
+## Running the parser
+
+```sh
+python3 -m venv venv && source venv/bin/activate
+pip install -r requirements.txt
+python -m strictly_parser 24          # writes data/tidy/S24/*.csv and build_report.md
+python -m pytest -q tests             # acceptance tests against the series 24 capture
+```
+
+The parser reads `data/wikipedia/parsoid/series_24.parsoid.html` (fetched at the revision recorded in `data/wikipedia/wikitext/MANIFEST.csv`) and the tables in `curated/`. It exits non-zero if any integrity check in the report fails. Re-fetch with `scripts/fetch-wikitext.py 24 --parsoid 24` and re-run to pick up a new week.
 
 ## Local setup
 

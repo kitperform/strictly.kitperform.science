@@ -1,0 +1,18 @@
+dance_key,name,dance_family,aliases,wiki_title
+waltz,Waltz,ballroom,,Waltz
+viennese-waltz,Viennese waltz,ballroom,Viennese Waltz,Viennese waltz
+foxtrot,Foxtrot,ballroom,,Foxtrot
+quickstep,Quickstep,ballroom,,Quickstep
+tango,Tango,ballroom,,Tango
+american-smooth,American Smooth,ballroom,American smooth,American Smooth
+cha-cha-cha,Cha-cha-cha,latin,Cha-cha|Cha cha cha,Cha-cha-cha
+samba,Samba,latin,,Samba
+rumba,Rumba,latin,,Rumba
+paso-doble,Paso doble,latin,Paso Doble,Paso doble
+jive,Jive,latin,,Jive
+salsa,Salsa,latin,,Salsa
+argentine-tango,Argentine tango,specialty,Argentine Tango,Argentine tango
+charleston,Charleston,specialty,,Charleston (dance)
+lindy-hop,Lindy Hop,specialty,Lindy hop,Lindy Hop
+couples-choice,Couple's choice,couples_choice,Couples' choice|Couple's Choice,
+showdance,Showdance,showdance,Show dance,
