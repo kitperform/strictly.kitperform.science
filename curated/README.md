@@ -13,4 +13,5 @@ Each file says where the fact came from so it can be checked.
 | `dances.csv` | Dance lookup with family and known aliases |
 | `venues.csv` | Venue lookup |
 | `couples.csv` | Per-couple facts the tables do not carry (couple_kind for same-sex couples) |
+| `person_aliases.csv` | Names and former article titles that must resolve to one person (Karen Clifton = Karen Hauer) |
 | `chart_colours.csv` | What each Scoring-chart cell colour means when a page has no footnotes (A249) |

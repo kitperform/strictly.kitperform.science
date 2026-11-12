@@ -78,6 +78,22 @@ class Build:
         self.report["checks"].append((name, bool(ok), detail))
 
     def add_person(self, title, display, locator, kind="person"):
+        cur = self.alias_curated.get(title or "") or self.alias_curated.get(display or "")
+        if cur:
+            slug = cur["person_slug"]
+            if slug not in self.people:
+                toks = cur["canonical_name"].split()
+                row = {"person_key": slug, "slug": slug, "person_kind": kind, "identity_basis": "wikipedia_title", "wiki_title": cur["wiki_title"],
+                       "canonical_name": cur["canonical_name"], "given_name": toks[0], "family_name": " ".join(toks[1:]), "gender": "",
+                       **self.prov("curated/person_aliases.csv", "editorial", cur["note"])}
+                self.people[slug] = row
+                self.T["people"].append(row)
+            alias = (title or display or "").strip()
+            akey = f"{slug}|any|{alias}|any"
+            if alias and alias != cur["canonical_name"] and not any(a["person_alias_key"] == akey for a in self.T["person_aliases"]):
+                self.T["person_aliases"].append({"person_alias_key": akey, "person_key": slug, "alias": alias, "alias_kind": cur["alias_kind"], "context": "any",
+                                                 "series_key": "", **self.prov(locator, "stated", "name as printed on this page; resolved through curated/person_aliases.csv")})
+            return slug
         if not title and display:
             known = next((s for s, p in self.people.items() if p["canonical_name"] == display.strip()), None)
             if known:
@@ -128,6 +144,7 @@ class Build:
         self.venues = {r["venue_key"]: r for r in read_csv(c / "venues.csv")}
         self.chart_colours = {r["colour_norm"].lower(): r for r in read_csv(c / "chart_colours.csv")}
         self.couples_curated = {r["couple_key"]: r for r in read_csv(c / "couples.csv")} if (c / "couples.csv").exists() else {}
+        self.alias_curated = {r["alias"]: r for r in read_csv(c / "person_aliases.csv")} if (c / "person_aliases.csv").exists() else {}
 
     def source_capture(self):
         m = self.manifest
@@ -638,14 +655,19 @@ class Build:
         self.bye_notes = {}
         self.guest_nonscoring = {}
         self.carry_votes_weeks = set()
+        self.chart_only_carry = set()
         self.dances_seen = {}
         for wk, h in sorted(self.headings.items()):
             wkk = week_key(self.skey, wk)
             prose = " ".join(p for p, _ in h["paragraphs"])
+            if any(a == wk for a, b in self.chart_combined_labels()) and not any(header_text(c["el"]).lower().startswith("result") for _, t in h["tables"] for c in table_grid(t)[0]):
+                self.carry_weeks.add(wk)
+                self.chart_only_carry.add(wk)
             if re.search(r"no elimination", prose, re.I):
                 self.no_elimination_weeks.add(wk)
                 if re.search(r"carried over", prose, re.I):
                     self.carry_weeks.add(wk)
+                    self.chart_only_carry.discard(wk)
                     if re.search(r"public votes? (?:were|was|and scores were)? ?carried", prose, re.I) or re.search(r"scores and (?:public )?votes (?:were )?carried", prose, re.I):
                         self.carry_votes_weeks.add(wk)
             cm = CASTING_RE.search(prose)
@@ -1006,7 +1028,7 @@ class Build:
             "elimination_mechanism_actual": mechanism, "exit_count": len(eliminated),
             "at_risk_group_size_actual": len(at_risk) if at_risk else "", "dance_off_status": dance_off, "vote_direction": direction,
             "casting_vote_slug": holder or "", "casting_vote_used": used, "casting_vote_inferred": inferred, "votes_recorded": "true" if votes else "false",
-            "votes_carried_over": ("true" if combined_from in self.carry_votes_weeks else "false") if (combined_from and combined_from in self.carry_weeks) else "", "combined_reason": reason,
+            "votes_carried_over": ("true" if combined_from in self.carry_votes_weeks else "" if combined_from in self.chart_only_carry else "false") if (combined_from and combined_from in self.carry_weeks) else "", "combined_reason": reason,
             "casting_vote_source_kind": holder_kind if holder else "",
             **self.prov(f"section={h['heading']}; Result column and votes list" + ("; Scoring chart column " + label if combined_from else ""),
                         "stated", round_note or ("casting_vote_used=true by the pivotal rule (check 7)" if used == "true" else ("casting vote holder did not cast a vote" if used == "false" and holder and vote_rows and holder_vote is None else "")))})
@@ -1106,7 +1128,7 @@ class Build:
                             res = RESULT_MAP.get(raw.lower(), "pending" if raw == "" else raw.lower())
                             locator += f"; table row; col=Result"
                         elif wk in self.carry_weeks:
-                            res, kind, note = "carried_forward", "inferred", "no Result column; prose says scores carried over"
+                            res, kind, note = "carried_forward", "inferred", ("no Result column; the Scoring chart carries a combined column (A170)" if wk in self.chart_only_carry else "no Result column; prose says scores carried over")
                         elif wk in self.no_elimination_weeks:
                             res, kind, note = "no_elimination", "inferred", "no Result column; prose says no elimination"
                         if res == "pending" and self.week_rounds.get(wk):
