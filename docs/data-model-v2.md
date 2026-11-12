@@ -1190,24 +1190,40 @@ Repair decisions (v2.1, from the representability, queryability and Drupal revie
 - **Derived views.** `v_average_chart` uses competition ranking with a dense override for S4 and half-up rounding; `v_leaderboard` uses dense ranking; `v_episode_total` and `v_dance_chart` added; `v_dance_off_tally` classes keyed on scoring seats; statement 4 scopes finalists to the `final_placing` round; Wikipedia mode and exact mode published as named files; canonical definitions of "week one" and "last week" pinned.
 - **Drupal.** Migration order corrected (weeks and episodes before series_people), `*_links` second passes deleted, explicit `migration_dependencies`; one taxonomy seeding mechanism (migrations, no `content/`); per-enumeration field storages; `field_mechanism_actual`/`field_mechanism_rule` (≤32 chars) with a lint; titles and every `field_d_*` built from CSV columns; effective rules imported as `episode.field_d_*`; `validate: false` + `drush strictly:verify`; denormalised scalar `field_d_*` for one-level JSON:API filters; Discrepancy's derived marker split into `value_b_origin` + `locator_b`; closed `list_string` changes documented as Recipe updates.
 
-## 12. Open questions for Rob
+## 12. Open questions for Rob (all decided 12 November 2026)
+
+Rob reviewed these on 12 November 2026; the decision under each question is now part of the model and the remaining text is kept for the record.
 
 1. **S6 final showdance (A048).** Load as unscored (2024 capture, Average chart) or as `judge_total_only` 37/39/39 (live Scoring chart), with the other kept in `Discrepancy`? Do you have a BBC source? The model stores both readings and can load either without inventing marks, but one has to be the loaded `scoring_mode`.
+   **Decided (12 Nov 2026):** no BBC source is available. Load the live Wikipedia reading (`judge_total_only` 37/39/39, semi-final scores carried) with `source_kind = disputed`; keep the 2024 reading in `Discrepancy`. Commentary that touches S6 final totals carries a caveat.
 2. **S8 Show 1 exit (A077).** Keep the page's "lowest combined scores" as `lowest_combined_points_stated` (disputed, with the Discrepancy noting that Pamela & James had the *highest* judges' total), or treat S11/S12's "lowest public vote" as the correct mechanism and make the S8 wording the `editorial` value?
+   **Decided:** store the page's wording as `lowest_combined_points_stated` with `source_kind = disputed`, plus a `Discrepancy` row noting that the couple who left had the highest judges' total and that S11/S12 pages state the public vote alone decided the equivalent exit.
 3. **Gender.** No stored fact now depends on `Person.gender` (`FormatRule.field_subset` carries the men-only/women-only weeks, `Couple.couple_kind` the same-sex couple). Keep the optional editorial column for analysis, or drop it?
+   **Decided:** drop `Person.gender` for now. `FormatRule.field_subset` and `Couple.couple_kind` already carry every stored fact; the column can be added by a later migration if commentary needs it.
 4. **Shared ordinal "10th & 11th" (A076, A089).** The default is now: both couples get the lower integer with `exit_ordinal_is_shared=true` (mirroring shared placements). Alternative: leave `exit_ordinal` null for both. Which?
+   **Decided:** both couples take the lower integer with `exit_ordinal_is_shared = true`; the verbatim "10th & 11th" stays in `exit_ordinal_text`.
 5. **Specials scope.** Christmas and charity specials need the "List of Strictly Come Dancing specials" page and a different table grammar. In scope for v2, or a declared v3 item? If in scope, is `special_single_show` (judges + studio/public vote) the right single mechanism, and is `parent_series_id` the right link?
+   **Decided:** specials are out of scope for v2 (declared v3 item). The schema keeps `series_kind` and `parent_series_id` so nothing has to change later.
 6. **Presenters and musical guests (tier 2).** `EpisodeAppearance` is now schema-complete (stand-ins, absences, reasons, guest songs). Include it in the first ingest (A019, A067, A106, A117, A126, A024, A168), or leave it out until commentary needs it?
+   **Decided:** `EpisodeAppearance` stays schema-complete but is not ingested in the first build.
 7. **Person key.** Confirm keying on a curated slug (`karen-hauer`) with the Wikipedia title as a mutable attribute and former titles as aliases; the alternative (title as key) was rejected by the Drupal review because article moves would orphan nodes.
+   **Decided:** `Person` is keyed on a curated slug; the Wikipedia title is a mutable attribute; former titles, display names and vote-list surnames are `PersonAlias` rows.
 8. **Dance-off routines.** The re-danced routines are not on Wikipedia. Should the schema reserve a `performance_kind=dance_off` value (unscored, source external) for a later BBC-sourced enrichment?
+   **Decided:** reserve `performance_kind = dance_off` (unscored, external source) for a later BBC-sourced enrichment.
 9. **Casting-vote holder S5–S22.** Populated as `inherited` from the head-judge rule (never stated per week). Acceptable, or should those rows stay null unless the page states the holder?
+   **Decided:** populate `casting_vote_holder` from the series head-judge rule for S5–S22 with `source_kind = inherited`; S23+ holders are `stated` per week. `PanelSeat.role = head` records who was head judge per episode; `ResultsRound.casting_vote_pivotal` records whether it actually decided the exit.
 10. **Fusion with more than two styles (A101).** No instance exists; `dance_secondary_id` suffices. Confirm you do not want a performance–dance bridge table now.
+   **Decided:** keep `dance_id` + `dance_secondary_id`; no performance–dance bridge table. Whether fusion halves count towards "first Charleston" is a published analysis parameter, not a stored fact.
 11. **Troupe and pro-group routines (A083, A168).** The model now loads them as couple-less `Performance` rows (`performer_group`), which makes `Performance.couple_id` nullable. Confirm, or revert to roster-only.
+   **Decided:** troupe and pro-group routines are not loaded as `Performance` rows in the first build; the roster (`SeriesPerson` with role `troupe`) is. `Performance.couple_id` remains nullable so they can be added later.
 12. **Average-chart reproduction parameters.** Wikipedia mode is pinned as: drop `guest_additional`, rescale 30-point weeks only when the series scale is 40, half-up rounding to 1 dp, competition ranking with a dense override for S4. Confirm these as the canonical "Wikipedia mode" alongside the published "exact mode".
+   **Decided:** confirmed as the canonical "Wikipedia mode"; the "exact mode" is published alongside.
 13. **Live-series cadence.** Scheduled `Performance` rows are emitted only for couples with a non-empty Dance or Music cell (rule L1); blank Week 8 rows yield only the `pending` CoupleWeek. Confirm.
+   **Decided:** confirmed (rule L1).
 14. **Couple key change.** Moving from `{series}-{celeb-token}-{pro-token}` to `{series}-{celebrity_slug}` makes couple keys longer (`S24-lawrence-robb` instead of `S24-lawrence-jowita`) but stable. Confirm you are happy to lose the pro name from the key (it stays in `chart_label` and the title).
+   **Decided:** confirmed. Couple identity is series + celebrity; changes of professional are `CouplePartnership` rows; display names are `CoupleLabel` rows.
 15. **A004 resolution.** Prefer the Couples-table date (12 June 2004) over the Ratings date for `S01W05-P.air_date`, or keep both unresolved?
-
+   **Decided:** take the Couples-table date (12 June 2004) for `S01W05-P.air_date` and record the Ratings date in `Discrepancy`.
 ## 13. Verification record
 
 **Scope.** All 257 anomalies (A001–A257) were checked for representability against model v2.0; the eight commentary statements plus eighteen further statements were checked for queryability over the flat CSVs; the Drupal mapping was checked for feasibility against Drupal 11 field, Migrate and JSON:API constraints.
