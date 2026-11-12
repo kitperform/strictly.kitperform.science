@@ -576,7 +576,7 @@ class Build:
             return "covid_contact_or_travel"
         if re.search(r"injur|torn|fractur|\bribs?\b|broke|\bfoot\b|knee|ligament|ankle|hamstring|calf|muscle|sprain", text, re.I):
             return "injury"
-        if re.search(r"\bill\b|ill health|illness|sick|unwell|virus|infection|collaps", text, re.I):
+        if re.search(r"\bill\b|ill health|illness|sick|unwell|virus|infection|collaps|faint|food poisoning", text, re.I):
             return "illness"
         if re.search(r"medical (?:reasons|advice|grounds)|health reasons|health grounds", text, re.I):
             return "medical_advice"
