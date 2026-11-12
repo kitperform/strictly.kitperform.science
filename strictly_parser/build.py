@@ -231,7 +231,8 @@ class Build:
                 stage = {"quarterfinal": "quarter_final", "semifinal": "semi_final"}.get(stage, stage)
             theme_key = slugify(h["theme"]) if h and h["theme"] else ""
             if theme_key and not any(t["theme_key"] == theme_key for t in self.T["themes"]):
-                kind = "film" if "movie" in theme_key or "film" in theme_key else "icon" if "icon" in theme_key else "musical" if "musical" in theme_key else "bbc_programme" if "bbc" in theme_key else "none"
+                kind = "film" if "movie" in theme_key or "film" in theme_key else "icon" if "icon" in theme_key else "musical" if "musical" in theme_key else \
+                       "bbc_programme" if "bbc" in theme_key else "country" if "around-the-world" in theme_key else "none"
                 self.T["themes"].append({"theme_key": theme_key, "name": h["theme"], "theme_reference_kind": kind, "is_location_theme": "false", "wiki_title": "",
                                          **self.prov(f"section={h['heading']}")})
             self.weeks[wk] = {"week_key": week_key(self.skey, wk), "series_key": self.skey, "week_number": wk, "round_stage": stage,

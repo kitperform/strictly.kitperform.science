@@ -1,0 +1,3 @@
+source_capture_key,wiki_title,page_id,revid,parent_revid,rev_timestamp,captured_at,sha1,format,file_path,parser_version,is_current,licence_note
+enwiki:Strictly_Come_Dancing_series_12:r1383618843:parsoid_html,Strictly Come Dancing series 12,42933329,1383618843,,2026-11-03T18:54:58Z,2026-11-09T00:45:32Z,08236e83dad4a20aa8eeaaf827240a38e363593a,parsoid_html,data/wikipedia/parsoid/series_12.parsoid.html,strictly_parser 0.1.0,true,CC BY-SA 4.0
+enwiki:Strictly_Come_Dancing_series_12:r1383618843:wikitext,Strictly Come Dancing series 12,42933329,1383618843,,2026-11-03T18:54:58Z,2026-11-09T00:45:32Z,08236e83dad4a20aa8eeaaf827240a38e363593a,wikitext,data/wikipedia/wikitext/series_12.wikitext,strictly_parser 0.1.0,true,CC BY-SA 4.0
