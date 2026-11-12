@@ -48,7 +48,9 @@ def test_du_beke_substitutes_for_mabuse_a191(t18):
         seats = {s["judge_slug"]: s for s in t18["panel_seats"] if s["episode_key"] == ekey}
         assert seats["anton-du-beke"]["panel_role"] == "guest_replacement" and seats["anton-du-beke"]["seat_position"] == 3 and seats["anton-du-beke"]["replaces_slug"] == "motsi-mabuse"
         assert seats["motsi-mabuse"]["panel_role"] == "absent" and seats["motsi-mabuse"]["absence_reason"] == "covid_contact_or_travel"
-    assert one(t18["panel_seats"], "panel_seat_key", "S18W05-P-jx1")["source_kind"] == "inherited"
+    w5 = one(t18["panel_seats"], "panel_seat_key", "S18W05-P-jx1")
+    assert w5["source_kind"] == "stated" and "carried forward" in w5["note"]  # 'again substituted' states the absence; the reason comes from week 4
+    assert one([m for m in t18["judge_marks"] if m["performance_key"] == "S18W04-P-hrvy-salsa"], "seat_position", 3)["panel_role"] == "guest_replacement"
     roster = {r["series_person_key"]: r for r in t18["series_people"]}
     assert roster["S18-anton-du-beke-judge"]["roster_status"] == "substitute" and roster["S18-anton-du-beke-professional"]["roster_status"] == "competed"
     marks = [m for m in t18["judge_marks"] if m["performance_key"] == "S18W04-P-hrvy-salsa"]

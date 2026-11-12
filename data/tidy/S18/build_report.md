@@ -11,9 +11,9 @@
 | `panel_seats.csv` | 36 |
 | `results_rounds.csv` | 8 |
 | `results_round_weeks.csv` | 9 |
-| `people.csv` | 28 |
+| `people.csv` | 30 |
 | `person_aliases.csv` | 4 |
-| `series_people.csv` | 29 |
+| `series_people.csv` | 31 |
 | `couples.csv` | 12 |
 | `couple_partnerships.csv` | 12 |
 | `couple_labels.csv` | 36 |
