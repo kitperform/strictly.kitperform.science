@@ -382,6 +382,8 @@ class Build:
             celeb_variants = {first_token(r["celeb_name"]), r["celeb_name"]}
             if len(celeb_tokens) > 1 and celeb_tokens[0].endswith("."):
                 celeb_variants.add(" ".join(celeb_tokens[:2]))
+            if len(celeb_tokens) > 1:
+                celeb_variants.add(f"{celeb_tokens[0]} {celeb_tokens[-1][0]}.")  # 'Angela S.' when two celebrities share a first name
             for pr in r["pros"] or [{"name": r["pro_name"]}]:
                 for cv in celeb_variants:
                     self.label_map.setdefault(f"{cv} & {first_token(pr['name'])}", ckey)
@@ -464,7 +466,17 @@ class Build:
             prev_slug = slug
 
     def reason_from(self, text):
-        return "injury" if re.search(r"injur|torn|fractur|rib|broke|foot|knee", text, re.I) else "illness" if re.search(r"\bill|sick|unwell|virus|infection|collaps", text, re.I) else "unspecified"
+        if re.search(r"injur|torn|fractur|rib|broke|foot|knee", text, re.I):
+            return "injury"
+        if re.search(r"\bill|sick|unwell|virus|infection|collaps", text, re.I):
+            return "illness"
+        if re.search(r"medical (?:reasons|advice|grounds)|health reasons", text, re.I):
+            return "medical_advice"
+        if re.search(r"covid|coronavirus", text, re.I):
+            return "covid_positive"
+        if re.search(r"bereave|death|passed away|funeral", text, re.I):
+            return "bereavement"
+        return "unspecified"
 
     def roster_change(self, new_slug, new_name, w_from, w_to, old_slug, old_name, perm_week, reason):
         self._roster_changes.append((new_slug, new_name, w_from, w_to, old_slug, old_name, perm_week, reason))
@@ -990,12 +1002,12 @@ class Build:
                             locator = f"section=Scoring chart; row={couple['chart_label']}; col={wk}"
                             note = "withdrew cell colour (curated/chart_colours.csv)" + ("; bye granted first per week prose" if bye else "")
                             prose_w = " ".join(p for p, _ in self.headings[wk]["paragraphs"])
-                            reason = "injury" if re.search(r"injur|torn|fractur|rib|broke", prose_w, re.I) else "illness" if re.search(r"\bill|sick|unwell|virus|infection", prose_w, re.I) else "unspecified"
+                            reason = self.reason_from(prose_w)
                             party, scope = "celebrity", "whole_week"
                         elif any(n.lower() in ("outsick", "bye", "excused") for n in efn) or "excused" in " ".join(self.chart_notes.get(n, "") for n in efn).lower() or (colour and colour["bye_granted"] == "true"):
                             part, res, bye, scope, party = "bye", "exempt", True, "whole_week", "celebrity"
                             note_text = self.bye_notes.get(wk, "")
-                            reason = "injury" if re.search(r"injur|torn|fractur|rib|broke", note_text, re.I) else "illness" if re.search(r"\bill|sick|unwell|virus|infection", note_text, re.I) else "unspecified"
+                            reason = self.reason_from(note_text)
                             how = f"footnote {efn}" if efn else "cell colour (curated/chart_colours.csv)"
                             note = f"bye stated by Scoring chart {how}; reason from week prose" if note_text else f"bye stated by Scoring chart {how}"
                             locator = f"section=Scoring chart; row={couple['chart_label']}; col={wk}"
@@ -1090,7 +1102,7 @@ class Build:
                         c["exit_timing"], c["exit_episode_key"] = "during_results_show", self.week_eps[wk].get("R", "")
                     elif sent:
                         c["exit_timing"] = "before_live_show"
-                    c["exit_reason"] = "injury" if re.search(r"injur|torn|fractur|rib|broke", sent, re.I) else "illness" if re.search(r"\bill|sick|unwell|virus|infection", sent, re.I) else "unspecified" if sent else ""
+                    c["exit_reason"] = self.reason_from(sent) if sent else ""
                     c["exit_affected_party"] = "celebrity" if sent else ""
                     ekind = self.episodes.get(c["exit_episode_key"], {}).get("episode_kind", "")
                     c["exit_date_kind"] = {"results": "results_episode", "performance": "performance_episode", "performance_and_results": "combined_episode"}.get(ekind, "announcement" if c["exit_date"] else "unknown")

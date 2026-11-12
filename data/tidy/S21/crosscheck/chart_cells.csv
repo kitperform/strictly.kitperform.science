@@ -1,0 +1,226 @@
+chart_cell_key,source_capture_key,chart_kind,row_index,col_index,row_label_raw,couple_key,col_label_raw,cell_text_raw,bgcolor_norm,flags
+S21|scoring|0|0,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,0,0,Ellie & Vito,S21-ellie-leach,1,29,,
+S21|scoring|0|1,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,0,1,Ellie & Vito,S21-ellie-leach,2,31,,
+S21|scoring|0|2,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,0,2,Ellie & Vito,S21-ellie-leach,1+2,60,,
+S21|scoring|0|3,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,0,3,Ellie & Vito,S21-ellie-leach,3,33,,
+S21|scoring|0|4,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,0,4,Ellie & Vito,S21-ellie-leach,4,28,,
+S21|scoring|0|5,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,0,5,Ellie & Vito,S21-ellie-leach,5,37,,
+S21|scoring|0|6,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,0,6,Ellie & Vito,S21-ellie-leach,6,38†,,dagger|bold
+S21|scoring|0|7,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,0,7,Ellie & Vito,S21-ellie-leach,7,39†,,dagger|bold
+S21|scoring|0|8,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,0,8,Ellie & Vito,S21-ellie-leach,8,35,,
+S21|scoring|0|9,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,0,9,Ellie & Vito,S21-ellie-leach,9,39†,,dagger|bold
+S21|scoring|0|10,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,0,10,Ellie & Vito,S21-ellie-leach,10,38†,,dagger|bold
+S21|scoring|0|11,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,0,11,Ellie & Vito,S21-ellie-leach,11,36,,
+S21|scoring|0|12,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,0,12,Ellie & Vito,S21-ellie-leach,12,37+38=75,,
+S21|scoring|0|13,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,0,13,Ellie & Vito,S21-ellie-leach,11+12,111,,
+S21|scoring|0|14,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,0,14,Ellie & Vito,S21-ellie-leach,13,39+36+40=115‡,gold,double_dagger|italic
+S21|scoring|1|0,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,1,0,Bobby & Dianne,S21-bobby-brazier,1,29,,
+S21|scoring|1|1,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,1,1,Bobby & Dianne,S21-bobby-brazier,2,29,,
+S21|scoring|1|2,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,1,2,Bobby & Dianne,S21-bobby-brazier,1+2,58,,
+S21|scoring|1|3,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,1,3,Bobby & Dianne,S21-bobby-brazier,3,32,,
+S21|scoring|1|4,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,1,4,Bobby & Dianne,S21-bobby-brazier,4,30,,
+S21|scoring|1|5,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,1,5,Bobby & Dianne,S21-bobby-brazier,5,32,,
+S21|scoring|1|6,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,1,6,Bobby & Dianne,S21-bobby-brazier,6,30,,
+S21|scoring|1|7,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,1,7,Bobby & Dianne,S21-bobby-brazier,7,30,,
+S21|scoring|1|8,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,1,8,Bobby & Dianne,S21-bobby-brazier,8,32,,
+S21|scoring|1|9,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,1,9,Bobby & Dianne,S21-bobby-brazier,9,35,lightblue,efn:Bottom2
+S21|scoring|1|10,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,1,10,Bobby & Dianne,S21-bobby-brazier,10,37,,
+S21|scoring|1|11,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,1,11,Bobby & Dianne,S21-bobby-brazier,11,34,,
+S21|scoring|1|12,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,1,12,Bobby & Dianne,S21-bobby-brazier,12,38+35=73,,
+S21|scoring|1|13,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,1,13,Bobby & Dianne,S21-bobby-brazier,11+12,107,lightblue,efn:Bottom2
+S21|scoring|1|14,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,1,14,Bobby & Dianne,S21-bobby-brazier,13,39+39+39=117,silver,
+S21|scoring|2|0,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,2,0,Layton & Nikita,S21-layton-williams,1,29,,
+S21|scoring|2|1,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,2,1,Layton & Nikita,S21-layton-williams,2,36†,,dagger|bold
+S21|scoring|2|2,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,2,2,Layton & Nikita,S21-layton-williams,1+2,65†,,dagger|bold
+S21|scoring|2|3,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,2,3,Layton & Nikita,S21-layton-williams,3,28,,
+S21|scoring|2|4,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,2,4,Layton & Nikita,S21-layton-williams,4,37†,,dagger|bold
+S21|scoring|2|5,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,2,5,Layton & Nikita,S21-layton-williams,5,39†,,dagger|bold
+S21|scoring|2|6,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,2,6,Layton & Nikita,S21-layton-williams,6,36,,
+S21|scoring|2|7,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,2,7,Layton & Nikita,S21-layton-williams,7,36,,
+S21|scoring|2|8,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,2,8,Layton & Nikita,S21-layton-williams,8,39†,,dagger|bold
+S21|scoring|2|9,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,2,9,Layton & Nikita,S21-layton-williams,9,39†,,dagger|bold
+S21|scoring|2|10,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,2,10,Layton & Nikita,S21-layton-williams,10,34,lightblue,efn:Bottom2
+S21|scoring|2|11,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,2,11,Layton & Nikita,S21-layton-williams,11,40†,,dagger|bold
+S21|scoring|2|12,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,2,12,Layton & Nikita,S21-layton-williams,12,36+40=76†,,dagger|bold
+S21|scoring|2|13,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,2,13,Layton & Nikita,S21-layton-williams,11+12,116†,,dagger|bold
+S21|scoring|2|14,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,2,14,Layton & Nikita,S21-layton-williams,13,40+39+40=119†,silver,dagger|bold
+S21|scoring|3|0,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,3,0,Annabel & Johannes,S21-annabel-croft,1,28,,
+S21|scoring|3|1,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,3,1,Annabel & Johannes,S21-annabel-croft,2,22,,
+S21|scoring|3|2,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,3,2,Annabel & Johannes,S21-annabel-croft,1+2,50,,
+S21|scoring|3|3,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,3,3,Annabel & Johannes,S21-annabel-croft,3,30,,
+S21|scoring|3|4,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,3,4,Annabel & Johannes,S21-annabel-croft,4,29,,
+S21|scoring|3|5,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,3,5,Annabel & Johannes,S21-annabel-croft,5,27,,
+S21|scoring|3|6,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,3,6,Annabel & Johannes,S21-annabel-croft,6,29,,
+S21|scoring|3|7,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,3,7,Annabel & Johannes,S21-annabel-croft,7,35,,
+S21|scoring|3|8,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,3,8,Annabel & Johannes,S21-annabel-croft,8,31,,
+S21|scoring|3|9,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,3,9,Annabel & Johannes,S21-annabel-croft,9,35,,
+S21|scoring|3|10,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,3,10,Annabel & Johannes,S21-annabel-croft,10,36,,
+S21|scoring|3|11,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,3,11,Annabel & Johannes,S21-annabel-croft,11,33‡,,double_dagger|italic
+S21|scoring|3|12,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,3,12,Annabel & Johannes,S21-annabel-croft,12,32+33=65‡,,double_dagger|italic
+S21|scoring|3|13,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,3,13,Annabel & Johannes,S21-annabel-croft,11+12,98‡,f4c7b8,double_dagger|italic|efn:Elim
+S21|scoring|3|14,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,3,14,Annabel & Johannes,S21-annabel-croft,13,,darkgrey,
+S21|scoring|4|0,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,4,0,Nigel & Katya,S21-nigel-harman,1,32†,,dagger|bold
+S21|scoring|4|1,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,4,1,Nigel & Katya,S21-nigel-harman,2,27,,
+S21|scoring|4|2,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,4,2,Nigel & Katya,S21-nigel-harman,1+2,59,,
+S21|scoring|4|3,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,4,3,Nigel & Katya,S21-nigel-harman,3,25,,
+S21|scoring|4|4,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,4,4,Nigel & Katya,S21-nigel-harman,4,33,,
+S21|scoring|4|5,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,4,5,Nigel & Katya,S21-nigel-harman,5,29,,
+S21|scoring|4|6,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,4,6,Nigel & Katya,S21-nigel-harman,6,30,,
+S21|scoring|4|7,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,4,7,Nigel & Katya,S21-nigel-harman,7,33,,
+S21|scoring|4|8,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,4,8,Nigel & Katya,S21-nigel-harman,8,34,,
+S21|scoring|4|9,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,4,9,Nigel & Katya,S21-nigel-harman,9,31,,
+S21|scoring|4|10,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,4,10,Nigel & Katya,S21-nigel-harman,10,33,,
+S21|scoring|4|11,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,4,11,Nigel & Katya,S21-nigel-harman,11,,lightgreen,efn:Quitter
+S21|scoring|4|12,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,4,12,Nigel & Katya,S21-nigel-harman,12,,darkgray,
+S21|scoring|4|13,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,4,13,Nigel & Katya,S21-nigel-harman,11+12,,darkgray,rowspan_copy|colspan_copy
+S21|scoring|4|14,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,4,14,Nigel & Katya,S21-nigel-harman,13,,darkgrey,rowspan_copy
+S21|scoring|5|0,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,5,0,Angela S. & Carlos,S21-angela-scanlon,1,23,,
+S21|scoring|5|1,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,5,1,Angela S. & Carlos,S21-angela-scanlon,2,29,,
+S21|scoring|5|2,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,5,2,Angela S. & Carlos,S21-angela-scanlon,1+2,52,,
+S21|scoring|5|3,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,5,3,Angela S. & Carlos,S21-angela-scanlon,3,35†,,dagger|bold
+S21|scoring|5|4,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,5,4,Angela S. & Carlos,S21-angela-scanlon,4,28,,
+S21|scoring|5|5,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,5,5,Angela S. & Carlos,S21-angela-scanlon,5,28,,
+S21|scoring|5|6,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,5,6,Angela S. & Carlos,S21-angela-scanlon,6,33,,
+S21|scoring|5|7,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,5,7,Angela S. & Carlos,S21-angela-scanlon,7,27‡,,double_dagger|italic
+S21|scoring|5|8,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,5,8,Angela S. & Carlos,S21-angela-scanlon,8,33,,
+S21|scoring|5|9,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,5,9,Angela S. & Carlos,S21-angela-scanlon,9,38,,
+S21|scoring|5|10,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,5,10,Angela S. & Carlos,S21-angela-scanlon,10,31‡,f4c7b8,double_dagger|italic|efn:Elim
+S21|scoring|5|11,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,5,11,Angela S. & Carlos,S21-angela-scanlon,11,,darkgray,
+S21|scoring|5|12,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,5,12,Angela S. & Carlos,S21-angela-scanlon,12,,darkgray,rowspan_copy
+S21|scoring|5|13,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,5,13,Angela S. & Carlos,S21-angela-scanlon,11+12,,darkgray,rowspan_copy|colspan_copy
+S21|scoring|5|14,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,5,14,Angela S. & Carlos,S21-angela-scanlon,13,,darkgrey,rowspan_copy
+S21|scoring|6|0,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,6,0,Angela R. & Kai,S21-angela-rippon,1,28,,
+S21|scoring|6|1,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,6,1,Angela R. & Kai,S21-angela-rippon,2,31,,
+S21|scoring|6|2,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,6,2,Angela R. & Kai,S21-angela-rippon,1+2,59,,
+S21|scoring|6|3,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,6,3,Angela R. & Kai,S21-angela-rippon,3,26,,
+S21|scoring|6|4,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,6,4,Angela R. & Kai,S21-angela-rippon,4,31,,
+S21|scoring|6|5,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,6,5,Angela R. & Kai,S21-angela-rippon,5,34,,
+S21|scoring|6|6,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,6,6,Angela R. & Kai,S21-angela-rippon,6,33,,
+S21|scoring|6|7,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,6,7,Angela R. & Kai,S21-angela-rippon,7,28,lightblue,efn:Bottom2
+S21|scoring|6|8,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,6,8,Angela R. & Kai,S21-angela-rippon,8,32,lightblue,efn:Bottom2
+S21|scoring|6|9,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,6,9,Angela R. & Kai,S21-angela-rippon,9,28‡,f4c7b8,double_dagger|italic|efn:Elim
+S21|scoring|6|10,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,6,10,Angela R. & Kai,S21-angela-rippon,10,,darkgray,
+S21|scoring|6|11,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,6,11,Angela R. & Kai,S21-angela-rippon,11,,darkgray,rowspan_copy
+S21|scoring|6|12,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,6,12,Angela R. & Kai,S21-angela-rippon,12,,darkgray,rowspan_copy
+S21|scoring|6|13,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,6,13,Angela R. & Kai,S21-angela-rippon,11+12,,darkgray,rowspan_copy|colspan_copy
+S21|scoring|6|14,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,6,14,Angela R. & Kai,S21-angela-rippon,13,,darkgrey,rowspan_copy
+S21|scoring|7|0,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,7,0,Krishnan & Lauren,S21-krishnan-guru-murthy,1,22,,
+S21|scoring|7|1,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,7,1,Krishnan & Lauren,S21-krishnan-guru-murthy,2,20,,
+S21|scoring|7|2,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,7,2,Krishnan & Lauren,S21-krishnan-guru-murthy,1+2,42,,
+S21|scoring|7|3,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,7,3,Krishnan & Lauren,S21-krishnan-guru-murthy,3,30,,
+S21|scoring|7|4,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,7,4,Krishnan & Lauren,S21-krishnan-guru-murthy,4,28,,
+S21|scoring|7|5,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,7,5,Krishnan & Lauren,S21-krishnan-guru-murthy,5,30,,
+S21|scoring|7|6,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,7,6,Krishnan & Lauren,S21-krishnan-guru-murthy,6,27,,
+S21|scoring|7|7,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,7,7,Krishnan & Lauren,S21-krishnan-guru-murthy,7,29,,
+S21|scoring|7|8,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,7,8,Krishnan & Lauren,S21-krishnan-guru-murthy,8,25‡,f4c7b8,double_dagger|italic|efn:Elim
+S21|scoring|7|9,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,7,9,Krishnan & Lauren,S21-krishnan-guru-murthy,9,,darkgray,
+S21|scoring|7|10,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,7,10,Krishnan & Lauren,S21-krishnan-guru-murthy,10,,darkgray,rowspan_copy
+S21|scoring|7|11,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,7,11,Krishnan & Lauren,S21-krishnan-guru-murthy,11,,darkgray,rowspan_copy
+S21|scoring|7|12,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,7,12,Krishnan & Lauren,S21-krishnan-guru-murthy,12,,darkgray,rowspan_copy
+S21|scoring|7|13,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,7,13,Krishnan & Lauren,S21-krishnan-guru-murthy,11+12,,darkgray,rowspan_copy|colspan_copy
+S21|scoring|7|14,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,7,14,Krishnan & Lauren,S21-krishnan-guru-murthy,13,,darkgrey,rowspan_copy
+S21|scoring|8|0,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,8,0,Adam & Luba,S21-adam-thomas,1,19,,
+S21|scoring|8|1,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,8,1,Adam & Luba,S21-adam-thomas,2,23,,
+S21|scoring|8|2,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,8,2,Adam & Luba,S21-adam-thomas,1+2,42,,
+S21|scoring|8|3,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,8,3,Adam & Luba,S21-adam-thomas,3,26,,
+S21|scoring|8|4,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,8,4,Adam & Luba,S21-adam-thomas,4,32,,
+S21|scoring|8|5,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,8,5,Adam & Luba,S21-adam-thomas,5,32,,
+S21|scoring|8|6,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,8,6,Adam & Luba,S21-adam-thomas,6,32,lightblue,efn:Bottom2
+S21|scoring|8|7,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,8,7,Adam & Luba,S21-adam-thomas,7,27‡,f4c7b8,double_dagger|italic|efn:Elim
+S21|scoring|8|8,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,8,8,Adam & Luba,S21-adam-thomas,8,,darkgray,
+S21|scoring|8|9,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,8,9,Adam & Luba,S21-adam-thomas,9,,darkgray,rowspan_copy
+S21|scoring|8|10,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,8,10,Adam & Luba,S21-adam-thomas,10,,darkgray,rowspan_copy
+S21|scoring|8|11,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,8,11,Adam & Luba,S21-adam-thomas,11,,darkgray,rowspan_copy
+S21|scoring|8|12,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,8,12,Adam & Luba,S21-adam-thomas,12,,darkgray,rowspan_copy
+S21|scoring|8|13,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,8,13,Adam & Luba,S21-adam-thomas,11+12,,darkgray,rowspan_copy|colspan_copy
+S21|scoring|8|14,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,8,14,Adam & Luba,S21-adam-thomas,13,,darkgrey,rowspan_copy
+S21|scoring|9|0,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,9,0,Zara & Graziano,S21-zara-mcdermott,1,19,,
+S21|scoring|9|1,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,9,1,Zara & Graziano,S21-zara-mcdermott,2,23,,
+S21|scoring|9|2,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,9,2,Zara & Graziano,S21-zara-mcdermott,1+2,42,,
+S21|scoring|9|3,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,9,3,Zara & Graziano,S21-zara-mcdermott,3,25,lightblue,efn:Bottom2
+S21|scoring|9|4,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,9,4,Zara & Graziano,S21-zara-mcdermott,4,28,,
+S21|scoring|9|5,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,9,5,Zara & Graziano,S21-zara-mcdermott,5,28,lightblue,efn:Bottom2
+S21|scoring|9|6,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,9,6,Zara & Graziano,S21-zara-mcdermott,6,25‡,f4c7b8,double_dagger|italic|efn:Elim
+S21|scoring|9|7,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,9,7,Zara & Graziano,S21-zara-mcdermott,7,,darkgray,
+S21|scoring|9|8,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,9,8,Zara & Graziano,S21-zara-mcdermott,8,,darkgray,rowspan_copy
+S21|scoring|9|9,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,9,9,Zara & Graziano,S21-zara-mcdermott,9,,darkgray,rowspan_copy
+S21|scoring|9|10,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,9,10,Zara & Graziano,S21-zara-mcdermott,10,,darkgray,rowspan_copy
+S21|scoring|9|11,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,9,11,Zara & Graziano,S21-zara-mcdermott,11,,darkgray,rowspan_copy
+S21|scoring|9|12,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,9,12,Zara & Graziano,S21-zara-mcdermott,12,,darkgray,rowspan_copy
+S21|scoring|9|13,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,9,13,Zara & Graziano,S21-zara-mcdermott,11+12,,darkgray,rowspan_copy|colspan_copy
+S21|scoring|9|14,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,9,14,Zara & Graziano,S21-zara-mcdermott,13,,darkgrey,rowspan_copy
+S21|scoring|10|0,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,10,0,Amanda & Giovanni,S21-amanda-abbington,1,29,,
+S21|scoring|10|1,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,10,1,Amanda & Giovanni,S21-amanda-abbington,2,32,,
+S21|scoring|10|2,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,10,2,Amanda & Giovanni,S21-amanda-abbington,1+2,61,,
+S21|scoring|10|3,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,10,3,Amanda & Giovanni,S21-amanda-abbington,3,30,,
+S21|scoring|10|4,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,10,4,Amanda & Giovanni,S21-amanda-abbington,4,31,,
+S21|scoring|10|5,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,10,5,Amanda & Giovanni,S21-amanda-abbington,5,,fff383,efn:Sickie
+S21|scoring|10|6,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,10,6,Amanda & Giovanni,S21-amanda-abbington,6,,lightgreen,efn:Quitter
+S21|scoring|10|7,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,10,7,Amanda & Giovanni,S21-amanda-abbington,7,,darkgray,rowspan_copy
+S21|scoring|10|8,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,10,8,Amanda & Giovanni,S21-amanda-abbington,8,,darkgray,rowspan_copy
+S21|scoring|10|9,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,10,9,Amanda & Giovanni,S21-amanda-abbington,9,,darkgray,rowspan_copy
+S21|scoring|10|10,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,10,10,Amanda & Giovanni,S21-amanda-abbington,10,,darkgray,rowspan_copy
+S21|scoring|10|11,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,10,11,Amanda & Giovanni,S21-amanda-abbington,11,,darkgray,rowspan_copy
+S21|scoring|10|12,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,10,12,Amanda & Giovanni,S21-amanda-abbington,12,,darkgray,rowspan_copy
+S21|scoring|10|13,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,10,13,Amanda & Giovanni,S21-amanda-abbington,11+12,,darkgray,rowspan_copy|colspan_copy
+S21|scoring|10|14,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,10,14,Amanda & Giovanni,S21-amanda-abbington,13,,darkgrey,rowspan_copy
+S21|scoring|11|0,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,11,0,Eddie & Karen,S21-eddie-kadi,1,22,,
+S21|scoring|11|1,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,11,1,Eddie & Karen,S21-eddie-kadi,2,21,,
+S21|scoring|11|2,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,11,2,Eddie & Karen,S21-eddie-kadi,1+2,43,,
+S21|scoring|11|3,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,11,3,Eddie & Karen,S21-eddie-kadi,3,34,,
+S21|scoring|11|4,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,11,4,Eddie & Karen,S21-eddie-kadi,4,24,lightblue,efn:Bottom2
+S21|scoring|11|5,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,11,5,Eddie & Karen,S21-eddie-kadi,5,24‡,f4c7b8,double_dagger|italic|efn:Elim
+S21|scoring|11|6,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,11,6,Eddie & Karen,S21-eddie-kadi,6,,darkgray,
+S21|scoring|11|7,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,11,7,Eddie & Karen,S21-eddie-kadi,7,,darkgray,rowspan_copy
+S21|scoring|11|8,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,11,8,Eddie & Karen,S21-eddie-kadi,8,,darkgray,rowspan_copy
+S21|scoring|11|9,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,11,9,Eddie & Karen,S21-eddie-kadi,9,,darkgray,rowspan_copy
+S21|scoring|11|10,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,11,10,Eddie & Karen,S21-eddie-kadi,10,,darkgray,rowspan_copy
+S21|scoring|11|11,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,11,11,Eddie & Karen,S21-eddie-kadi,11,,darkgray,rowspan_copy
+S21|scoring|11|12,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,11,12,Eddie & Karen,S21-eddie-kadi,12,,darkgray,rowspan_copy
+S21|scoring|11|13,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,11,13,Eddie & Karen,S21-eddie-kadi,11+12,,darkgray,rowspan_copy|colspan_copy
+S21|scoring|11|14,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,11,14,Eddie & Karen,S21-eddie-kadi,13,,darkgrey,rowspan_copy
+S21|scoring|12|0,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,12,0,Jody & Jowita,S21-jody-cundy,1,21,,
+S21|scoring|12|1,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,12,1,Jody & Jowita,S21-jody-cundy,2,16,,
+S21|scoring|12|2,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,12,2,Jody & Jowita,S21-jody-cundy,1+2,37,,
+S21|scoring|12|3,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,12,3,Jody & Jowita,S21-jody-cundy,3,20‡,,double_dagger|italic
+S21|scoring|12|4,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,12,4,Jody & Jowita,S21-jody-cundy,4,19‡,f4c7b8,double_dagger|italic|efn:Elim
+S21|scoring|12|5,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,12,5,Jody & Jowita,S21-jody-cundy,5,,darkgray,
+S21|scoring|12|6,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,12,6,Jody & Jowita,S21-jody-cundy,6,,darkgray,rowspan_copy
+S21|scoring|12|7,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,12,7,Jody & Jowita,S21-jody-cundy,7,,darkgray,rowspan_copy
+S21|scoring|12|8,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,12,8,Jody & Jowita,S21-jody-cundy,8,,darkgray,rowspan_copy
+S21|scoring|12|9,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,12,9,Jody & Jowita,S21-jody-cundy,9,,darkgray,rowspan_copy
+S21|scoring|12|10,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,12,10,Jody & Jowita,S21-jody-cundy,10,,darkgray,rowspan_copy
+S21|scoring|12|11,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,12,11,Jody & Jowita,S21-jody-cundy,11,,darkgray,rowspan_copy
+S21|scoring|12|12,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,12,12,Jody & Jowita,S21-jody-cundy,12,,darkgray,rowspan_copy
+S21|scoring|12|13,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,12,13,Jody & Jowita,S21-jody-cundy,11+12,,darkgray,rowspan_copy|colspan_copy
+S21|scoring|12|14,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,12,14,Jody & Jowita,S21-jody-cundy,13,,darkgrey,rowspan_copy
+S21|scoring|13|0,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,13,0,Nikita & Gorka,S21-nikita-kanda,1,18,,
+S21|scoring|13|1,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,13,1,Nikita & Gorka,S21-nikita-kanda,2,18,,
+S21|scoring|13|2,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,13,2,Nikita & Gorka,S21-nikita-kanda,1+2,36,lightblue,efn:Bottom2
+S21|scoring|13|3,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,13,3,Nikita & Gorka,S21-nikita-kanda,3,21,#f4c7b8,efn:Elim
+S21|scoring|13|4,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,13,4,Nikita & Gorka,S21-nikita-kanda,4,,darkgray,
+S21|scoring|13|5,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,13,5,Nikita & Gorka,S21-nikita-kanda,5,,darkgray,rowspan_copy
+S21|scoring|13|6,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,13,6,Nikita & Gorka,S21-nikita-kanda,6,,darkgray,rowspan_copy
+S21|scoring|13|7,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,13,7,Nikita & Gorka,S21-nikita-kanda,7,,darkgray,rowspan_copy
+S21|scoring|13|8,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,13,8,Nikita & Gorka,S21-nikita-kanda,8,,darkgray,rowspan_copy
+S21|scoring|13|9,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,13,9,Nikita & Gorka,S21-nikita-kanda,9,,darkgray,rowspan_copy
+S21|scoring|13|10,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,13,10,Nikita & Gorka,S21-nikita-kanda,10,,darkgray,rowspan_copy
+S21|scoring|13|11,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,13,11,Nikita & Gorka,S21-nikita-kanda,11,,darkgray,rowspan_copy
+S21|scoring|13|12,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,13,12,Nikita & Gorka,S21-nikita-kanda,12,,darkgray,rowspan_copy
+S21|scoring|13|13,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,13,13,Nikita & Gorka,S21-nikita-kanda,11+12,,darkgray,rowspan_copy|colspan_copy
+S21|scoring|13|14,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,13,14,Nikita & Gorka,S21-nikita-kanda,13,,darkgrey,rowspan_copy
+S21|scoring|14|0,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,14,0,Les & Nancy,S21-les-dennis,1,16‡,,double_dagger|italic
+S21|scoring|14|1,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,14,1,Les & Nancy,S21-les-dennis,2,15‡,,double_dagger|italic
+S21|scoring|14|2,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,14,2,Les & Nancy,S21-les-dennis,1+2,31‡,f4c7b8,double_dagger|italic|efn:Elim
+S21|scoring|14|3,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,14,3,Les & Nancy,S21-les-dennis,3,,darkgray,
+S21|scoring|14|4,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,14,4,Les & Nancy,S21-les-dennis,4,,darkgray,rowspan_copy
+S21|scoring|14|5,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,14,5,Les & Nancy,S21-les-dennis,5,,darkgray,rowspan_copy
+S21|scoring|14|6,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,14,6,Les & Nancy,S21-les-dennis,6,,darkgray,rowspan_copy
+S21|scoring|14|7,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,14,7,Les & Nancy,S21-les-dennis,7,,darkgray,rowspan_copy
+S21|scoring|14|8,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,14,8,Les & Nancy,S21-les-dennis,8,,darkgray,rowspan_copy
+S21|scoring|14|9,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,14,9,Les & Nancy,S21-les-dennis,9,,darkgray,rowspan_copy
+S21|scoring|14|10,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,14,10,Les & Nancy,S21-les-dennis,10,,darkgray,rowspan_copy
+S21|scoring|14|11,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,14,11,Les & Nancy,S21-les-dennis,11,,darkgray,rowspan_copy
+S21|scoring|14|12,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,14,12,Les & Nancy,S21-les-dennis,12,,darkgray,rowspan_copy
+S21|scoring|14|13,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,14,13,Les & Nancy,S21-les-dennis,11+12,,darkgray,rowspan_copy|colspan_copy
+S21|scoring|14|14,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,14,14,Les & Nancy,S21-les-dennis,13,,darkgrey,rowspan_copy
