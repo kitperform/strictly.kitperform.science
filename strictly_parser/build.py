@@ -203,7 +203,7 @@ class Build:
                 stage = {"quarterfinal": "quarter_final", "semifinal": "semi_final"}.get(stage, stage)
             theme_key = slugify(h["theme"]) if h and h["theme"] else ""
             if theme_key and not any(t["theme_key"] == theme_key for t in self.T["themes"]):
-                kind = "film" if "movie" in theme_key or "film" in theme_key else "icon" if "icon" in theme_key else "musical" if "musical" in theme_key else "none"
+                kind = "film" if "movie" in theme_key or "film" in theme_key else "icon" if "icon" in theme_key else "musical" if "musical" in theme_key else "bbc_programme" if "bbc" in theme_key else "none"
                 self.T["themes"].append({"theme_key": theme_key, "name": h["theme"], "theme_reference_kind": kind, "is_location_theme": "false", "wiki_title": "",
                                          **self.prov(f"section={h['heading']}")})
             self.weeks[wk] = {"week_key": week_key(self.skey, wk), "series_key": self.skey, "week_number": wk, "round_stage": stage,
@@ -221,6 +221,12 @@ class Build:
                 for wk in wks:
                     if wk in self.weeks:
                         self.weeks[wk]["dance_brief_raw"] = m.group(2)
+        pm = re.search(r"originally scheduled (?:to be broadcast |to air )?(?:on|for) (\d{1,2} \w+(?: \d{4})?),? but was postponed(?: (following|because of|due to|after) ([^.]+))?", self.page.lead_text())
+        if pm and f"{self.skey}-L" in self.episodes:
+            od = parse_date(pm.group(1), self.year)
+            self.episodes[f"{self.skey}-L"]["original_air_date"] = od.isoformat() if od else ""
+            self.episodes[f"{self.skey}-L"]["reschedule_reason_text"] = ("postponed " + pm.group(2) + " " + pm.group(3).strip()) if pm.group(3) else "postponed"
+            self.episodes[f"{self.skey}-L"]["note"] = "original date and reason from the lead (A227)"
         couples_n = len(self.page.couples_rows())
         self.T["series"].append({
             "series_key": self.skey, "series_kind": "numbered", "series_number": self.n, "parent_series_key": "", "label": f"Series {self.n}",
@@ -871,8 +877,15 @@ class Build:
         dance_off = "held" if votes else ("not_in_format" if self.effective_rule(wk, "dance_off_used") != "true" else "held")
         is_final = self.weeks[wk]["round_stage"] == "final"
         mechanism = self.effective_rule(wk, "elimination_mechanism")
+        withdrawn = [c for c, (t, bg) in results.items() if RESULT_MAP.get(t.lower()) == "withdrew"]
+        round_note = ""
         if is_final and not eliminated:
             mechanism, dance_off, direction, holder, at_risk = "public_vote_final_placing", "not_applicable", "", None, []
+        elif not votes and not eliminated and withdrawn:
+            # a bottom-two couple withdrew before the dance-off could take place (A226)
+            mechanism, dance_off, direction = "none", "cancelled_withdrawal", ""
+            at_risk = at_risk + withdrawn
+            round_note = "no dance-off: an at-risk couple withdrew during the results show (week prose)"
         self.T["results_rounds"].append({
             "round_key": rkey, "series_key": self.skey, "round_kind": "final_placing" if is_final else "standard", "label": label,
             "deciding_week_key": wkk, "decided_at_episode_key": decided_at or "", "week_keys": "|".join(week_key(self.skey, w) for w in weeks),
@@ -882,7 +895,7 @@ class Build:
             "votes_carried_over": ("true" if combined_from in self.carry_votes_weeks else "false") if (combined_from and combined_from in self.carry_weeks) else "", "combined_reason": reason,
             "casting_vote_source_kind": holder_kind if holder else "",
             **self.prov(f"section={h['heading']}; Result column and votes list" + ("; Scoring chart column " + label if combined_from else ""),
-                        "stated", "casting_vote_used=true by the pivotal rule (check 7)" if used == "true" else ("casting vote holder did not cast a vote" if used == "false" and holder and vote_rows and holder_vote is None else ""))})
+                        "stated", round_note or ("casting_vote_used=true by the pivotal rule (check 7)" if used == "true" else ("casting vote holder did not cast a vote" if used == "false" and holder and vote_rows and holder_vote is None else "")))})
         for seq, w in enumerate(weeks, 1):
             self.T["results_round_weeks"].append({"results_round_week_key": f"{rkey}|{week_key(self.skey, w)}", "round_key": rkey, "week_key": week_key(self.skey, w), "seq": seq})
             self.perf_rounds[w] = rkey
@@ -989,6 +1002,9 @@ class Build:
                             rk = ""
                         at_risk = res in ("bottom_two", "bottom_three", "eliminated")
                         rnd = next((r for r in self.T["results_rounds"] if r["round_key"] == rk), None)
+                        if res == "withdrew" and rnd is not None and rnd["dance_off_status"] == "cancelled_withdrawal":
+                            at_risk = True
+                            note = "announced in the bottom two, withdrew before the dance-off (A226)"
                         danced = at_risk and rnd is not None and rnd["dance_off_status"] == "held"
                     else:
                         cell = self.chart_cell(ckey, wk)
@@ -1095,11 +1111,12 @@ class Build:
                 elif c["exit_kind"] == "withdrew":
                     prose = " ".join(p for p, _ in self.headings.get(wk, {"paragraphs": []})["paragraphs"])
                     first = c["celebrity_display_name"].split(" ")[0]
-                    sent = next((s for s in re.split(r"(?<=\.)\s+", prose) if first in s and re.search(r"withdr|unable to continue|forced to", s, re.I)), "")
+                    paras = [p for p, _ in self.headings.get(wk, {"paragraphs": []})["paragraphs"]]
+                    sent = next((p for p in paras if first in p and re.search(r"withdr|unable to continue|forced to|no longer", p, re.I)), "")
                     if re.search(r"during the live show|during the show", sent, re.I):
                         c["exit_timing"], c["exit_episode_key"] = "during_live_show_before_dancing", self.week_eps[wk].get("P", "")
-                    elif re.search(r"during the results", sent, re.I):
-                        c["exit_timing"], c["exit_episode_key"] = "during_results_show", self.week_eps[wk].get("R", "")
+                    elif re.search(r"during the results|dance-off|results show", sent, re.I) and c["couple_key"] in self.week_rows.get(wk, set()):
+                        c["exit_timing"], c["exit_episode_key"] = "during_results_show", self.week_eps[wk].get("R") or self.week_eps[wk].get("P", "")
                     elif sent:
                         c["exit_timing"] = "before_live_show"
                     c["exit_reason"] = self.reason_from(sent) if sent else ""
