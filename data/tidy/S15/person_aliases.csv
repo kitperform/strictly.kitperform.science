@@ -1,0 +1,6 @@
+person_alias_key,person_key,alias,alias_kind,context,series_key,source_capture_key,source_locator,source_kind,note
+karen-hauer|any|Karen Clifton|any,karen-hauer,Karen Clifton,former_name,any,,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,section=Couples,stated,name as printed on this page; resolved through curated/person_aliases.csv
+craig-revel-horwood|vote_list|Horwood|S15,craig-revel-horwood,Horwood,vote_list_surname,vote_list,S15,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,Judges' votes lists,stated,
+darcey-bussell|vote_list|Bussell|S15,darcey-bussell,Bussell,vote_list_surname,vote_list,S15,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,Judges' votes lists,stated,
+bruno-tonioli|vote_list|Tonioli|S15,bruno-tonioli,Tonioli,vote_list_surname,vote_list,S15,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,Judges' votes lists,stated,
+shirley-ballas|vote_list|Ballas|S15,shirley-ballas,Ballas,vote_list_surname,vote_list,S15,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,Judges' votes lists,stated,

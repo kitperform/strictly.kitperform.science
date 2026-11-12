@@ -1,0 +1,5 @@
+theme_key,name,theme_reference_kind,is_location_theme,wiki_title,source_capture_key,source_locator,source_kind,note
+movie-week,Movie Week,film,false,,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,section=Week 3: Movie Week,stated,
+halloween-week,Halloween Week,none,false,,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,section=Week 6: Halloween Week,stated,
+blackpool-week,Blackpool Week,none,true,,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,section=Week 9: Blackpool Week,stated,
+musicals-week,Musicals Week,musical,false,,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,section=Week 11: Musicals Week (Quarter-final),stated,

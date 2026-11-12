@@ -731,6 +731,7 @@ class Build:
         has_result_col = "result" in roles
         running = 0
         seq_by_couple = Counter()
+        nonshow_by_couple = Counter()
         ep_aired = self.episodes[ekey]["status"] == "aired"
         for ri, row in enumerate(grid[1:], 1):
             if all(c["is_header"] for c in row):
@@ -748,6 +749,9 @@ class Build:
                 self.record_label(ckey, label, "weekly", wk)
             seq_by_couple[ckey] += 1
             self.week_rows[wk].add(ckey)
+            dance_probe = cells["dance"]["text"] if "dance" in cells else ""
+            if not re.search(r"showdance|show dance", dance_probe, re.I):
+                nonshow_by_couple[ckey] += 1
             score_txt = cells["scores"]["text"] if "scores" in cells else ""
             dance_txt = cells["dance"]["text"] if "dance" in cells else ""
             music_txt = cells["music"]["text"] if "music" in cells else ""
@@ -805,7 +809,7 @@ class Build:
                 "performance_key": pkey, "episode_key": ekey, "week_key": wkk, "series_key": self.skey, "performer_group": "couple", "couple_key": ckey,
                 "performing_pro_slug": pro, "couple_label_raw": label, "sequence_in_episode": seq_by_couple[ckey], "running_order": running if kind != "marathon" else "",
                 "group_key": f"{ekey}-G1" if kind in ("instant", "marathon") else "", "performance_kind": kind,
-                "selection_role": self.selection_role(kind, wk, h, seq_by_couple[ckey]),
+                "selection_role": self.selection_role(kind, wk, h, nonshow_by_couple[ckey]),
                 "performance_status": status, "scoring_mode": mode, "stated_total": total, "n_marks_stated": nmarks, "score_cell_raw": score_txt,
                 "points_value": points, "dance_key": dance_key, "dance_secondary_key": dance2_key, "dance_raw": dance_txt,
                 "theme_reference_text": theme_text, "theme_reference_wiki_title": next((w for t, w, hh in theme_links if w), ""), "theme_column_label": theme_col or "",
@@ -856,11 +860,12 @@ class Build:
         if kind in ("showdance", "marathon", "instant"):
             return kind
         if self.weeks[wk]["round_stage"] == "final":
+            # the showdance is recognised by name; the other routines take the remaining roles in the order the prose lists them
             prose = " ".join(p for p, _ in h["paragraphs"]).lower()
             order = []
-            for phrase, role in (("chosen by the judges", "repeat_judges_choice"), ("judges' pick", "repeat_judges_choice"), ("showdance", "showdance"), ("favourite", "repeat_favourite")):
+            for phrase, role in (("chosen by the judges", "repeat_judges_choice"), ("judges' pick", "repeat_judges_choice"), ("judges' choice", "repeat_judges_choice"), ("favourite", "repeat_favourite")):
                 i = prose.find(phrase)
-                if i >= 0:
+                if i >= 0 and role not in [r for _, r in order]:
                     order.append((i, role))
             order = [r for _, r in sorted(order)]
             if seq - 1 < len(order):
