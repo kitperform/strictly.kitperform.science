@@ -12,3 +12,4 @@ Each file says where the fact came from so it can be checked.
 | `couple_labels.csv` | Couple labels that cannot be resolved from first names alone (typos, mid-series relabels) |
 | `dances.csv` | Dance lookup with family and known aliases |
 | `venues.csv` | Venue lookup |
+| `chart_colours.csv` | What each Scoring-chart cell colour means when a page has no footnotes (A249) |

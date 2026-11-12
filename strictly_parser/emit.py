@@ -31,7 +31,7 @@ COLUMNS = {
     "couple_labels": ["couple_label_key", "couple_key", "label", "context", "week_from", "week_to", "is_typo"] + PROV,
     "couple_weeks": ["couple_week_key", "couple_key", "week_key", "series_key", "series_number", "week_number", "round_stage", "participation_status", "result_status",
                      "results_round_key", "at_risk", "danced_off", "bye_granted", "absence_reason", "affected_party", "absence_scope", "status_raw", "d_pro_slug",
-                     "d_partnership_kind", "d_week_total"] + PROV,
+                     "d_partnership_kind", "d_week_total", "d_is_highest_of_week", "d_is_lowest_of_week"] + PROV,
     "performances": ["performance_key", "episode_key", "week_key", "series_key", "series_number", "week_number", "round_stage", "air_date", "sequence_in_week", "performer_group",
                      "couple_key", "chart_label", "performing_pro_slug", "couple_label_raw", "sequence_in_episode", "running_order", "d_perf_seq", "group_key", "performance_kind",
                      "selection_role", "performance_status", "scoring_mode", "stated_total", "n_marks_stated", "score_cell_raw", "points_value", "dance_key", "dance_secondary_key",

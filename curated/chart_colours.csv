@@ -1,0 +1,14 @@
+colour_norm,participation_status,result_status,bye_granted,note
+lightblue,competed,bottom_two,false,"Bottom two (bottom three when the legend says so)"
+#f4c7b8,competed,eliminated,false,Eliminated
+f4c7b8,competed,eliminated,false,Eliminated
+fff383,bye,exempt,true,"Excused from competition for the week (bye)"
+#fff383,bye,exempt,true,"Excused from competition for the week (bye)"
+lightgreen,absent_withdrawn,withdrew,false,Withdrew
+darkgray,exited,not_applicable,false,Already exited
+gold,competed,winner,false,Winners
+silver,competed,runner_up,false,Runners-up
+tan,competed,third,false,Third place
+d1c571,competed,fourth,false,Fourth place
+dlc571,competed,fourth,false,"Fourth place (typo of d1c571 on some pages)"
+lightgray,competed_unscored,,false,No scores received

@@ -160,20 +160,20 @@ class SeriesPage:
         """{'col_labels': [...], 'rows': [{'label','place','cells':[{text,flags,bg,efn}]}], 'legend': [...], 'notes': {...}}"""
         sec = self.section("Scoring_chart")
         table = sec.find("table")
-        trs = table.find_all("tr")
-        head0 = trs[0].find_all(["th", "td"])
-        head1 = trs[1].find_all(["th", "td"])
-        col_labels = [header_text(c) for c in head1] if head1 and all(c.name == "th" for c in head1) else []
+        grid = table_grid(table)
+        head0 = [c["el"] for c in grid[0]]
+        two_header_rows = len(grid) > 1 and all(c["is_header"] for c in grid[1])
+        col_labels = [header_text(c["el"]) for c in grid[1][2:]] if two_header_rows else [header_text(c["el"]) for c in grid[0][2:]]
         rows = []
-        for tr in trs[2:] if col_labels else trs[1:]:
-            cells = tr.find_all(["th", "td"])
-            if not cells:
+        for grow in grid[2:] if two_header_rows else grid[1:]:
+            if not grow or all(c["is_header"] for c in grow):
                 continue
-            label = cell_text(cells[0])
-            place = cell_text(cells[1]) if len(cells) > 1 else ""
+            label = grow[0]["text"]
+            place = grow[1]["text"] if len(grow) > 1 else ""
             data = []
-            for c in cells[2:]:
-                raw = cell_text(c)
+            for gc in grow[2:]:
+                c = gc["el"]
+                raw = gc["text"]
                 flags = []
                 if "†" in raw:
                     flags.append("dagger")
@@ -183,11 +183,11 @@ class SeriesPage:
                     flags.append("bold")
                 if c.find("i"):
                     flags.append("italic")
-                if c.get("rowspan"):
-                    flags.append("rowspan")
-                if c.get("colspan"):
-                    flags.append("colspan")
-                data.append({"text": raw, "flags": flags, "bg": style_bg(c), "efn": efn_names(c), "el": c})
+                if gc["spanned"]:
+                    flags.append("rowspan_copy")
+                if gc.get("colspanned"):
+                    flags.append("colspan_copy")
+                data.append({"text": raw, "flags": flags, "bg": gc["bg"], "efn": efn_names(c), "el": c})
             rows.append({"label": label, "place": place, "cells": data})
         legend = []
         for li in sec.find_all("li"):
@@ -203,6 +203,12 @@ class SeriesPage:
                     notes[m.group(1)] = txt
         head_text = " ".join(cell_text(p, br=" ") for p in sec.find_all("p", recursive=False))
         return {"col_labels": col_labels, "rows": rows, "legend": legend, "notes": notes, "intro": head_text, "head0": [header_text(c) for c in head0]}
+
+    def section_links(self, heading_text):
+        """All (text, wiki title) links in the paragraphs of the section with this heading."""
+        h = self.soup.find(lambda t: t.name in ("h2", "h3", "h4") and cell_text(t, br=" ") == heading_text)
+        sec = h.find_parent("section") if h else None
+        return [(t, w) for p in (sec.find_all("p", recursive=False) if sec is not None else []) for t, w, hh in links(p) if w]
 
     def dance_chart_bullets(self):
         sec = self.section("Dance_chart")

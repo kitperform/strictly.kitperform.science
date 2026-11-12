@@ -1,0 +1,5 @@
+person_alias_key,person_key,alias,alias_kind,context,series_key,source_capture_key,source_locator,source_kind,note
+shirley-ballas|vote_list|Ballas|S23,shirley-ballas,Ballas,vote_list_surname,vote_list,S23,enwiki:Strictly_Come_Dancing_series_23:r1382773258:parsoid_html,Judges' votes lists,stated,
+anton-du-beke|vote_list|Du Beke|S23,anton-du-beke,Du Beke,vote_list_surname,vote_list,S23,enwiki:Strictly_Come_Dancing_series_23:r1382773258:parsoid_html,Judges' votes lists,stated,
+craig-revel-horwood|vote_list|Horwood|S23,craig-revel-horwood,Horwood,vote_list_surname,vote_list,S23,enwiki:Strictly_Come_Dancing_series_23:r1382773258:parsoid_html,Judges' votes lists,stated,
+motsi-mabuse|vote_list|Mabuse|S23,motsi-mabuse,Mabuse,vote_list_surname,vote_list,S23,enwiki:Strictly_Come_Dancing_series_23:r1382773258:parsoid_html,Judges' votes lists,stated,
