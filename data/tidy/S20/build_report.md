@@ -64,6 +64,7 @@
 - PASS: check 5: exit_count S20R13 (0 vs 0)
 - PASS: check 12: performance keys unique
 - PASS: check 11: partnerships contiguous
+- PASS: check 14: one seat or absent row per regular judge per episode ([])
 - PASS: couple_weeks: one row per couple per week (195 rows)
 - PASS: no unresolved couple labels ([])
 - PASS: daggers agree with derived highest/lowest ([])

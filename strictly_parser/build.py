@@ -121,6 +121,7 @@ class Build:
                 self.dance_lookup[a.lower()] = r
         self.venues = {r["venue_key"]: r for r in read_csv(c / "venues.csv")}
         self.chart_colours = {r["colour_norm"].lower(): r for r in read_csv(c / "chart_colours.csv")}
+        self.couples_curated = {r["couple_key"]: r for r in read_csv(c / "couples.csv")} if (c / "couples.csv").exists() else {}
 
     def source_capture(self):
         m = self.manifest
@@ -302,17 +303,51 @@ class Build:
                 "paired_with_person_key": "", "reason": "", "reason_text": "", "event_date": "", "first_week_key": "", "last_week_key": "",
                 **self.prov("section=Weekly scores; order sentence")})
         self.vote_labels = {}  # slug -> label seen in votes lists
+        self.episode_seats = {}  # episode_key -> [judge slugs in seat order] when a week restates the order
+
+    def seats_for_episode(self, episode_key):
+        return self.episode_seats.get(episode_key, self.seat_order)
 
     def seat_rows_for(self, episode_key, week, locator_week):
         if any(s["episode_key"] == episode_key for s in self.T["panel_seats"]):
             return
-        for i, slug in enumerate(self.seat_order, 1):
-            role = self.panel_curated.get(slug, {}).get("panel_role", "regular")
+        prose = " ".join(p for p, _ in self.headings.get(week, {"paragraphs": []})["paragraphs"])
+        override = self.headings.get(week, {}).get("order_links") or []
+        if override:
+            order = []
+            for name, title in override:
+                name = name.strip().rstrip(".").strip()
+                slug = next((s for s, p in self.people.items() if p["canonical_name"] == name), None)
+                if not slug:
+                    title = title or next((w for t, w in self.page.section_links(locator_week) if t == name), None)
+                    slug = self.add_person(title, name, f"section={locator_week}; order sentence")
+                order.append(slug)
+            self.episode_seats[episode_key] = order
+            kind, note = "stated", "per-week order sentence (section 3.6)"
+        else:
+            order, kind, note = list(self.seat_order), "inherited", "constant panel generated from the series order sentence (section 3.6)"
+        missing = [s for s in self.seat_order if s not in order]
+        for i, slug in enumerate(order, 1):
+            if slug in self.panel_curated or slug in self.seat_order:
+                role = self.panel_curated.get(slug, {}).get("panel_role", "regular")
+                replaces = ""
+            else:
+                role = "guest_replacement" if missing else "guest_additional"
+                replaces = missing[0] if len(missing) == 1 else ""
+                self.guest_roster(slug, week, "guest", f"section={locator_week}; order sentence", "guest judge on the scoring panel")
             self.T["panel_seats"].append({
                 "panel_seat_key": f"{episode_key}-j{i}", "episode_key": episode_key, "week_key": week_key(self.skey, week), "series_key": self.skey,
                 "judge_slug": slug, "seat_position": i, "panel_role": role, "is_head_judge": "true" if slug == self.head_judge else "false",
-                "is_scoring": "true", "replaces_slug": "", "absence_reason": "", "vote_label": "",
-                **self.prov(f"section={locator_week}; scores column order", "inherited", "constant panel generated from the series order sentence (section 3.6)")})
+                "is_scoring": "true", "replaces_slug": replaces, "absence_reason": "", "vote_label": "",
+                **self.prov(f"section={locator_week}; scores column order", kind, note)})
+        for n, slug in enumerate(missing, 1):  # rule A1: absent regular judges are rows
+            sur = self.people[slug]["family_name"] or self.people[slug]["canonical_name"]
+            sent = next((s for s in re.split(r"(?<=\.)\s+", prose) if sur in s), "")
+            self.T["panel_seats"].append({
+                "panel_seat_key": f"{episode_key}-jx{n}", "episode_key": episode_key, "week_key": week_key(self.skey, week), "series_key": self.skey,
+                "judge_slug": slug, "seat_position": "", "panel_role": "absent", "is_head_judge": "true" if slug == self.head_judge else "false",
+                "is_scoring": "false", "replaces_slug": "", "absence_reason": self.reason_from(sent) if sent else "",
+                "vote_label": "", **self.prov(f"section={locator_week}; prose", "stated" if sent else "inferred", "regular judge not in this week's order sentence (rule A1)" + ("; reason from the week prose" if sent else ""))})
         if week in self.guest_nonscoring:
             name, para = self.guest_nonscoring[week]
             title = next((w for t, w in self.page.section_links(locator_week) if t == name), None)
@@ -321,15 +356,26 @@ class Build:
                 "panel_seat_key": f"{episode_key}-jx1", "episode_key": episode_key, "week_key": week_key(self.skey, week), "series_key": self.skey,
                 "judge_slug": slug, "seat_position": "", "panel_role": "non_scoring_guest", "is_head_judge": "false", "is_scoring": "false", "replaces_slug": "",
                 "absence_reason": "", "vote_label": "", **self.prov(f"section={locator_week}; prose", "stated", "guest panellist who did not score (A243)")})
-            self.T["series_people"].append({
-                "series_person_key": f"{self.skey}-{slug}-judge", "series_key": self.skey, "person_key": slug, "role": "judge", "roster_status": "guest",
-                "display_name_in_series": name, "is_head_judge": "false", "replaces_person_key": "", "replaced_by_person_key": "", "paired_with_person_key": "",
-                "reason": "", "reason_text": "", "event_date": "", "first_week_key": week_key(self.skey, week), "last_week_key": week_key(self.skey, week),
-                **self.prov(f"section={locator_week}; prose", "stated", "non-scoring guest panellist")})
+            self.guest_roster(slug, week, "guest", f"section={locator_week}; prose", "non-scoring guest panellist")
 
-    def resolve_judge_label(self, label):
+    def guest_roster(self, slug, week, status, locator, note):
+        rows = [r for r in self.T["series_people"] if r["person_key"] == slug and r["role"] == "judge"]
+        if rows:
+            rows[0]["last_week_key"] = week_key(self.skey, week)
+            return
+        self.T["series_people"].append({
+            "series_person_key": f"{self.skey}-{slug}-judge", "series_key": self.skey, "person_key": slug, "role": "judge", "roster_status": status,
+            "display_name_in_series": self.people[slug]["canonical_name"], "is_head_judge": "false", "replaces_person_key": "", "replaced_by_person_key": "",
+            "paired_with_person_key": "", "reason": "", "reason_text": "", "event_date": "", "first_week_key": week_key(self.skey, week),
+            "last_week_key": week_key(self.skey, week), **self.prov(locator, "stated", note)})
+
+    def resolve_judge_label(self, label, wk=None):
         lab = label.strip().lower()
-        for slug in self.seat_order:
+        cands = list(self.seat_order)
+        if wk is not None:
+            for ekey in self.week_eps.get(wk, {}).values():
+                cands = self.episode_seats.get(ekey, []) + cands
+        for slug in dict.fromkeys(cands):
             name = self.people[slug]["canonical_name"].lower()
             if name == lab or name.endswith(" " + lab) or slugify(name).endswith(slugify(lab)):
                 return slug
@@ -364,7 +410,8 @@ class Build:
                 self.warn(f"Couples status not understood: {r['status_text']!r}")
             couple = {
                 "couple_key": ckey, "series_key": self.skey, "celebrity_person_key": celeb, "chart_label": "",
-                "celebrity_display_name": r["celeb_name"], "professional_display_name": r["pro_name"], "couple_kind": "mixed",
+                "celebrity_display_name": r["celeb_name"], "professional_display_name": r["pro_name"],
+                "couple_kind": self.couples_curated.get(ckey, {}).get("couple_kind", "mixed"),
                 "notability_text": r["notability"] or "", "final_placement": placement, "place_is_shared": "true" if head_is_shared(m) else "false",
                 "place_label_raw": place_label, "exit_kind": exit_kind, "exit_ordinal": ordinal if ordinal is not None else "",
                 "exit_ordinal_is_shared": "true" if ordinal2 else "false",
@@ -472,13 +519,15 @@ class Build:
             prev_slug = slug
 
     def reason_from(self, text):
-        if re.search(r"injur|torn|fractur|rib|broke|foot|knee", text, re.I):
+        if re.search(r"come into contact with|contact with someone|could not travel|unable to travel|not recognise", text, re.I):
+            return "covid_contact_or_travel"
+        if re.search(r"injur|torn|fractur|\brib|broke|\bfoot\b|knee|ligament|ankle|hamstring|calf|muscle|sprain", text, re.I):
             return "injury"
-        if re.search(r"\bill|sick|unwell|virus|infection|collaps", text, re.I):
+        if re.search(r"\bill\b|ill health|illness|sick|unwell|virus|infection|collaps", text, re.I):
             return "illness"
-        if re.search(r"medical (?:reasons|advice|grounds)|health reasons", text, re.I):
+        if re.search(r"medical (?:reasons|advice|grounds)|health reasons|health grounds", text, re.I):
             return "medical_advice"
-        if re.search(r"covid|coronavirus", text, re.I):
+        if re.search(r"covid|coronavirus|tested positive", text, re.I):
             return "covid_positive"
         if re.search(r"bereave|death|passed away|funeral", text, re.I):
             return "bereavement"
@@ -567,7 +616,7 @@ class Build:
                 self.no_elimination_weeks.add(wk)
                 if re.search(r"carried over", prose, re.I):
                     self.carry_weeks.add(wk)
-                    if re.search(r"public votes? (?:were|was|and scores were)? ?carried", prose, re.I) or re.search(r"scores and public votes were carried", prose, re.I):
+                    if re.search(r"public votes? (?:were|was|and scores were)? ?carried", prose, re.I) or re.search(r"scores and (?:public )?votes (?:were )?carried", prose, re.I):
                         self.carry_votes_weeks.add(wk)
             cm = CASTING_RE.search(prose)
             if cm:
@@ -702,12 +751,24 @@ class Build:
             for i, mk in enumerate(marks, 1):
                 self.T["judge_marks"].append({
                     "judge_mark_key": f"{pkey}-j{i}", "performance_key": pkey, "panel_seat_key": f"{ekey}-j{i}",
-                    "judge_slug": self.seat_order[i - 1] if i - 1 < len(self.seat_order) else "", "seat_position": i, "mark": mk,
+                    "judge_slug": self.seats_for_episode(ekey)[i - 1] if i - 1 < len(self.seats_for_episode(ekey)) else "", "seat_position": i, "mark": mk,
                     **self.prov(f"section={h['heading']}; table row={label}; col=Scores; mark {i}")})
-            if len(marks) and len(marks) != len(self.seat_order):
-                self.warn(f"week {wk} {label}: {len(marks)} marks but {len(self.seat_order)} seats")
+            if len(marks) and len(marks) != len(self.seats_for_episode(ekey)):
+                self.warn(f"week {wk} {label}: {len(marks)} marks but {len(self.seats_for_episode(ekey))} seats")
             if music_txt and "music" in cells:
                 self.parse_music(perf, cells["music"]["el"], music_txt, h["heading"], label)
+
+    def sentence_about(self, wk, display_name, pattern):
+        """The sentence in week wk's prose that names the person (first name or surname) and matches the pattern; falls back to the paragraph."""
+        first, last = display_name.split(" ")[0], display_name.split(" ")[-1]
+        for p, _ in self.headings.get(wk, {"paragraphs": []})["paragraphs"]:
+            sents = re.split(r"(?<=\.)\s+", p)
+            for i, s in enumerate(sents):
+                if (first in s or last in s) and re.search(pattern, s, re.I):
+                    return s
+            if (first in p or last in p) and re.search(pattern, p, re.I):
+                return next((s for s in sents if first in s or last in s), p)
+        return ""
 
     def partnership_at(self, ckey, wk):
         rows = [p for p in self.T["couple_partnerships"] if p["couple_key"] == ckey]
@@ -836,7 +897,7 @@ class Build:
                 self.warn(f"week {wk}: vote line not understood: {line!r}")
                 continue
             jlabel, rest = m.group(1).strip(), m.group(2).strip()
-            jslug = self.resolve_judge_label(jlabel)
+            jslug = self.resolve_judge_label(jlabel, wk)
             if not jslug:
                 self.warn(f"week {wk}: judge label {jlabel!r} not resolved")
                 continue
@@ -1017,12 +1078,11 @@ class Build:
                             bye = named_in_bye
                             locator = f"section=Scoring chart; row={couple['chart_label']}; col={wk}"
                             note = "withdrew cell colour (curated/chart_colours.csv)" + ("; bye granted first per week prose" if bye else "")
-                            prose_w = " ".join(p for p, _ in self.headings[wk]["paragraphs"])
-                            reason = self.reason_from(prose_w)
+                            reason = self.reason_from(self.sentence_about(wk, couple["celebrity_display_name"], r"withdr|unable to continue|forced to|no longer"))
                             party, scope = "celebrity", "whole_week"
                         elif any(n.lower() in ("outsick", "bye", "excused") for n in efn) or "excused" in " ".join(self.chart_notes.get(n, "") for n in efn).lower() or (colour and colour["bye_granted"] == "true"):
                             part, res, bye, scope, party = "bye", "exempt", True, "whole_week", "celebrity"
-                            note_text = self.bye_notes.get(wk, "")
+                            note_text = self.sentence_about(wk, couple["celebrity_display_name"], r"bye|unable to perform|excused|could not") or self.bye_notes.get(wk, "")
                             reason = self.reason_from(note_text)
                             how = f"footnote {efn}" if efn else "cell colour (curated/chart_colours.csv)"
                             note = f"bye stated by Scoring chart {how}; reason from week prose" if note_text else f"bye stated by Scoring chart {how}"
@@ -1111,9 +1171,10 @@ class Build:
                 elif c["exit_kind"] == "withdrew":
                     prose = " ".join(p for p, _ in self.headings.get(wk, {"paragraphs": []})["paragraphs"])
                     first = c["celebrity_display_name"].split(" ")[0]
-                    paras = [p for p, _ in self.headings.get(wk, {"paragraphs": []})["paragraphs"]]
-                    sent = next((p for p in paras if first in p and re.search(r"withdr|unable to continue|forced to|no longer", p, re.I)), "")
-                    if re.search(r"during the live show|during the show", sent, re.I):
+                    sent = self.sentence_about(wk, c["celebrity_display_name"], r"withdr|unable to continue|forced to|no longer")
+                    if self.weeks[wk]["round_stage"] == "final" and c["couple_key"] not in self.week_rows.get(wk, set()):
+                        c["exit_timing"] = "before_final"
+                    elif re.search(r"during the live show|during the show", sent, re.I):
                         c["exit_timing"], c["exit_episode_key"] = "during_live_show_before_dancing", self.week_eps[wk].get("P", "")
                     elif re.search(r"during the results|dance-off|results show", sent, re.I) and c["couple_key"] in self.week_rows.get(wk, set()):
                         c["exit_timing"], c["exit_episode_key"] = "during_results_show", self.week_eps[wk].get("R") or self.week_eps[wk].get("P", "")
@@ -1143,7 +1204,7 @@ class Build:
             p["d_total"] = sum(p["_marks"]) if p["_marks"] else ""
             p["d_n_marks"] = len(p["_marks"]) if p["_marks"] else ""
             p["d_total_mismatch"] = "true" if p["_marks"] and sum(p["_marks"]) != p["stated_total"] else "false"
-            p["d_scale_max"] = 10 * len(self.seat_order)
+            p["d_scale_max"] = 10 * len(self.seats_for_episode(p["episode_key"]))
             p["d_total_40"] = round(p["stated_total"] * 40 / p["d_scale_max"], 2) if p["stated_total"] != "" and p["d_scale_max"] else ""
             p["d_results_round_key"] = self.perf_rounds.get(int(p["week_key"][-2:]), "")
             p["d_partnership_kind"] = self.partnership_at(p["couple_key"], int(p["week_key"][-2:]))["partnership_kind"]
@@ -1194,7 +1255,7 @@ class Build:
         for v in self.T["dance_off_votes"]:
             v["d_is_casting_judge"] = "true" if v["judge_slug"] == v["casting_vote_slug"] else "false"
         for r in self.T["results_rounds"]:
-            r["d_n_scoring_seats"] = len(self.seat_order)
+            r["d_n_scoring_seats"] = len(self.seats_for_episode(self.week_eps.get(int(r["deciding_week_key"][-2:]), {}).get("P", "")))
         # person aliases: vote-list surnames
         for slug, label in self.vote_labels.items():
             if label != self.people[slug]["family_name"] or True:
@@ -1230,6 +1291,16 @@ class Build:
             if not ok:
                 self.check(f"check 11: partnerships contiguous {ckey}", False, str(rows))
         self.check("check 11: partnerships contiguous", all(c[1] for c in self.report["checks"] if c[0].startswith("check 11")), "")
+        bad14 = []
+        for ekey in {s["episode_key"] for s in T["panel_seats"]}:
+            rows = [s for s in T["panel_seats"] if s["episode_key"] == ekey]
+            for slug in self.seat_order:
+                if sum(1 for s in rows if s["judge_slug"] == slug) != 1:
+                    bad14.append((ekey, slug))
+            for s in rows:
+                if s["panel_role"] == "guest_replacement" and s["replaces_slug"] and not any(a["judge_slug"] == s["replaces_slug"] and a["panel_role"] == "absent" for a in rows):
+                    bad14.append((ekey, "replacement without absent row"))
+        self.check("check 14: one seat or absent row per regular judge per episode", not bad14, str(bad14[:4]))
         cw_keys = Counter(cw["couple_week_key"] for cw in T["couple_weeks"])
         self.check("couple_weeks: one row per couple per week", max(cw_keys.values()) == 1 and len(cw_keys) == len(self.couples_by_key) * len(self.weeks), f"{len(cw_keys)} rows")
         self.check("no unresolved couple labels", not self.report["unresolved"], str(self.report["unresolved"][:5]))
