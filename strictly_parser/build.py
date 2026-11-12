@@ -78,6 +78,10 @@ class Build:
         self.report["checks"].append((name, bool(ok), detail))
 
     def add_person(self, title, display, locator, kind="person"):
+        if not title and display:
+            known = next((s for s, p in self.people.items() if p["canonical_name"] == display.strip()), None)
+            if known:
+                return known
         if title:
             slug, basis = person_slug(title), "wikipedia_title"
         else:
@@ -532,16 +536,27 @@ class Build:
             # roster consequences (section 3.10)
             self.roster_change(slug, pr["name"], int(w_from), w_to, prev_slug, self.people[prev_slug]["canonical_name"], perm_week, perm_reason or temp_reason)
             prev_slug = slug
+        rows = sorted((p for p in self.T["couple_partnerships"] if p["couple_key"] == ckey), key=lambda p: int(p["week_from"] or 0))
+        for i, p in enumerate(rows):
+            if p["week_to"] == "" and i + 1 < len(rows):
+                p["week_to"] = int(rows[i + 1]["week_from"]) - 1
+        if rows and rows[-1]["partnership_kind"] == "substitute_temporary" and rows[-1]["week_to"] != "":
+            self.T["couple_partnerships"].append({
+                "couple_partnership_key": f"{ckey}-P{len(rows) + 1}", "couple_key": ckey, "pro_person_key": rows[0]["pro_person_key"], "week_from": int(rows[-1]["week_to"]) + 1,
+                "week_to": "", "partnership_kind": "original", "reason": "", "reason_text": "original professional returned",
+                **self.prov(loc, "inferred", "rule P1: the stated stand-in range ended, so the original professional resumed")})
 
     def reason_from(self, text):
         if re.search(r"come into contact with|contact with someone|could not travel|unable to travel|not recognise|travelled outside|quarantin", text, re.I):
             return "covid_contact_or_travel"
-        if re.search(r"injur|torn|fractur|\brib|broke|\bfoot\b|knee|ligament|ankle|hamstring|calf|muscle|sprain", text, re.I):
+        if re.search(r"injur|torn|fractur|\bribs?\b|broke|\bfoot\b|knee|ligament|ankle|hamstring|calf|muscle|sprain", text, re.I):
             return "injury"
         if re.search(r"\bill\b|ill health|illness|sick|unwell|virus|infection|collaps", text, re.I):
             return "illness"
         if re.search(r"medical (?:reasons|advice|grounds)|health reasons|health grounds", text, re.I):
             return "medical_advice"
+        if re.search(r"filming|unavailable|commitments|scheduling|prior engagement|work commitment", text, re.I):
+            return "scheduling_conflict"
         if re.search(r"covid|coronavirus|tested positive", text, re.I):
             return "covid_positive"
         if re.search(r"bereave|death|passed away|funeral", text, re.I):
@@ -809,11 +824,11 @@ class Build:
         return ""
 
     def partnership_at(self, ckey, wk):
-        rows = [p for p in self.T["couple_partnerships"] if p["couple_key"] == ckey]
-        for p in rows:
-            if p["week_from"] != "" and int(p["week_from"]) <= wk and (p["week_to"] == "" or wk <= int(p["week_to"])):
-                return p
-        return rows[-1] if rows else {"pro_person_key": "", "partnership_kind": ""}
+        rows = [p for p in self.T["couple_partnerships"] if p["couple_key"] == ckey and p["week_from"] != "" and int(p["week_from"]) <= wk
+                and (p["week_to"] == "" or wk <= int(p["week_to"]))]
+        if rows:
+            return max(rows, key=lambda r: int(r["week_from"]))
+        return {"pro_person_key": "", "partnership_kind": ""}
 
     def selection_role(self, kind, wk, h, seq):
         if kind in ("showdance", "marathon", "instant"):
@@ -1159,10 +1174,14 @@ class Build:
                 w["lifecycle_status"] = "results_in" if (self.week_rounds.get(wk) or wk in self.carry_weeks or wk in self.no_elimination_weeks) else "scores_in"
             elif wk in self.headings:
                 w["lifecycle_status"] = "scheduled"
-        for p in self.T["couple_partnerships"]:
-            c = self.couples_by_key[p["couple_key"]]
-            if not p.pop("_fixed_to", False) or p["week_to"] == "":
-                p["week_to"] = c["_exit_week"] or self.active_week
+        for ckey, c in self.couples_by_key.items():
+            end = c["_exit_week"] or self.active_week
+            for p in self.T["couple_partnerships"]:
+                p.pop("_fixed_to", None)
+                if p["couple_key"] == ckey and p["week_to"] == "":
+                    p["week_to"] = end
+                elif p["couple_key"] == ckey and int(p["week_to"]) > end:
+                    p["week_to"] = end
         self.T["weeks"] = [self.weeks[w] for w in sorted(self.weeks)]
         self.T["episodes"] = [self.episodes[k] for k in sorted(self.episodes, key=lambda k: (self.episodes[k]["air_date"] or "9999", k))]
 

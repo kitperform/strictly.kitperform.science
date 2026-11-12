@@ -1,0 +1,18 @@
+couple_partnership_key,couple_key,pro_person_key,week_from,week_to,partnership_kind,reason,reason_text,source_capture_key,source_locator,source_kind,note
+S17-james-cracknell-P1,S17-james-cracknell,luba-mushtuk,1,2,original,,,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,section=Couples; row=James Cracknell; col=Professional partner,stated,
+S17-anneka-rice-P1,S17-anneka-rice,kevin-clifton,1,3,original,,,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,section=Couples; row=Anneka Rice; col=Professional partner,stated,
+S17-dev-P1,S17-dev,dianne-buswell,1,4,original,,,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,section=Couples; row=Dev Griffin; col=Professional partner,stated,
+S17-david-james-P1,S17-david-james,nadiya-bychkova,1,5,original,,,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,section=Couples; row=David James; col=Professional partner,stated,
+S17-catherine-tyldesley-P1,S17-catherine-tyldesley,johannes-radebe,1,6,original,,,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,section=Couples; row=Catherine Tyldesley; col=Professional partner,stated,
+S17-will-bayley-P1,S17-will-bayley,janette-manrara,1,7,original,,,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,section=Couples; row=Will Bayley; col=Professional partner,stated,
+S17-emma-thynn-marchioness-of-bath-P1,S17-emma-thynn-marchioness-of-bath,aljaz-skorjanec,1,7,original,,,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,section=Couples; row=Emma Weymouth; col=Professional partner,stated,
+S17-mike-bushell-P1,S17-mike-bushell,katya-jones,1,8,original,,,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,section=Couples; row=Mike Bushell; col=Professional partner,stated,
+S17-michelle-visage-P1,S17-michelle-visage,giovanni-pernice,1,9,original,,,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,section=Couples; row=Michelle Visage; col=Professional partner,stated,
+S17-saffron-barker-P1,S17-saffron-barker,aj-pritchard,1,10,original,,,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,section=Couples; row=Saffron Barker; col=Professional partner,stated,
+S17-alex-scott-P1,S17-alex-scott,neil-jones,1,5,original,,,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,section=Couples; row=Alex Scott; col=Professional partner,stated,
+S17-alex-scott-P2,S17-alex-scott,kevin-clifton,6,7,substitute_temporary,injury,from the Couples cell range and the week prose,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,section=Couples; row=Alex Scott; col=Professional partner,stated,
+S17-alex-scott-P3,S17-alex-scott,neil-jones,8,11,original,,original professional returned,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,section=Couples; row=Alex Scott; col=Professional partner,inferred,"rule P1: the stated stand-in range ended, so the original professional resumed"
+S17-chris-ramsey-P1,S17-chris-ramsey,karen-hauer,1,12,original,,,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,section=Couples; row=Chris Ramsey; col=Professional partner,stated,
+S17-emma-barton-P1,S17-emma-barton,anton-du-beke,1,13,original,,,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,section=Couples; row=Emma Barton; col=Professional partner,stated,
+S17-karim-zeroual-P1,S17-karim-zeroual,amy-dowden,1,13,original,,,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,section=Couples; row=Karim Zeroual; col=Professional partner,stated,
+S17-kelvin-fletcher-P1,S17-kelvin-fletcher,oti-mabuse,1,13,original,,,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,section=Couples; row=Kelvin Fletcher; col=Professional partner,stated,

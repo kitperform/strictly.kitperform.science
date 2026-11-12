@@ -1,0 +1,3 @@
+source_capture_key,wiki_title,page_id,revid,parent_revid,rev_timestamp,captured_at,sha1,format,file_path,parser_version,is_current,licence_note
+enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,Strictly Come Dancing series 17,60770575,1379095924,,2026-10-07T23:04:17Z,2026-11-09T00:45:33Z,301fb66489538f3f81ded035f4cd8932e19c5e50,parsoid_html,data/wikipedia/parsoid/series_17.parsoid.html,strictly_parser 0.1.0,true,CC BY-SA 4.0
+enwiki:Strictly_Come_Dancing_series_17:r1379095924:wikitext,Strictly Come Dancing series 17,60770575,1379095924,,2026-10-07T23:04:17Z,2026-11-09T00:45:33Z,301fb66489538f3f81ded035f4cd8932e19c5e50,wikitext,data/wikipedia/wikitext/series_17.wikitext,strictly_parser 0.1.0,true,CC BY-SA 4.0
