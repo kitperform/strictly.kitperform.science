@@ -79,9 +79,18 @@ class SeriesPage:
             if celeb is None or pro is None:
                 continue
             cl, pl = links(celeb["el"]), links(pro["el"])
+            # 'Amy Dowden (Weeks 1–6) | Lauren Oakley (Weeks 7–13)' -> one entry per professional with the stated range
+            pros = []
+            for seg in [s.strip() for s in pro["text"].split(" | ") if s.strip()]:
+                m = re.match(r"^(.*?)\s*(?:\((?:Weeks?|Wks?\.?)\s*(\d+)(?:\s*[–-]\s*(\d+))?\))?$", seg)
+                name = (m.group(1) if m else seg).strip()
+                title = next((w for t, w, h in pl if t == name and w), None)
+                pros.append({"name": name, "title": title, "week_from": int(m.group(2)) if m and m.group(2) else None,
+                             "week_to": int(m.group(3)) if m and m.group(3) else (int(m.group(2)) if m and m.group(2) else None)})
             out.append({
                 "celeb_name": celeb["text"], "celeb_title": cl[0][1] if cl else None,
-                "pro_name": pro["text"], "pro_title": pl[0][1] if pl else None, "pro_spanned": pro["spanned"],
+                "pro_name": pros[0]["name"] if pros else pro["text"], "pro_title": pros[0]["title"] if pros else (pl[0][1] if pl else None),
+                "pros": pros, "pro_cell_raw": pro["text"], "pro_spanned": pro["spanned"],
                 "notability": notab["text"] if notab else None,
                 "status_text": status["text"] if status else "", "status_bg": status["bg"] if status else None,
                 "status_spanned": status["spanned"] if status else False,

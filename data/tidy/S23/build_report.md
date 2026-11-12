@@ -19,8 +19,8 @@
 | `couple_labels.csv` | 45 |
 | `couple_weeks.csv` | 195 |
 | `performances.csv` | 134 |
-| `performance_music.csv` | 139 |
-| `songs.csv` | 133 |
+| `performance_music.csv` | 142 |
+| `songs.csv` | 136 |
 | `artists.csv` | 98 |
 | `judge_marks.csv` | 512 |
 | `dance_off_votes.csv` | 40 |

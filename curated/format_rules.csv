@@ -5,3 +5,5 @@ S24,6,,,,3,eliminate,,,,,,,,,stated,section=Week 6: Halloween Week; prose,"Tripl
 S23,,,ranking_points_dance_off,true,2,save,rotating,shared_points_dense,public_vote_precedence,yes,4,40,true,all,stated,section=Format,"Format section: ranking points, public vote precedence on ties, bottom two dance-off, judges vote to save; casting vote named weekly (A248)"
 S23,1,,,,,,,,,,,,false,,stated,section=Week 1; prose,"'There was no elimination this week; all scores carried over to the following week.'"
 S23,9,,,,,,,,,,,,false,,stated,section=Week 9: Blackpool Week; prose,"La Voix withdrew during the live show; no elimination, scores and public votes carried to Week 10 (A246)"
+S22,,,ranking_points_dance_off,true,2,save,head_judge,shared_points_dense,public_vote_precedence,yes,4,40,true,all,stated,section=Format,"Format section: ranking points with the stated tie rule (A239), public vote precedence, bottom two dance-off, judges vote to save, head judge Ballas has the deciding vote"
+S22,1,,,,,,,,,,,,false,,stated,section=Week 1; prose,"'There was no elimination this week; all scores carried over to the following week.'"

@@ -1,2 +1,5 @@
 series_key,label,couple_key,context,is_typo,note
 S24,Greame & Lauren,S24-graeme-hall,average_chart,true,Typo for Graeme on the live page (A257)
+S22,JB & Amy/Lauren,S22-jb-gill,scoring_chart,false,Chart label naming both professionals after the mid-series change (A237)
+S22,JB & Amy/Lauren,S22-jb-gill,average_chart,false,Chart label naming both professionals after the mid-series change (A237)
+S22,JB & Amy/Lauren,S22-jb-gill,dance_chart,false,Chart label naming both professionals after the mid-series change (A237)

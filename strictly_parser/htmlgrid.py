@@ -74,7 +74,7 @@ def table_grid(table):
         while ci < len(cells) or col in pending:
             if col in pending:
                 remaining, cell = pending[col]
-                row.append({**cell, "spanned": True, "colspanned": False})
+                row.append({**cell, "spanned": True, "colspanned": cell.get("colspanned", False)})
                 if remaining - 1 == 0:
                     del pending[col]
                 else:
@@ -91,7 +91,7 @@ def table_grid(table):
             for k in range(cs):
                 row.append({**cell, "spanned": k > 0, "colspanned": k > 0})
                 if rs > 1:
-                    pending[col] = (rs - 1, cell)
+                    pending[col] = (rs - 1, {**cell, "colspanned": k > 0})
                 col += 1
         grid.append(row)
     return grid

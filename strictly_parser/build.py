@@ -317,6 +317,7 @@ class Build:
     def couples(self):
         self.couples_by_key = {}
         self.label_map = {}
+        self._roster_changes = []
         rows = self.page.couples_rows()
         for i, r in enumerate(rows, 1):
             celeb = self.add_person(r["celeb_title"], r["celeb_name"], "section=Couples")
@@ -360,12 +361,17 @@ class Build:
                 "series_person_key": f"{self.skey}-{pro}-professional", "series_key": self.skey, "person_key": pro, "role": "professional", "roster_status": "competed",
                 "display_name_in_series": r["pro_name"], "is_head_judge": "false", "replaces_person_key": "", "replaced_by_person_key": "", "paired_with_person_key": "",
                 "reason": "", "reason_text": "", "event_date": "", "first_week_key": week_key(self.skey, 1), "last_week_key": "", **self.prov("section=Couples")})
-            self.T["couple_partnerships"].append({
-                "couple_partnership_key": f"{ckey}-P1", "couple_key": ckey, "pro_person_key": pro, "week_from": 1, "week_to": "",
-                "partnership_kind": "original", "reason": "", "reason_text": "", **self.prov(f"section=Couples; row={r['celeb_name']}")})
+            self.partnerships_for(ckey, r)
+            celeb_tokens = r["celeb_name"].split(" ")
+            celeb_variants = {first_token(r["celeb_name"]), r["celeb_name"]}
+            if len(celeb_tokens) > 1 and celeb_tokens[0].endswith("."):
+                celeb_variants.add(" ".join(celeb_tokens[:2]))
+            for pr in r["pros"] or [{"name": r["pro_name"]}]:
+                for cv in celeb_variants:
+                    self.label_map.setdefault(f"{cv} & {first_token(pr['name'])}", ckey)
+                    self.label_map.setdefault(f"{cv} & {pr['name']}", ckey)
+            # the first-name form of the week-1 pairing wins over any collision
             self.label_map[f"{first_token(r['celeb_name'])} & {first_token(r['pro_name'])}"] = ckey
-            self.label_map.setdefault(f"{r['celeb_name']} & {first_token(r['pro_name'])}", ckey)
-            self.label_map.setdefault(f"{first_token(r['celeb_name'])} & {r['pro_name']}", ckey)
             self.T["couple_labels"].append({"couple_label_key": f"{ckey}|couples_table|{r['celeb_name']}", "couple_key": ckey, "label": r["celeb_name"],
                                             "context": "couples_table", "week_from": "", "week_to": "", "is_typo": "false", **self.prov("section=Couples")})
         # unpartnered professionals named in the Production prose
@@ -386,7 +392,93 @@ class Build:
                         "roster_status": "unpartnered", "display_name_in_series": name, "is_head_judge": "false", "replaces_person_key": "", "replaced_by_person_key": "",
                         "paired_with_person_key": "", "reason": "", "reason_text": "", "event_date": "", "first_week_key": week_key(self.skey, 1), "last_week_key": "",
                         **self.prov("section=Professional dancers; prose", "stated", "did not receive a celebrity partner at the launch show")})
+        self.apply_roster_changes()
         self.check("couples parsed", len(self.T["couples"]) > 0, f"{len(self.T['couples'])} couples")
+
+    def partnerships_for(self, ckey, r):
+        """CouplePartnership rows from the Couples-table professional cell (rule P1)."""
+        pros = r["pros"] or [{"name": r["pro_name"], "title": r["pro_title"], "week_from": None, "week_to": None}]
+        loc = f"section=Couples; row={r['celeb_name']}; col=Professional partner"
+        n = 0
+        prev_slug = None
+        for i, pr in enumerate(pros):
+            slug = self.add_person(pr["title"], pr["name"], "section=Couples")
+            w_from = pr["week_from"] or (1 if i == 0 else "")
+            w_to = pr["week_to"] if pr["week_to"] is not None else ""
+            if i == 0:
+                n += 1
+                self.T["couple_partnerships"].append({
+                    "couple_partnership_key": f"{ckey}-P{n}", "couple_key": ckey, "pro_person_key": slug, "week_from": w_from, "week_to": w_to,
+                    "partnership_kind": "original", "reason": "", "reason_text": "", "_fixed_to": w_to != "", **self.prov(loc)})
+                prev_slug = slug
+                continue
+            # later professional: split the range at the week whose prose confirms a permanent change
+            perm_week, temp_reason, perm_reason = None, "", ""
+            for wk in range(int(w_from), int(w_to) + 1 if w_to != "" else int(w_from) + 1):
+                prose = " ".join(p for p, _ in self.headings.get(wk, {"paragraphs": []})["paragraphs"])
+                old_sur = self.people[prev_slug]["family_name"] or self.people[prev_slug]["canonical_name"]
+                sents = [s for s in re.split(r"(?<=\.)\s+", prose) if old_sur in s or pr["name"].split(" ")[-1] in s]
+                for s in sents:
+                    if re.search(r"withdr|took over|remainder of the series|rest of the series|no longer compete", s, re.I) and perm_week is None:
+                        perm_week = wk
+                        perm_reason = self.reason_from(s)
+                    elif re.search(r"unable to perform|instead|stood in|stand in|replaced for", s, re.I) and not temp_reason:
+                        temp_reason = self.reason_from(s)
+            if perm_week is not None and perm_week > int(w_from):
+                n += 1
+                self.T["couple_partnerships"].append({
+                    "couple_partnership_key": f"{ckey}-P{n}", "couple_key": ckey, "pro_person_key": slug, "week_from": int(w_from), "week_to": perm_week - 1,
+                    "partnership_kind": "substitute_temporary", "reason": temp_reason or "unspecified", "reason_text": "stand-in while the original professional was unavailable (week prose)",
+                    "_fixed_to": True, **self.prov(loc + f"; section=Week {w_from} prose", "stated")})
+                n += 1
+                self.T["couple_partnerships"].append({
+                    "couple_partnership_key": f"{ckey}-P{n}", "couple_key": ckey, "pro_person_key": slug, "week_from": perm_week, "week_to": w_to,
+                    "partnership_kind": "replacement_permanent", "reason": perm_reason or "unspecified", "reason_text": "original professional withdrew (week prose)",
+                    "_fixed_to": w_to != "", **self.prov(loc + f"; section=Week {perm_week} prose", "stated")})
+            else:
+                kind = "replacement_permanent" if perm_week is not None else "substitute_temporary"
+                n += 1
+                self.T["couple_partnerships"].append({
+                    "couple_partnership_key": f"{ckey}-P{n}", "couple_key": ckey, "pro_person_key": slug, "week_from": int(w_from), "week_to": w_to,
+                    "partnership_kind": kind, "reason": (perm_reason or temp_reason) or "unspecified", "reason_text": "from the Couples cell range and the week prose",
+                    "_fixed_to": w_to != "", **self.prov(loc, "stated" if perm_week is not None or temp_reason else "inferred",
+                                                           "" if perm_week is not None or temp_reason else "kind not stated in prose; defaulted to substitute_temporary")})
+            # roster consequences (section 3.10)
+            self.roster_change(slug, pr["name"], int(w_from), w_to, prev_slug, self.people[prev_slug]["canonical_name"], perm_week, perm_reason or temp_reason)
+            prev_slug = slug
+
+    def reason_from(self, text):
+        return "injury" if re.search(r"injur|torn|fractur|rib|broke|foot|knee", text, re.I) else "illness" if re.search(r"\bill|sick|unwell|virus|infection|collaps", text, re.I) else "unspecified"
+
+    def roster_change(self, new_slug, new_name, w_from, w_to, old_slug, old_name, perm_week, reason):
+        self._roster_changes.append((new_slug, new_name, w_from, w_to, old_slug, old_name, perm_week, reason))
+
+    def apply_roster_changes(self):
+        for new_slug, new_name, w_from, w_to, old_slug, old_name, perm_week, reason in self._roster_changes:
+            rows = [r for r in self.T["series_people"] if r["person_key"] == new_slug and r["role"] == "professional"]
+            if rows and rows[0]["roster_status"] == "unpartnered":
+                rows[0]["last_week_key"] = week_key(self.skey, w_from - 1)
+            elif not rows:
+                self.T["series_people"].append({
+                    "series_person_key": f"{self.skey}-{new_slug}-professional", "series_key": self.skey, "person_key": new_slug, "role": "professional",
+                    "roster_status": "unpartnered", "display_name_in_series": new_name, "is_head_judge": "false", "replaces_person_key": "", "replaced_by_person_key": "",
+                    "paired_with_person_key": "", "reason": "", "reason_text": "", "event_date": "", "first_week_key": week_key(self.skey, 1),
+                    "last_week_key": week_key(self.skey, w_from - 1), **self.prov("section=Couples; professional partner cell", "inferred", "unpartnered until the stated take-over week")})
+            self.T["series_people"].append({
+                "series_person_key": f"{self.skey}-{new_slug}-professional-2", "series_key": self.skey, "person_key": new_slug, "role": "professional",
+                "roster_status": "partnered_mid_series", "display_name_in_series": new_name, "is_head_judge": "false", "replaces_person_key": old_slug,
+                "replaced_by_person_key": "", "paired_with_person_key": "", "reason": reason or "", "reason_text": "", "event_date": "",
+                "first_week_key": week_key(self.skey, w_from), "last_week_key": week_key(self.skey, w_to) if w_to != "" else "",
+                **self.prov("section=Couples; professional partner cell", "stated")})
+            if perm_week is not None:
+                old = [r for r in self.T["series_people"] if r["person_key"] == old_slug and r["role"] == "professional"]
+                if old:
+                    old[0]["last_week_key"] = week_key(self.skey, perm_week - 1) if perm_week > w_from else week_key(self.skey, w_from - 1)
+                self.T["series_people"].append({
+                    "series_person_key": f"{self.skey}-{old_slug}-professional-2", "series_key": self.skey, "person_key": old_slug, "role": "professional",
+                    "roster_status": "left_mid_series", "display_name_in_series": old_name, "is_head_judge": "false", "replaces_person_key": "",
+                    "replaced_by_person_key": new_slug, "paired_with_person_key": "", "reason": reason or "", "reason_text": "", "event_date": "",
+                    "first_week_key": week_key(self.skey, perm_week), "last_week_key": "", **self.prov(f"section=Week {perm_week}; prose", "stated")})
 
     def resolve_couple(self, label, context, week=None):
         lab = re.sub(r"\s+", " ", label).strip()
@@ -515,7 +607,8 @@ class Build:
             # dance
             dance_key, dance2_key, kind = "", "", "individual"
             if dance_txt:
-                parts = re.split(r"\s*(?:&|/| and )\s*", dance_txt) if re.search(r"\s(&|and)\s|/", dance_txt) else [dance_txt]
+                dance_core = re.sub(r"\s*\|\s*\(.*?\)\s*$", "", dance_txt).strip()
+                parts = re.split(r"\s*(?:&|/| and )\s*", dance_core) if re.search(r"\s(&|and)\s|/", dance_core) else [dance_core]
                 dance_key = self.dance_key(parts[0], wk)
                 if len(parts) > 1:
                     dance2_key, kind = self.dance_key(parts[1], wk), "fusion"
@@ -550,7 +643,7 @@ class Build:
                 mode, status = "unscored", "performed"
             if ep_aired:
                 self.seat_rows_for(ekey, wk, h["heading"])
-            pro = next((p["pro_person_key"] for p in self.T["couple_partnerships"] if p["couple_key"] == ckey), "")
+            pro = self.partnership_at(ckey, wk)["pro_person_key"]
             theme_text = cells[roles[roles.index("theme")]]["text"] if theme_col and "theme" in roles else ""
             theme_links = links(row[roles.index("theme")]["el"]) if theme_col and "theme" in roles else []
             perf = {
@@ -573,6 +666,13 @@ class Build:
                 self.warn(f"week {wk} {label}: {len(marks)} marks but {len(self.seat_order)} seats")
             if music_txt and "music" in cells:
                 self.parse_music(perf, cells["music"]["el"], music_txt, h["heading"], label)
+
+    def partnership_at(self, ckey, wk):
+        rows = [p for p in self.T["couple_partnerships"] if p["couple_key"] == ckey]
+        for p in rows:
+            if p["week_from"] != "" and int(p["week_from"]) <= wk and (p["week_to"] == "" or wk <= int(p["week_to"])):
+                return p
+        return rows[-1] if rows else {"pro_person_key": "", "partnership_kind": ""}
 
     def selection_role(self, kind, wk, h, seq):
         if kind in ("showdance", "marathon", "instant"):
@@ -605,7 +705,19 @@ class Build:
 
     def parse_music(self, perf, el, text, heading, label):
         lk = [(t.strip('"“” '), w) for t, w, h in links(el)]
-        segments = [s for s in re.split(r"\s\|\s|\s/\s", text) if s.strip()]
+        segments = []
+        for s in re.split(r"\s\|\s|\s/\s", text):
+            s = s.strip()
+            if not s:
+                continue
+            titles = re.findall(r"[\"“]([^\"”]+)[\"”]", s)
+            tail = re.split(r"\s+[—–]\s+", s, maxsplit=1)
+            if len(titles) > 1 and len(tail) == 2:
+                segments.extend(f'"{t}" — {tail[1]}' for t in titles)
+            elif len(titles) > 1:
+                segments.extend(f'"{t}"' for t in titles)
+            else:
+                segments.append(s)
         for seq, seg in enumerate(segments, 1):
             seg = seg.strip()
             src = None
@@ -856,12 +968,20 @@ class Build:
                             self.warn(f"week {wk} {ckey}: no weekly row and no bye footnote")
                 else:
                     kind, note = "inferred", "week not yet scored on the captured page"
-                pro = next((p["pro_person_key"] for p in self.T["couple_partnerships"] if p["couple_key"] == ckey), "")
+                pship = self.partnership_at(ckey, wk)
+                pro = pship["pro_person_key"]
+                # D: a professional who missed only the results show (A237 W6)
+                if part == "competed" and not reason:
+                    prose_w = " ".join(p for p, _ in self.headings.get(wk, {"paragraphs": []})["paragraphs"])
+                    pm = re.search(rf"{re.escape(self.people[pro]['canonical_name'])}[^.]*?(?:didn't|did not) appear in the results show[^.]*\.", prose_w) if pro in self.people else None
+                    if pm:
+                        reason, party, scope = self.reason_from(pm.group(0)), "professional", "results_show_only"
+                        note = (note + "; " if note else "") + "professional missed the results show (week prose)"
                 self.T["couple_weeks"].append({
                     "couple_week_key": f"{wkk}-{ckey.split('-', 1)[1]}", "couple_key": ckey, "week_key": wkk, "series_key": self.skey, "week_number": wk,
                     "participation_status": part, "result_status": res, "results_round_key": rk, "at_risk": str(at_risk).lower(), "danced_off": str(danced).lower(),
                     "bye_granted": str(bye).lower(), "absence_reason": reason, "affected_party": party, "absence_scope": scope, "status_raw": raw,
-                    "d_pro_slug": pro, "d_partnership_kind": "original",
+                    "d_pro_slug": pro, "d_partnership_kind": pship["partnership_kind"],
                     **self.prov(locator, kind, note)})
         # week lifecycle
         for wk, w in self.weeks.items():
@@ -871,7 +991,8 @@ class Build:
                 w["lifecycle_status"] = "scheduled"
         for p in self.T["couple_partnerships"]:
             c = self.couples_by_key[p["couple_key"]]
-            p["week_to"] = c["_exit_week"] or self.active_week
+            if not p.pop("_fixed_to", False) or p["week_to"] == "":
+                p["week_to"] = c["_exit_week"] or self.active_week
         self.T["weeks"] = [self.weeks[w] for w in sorted(self.weeks)]
         self.T["episodes"] = [self.episodes[k] for k in sorted(self.episodes, key=lambda k: (self.episodes[k]["air_date"] or "9999", k))]
 
@@ -954,7 +1075,7 @@ class Build:
             p["d_scale_max"] = 10 * len(self.seat_order)
             p["d_total_40"] = round(p["stated_total"] * 40 / p["d_scale_max"], 2) if p["stated_total"] != "" and p["d_scale_max"] else ""
             p["d_results_round_key"] = self.perf_rounds.get(int(p["week_key"][-2:]), "")
-            p["d_partnership_kind"] = "original"
+            p["d_partnership_kind"] = self.partnership_at(p["couple_key"], int(p["week_key"][-2:]))["partnership_kind"]
             p["air_date"] = self.episodes[p["episode_key"]]["air_date"]
             p["series_number"], p["week_number"] = self.n, int(p["week_key"][-2:])
             p["round_stage"] = self.weeks[p["week_number"]]["round_stage"]
