@@ -665,6 +665,8 @@ class Build:
         self.guest_nonscoring = {}
         self.carry_votes_weeks = set()
         self.chart_only_carry = set()
+        self.intermediate_rounds = {}
+        self.dance_bullets = self.page.dance_chart_bullets()
         self.dances_seen = {}
         for wk, h in sorted(self.headings.items()):
             wkk = week_key(self.skey, wk)
@@ -695,6 +697,9 @@ class Build:
             if not h["tables"]:
                 self.warn(f"week {wk}: no wikitable in section")
                 continue
+            labels = [l for l, _ in h["tables"] if l]
+            if any(re.match(r"^Show [12]", l) for l in labels) and "S1" not in self.week_eps.get(wk, {}):
+                self.rekey_two_show_week(wk, h)
             multi_codes = [c for c in ("N1", "N2", "S1", "S2") if c in self.week_eps.get(wk, {})]
             for ti, (label, table) in enumerate(h["tables"]):
                 code = "P"
@@ -726,8 +731,30 @@ class Build:
                         "replaces_slug": "", "absence_reason": "", "vote_label": "", **self.prov("curated/series_panels.csv", r["source_kind"], r["note"])})
         self.check("weeks with tables", len(self.week_has_scores) > 0, f"{sorted(self.week_has_scores)}")
 
+    def rekey_two_show_week(self, wk, h):
+        """Ratings rows 'Week N' / 'Week N results' for a week whose tables are 'Show 1' / 'Show 2' are the two shows (rule E2)."""
+        codes = self.week_eps[wk]
+        mapping = [("P", "S1", "show1", "performance"), ("R", "S2", "show2", "performance_and_results")]
+        for old, new, sub, kind in mapping:
+            if old in codes:
+                okey = codes.pop(old)
+                nkey = f"{week_key(self.skey, wk)}-{new}"
+                row = self.episodes.pop(okey)
+                row.update({"episode_key": nkey, "sub_label": sub, "episode_kind": kind, "source_kind": "inferred",
+                            "note": "rule E2: the week's tables are 'Show 1' and 'Show 2'; the Ratings rows are the two shows"})
+                self.episodes[nkey] = row
+                codes[new] = nkey
+        if "S2" not in codes:
+            nkey = f"{week_key(self.skey, wk)}-S2"
+            base = self.episodes[codes["S1"]]
+            self.episodes[nkey] = {**base, "episode_key": nkey, "sub_label": "show2", "episode_kind": "performance_and_results", "sequence_in_week": 2,
+                                   "label_raw": "", "listed_in_ratings": "false", "rating_millions": "", "rank_bbc_one": "", "rank_all_uk": "", "share_pct": "",
+                                   **self.prov(f"section={h['heading']}", "inferred", "rule E2: second show of the final with no Ratings row")}
+            codes["S2"] = nkey
+
     def parse_week_table(self, wk, h, ekey, table):
         wkk = week_key(self.skey, wk)
+        table_label = next((l for l, t in h["tables"] if t is table), None)
         grid = table_grid(table)
         header = [header_text(c["el"]) for c in grid[0]]
         roles = []
@@ -821,7 +848,7 @@ class Build:
                 "performance_key": pkey, "episode_key": ekey, "week_key": wkk, "series_key": self.skey, "performer_group": "couple", "couple_key": ckey,
                 "performing_pro_slug": pro, "couple_label_raw": label, "sequence_in_episode": seq_by_couple[ckey], "running_order": running if kind != "marathon" else "",
                 "group_key": f"{ekey}-G1" if kind in ("instant", "marathon") else "", "performance_kind": kind,
-                "selection_role": self.selection_role(kind, wk, h, nonshow_by_couple[ckey]),
+                "selection_role": self.selection_role(kind, wk, h, nonshow_by_couple[ckey], table_label),
                 "performance_status": status, "scoring_mode": mode, "stated_total": total, "n_marks_stated": nmarks, "score_cell_raw": score_txt,
                 "points_value": points, "dance_key": dance_key, "dance_secondary_key": dance2_key, "dance_raw": dance_txt,
                 "theme_reference_text": theme_text, "theme_reference_wiki_title": next((w for t, w, hh in theme_links if w), ""), "theme_column_label": theme_col or "",
@@ -868,18 +895,36 @@ class Build:
             return max(rows, key=lambda r: int(r["week_from"]))
         return {"pro_person_key": "", "partnership_kind": ""}
 
-    def selection_role(self, kind, wk, h, seq):
+    ROLE_PHRASES = (("chosen by the judges", "repeat_judges_choice"), ("judges' pick", "repeat_judges_choice"), ("judges' choice", "repeat_judges_choice"),
+                    ("judges choice", "repeat_judges_choice"), ("favourite", "repeat_favourite"), ("favorite", "repeat_favourite"))
+
+    def roles_in(self, text):
+        """Non-showdance selection roles named in a dance-chart bullet or prose, in the order they appear."""
+        text = text.lower()
+        order = []
+        for phrase, role in self.ROLE_PHRASES:
+            i = text.find(phrase)
+            if i >= 0 and role not in [r for _, r in order]:
+                order.append((i, role))
+        return [r for _, r in sorted(order)]
+
+    def selection_role(self, kind, wk, h, seq, table_label=None):
         if kind in ("showdance", "marathon", "instant"):
             return kind
         if self.weeks[wk]["round_stage"] == "final":
-            # the showdance is recognised by name; the other routines take the remaining roles in the order the prose lists them
-            prose = " ".join(p for p, _ in h["paragraphs"]).lower()
+            # the showdance is recognised by name; the other routines take the remaining roles in the order the
+            # Dance chart bullet for this week (and show) lists them, falling back to the week prose
             order = []
-            for phrase, role in (("chosen by the judges", "repeat_judges_choice"), ("judges' pick", "repeat_judges_choice"), ("judges' choice", "repeat_judges_choice"), ("favourite", "repeat_favourite")):
-                i = prose.find(phrase)
-                if i >= 0 and role not in [r for _, r in order]:
-                    order.append((i, role))
-            order = [r for _, r in sorted(order)]
+            for b in self.dance_bullets:
+                m = re.match(r"^Weeks?\s+(\d+)\s*(?:\(([^)]*)\))?\s*:\s*(.*)$", b)
+                if m and int(m.group(1)) == wk and (not table_label or not m.group(2) or m.group(2).strip().lower() == table_label.strip().lower()):
+                    if table_label and m.group(2) and m.group(2).strip().lower() != table_label.strip().lower():
+                        continue
+                    order = self.roles_in(m.group(3))
+                    if table_label is None or (m.group(2) or "").strip().lower() == table_label.strip().lower():
+                        break
+            if not order:
+                order = self.roles_in(" ".join(p for p, _ in h["paragraphs"]))
             if seq - 1 < len(order):
                 return order[seq - 1]
             return "unknown"
@@ -1033,8 +1078,27 @@ class Build:
         mechanism = self.effective_rule(wk, "elimination_mechanism")
         withdrawn = [c for c, (t, bg) in results.items() if RESULT_MAP.get(t.lower()) == "withdrew"]
         round_note = ""
+        intermediate = [c for c, (t, bg) in results.items() if RESULT_MAP.get(t.lower()) in ("third", "fourth")]
+        if is_final and intermediate:
+            a_key = f"{self.skey}R{wk:02d}a"
+            s1 = self.week_eps[wk].get("S1", "")
+            fr = next((r for r in self.T["format_rules"] if r["episode_key"] == s1 and r["elimination_mechanism"]), None)
+            a_mech = fr["elimination_mechanism"] if fr else ("lowest_public_vote" if re.search(r"lowest public vote|fewest public votes", prose_all, re.I)
+                                                             else "lowest_combined_points_stated" if re.search(r"lowest combined", prose_all, re.I) else "lowest_public_vote")
+            self.T["results_rounds"].append({
+                "round_key": a_key, "series_key": self.skey, "round_kind": "intermediate_final_exit", "label": h["tables"][0][0] or "Show 1",
+                "deciding_week_key": wkk, "decided_at_episode_key": self.week_eps[wk].get("S2") or self.week_eps[wk].get("P", ""), "week_keys": wkk,
+                "elimination_mechanism_actual": a_mech, "exit_count": len(intermediate), "at_risk_group_size_actual": "", "dance_off_status": "not_applicable",
+                "vote_direction": "", "casting_vote_slug": "", "casting_vote_used": "", "casting_vote_inferred": "false", "votes_recorded": "false",
+                "votes_carried_over": "", "combined_reason": "single_week", "casting_vote_source_kind": "",
+                **self.prov(f"section={h['heading']}; Show 1 Result column and prose", "stated" if fr or re.search(r"lowest public vote|fewest public votes|lowest combined", prose_all, re.I) else "inferred",
+                            "intermediate exit between the two shows of the final")})
+            self.T["results_round_weeks"].append({"results_round_week_key": f"{a_key}|{wkk}", "round_key": a_key, "week_key": wkk, "seq": 1})
+            self.intermediate_rounds[wk] = (a_key, set(intermediate))
         if is_final and not eliminated:
             mechanism, dance_off, direction, holder, at_risk = "public_vote_final_placing", "not_applicable", "", None, []
+            if intermediate:
+                rkey, label = f"{self.skey}R{wk:02d}b", h["tables"][-1][0] or "Show 2"
         elif not votes and not eliminated and withdrawn:
             # a bottom-two couple withdrew before the dance-off could take place (A226)
             mechanism, dance_off, direction = "none", "cancelled_withdrawal", ""
@@ -1112,11 +1176,14 @@ class Build:
         self.chart_cols = sc["col_labels"]
         self.chart_notes = sc["notes"]
         # cross-check: chart totals vs weekly totals
+        last_index = {}
+        for ci, col in enumerate(self.chart_cols):
+            last_index[col] = ci
         for ckey, row in self.chart_rows.items():
             for ci, cell in enumerate(row["cells"]):
                 col = self.chart_cols[ci] if ci < len(self.chart_cols) else ""
-                txt = cell["text"].replace("†", "").replace("‡", "").strip()
-                if not re.fullmatch(r"\d+(?:\+\d+)*(?:=\d+)?", txt) or not re.fullmatch(r"\d+(?:\+\d+)?", col):
+                txt = cell["text"].replace("†", "").replace("‡", "").strip().lstrip("+")
+                if not re.fullmatch(r"\d+(?:\+\d+)*(?:=\d+)?", txt) or not re.fullmatch(r"\d+(?:\+\d+)?", col) or last_index.get(col) != ci:
                     continue
                 weeks = [int(x) for x in col.split("+")]
                 expected = sum(int(p["stated_total"] or 0) + int(p["points_value"] or 0) for p in self.T["performances"] if p["couple_key"] == ckey and int(p["week_key"][-2:]) in weeks)
@@ -1160,6 +1227,8 @@ class Build:
                         if res == "pending" and self.week_rounds.get(wk):
                             res, kind, note = "safe", "inferred", "blank Result cell in a week with a decided round"
                         rk = self.week_rounds.get(wk, "")
+                        if wk in self.intermediate_rounds and ckey in self.intermediate_rounds[wk][1]:
+                            rk = self.intermediate_rounds[wk][0]
                         if wk in self.carry_weeks:
                             rk = ""
                         at_risk = res in ("bottom_two", "bottom_three", "eliminated")
@@ -1274,6 +1343,8 @@ class Build:
                 c["exit_week_key"] = week_key(self.skey, wk)
                 if c["exit_kind"] in ("eliminated", "finalist"):
                     c["exit_round_key"] = self.week_rounds.get(wk, "")
+                    if wk in self.intermediate_rounds and ckey in self.intermediate_rounds[wk][1]:
+                        c["exit_round_key"] = self.intermediate_rounds[wk][0]
                     rnd = next((r for r in self.T["results_rounds"] if r["round_key"] == c["exit_round_key"]), None)
                     ep = rnd["decided_at_episode_key"] if rnd else ""
                     c["exit_episode_key"] = ep
@@ -1422,7 +1493,10 @@ class Build:
         self.check("no unresolved couple labels", not self.report["unresolved"], str(self.report["unresolved"][:5]))
         # daggers: highest/lowest of week in the chart agree with the derived flags
         dag_bad = []
+        dup_cols = {c for c in self.chart_cols if self.chart_cols.count(c) > 1}
         for cell in T["chart_cells"]:
+            if cell["col_label_raw"] in dup_cols:
+                continue  # two-show finals mark highest/lowest per show column; the week-total flag is checked on the cumulative column only
             if cell["couple_key"] and re.fullmatch(r"\d+", cell["col_label_raw"]) and ("dagger" in cell["flags"].split("|") or "double_dagger" in cell["flags"].split("|")):
                 wkk = week_key(self.skey, int(cell["col_label_raw"]))
                 cws = [cw for cw in T["couple_weeks"] if cw["couple_key"] == cell["couple_key"] and cw["week_key"] == wkk]
