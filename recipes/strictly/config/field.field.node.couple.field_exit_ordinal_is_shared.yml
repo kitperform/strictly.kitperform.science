@@ -1,0 +1,20 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_exit_ordinal_is_shared
+  - node.type.couple
+id: node.couple.field_exit_ordinal_is_shared
+field_name: field_exit_ordinal_is_shared
+entity_type: node
+bundle: couple
+label: Exit ordinal is shared
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings:
+  on_label: 'Yes'
+  off_label: 'No'
+field_type: boolean

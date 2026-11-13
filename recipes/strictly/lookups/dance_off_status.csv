@@ -1,0 +1,8 @@
+key,name
+cancelled_injury,cancelled injury
+cancelled_scoring_error,cancelled scoring error
+cancelled_withdrawal,cancelled withdrawal
+held,held
+not_applicable,not applicable
+not_held_by_format,not held by format
+not_in_format,not in format

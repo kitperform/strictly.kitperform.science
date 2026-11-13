@@ -1,0 +1,27 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_artist
+  - node.type.performance_music
+  - taxonomy.vocabulary.artist
+id: node.performance_music.field_artist
+field_name: field_artist
+entity_type: node
+bundle: performance_music
+label: Artist
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings:
+  handler: default:taxonomy_term
+  handler_settings:
+    target_bundles:
+      artist: artist
+    sort:
+      field: _none
+      direction: ASC
+    auto_create: false
+field_type: entity_reference

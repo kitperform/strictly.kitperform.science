@@ -1,0 +1,25 @@
+name: Strictly Come Dancing results
+description: Content types, vocabularies and Migrate migrations for the strictly.kitperform.science dataset (every judge mark, performance, results round and roster row from series 1 onwards).
+type: Content type
+install:
+- node
+- taxonomy
+- field
+- text
+- options
+- datetime
+- serialization
+- jsonapi
+- views
+- migrate
+- migrate_plus
+- migrate_tools
+- migrate_source_csv
+config:
+  actions:
+    user.role.anonymous:
+      grantPermissions:
+      - access content
+    user.role.authenticated:
+      grantPermissions:
+      - access content

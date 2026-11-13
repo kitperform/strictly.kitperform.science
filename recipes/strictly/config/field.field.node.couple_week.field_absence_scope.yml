@@ -1,0 +1,20 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_absence_scope
+  - node.type.couple_week
+  module:
+  - options
+id: node.couple_week.field_absence_scope
+field_name: field_absence_scope
+entity_type: node
+bundle: couple_week
+label: Absence scope
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings: {}
+field_type: list_string

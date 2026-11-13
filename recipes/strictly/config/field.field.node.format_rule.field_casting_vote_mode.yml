@@ -1,0 +1,20 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_casting_vote_mode
+  - node.type.format_rule
+  module:
+  - options
+id: node.format_rule.field_casting_vote_mode
+field_name: field_casting_vote_mode
+entity_type: node
+bundle: format_rule
+label: Casting vote mode
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings: {}
+field_type: list_string

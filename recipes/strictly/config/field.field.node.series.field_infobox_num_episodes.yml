@@ -1,0 +1,22 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_infobox_num_episodes
+  - node.type.series
+id: node.series.field_infobox_num_episodes
+field_name: field_infobox_num_episodes
+entity_type: node
+bundle: series
+label: Infobox num episodes
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings:
+  min: null
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: integer

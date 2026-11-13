@@ -1,0 +1,29 @@
+langcode: en
+status: true
+dependencies: {}
+id: strictly_term_dance_off_status
+class: null
+field_plugin_method: null
+cck_plugin_method: null
+migration_tags:
+- strictly
+migration_group: strictly
+label: 'Terms: dance_off_status'
+source:
+  plugin: csv
+  path: /var/www/html/recipes/strictly/lookups/dance_off_status.csv
+  ids:
+  - key
+  track_changes: true
+  constants:
+    vid: dance_off_status
+process:
+  name: name
+  vid: constants/vid
+  field_key: key
+destination:
+  plugin: entity:taxonomy_term
+  default_bundle: dance_off_status
+migration_dependencies:
+  required: []
+  optional: []

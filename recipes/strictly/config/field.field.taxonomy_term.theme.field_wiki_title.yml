@@ -1,0 +1,18 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.taxonomy_term.field_wiki_title
+  - taxonomy.vocabulary.theme
+id: taxonomy_term.theme.field_wiki_title
+field_name: field_wiki_title
+entity_type: taxonomy_term
+bundle: theme
+label: Wiki title
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings: {}
+field_type: string

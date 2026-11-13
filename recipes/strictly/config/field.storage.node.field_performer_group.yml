@@ -1,0 +1,26 @@
+langcode: en
+status: true
+dependencies:
+  module:
+  - node
+  - options
+id: node.field_performer_group
+field_name: field_performer_group
+entity_type: node
+type: list_string
+settings:
+  allowed_values:
+  - value: couple
+    label: couple
+  - value: pro_group
+    label: pro_group
+  - value: troupe
+    label: troupe
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {}
+persist_with_no_fields: false
+custom_storage: false

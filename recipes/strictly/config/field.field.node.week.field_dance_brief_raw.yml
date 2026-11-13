@@ -1,0 +1,18 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_dance_brief_raw
+  - node.type.week
+id: node.week.field_dance_brief_raw
+field_name: field_dance_brief_raw
+entity_type: node
+bundle: week
+label: Dance brief raw
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings: {}
+field_type: string_long

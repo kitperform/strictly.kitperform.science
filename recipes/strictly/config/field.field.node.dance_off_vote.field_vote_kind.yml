@@ -1,0 +1,20 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_vote_kind
+  - node.type.dance_off_vote
+  module:
+  - options
+id: node.dance_off_vote.field_vote_kind
+field_name: field_vote_kind
+entity_type: node
+bundle: dance_off_vote
+label: Vote kind
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings: {}
+field_type: list_string

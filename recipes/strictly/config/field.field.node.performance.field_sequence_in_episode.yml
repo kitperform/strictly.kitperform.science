@@ -1,0 +1,22 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_sequence_in_episode
+  - node.type.performance
+id: node.performance.field_sequence_in_episode
+field_name: field_sequence_in_episode
+entity_type: node
+bundle: performance
+label: Sequence in episode
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings:
+  min: null
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: integer

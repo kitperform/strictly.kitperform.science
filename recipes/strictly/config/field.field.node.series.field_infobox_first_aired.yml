@@ -1,0 +1,20 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_infobox_first_aired
+  - node.type.series
+  module:
+  - datetime
+id: node.series.field_infobox_first_aired
+field_name: field_infobox_first_aired
+entity_type: node
+bundle: series
+label: Infobox first aired
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings: {}
+field_type: datetime

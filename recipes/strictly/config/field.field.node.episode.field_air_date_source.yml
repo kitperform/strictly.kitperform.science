@@ -1,0 +1,20 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_air_date_source
+  - node.type.episode
+  module:
+  - options
+id: node.episode.field_air_date_source
+field_name: field_air_date_source
+entity_type: node
+bundle: episode
+label: Air date source
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings: {}
+field_type: list_string

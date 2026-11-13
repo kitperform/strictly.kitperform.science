@@ -1,0 +1,20 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_casting_vote_src_kind
+  - node.type.results_round
+  module:
+  - options
+id: node.results_round.field_casting_vote_src_kind
+field_name: field_casting_vote_src_kind
+entity_type: node
+bundle: results_round
+label: Casting vote src kind
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings: {}
+field_type: list_string

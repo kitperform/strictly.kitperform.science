@@ -1,0 +1,22 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_weeks_count_stated
+  - node.type.series
+id: node.series.field_weeks_count_stated
+field_name: field_weeks_count_stated
+entity_type: node
+bundle: series
+label: Weeks count stated
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings:
+  min: null
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: integer

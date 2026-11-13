@@ -1,0 +1,181 @@
+langcode: en
+status: true
+dependencies: {}
+id: strictly_couples
+class: null
+field_plugin_method: null
+cck_plugin_method: null
+migration_tags:
+- strictly
+migration_group: strictly
+label: Couples
+source:
+  plugin: csv
+  path: /var/www/html/data/package/couples.csv
+  ids:
+  - couple_key
+  track_changes: true
+  constants:
+    uid: 1
+    status: 1
+process:
+  title:
+  - plugin: concat
+    source:
+    - series_key
+    - chart_label
+    delimiter: ' · '
+  - plugin: substr
+    start: 0
+    length: 250
+  uid: constants/uid
+  status: constants/status
+  field_key: couple_key
+  field_series:
+  - plugin: skip_on_empty
+    method: process
+    source: series_key
+  - plugin: migration_lookup
+    migration: strictly_series
+    no_stub: true
+  field_celebrity:
+  - plugin: skip_on_empty
+    method: process
+    source: celebrity_person_key
+  - plugin: migration_lookup
+    migration: strictly_people
+    no_stub: true
+  field_chart_label: chart_label
+  field_celebrity_display_name: celebrity_display_name
+  field_pro_display_name: professional_display_name
+  field_couple_kind:
+  - plugin: skip_on_empty
+    method: process
+    source: couple_kind
+  field_notability_text: notability_text
+  field_final_placement:
+  - plugin: skip_on_empty
+    method: process
+    source: final_placement
+  field_place_is_shared:
+  - plugin: skip_on_empty
+    method: process
+    source: place_is_shared
+  - plugin: static_map
+    map:
+      'true': 1
+      'false': 0
+  field_place_label_raw: place_label_raw
+  field_exit_kind:
+  - plugin: skip_on_empty
+    method: process
+    source: exit_kind
+  field_exit_ordinal:
+  - plugin: skip_on_empty
+    method: process
+    source: exit_ordinal
+  field_exit_ordinal_is_shared:
+  - plugin: skip_on_empty
+    method: process
+    source: exit_ordinal_is_shared
+  - plugin: static_map
+    map:
+      'true': 1
+      'false': 0
+  field_exit_ordinal_text: exit_ordinal_text
+  field_exit_week:
+  - plugin: skip_on_empty
+    method: process
+    source: exit_week_key
+  - plugin: migration_lookup
+    migration: strictly_weeks
+    no_stub: true
+  field_exit_round:
+  - plugin: skip_on_empty
+    method: process
+    source: exit_round_key
+  - plugin: migration_lookup
+    migration: strictly_results_rounds
+    no_stub: true
+  field_exit_episode:
+  - plugin: skip_on_empty
+    method: process
+    source: exit_episode_key
+  - plugin: migration_lookup
+    migration: strictly_episodes
+    no_stub: true
+  field_exit_date:
+  - plugin: skip_on_empty
+    method: process
+    source: exit_date
+  field_exit_date_kind:
+  - plugin: skip_on_empty
+    method: process
+    source: exit_date_kind
+  field_exit_timing:
+  - plugin: skip_on_empty
+    method: process
+    source: exit_timing
+  - plugin: migration_lookup
+    migration: strictly_term_exit_timing
+    no_stub: true
+  field_exit_reason:
+  - plugin: skip_on_empty
+    method: process
+    source: exit_reason
+  - plugin: migration_lookup
+    migration: strictly_term_absence_reason
+    no_stub: true
+  field_exit_affected_party:
+  - plugin: skip_on_empty
+    method: process
+    source: exit_affected_party
+  field_status_raw: status_raw
+  field_couples_table_order:
+  - plugin: skip_on_empty
+    method: process
+    source: couples_table_order
+  field_d_professionals:
+  - plugin: skip_on_empty
+    method: process
+    source: d_pro_slugs
+  - plugin: explode
+    delimiter: '|'
+  - plugin: migration_lookup
+    migration: strictly_people
+    no_stub: true
+  field_d_reached_final:
+  - plugin: skip_on_empty
+    method: process
+    source: d_reached_final
+  - plugin: static_map
+    map:
+      'true': 1
+      'false': 0
+  field_source_capture:
+  - plugin: skip_on_empty
+    method: process
+    source: source_capture_key
+  - plugin: migration_lookup
+    migration: strictly_source_captures
+    no_stub: true
+  field_source_locator: source_locator
+  field_source_kind:
+  - plugin: skip_on_empty
+    method: process
+    source: source_kind
+  field_note: note
+destination:
+  plugin: entity:node
+  default_bundle: couple
+migration_dependencies:
+  required:
+  - strictly_episodes
+  - strictly_people
+  - strictly_results_rounds
+  - strictly_series
+  - strictly_source_captures
+  - strictly_term_absence_reason
+  - strictly_term_exit_timing
+  - strictly_weeks
+  optional: []

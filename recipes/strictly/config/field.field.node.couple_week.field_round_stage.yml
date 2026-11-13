@@ -1,0 +1,20 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_round_stage
+  - node.type.couple_week
+  module:
+  - options
+id: node.couple_week.field_round_stage
+field_name: field_round_stage
+entity_type: node
+bundle: couple_week
+label: Round stage
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings: {}
+field_type: list_string

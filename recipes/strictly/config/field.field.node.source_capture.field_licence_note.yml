@@ -1,0 +1,18 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_licence_note
+  - node.type.source_capture
+id: node.source_capture.field_licence_note
+field_name: field_licence_note
+entity_type: node
+bundle: source_capture
+label: Licence note
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings: {}
+field_type: string

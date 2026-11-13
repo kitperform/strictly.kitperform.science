@@ -1,0 +1,12 @@
+{
+    "name": "kitperform/strictly_recipe",
+    "description": "Drupal recipe for the Strictly Come Dancing results dataset",
+    "type": "drupal-recipe",
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "drupal/core": "^11.2",
+        "drupal/migrate_plus": "^6",
+        "drupal/migrate_tools": "^6",
+        "drupal/migrate_source_csv": "^3"
+    }
+}

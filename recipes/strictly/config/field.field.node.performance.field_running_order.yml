@@ -1,0 +1,22 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_running_order
+  - node.type.performance
+id: node.performance.field_running_order
+field_name: field_running_order
+entity_type: node
+bundle: performance
+label: Running order
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings:
+  min: null
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: integer

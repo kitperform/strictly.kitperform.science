@@ -1,0 +1,22 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_seq
+  - node.type.performance_music
+id: node.performance_music.field_seq
+field_name: field_seq
+entity_type: node
+bundle: performance_music
+label: Seq
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings:
+  min: null
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: integer

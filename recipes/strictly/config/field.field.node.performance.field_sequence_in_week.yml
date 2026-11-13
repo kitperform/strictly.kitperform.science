@@ -1,0 +1,22 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_sequence_in_week
+  - node.type.performance
+id: node.performance.field_sequence_in_week
+field_name: field_sequence_in_week
+entity_type: node
+bundle: performance
+label: Sequence in week
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings:
+  min: null
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: integer

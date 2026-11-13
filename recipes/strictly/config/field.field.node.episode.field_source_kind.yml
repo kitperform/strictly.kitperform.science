@@ -1,0 +1,20 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_source_kind
+  - node.type.episode
+  module:
+  - options
+id: node.episode.field_source_kind
+field_name: field_source_kind
+entity_type: node
+bundle: episode
+label: Source kind
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings: {}
+field_type: list_string

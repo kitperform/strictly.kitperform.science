@@ -1,0 +1,20 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_is_scoring
+  - node.type.panel_seat
+id: node.panel_seat.field_is_scoring
+field_name: field_is_scoring
+entity_type: node
+bundle: panel_seat
+label: Is scoring
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings:
+  on_label: 'Yes'
+  off_label: 'No'
+field_type: boolean

@@ -1,0 +1,18 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.taxonomy_term.field_key
+  - taxonomy.vocabulary.participation_status
+id: taxonomy_term.participation_status.field_key
+field_name: field_key
+entity_type: taxonomy_term
+bundle: participation_status
+label: Key
+description: ''
+required: true
+translatable: false
+default_value: []
+default_value_callback: ''
+settings: {}
+field_type: string

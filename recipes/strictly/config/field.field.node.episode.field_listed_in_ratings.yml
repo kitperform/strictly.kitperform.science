@@ -1,0 +1,20 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_listed_in_ratings
+  - node.type.episode
+id: node.episode.field_listed_in_ratings
+field_name: field_listed_in_ratings
+entity_type: node
+bundle: episode
+label: Listed in ratings
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings:
+  on_label: 'Yes'
+  off_label: 'No'
+field_type: boolean

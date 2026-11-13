@@ -1,0 +1,9 @@
+langcode: en
+status: true
+dependencies: {}
+id: strictly
+label: Strictly Come Dancing dataset
+description: CSV tables from data/package, keyed on natural keys; re-run with --update after each dataset rebuild.
+source_type: CSV (strictly.kitperform.science dataset)
+module: null
+shared_configuration: null

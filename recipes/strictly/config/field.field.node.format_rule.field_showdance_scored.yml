@@ -1,0 +1,20 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_showdance_scored
+  - node.type.format_rule
+  module:
+  - options
+id: node.format_rule.field_showdance_scored
+field_name: field_showdance_scored
+entity_type: node
+bundle: format_rule
+label: Showdance scored
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings: {}
+field_type: list_string

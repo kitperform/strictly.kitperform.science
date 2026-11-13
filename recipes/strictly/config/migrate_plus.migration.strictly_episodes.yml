@@ -1,0 +1,133 @@
+langcode: en
+status: true
+dependencies: {}
+id: strictly_episodes
+class: null
+field_plugin_method: null
+cck_plugin_method: null
+migration_tags:
+- strictly
+migration_group: strictly
+label: Episodes
+source:
+  plugin: csv
+  path: /var/www/html/data/package/episodes.csv
+  ids:
+  - episode_key
+  track_changes: true
+  constants:
+    uid: 1
+    status: 1
+process:
+  title:
+  - plugin: concat
+    source:
+    - series_key
+    - label_raw
+    delimiter: ' · '
+  - plugin: substr
+    start: 0
+    length: 250
+  uid: constants/uid
+  status: constants/status
+  field_key: episode_key
+  field_series:
+  - plugin: skip_on_empty
+    method: process
+    source: series_key
+  - plugin: migration_lookup
+    migration: strictly_series
+    no_stub: true
+  field_week:
+  - plugin: skip_on_empty
+    method: process
+    source: week_key
+  - plugin: migration_lookup
+    migration: strictly_weeks
+    no_stub: true
+  field_episode_kind:
+  - plugin: skip_on_empty
+    method: process
+    source: episode_kind
+  field_sub_label: sub_label
+  field_sequence_in_week:
+  - plugin: skip_on_empty
+    method: process
+    source: sequence_in_week
+  field_label_raw: label_raw
+  field_listed_in_ratings:
+  - plugin: skip_on_empty
+    method: process
+    source: listed_in_ratings
+  - plugin: static_map
+    map:
+      'true': 1
+      'false': 0
+  field_air_date:
+  - plugin: skip_on_empty
+    method: process
+    source: air_date
+  field_air_date_source:
+  - plugin: skip_on_empty
+    method: process
+    source: air_date_source
+  field_original_air_date:
+  - plugin: skip_on_empty
+    method: process
+    source: original_air_date
+  field_reschedule_reason_text: reschedule_reason_text
+  field_episode_status:
+  - plugin: skip_on_empty
+    method: process
+    source: status
+  field_venue:
+  - plugin: skip_on_empty
+    method: process
+    source: venue_key
+  - plugin: migration_lookup
+    migration: strictly_term_venue
+    no_stub: true
+  field_charity_beneficiary: charity_beneficiary
+  field_scale_max_stated:
+  - plugin: skip_on_empty
+    method: process
+    source: scale_max_stated
+  field_rating_millions:
+  - plugin: skip_on_empty
+    method: process
+    source: rating_millions
+  field_rank_bbc_one:
+  - plugin: skip_on_empty
+    method: process
+    source: rank_bbc_one
+  field_rank_all_uk:
+  - plugin: skip_on_empty
+    method: process
+    source: rank_all_uk
+  field_share_pct:
+  - plugin: skip_on_empty
+    method: process
+    source: share_pct
+  field_source_capture:
+  - plugin: skip_on_empty
+    method: process
+    source: source_capture_key
+  - plugin: migration_lookup
+    migration: strictly_source_captures
+    no_stub: true
+  field_source_locator: source_locator
+  field_source_kind:
+  - plugin: skip_on_empty
+    method: process
+    source: source_kind
+  field_note: note
+destination:
+  plugin: entity:node
+  default_bundle: episode
+migration_dependencies:
+  required:
+  - strictly_series
+  - strictly_source_captures
+  - strictly_term_venue
+  - strictly_weeks
+  optional: []

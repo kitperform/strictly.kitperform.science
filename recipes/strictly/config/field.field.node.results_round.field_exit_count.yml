@@ -1,0 +1,22 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_exit_count
+  - node.type.results_round
+id: node.results_round.field_exit_count
+field_name: field_exit_count
+entity_type: node
+bundle: results_round
+label: Exit count
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings:
+  min: null
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: integer

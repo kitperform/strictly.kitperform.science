@@ -1,0 +1,22 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_at_risk_size_actual
+  - node.type.results_round
+id: node.results_round.field_at_risk_size_actual
+field_name: field_at_risk_size_actual
+entity_type: node
+bundle: results_round
+label: At risk size actual
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings:
+  min: null
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: integer

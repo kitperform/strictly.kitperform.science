@@ -1,0 +1,18 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_place_label_raw
+  - node.type.couple
+id: node.couple.field_place_label_raw
+field_name: field_place_label_raw
+entity_type: node
+bundle: couple
+label: Place label raw
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings: {}
+field_type: string

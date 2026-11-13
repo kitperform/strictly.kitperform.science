@@ -16,3 +16,6 @@ prototypes/out/
 
 # Packaged dataset distribution files (rebuilt by python -m strictly_parser.package)
 dist/
+
+# Local Drupal 11 site built by scripts/drupal-local.sh (composer project; the recipe itself lives in recipes/)
+drupal/

@@ -1,0 +1,10 @@
+langcode: en
+status: true
+dependencies: {}
+name: Performance
+type: performance
+description: One row of performances.csv in the Strictly dataset (docs/data-model-v2.md).
+help: null
+new_revision: true
+preview_mode: 0
+display_submitted: false

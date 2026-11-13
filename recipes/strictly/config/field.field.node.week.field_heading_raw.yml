@@ -1,0 +1,18 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_heading_raw
+  - node.type.week
+id: node.week.field_heading_raw
+field_name: field_heading_raw
+entity_type: node
+bundle: week
+label: Heading raw
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings: {}
+field_type: string_long

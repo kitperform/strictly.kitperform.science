@@ -1,0 +1,22 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_week_to
+  - node.type.couple_partnership
+id: node.couple_partnership.field_week_to
+field_name: field_week_to
+entity_type: node
+bundle: couple_partnership
+label: Week to
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings:
+  min: null
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: integer

@@ -1,0 +1,22 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_week_from
+  - node.type.couple_partnership
+id: node.couple_partnership.field_week_from
+field_name: field_week_from
+entity_type: node
+bundle: couple_partnership
+label: Week from
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings:
+  min: null
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: integer

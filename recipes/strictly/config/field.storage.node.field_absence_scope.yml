@@ -1,0 +1,26 @@
+langcode: en
+status: true
+dependencies:
+  module:
+  - node
+  - options
+id: node.field_absence_scope
+field_name: field_absence_scope
+entity_type: node
+type: list_string
+settings:
+  allowed_values:
+  - value: performance_only
+    label: performance_only
+  - value: results_show_only
+    label: results_show_only
+  - value: whole_week
+    label: whole_week
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {}
+persist_with_no_fields: false
+custom_storage: false

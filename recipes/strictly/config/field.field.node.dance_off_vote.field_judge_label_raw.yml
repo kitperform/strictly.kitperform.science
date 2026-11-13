@@ -1,0 +1,18 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_judge_label_raw
+  - node.type.dance_off_vote
+id: node.dance_off_vote.field_judge_label_raw
+field_name: field_judge_label_raw
+entity_type: node
+bundle: dance_off_vote
+label: Judge label raw
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings: {}
+field_type: string

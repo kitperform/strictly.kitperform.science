@@ -1,0 +1,31 @@
+langcode: en
+status: true
+dependencies: {}
+id: strictly_term_dance
+class: null
+field_plugin_method: null
+cck_plugin_method: null
+migration_tags:
+- strictly
+migration_group: strictly
+label: 'Terms: dance'
+source:
+  plugin: csv
+  path: /var/www/html/data/package/dances.csv
+  ids:
+  - dance_key
+  track_changes: true
+  constants:
+    vid: dance
+process:
+  name: name
+  vid: constants/vid
+  field_key: dance_key
+  field_dance_family: dance_family
+  field_wiki_title: wiki_title
+destination:
+  plugin: entity:taxonomy_term
+  default_bundle: dance
+migration_dependencies:
+  required: []
+  optional: []

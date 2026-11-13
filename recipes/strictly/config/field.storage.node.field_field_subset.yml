@@ -1,0 +1,30 @@
+langcode: en
+status: true
+dependencies:
+  module:
+  - node
+  - options
+id: node.field_field_subset
+field_name: field_field_subset
+entity_type: node
+type: list_string
+settings:
+  allowed_values:
+  - value: all
+    label: all
+  - value: female_celebrities
+    label: female_celebrities
+  - value: half_a
+    label: half_a
+  - value: half_b
+    label: half_b
+  - value: male_celebrities
+    label: male_celebrities
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {}
+persist_with_no_fields: false
+custom_storage: false

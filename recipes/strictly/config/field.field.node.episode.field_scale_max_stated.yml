@@ -1,0 +1,22 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_scale_max_stated
+  - node.type.episode
+id: node.episode.field_scale_max_stated
+field_name: field_scale_max_stated
+entity_type: node
+bundle: episode
+label: Scale max stated
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings:
+  min: null
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: integer

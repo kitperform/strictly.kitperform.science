@@ -1,0 +1,8 @@
+langcode: en
+status: true
+dependencies: {}
+name: Exit timing
+vid: exit_timing
+description: Generated from the Strictly dataset (scripts/generate_drupal_recipe.py).
+weight: 0
+new_revision: false

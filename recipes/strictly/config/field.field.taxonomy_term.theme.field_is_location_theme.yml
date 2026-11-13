@@ -1,0 +1,20 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.taxonomy_term.field_is_location_theme
+  - taxonomy.vocabulary.theme
+id: taxonomy_term.theme.field_is_location_theme
+field_name: field_is_location_theme
+entity_type: taxonomy_term
+bundle: theme
+label: Is location theme
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings:
+  on_label: 'Yes'
+  off_label: 'No'
+field_type: boolean

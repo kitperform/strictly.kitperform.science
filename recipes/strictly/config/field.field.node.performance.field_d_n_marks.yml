@@ -1,0 +1,22 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_d_n_marks
+  - node.type.performance
+id: node.performance.field_d_n_marks
+field_name: field_d_n_marks
+entity_type: node
+bundle: performance
+label: D n marks
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings:
+  min: null
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: integer

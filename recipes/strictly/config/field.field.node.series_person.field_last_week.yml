@@ -1,0 +1,27 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_last_week
+  - node.type.series_person
+  - node.type.week
+id: node.series_person.field_last_week
+field_name: field_last_week
+entity_type: node
+bundle: series_person
+label: Last week
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings:
+  handler: default:node
+  handler_settings:
+    target_bundles:
+      week: week
+    sort:
+      field: _none
+      direction: ASC
+    auto_create: false
+field_type: entity_reference

@@ -1,0 +1,18 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_status_raw
+  - node.type.couple_week
+id: node.couple_week.field_status_raw
+field_name: field_status_raw
+entity_type: node
+bundle: couple_week
+label: Status raw
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings: {}
+field_type: string

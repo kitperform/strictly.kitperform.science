@@ -1,0 +1,20 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_d_total_mismatch
+  - node.type.performance
+id: node.performance.field_d_total_mismatch
+field_name: field_d_total_mismatch
+entity_type: node
+bundle: performance
+label: D total mismatch
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings:
+  on_label: 'Yes'
+  off_label: 'No'
+field_type: boolean

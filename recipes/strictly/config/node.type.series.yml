@@ -1,0 +1,10 @@
+langcode: en
+status: true
+dependencies: {}
+name: Series
+type: series
+description: One row of series.csv in the Strictly dataset (docs/data-model-v2.md).
+help: null
+new_revision: true
+preview_mode: 0
+display_submitted: false

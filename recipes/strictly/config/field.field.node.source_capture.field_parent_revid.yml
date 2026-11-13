@@ -1,0 +1,22 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_parent_revid
+  - node.type.source_capture
+id: node.source_capture.field_parent_revid
+field_name: field_parent_revid
+entity_type: node
+bundle: source_capture
+label: Parent revid
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings:
+  min: null
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: integer

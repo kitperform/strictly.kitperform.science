@@ -1,0 +1,20 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_alias_kind
+  - node.type.person_alias
+  module:
+  - options
+id: node.person_alias.field_alias_kind
+field_name: field_alias_kind
+entity_type: node
+bundle: person_alias
+label: Alias kind
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings: {}
+field_type: list_string

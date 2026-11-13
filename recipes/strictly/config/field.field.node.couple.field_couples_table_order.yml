@@ -1,0 +1,22 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_couples_table_order
+  - node.type.couple
+id: node.couple.field_couples_table_order
+field_name: field_couples_table_order
+entity_type: node
+bundle: couple
+label: Couples table order
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings:
+  min: null
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: integer

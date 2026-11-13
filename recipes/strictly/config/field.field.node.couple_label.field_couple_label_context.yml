@@ -1,0 +1,20 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_couple_label_context
+  - node.type.couple_label
+  module:
+  - options
+id: node.couple_label.field_couple_label_context
+field_name: field_couple_label_context
+entity_type: node
+bundle: couple_label
+label: Couple label context
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings: {}
+field_type: list_string

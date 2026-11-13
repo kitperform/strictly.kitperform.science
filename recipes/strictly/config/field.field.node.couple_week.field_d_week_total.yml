@@ -1,0 +1,22 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_d_week_total
+  - node.type.couple_week
+id: node.couple_week.field_d_week_total
+field_name: field_d_week_total
+entity_type: node
+bundle: couple_week
+label: D week total
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings:
+  min: null
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: integer

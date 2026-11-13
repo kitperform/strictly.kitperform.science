@@ -1,0 +1,27 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_song
+  - node.type.performance_music
+  - node.type.song
+id: node.performance_music.field_song
+field_name: field_song
+entity_type: node
+bundle: performance_music
+label: Song
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings:
+  handler: default:node
+  handler_settings:
+    target_bundles:
+      song: song
+    sort:
+      field: _none
+      direction: ASC
+    auto_create: false
+field_type: entity_reference

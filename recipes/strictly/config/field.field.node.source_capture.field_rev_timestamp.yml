@@ -1,0 +1,20 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_rev_timestamp
+  - node.type.source_capture
+  module:
+  - datetime
+id: node.source_capture.field_rev_timestamp
+field_name: field_rev_timestamp
+entity_type: node
+bundle: source_capture
+label: Rev timestamp
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings: {}
+field_type: datetime

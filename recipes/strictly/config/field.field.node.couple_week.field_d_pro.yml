@@ -1,0 +1,27 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_d_pro
+  - node.type.couple_week
+  - node.type.person
+id: node.couple_week.field_d_pro
+field_name: field_d_pro
+entity_type: node
+bundle: couple_week
+label: D pro
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings:
+  handler: default:node
+  handler_settings:
+    target_bundles:
+      person: person
+    sort:
+      field: _none
+      direction: ASC
+    auto_create: false
+field_type: entity_reference

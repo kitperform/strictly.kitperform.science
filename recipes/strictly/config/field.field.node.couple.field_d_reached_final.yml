@@ -1,0 +1,20 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_d_reached_final
+  - node.type.couple
+id: node.couple.field_d_reached_final
+field_name: field_d_reached_final
+entity_type: node
+bundle: couple
+label: D reached final
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings:
+  on_label: 'Yes'
+  off_label: 'No'
+field_type: boolean

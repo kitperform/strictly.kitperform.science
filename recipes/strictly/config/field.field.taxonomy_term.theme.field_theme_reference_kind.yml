@@ -1,0 +1,18 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.taxonomy_term.field_theme_reference_kind
+  - taxonomy.vocabulary.theme
+id: taxonomy_term.theme.field_theme_reference_kind
+field_name: field_theme_reference_kind
+entity_type: taxonomy_term
+bundle: theme
+label: Theme reference kind
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings: {}
+field_type: string

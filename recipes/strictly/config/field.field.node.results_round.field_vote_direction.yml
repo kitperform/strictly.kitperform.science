@@ -1,0 +1,20 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_vote_direction
+  - node.type.results_round
+  module:
+  - options
+id: node.results_round.field_vote_direction
+field_name: field_vote_direction
+entity_type: node
+bundle: results_round
+label: Vote direction
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings: {}
+field_type: list_string

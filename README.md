@@ -93,6 +93,20 @@ jm[(jm.judge_slug == "craig-revel-horwood") & (jm["mark"] == 10)].sort_values(["
 
 `examples/cross_series_queries.py` has a dozen cross-series commentary queries (judge generosity by series, winners who were once in the bottom two, the one bye that became a withdrawal, most-danced songs); `tests/test_package.py` keeps a few of those facts under test.
 
+## Drupal recipe
+
+`recipes/strictly/` is a Drupal 11 recipe generated from the dataset schema by `scripts/generate_drupal_recipe.py` (`make recipe`): 20 node content types (one per table, natural key in `field_key`), 14 vocabularies (dance, theme, venue, artist and the open-ended enumerations), entity references wherever the package declares a foreign key, and 34 Migrate migrations in the group `strictly` that load `data/package/*.csv` idempotently (`drush migrate:import --group=strictly --update` after each rebuild). Core JSON:API is installed read-only, so every table is at `/jsonapi/node/<bundle>` with no code.
+
+Run it locally with DDEV (the repository root is the DDEV project root, so the container sees the dataset at `/var/www/html/data/package`):
+
+```sh
+scripts/drupal-local.sh setup    # ddev config + start, composer create-project drupal/recommended-project, drush site:install
+scripts/drupal-local.sh apply    # drush recipe recipes/strictly, then the full migration (a few minutes)
+scripts/drupal-local.sh status   # node counts per bundle, migrate:status
+```
+
+The site is then at https://strictly.ddev.site (admin / admin), the data at e.g. `/jsonapi/node/judge_mark?filter[field_mark]=10&filter[field_d_judge_slug]=craig-revel-horwood&sort=field_series_number,field_week_number,field_d_perf_seq&page[limit]=1&include=field_performance` (Craig's first 10: S02W08, Jill & Darren, jive; pass `-g` to curl so it leaves the square brackets alone). The composer project lives in `drupal/` and is not committed; `.ddev/config.yaml` is.
+
 ## Local setup
 
 ```sh

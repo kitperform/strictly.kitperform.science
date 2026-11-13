@@ -1,0 +1,22 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_seat_position
+  - node.type.judge_mark
+id: node.judge_mark.field_seat_position
+field_name: field_seat_position
+entity_type: node
+bundle: judge_mark
+label: Seat position
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings:
+  min: null
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: integer

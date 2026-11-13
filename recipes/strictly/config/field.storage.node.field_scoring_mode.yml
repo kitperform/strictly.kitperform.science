@@ -1,0 +1,34 @@
+langcode: en
+status: true
+dependencies:
+  module:
+  - node
+  - options
+id: node.field_scoring_mode
+field_name: field_scoring_mode
+entity_type: node
+type: list_string
+settings:
+  allowed_values:
+  - value: awarded_points
+    label: awarded_points
+  - value: judge_marks
+    label: judge_marks
+  - value: judge_total_only
+    label: judge_total_only
+  - value: not_performed
+    label: not_performed
+  - value: pending
+    label: pending
+  - value: rank_points
+    label: rank_points
+  - value: unscored
+    label: unscored
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {}
+persist_with_no_fields: false
+custom_storage: false

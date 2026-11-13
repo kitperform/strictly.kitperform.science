@@ -1,0 +1,54 @@
+langcode: en
+status: true
+dependencies: {}
+id: strictly_songs
+class: null
+field_plugin_method: null
+cck_plugin_method: null
+migration_tags:
+- strictly
+migration_group: strictly
+label: Songs
+source:
+  plugin: csv
+  path: /var/www/html/data/package/songs.csv
+  ids:
+  - song_key
+  track_changes: true
+  constants:
+    uid: 1
+    status: 1
+process:
+  title:
+  - plugin: concat
+    source:
+    - title
+    delimiter: ' · '
+  - plugin: substr
+    start: 0
+    length: 250
+  uid: constants/uid
+  status: constants/status
+  field_key: song_key
+  field_title: title
+  field_wiki_title: wiki_title
+  field_source_capture:
+  - plugin: skip_on_empty
+    method: process
+    source: source_capture_key
+  - plugin: migration_lookup
+    migration: strictly_source_captures
+    no_stub: true
+  field_source_locator: source_locator
+  field_source_kind:
+  - plugin: skip_on_empty
+    method: process
+    source: source_kind
+  field_note: note
+destination:
+  plugin: entity:node
+  default_bundle: song
+migration_dependencies:
+  required:
+  - strictly_source_captures
+  optional: []

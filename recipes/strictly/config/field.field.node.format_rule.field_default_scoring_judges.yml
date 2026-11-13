@@ -1,0 +1,22 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_default_scoring_judges
+  - node.type.format_rule
+id: node.format_rule.field_default_scoring_judges
+field_name: field_default_scoring_judges
+entity_type: node
+bundle: format_rule
+label: Default scoring judges
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings:
+  min: null
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: integer

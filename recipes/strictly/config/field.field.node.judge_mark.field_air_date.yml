@@ -1,0 +1,20 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_air_date
+  - node.type.judge_mark
+  module:
+  - datetime
+id: node.judge_mark.field_air_date
+field_name: field_air_date
+entity_type: node
+bundle: judge_mark
+label: Air date
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings: {}
+field_type: datetime

@@ -1,0 +1,27 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_mechanism_actual
+  - node.type.results_round
+  - taxonomy.vocabulary.elimination_mechanism
+id: node.results_round.field_mechanism_actual
+field_name: field_mechanism_actual
+entity_type: node
+bundle: results_round
+label: Mechanism actual
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings:
+  handler: default:taxonomy_term
+  handler_settings:
+    target_bundles:
+      elimination_mechanism: elimination_mechanism
+    sort:
+      field: _none
+      direction: ASC
+    auto_create: false
+field_type: entity_reference

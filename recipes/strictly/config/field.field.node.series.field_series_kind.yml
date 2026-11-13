@@ -1,0 +1,20 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.storage.node.field_series_kind
+  - node.type.series
+  module:
+  - options
+id: node.series.field_series_kind
+field_name: field_series_kind
+entity_type: node
+bundle: series
+label: Series kind
+description: ''
+required: false
+translatable: false
+default_value: []
+default_value_callback: ''
+settings: {}
+field_type: list_string

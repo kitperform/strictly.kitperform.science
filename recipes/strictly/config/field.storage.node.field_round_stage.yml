@@ -1,0 +1,28 @@
+langcode: en
+status: true
+dependencies:
+  module:
+  - node
+  - options
+id: node.field_round_stage
+field_name: field_round_stage
+entity_type: node
+type: list_string
+settings:
+  allowed_values:
+  - value: final
+    label: final
+  - value: quarter_final
+    label: quarter_final
+  - value: regular
+    label: regular
+  - value: semi_final
+    label: semi_final
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {}
+persist_with_no_fields: false
+custom_storage: false
