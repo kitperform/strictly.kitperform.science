@@ -13,3 +13,6 @@ __pycache__/
 
 # Derived output from the parser prototypes
 prototypes/out/
+
+# Packaged dataset distribution files (rebuilt by python -m strictly_parser.package)
+dist/

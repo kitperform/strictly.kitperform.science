@@ -76,6 +76,23 @@ Every series from 1 to 24 builds with all integrity checks passing. Known limits
 - exit and absence reasons come from a keyword vocabulary over the prose (`reason_from`); a sentence that names two causes keeps the more specific one (medical advice over illness, injury over illness);
 - each new series needs rows in `curated/series_meta.csv`, `series_panels.csv` and `format_rules.csv`.
 
+## Packaged dataset
+
+`python -m strictly_parser.package` (or `make package`) concatenates the per-series folders into one dataset:
+
+- `data/package/<table>.csv`: one CSV per table across all 24 series, committed. Reference tables (people, songs, artists, dances, themes, venues) are deduplicated on their key.
+- `data/package/datapackage.json`: a [Frictionless Data Package](https://datapackage.org) with field types, primary and foreign keys, the documented vocabularies as enum constraints and the Wikipedia revision ids as `sources`. `make validate` runs `frictionless validate` over it.
+- `data/package/package_report.md`: row counts and the package-level checks (keys unique, foreign keys resolve, enum values documented, typed columns parse).
+- `dist/strictly.sqlite`, `dist/parquet/*.parquet`, `dist/strictly-csv.zip`: not committed; rebuilt by the same command.
+
+```python
+import pandas as pd
+jm = pd.read_csv("data/package/judge_marks.csv")          # or pd.read_parquet("dist/parquet/judge_marks.parquet")
+jm[(jm.judge_slug == "craig-revel-horwood") & (jm["mark"] == 10)].sort_values(["series_number", "d_perf_seq"]).head(1)
+```
+
+`examples/cross_series_queries.py` has a dozen cross-series commentary queries (judge generosity by series, winners who were once in the bottom two, the one bye that became a withdrawal, most-danced songs); `tests/test_package.py` keeps a few of those facts under test.
+
 ## Local setup
 
 ```sh

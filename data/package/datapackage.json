@@ -1,0 +1,4329 @@
+{
+  "profile": "tabular-data-package",
+  "name": "strictly-come-dancing-results",
+  "title": "Strictly Come Dancing results, series 1 to 24",
+  "description": "Every scored routine, judge mark, results round, couple-week and roster row from the Wikipedia series pages of Strictly Come Dancing, as flat tables with provenance (source capture, locator and source kind) on every row. Data model: docs/data-model-v2.md.",
+  "version": "2026.11.13",
+  "created": "2026-11-09T00:45:36Z",
+  "homepage": "https://strictly.kitperform.science",
+  "keywords": [
+    "strictly come dancing",
+    "bbc",
+    "dance",
+    "television",
+    "scores",
+    "judges"
+  ],
+  "licenses": [
+    {
+      "name": "CC-BY-SA-4.0",
+      "title": "Creative Commons Attribution-ShareAlike 4.0",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Kit Perform",
+      "role": "author",
+      "path": "https://kitperform.science"
+    }
+  ],
+  "series": [
+    "S01",
+    "S02",
+    "S03",
+    "S04",
+    "S05",
+    "S06",
+    "S07",
+    "S08",
+    "S09",
+    "S10",
+    "S11",
+    "S12",
+    "S13",
+    "S14",
+    "S15",
+    "S16",
+    "S17",
+    "S18",
+    "S19",
+    "S20",
+    "S21",
+    "S22",
+    "S23",
+    "S24"
+  ],
+  "sources": [
+    {
+      "title": "Strictly Come Dancing series 1",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_1&oldid=1380451131",
+      "revid": "1380451131",
+      "captured_at": "2026-11-09T00:45:28Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 1",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_1&oldid=1380451131",
+      "revid": "1380451131",
+      "captured_at": "2026-11-09T00:45:28Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 2",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_2&oldid=1380013180",
+      "revid": "1380013180",
+      "captured_at": "2026-11-09T00:45:28Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 2",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_2&oldid=1380013180",
+      "revid": "1380013180",
+      "captured_at": "2026-11-09T00:45:28Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 3",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_3&oldid=1382666534",
+      "revid": "1382666534",
+      "captured_at": "2026-11-09T00:45:28Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 3",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_3&oldid=1382666534",
+      "revid": "1382666534",
+      "captured_at": "2026-11-09T00:45:28Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 4",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_4&oldid=1383442782",
+      "revid": "1383442782",
+      "captured_at": "2026-11-09T00:45:30Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 4",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_4&oldid=1383442782",
+      "revid": "1383442782",
+      "captured_at": "2026-11-09T00:45:30Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 5",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_5&oldid=1383616473",
+      "revid": "1383616473",
+      "captured_at": "2026-11-09T00:45:30Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 5",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_5&oldid=1383616473",
+      "revid": "1383616473",
+      "captured_at": "2026-11-09T00:45:30Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 6",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_6&oldid=1384547354",
+      "revid": "1384547354",
+      "captured_at": "2026-11-09T00:45:30Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 6",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_6&oldid=1384547354",
+      "revid": "1384547354",
+      "captured_at": "2026-11-09T00:45:30Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 7",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_7&oldid=1383617305",
+      "revid": "1383617305",
+      "captured_at": "2026-11-09T00:45:30Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 7",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_7&oldid=1383617305",
+      "revid": "1383617305",
+      "captured_at": "2026-11-09T00:45:30Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 8",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_8&oldid=1377712244",
+      "revid": "1377712244",
+      "captured_at": "2026-11-09T00:45:30Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 8",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_8&oldid=1377712244",
+      "revid": "1377712244",
+      "captured_at": "2026-11-09T00:45:30Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 9",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_9&oldid=1383264459",
+      "revid": "1383264459",
+      "captured_at": "2026-11-09T00:45:32Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 9",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_9&oldid=1383264459",
+      "revid": "1383264459",
+      "captured_at": "2026-11-09T00:45:32Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 10",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_10&oldid=1377712633",
+      "revid": "1377712633",
+      "captured_at": "2026-11-09T00:45:32Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 10",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_10&oldid=1377712633",
+      "revid": "1377712633",
+      "captured_at": "2026-11-09T00:45:32Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 11",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_11&oldid=1377712722",
+      "revid": "1377712722",
+      "captured_at": "2026-11-09T00:45:32Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 11",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_11&oldid=1377712722",
+      "revid": "1377712722",
+      "captured_at": "2026-11-09T00:45:32Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 12",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_12&oldid=1383618843",
+      "revid": "1383618843",
+      "captured_at": "2026-11-09T00:45:32Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 12",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_12&oldid=1383618843",
+      "revid": "1383618843",
+      "captured_at": "2026-11-09T00:45:32Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 13",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_13&oldid=1379239613",
+      "revid": "1379239613",
+      "captured_at": "2026-11-09T00:45:32Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 13",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_13&oldid=1379239613",
+      "revid": "1379239613",
+      "captured_at": "2026-11-09T00:45:32Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 14",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_14&oldid=1383200900",
+      "revid": "1383200900",
+      "captured_at": "2026-11-09T00:45:33Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 14",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_14&oldid=1383200900",
+      "revid": "1383200900",
+      "captured_at": "2026-11-09T00:45:33Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 15",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_15&oldid=1383930392",
+      "revid": "1383930392",
+      "captured_at": "2026-11-09T00:45:33Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 15",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_15&oldid=1383930392",
+      "revid": "1383930392",
+      "captured_at": "2026-11-09T00:45:33Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 16",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_16&oldid=1379239525",
+      "revid": "1379239525",
+      "captured_at": "2026-11-09T00:45:33Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 16",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_16&oldid=1379239525",
+      "revid": "1379239525",
+      "captured_at": "2026-11-09T00:45:33Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 17",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_17&oldid=1379095924",
+      "revid": "1379095924",
+      "captured_at": "2026-11-09T00:45:33Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 17",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_17&oldid=1379095924",
+      "revid": "1379095924",
+      "captured_at": "2026-11-09T00:45:33Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 18",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_18&oldid=1380702306",
+      "revid": "1380702306",
+      "captured_at": "2026-11-09T00:45:33Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 18",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_18&oldid=1380702306",
+      "revid": "1380702306",
+      "captured_at": "2026-11-09T00:45:33Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 19",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_19&oldid=1374541341",
+      "revid": "1374541341",
+      "captured_at": "2026-11-09T00:45:35Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 19",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_19&oldid=1374541341",
+      "revid": "1374541341",
+      "captured_at": "2026-11-09T00:45:35Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 20",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_20&oldid=1383932199",
+      "revid": "1383932199",
+      "captured_at": "2026-11-09T00:45:35Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 20",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_20&oldid=1383932199",
+      "revid": "1383932199",
+      "captured_at": "2026-11-09T00:45:35Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 21",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_21&oldid=1368699595",
+      "revid": "1368699595",
+      "captured_at": "2026-11-09T00:45:35Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 21",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_21&oldid=1368699595",
+      "revid": "1368699595",
+      "captured_at": "2026-11-09T00:45:35Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 22",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_22&oldid=1382773255",
+      "revid": "1382773255",
+      "captured_at": "2026-11-09T00:45:35Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 22",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_22&oldid=1382773255",
+      "revid": "1382773255",
+      "captured_at": "2026-11-09T00:45:35Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 23",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_23&oldid=1382773258",
+      "revid": "1382773258",
+      "captured_at": "2026-11-09T00:45:35Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 23",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_23&oldid=1382773258",
+      "revid": "1382773258",
+      "captured_at": "2026-11-09T00:45:35Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 24",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_24&oldid=1384576516",
+      "revid": "1384576516",
+      "captured_at": "2026-11-09T00:45:36Z"
+    },
+    {
+      "title": "Strictly Come Dancing series 24",
+      "path": "https://en.wikipedia.org/w/index.php?title=Strictly_Come_Dancing_series_24&oldid=1384576516",
+      "revid": "1384576516",
+      "captured_at": "2026-11-09T00:45:36Z"
+    }
+  ],
+  "resources": [
+    {
+      "name": "series",
+      "path": "series.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "quoteChar": "\""
+      },
+      "rowCount": 24,
+      "schema": {
+        "fields": [
+          {
+            "name": "series_key",
+            "type": "string",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "series_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "numbered"
+              ]
+            }
+          },
+          {
+            "name": "series_number",
+            "type": "integer"
+          },
+          {
+            "name": "parent_series_key",
+            "type": "string"
+          },
+          {
+            "name": "label",
+            "type": "string"
+          },
+          {
+            "name": "wiki_title",
+            "type": "string"
+          },
+          {
+            "name": "year_start",
+            "type": "integer"
+          },
+          {
+            "name": "launch_date",
+            "type": "date"
+          },
+          {
+            "name": "first_live_date",
+            "type": "date"
+          },
+          {
+            "name": "final_date",
+            "type": "date"
+          },
+          {
+            "name": "infobox_first_aired",
+            "type": "date"
+          },
+          {
+            "name": "infobox_last_aired",
+            "type": "date"
+          },
+          {
+            "name": "infobox_num_episodes",
+            "type": "integer"
+          },
+          {
+            "name": "home_venue_key",
+            "type": "string"
+          },
+          {
+            "name": "status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "complete",
+                "in_progress"
+              ]
+            }
+          },
+          {
+            "name": "couples_count_stated",
+            "type": "integer"
+          },
+          {
+            "name": "weeks_count_stated",
+            "type": "integer"
+          },
+          {
+            "name": "source_capture_key",
+            "type": "string"
+          },
+          {
+            "name": "source_locator",
+            "type": "string"
+          },
+          {
+            "name": "source_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "disputed",
+                "editorial",
+                "inferred",
+                "inherited",
+                "stated"
+              ]
+            }
+          },
+          {
+            "name": "note",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": "series_key",
+        "foreignKeys": [
+          {
+            "fields": "parent_series_key",
+            "reference": {
+              "resource": "series",
+              "fields": "series_key"
+            }
+          },
+          {
+            "fields": "home_venue_key",
+            "reference": {
+              "resource": "venues",
+              "fields": "venue_key"
+            }
+          },
+          {
+            "fields": "source_capture_key",
+            "reference": {
+              "resource": "source_captures",
+              "fields": "source_capture_key"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "format_rules",
+      "path": "format_rules.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "quoteChar": "\""
+      },
+      "rowCount": 63,
+      "schema": {
+        "fields": [
+          {
+            "name": "format_rule_key",
+            "type": "string",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "series_key",
+            "type": "string"
+          },
+          {
+            "name": "week_key",
+            "type": "string"
+          },
+          {
+            "name": "episode_key",
+            "type": "string"
+          },
+          {
+            "name": "elimination_mechanism",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "lowest_combined_points_stated",
+                "lowest_public_vote",
+                "none",
+                "public_vote_final_placing",
+                "ranking_points_dance_off",
+                "ranking_points_no_dance_off",
+                "special_single_show"
+              ]
+            }
+          },
+          {
+            "name": "dance_off_used",
+            "type": "boolean",
+            "trueValues": [
+              "true"
+            ],
+            "falseValues": [
+              "false"
+            ]
+          },
+          {
+            "name": "at_risk_group_size",
+            "type": "integer"
+          },
+          {
+            "name": "vote_direction",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "eliminate",
+                "save"
+              ]
+            }
+          },
+          {
+            "name": "casting_vote_mode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "head_judge",
+                "none",
+                "rotating"
+              ]
+            }
+          },
+          {
+            "name": "rank_tie_policy",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "shared_points_dense",
+                "unstated"
+              ]
+            }
+          },
+          {
+            "name": "combined_tie_break",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "public_vote_precedence"
+              ]
+            }
+          },
+          {
+            "name": "showdance_scored",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "disputed",
+                "no",
+                "yes"
+              ]
+            }
+          },
+          {
+            "name": "default_scoring_judges",
+            "type": "integer"
+          },
+          {
+            "name": "default_scale_max",
+            "type": "integer"
+          },
+          {
+            "name": "week_has_elimination",
+            "type": "boolean",
+            "trueValues": [
+              "true"
+            ],
+            "falseValues": [
+              "false"
+            ]
+          },
+          {
+            "name": "field_subset",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "all",
+                "female_celebrities",
+                "half_a",
+                "half_b",
+                "male_celebrities"
+              ]
+            }
+          },
+          {
+            "name": "source_capture_key",
+            "type": "string"
+          },
+          {
+            "name": "source_locator",
+            "type": "string"
+          },
+          {
+            "name": "source_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "disputed",
+                "editorial",
+                "inferred",
+                "inherited",
+                "stated"
+              ]
+            }
+          },
+          {
+            "name": "note",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": "format_rule_key",
+        "foreignKeys": [
+          {
+            "fields": "series_key",
+            "reference": {
+              "resource": "series",
+              "fields": "series_key"
+            }
+          },
+          {
+            "fields": "week_key",
+            "reference": {
+              "resource": "weeks",
+              "fields": "week_key"
+            }
+          },
+          {
+            "fields": "episode_key",
+            "reference": {
+              "resource": "episodes",
+              "fields": "episode_key"
+            }
+          },
+          {
+            "fields": "source_capture_key",
+            "reference": {
+              "resource": "source_captures",
+              "fields": "source_capture_key"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "weeks",
+      "path": "weeks.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "quoteChar": "\""
+      },
+      "rowCount": 292,
+      "schema": {
+        "fields": [
+          {
+            "name": "week_key",
+            "type": "string",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "series_key",
+            "type": "string"
+          },
+          {
+            "name": "week_number",
+            "type": "integer"
+          },
+          {
+            "name": "round_stage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "final",
+                "quarter_final",
+                "regular",
+                "semi_final"
+              ]
+            }
+          },
+          {
+            "name": "theme_key",
+            "type": "string"
+          },
+          {
+            "name": "heading_raw",
+            "type": "string"
+          },
+          {
+            "name": "dance_brief_raw",
+            "type": "string"
+          },
+          {
+            "name": "lifecycle_status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "results_in",
+                "scheduled"
+              ]
+            }
+          },
+          {
+            "name": "source_capture_key",
+            "type": "string"
+          },
+          {
+            "name": "source_locator",
+            "type": "string"
+          },
+          {
+            "name": "source_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "disputed",
+                "editorial",
+                "inferred",
+                "inherited",
+                "stated"
+              ]
+            }
+          },
+          {
+            "name": "note",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": "week_key",
+        "foreignKeys": [
+          {
+            "fields": "series_key",
+            "reference": {
+              "resource": "series",
+              "fields": "series_key"
+            }
+          },
+          {
+            "fields": "theme_key",
+            "reference": {
+              "resource": "themes",
+              "fields": "theme_key"
+            }
+          },
+          {
+            "fields": "source_capture_key",
+            "reference": {
+              "resource": "source_captures",
+              "fields": "source_capture_key"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "episodes",
+      "path": "episodes.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "quoteChar": "\""
+      },
+      "rowCount": 561,
+      "schema": {
+        "fields": [
+          {
+            "name": "episode_key",
+            "type": "string",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "series_key",
+            "type": "string"
+          },
+          {
+            "name": "week_key",
+            "type": "string"
+          },
+          {
+            "name": "episode_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "launch",
+                "performance",
+                "performance_and_results",
+                "preview",
+                "results"
+              ]
+            }
+          },
+          {
+            "name": "sub_label",
+            "type": "string"
+          },
+          {
+            "name": "sequence_in_week",
+            "type": "integer"
+          },
+          {
+            "name": "label_raw",
+            "type": "string"
+          },
+          {
+            "name": "listed_in_ratings",
+            "type": "boolean",
+            "trueValues": [
+              "true"
+            ],
+            "falseValues": [
+              "false"
+            ]
+          },
+          {
+            "name": "air_date",
+            "type": "date"
+          },
+          {
+            "name": "air_date_source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "couples_table",
+                "ratings_table"
+              ]
+            }
+          },
+          {
+            "name": "original_air_date",
+            "type": "date"
+          },
+          {
+            "name": "reschedule_reason_text",
+            "type": "string"
+          },
+          {
+            "name": "status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "aired",
+                "scheduled"
+              ]
+            }
+          },
+          {
+            "name": "venue_key",
+            "type": "string"
+          },
+          {
+            "name": "charity_beneficiary",
+            "type": "string"
+          },
+          {
+            "name": "scale_max_stated",
+            "type": "integer"
+          },
+          {
+            "name": "rating_millions",
+            "type": "number"
+          },
+          {
+            "name": "rank_bbc_one",
+            "type": "integer"
+          },
+          {
+            "name": "rank_all_uk",
+            "type": "integer"
+          },
+          {
+            "name": "share_pct",
+            "type": "number"
+          },
+          {
+            "name": "source_capture_key",
+            "type": "string"
+          },
+          {
+            "name": "source_locator",
+            "type": "string"
+          },
+          {
+            "name": "source_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "disputed",
+                "editorial",
+                "inferred",
+                "inherited",
+                "stated"
+              ]
+            }
+          },
+          {
+            "name": "note",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": "episode_key",
+        "foreignKeys": [
+          {
+            "fields": "series_key",
+            "reference": {
+              "resource": "series",
+              "fields": "series_key"
+            }
+          },
+          {
+            "fields": "week_key",
+            "reference": {
+              "resource": "weeks",
+              "fields": "week_key"
+            }
+          },
+          {
+            "fields": "venue_key",
+            "reference": {
+              "resource": "venues",
+              "fields": "venue_key"
+            }
+          },
+          {
+            "fields": "source_capture_key",
+            "reference": {
+              "resource": "source_captures",
+              "fields": "source_capture_key"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "panel_seats",
+      "path": "panel_seats.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "quoteChar": "\""
+      },
+      "rowCount": 1223,
+      "schema": {
+        "fields": [
+          {
+            "name": "panel_seat_key",
+            "type": "string",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "episode_key",
+            "type": "string"
+          },
+          {
+            "name": "week_key",
+            "type": "string"
+          },
+          {
+            "name": "series_key",
+            "type": "string"
+          },
+          {
+            "name": "judge_slug",
+            "type": "string"
+          },
+          {
+            "name": "seat_position",
+            "type": "integer"
+          },
+          {
+            "name": "panel_role",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "absent",
+                "guest_additional",
+                "guest_replacement",
+                "head",
+                "non_scoring_guest",
+                "regular",
+                "remote_non_scoring"
+              ]
+            }
+          },
+          {
+            "name": "is_head_judge",
+            "type": "boolean",
+            "trueValues": [
+              "true"
+            ],
+            "falseValues": [
+              "false"
+            ]
+          },
+          {
+            "name": "is_scoring",
+            "type": "boolean",
+            "trueValues": [
+              "true"
+            ],
+            "falseValues": [
+              "false"
+            ]
+          },
+          {
+            "name": "replaces_slug",
+            "type": "string"
+          },
+          {
+            "name": "absence_reason",
+            "type": "string"
+          },
+          {
+            "name": "vote_label",
+            "type": "string"
+          },
+          {
+            "name": "source_capture_key",
+            "type": "string"
+          },
+          {
+            "name": "source_locator",
+            "type": "string"
+          },
+          {
+            "name": "source_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "disputed",
+                "editorial",
+                "inferred",
+                "inherited",
+                "stated"
+              ]
+            }
+          },
+          {
+            "name": "note",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": "panel_seat_key",
+        "foreignKeys": [
+          {
+            "fields": "episode_key",
+            "reference": {
+              "resource": "episodes",
+              "fields": "episode_key"
+            }
+          },
+          {
+            "fields": "week_key",
+            "reference": {
+              "resource": "weeks",
+              "fields": "week_key"
+            }
+          },
+          {
+            "fields": "series_key",
+            "reference": {
+              "resource": "series",
+              "fields": "series_key"
+            }
+          },
+          {
+            "fields": "judge_slug",
+            "reference": {
+              "resource": "people",
+              "fields": "person_key"
+            }
+          },
+          {
+            "fields": "replaces_slug",
+            "reference": {
+              "resource": "people",
+              "fields": "person_key"
+            }
+          },
+          {
+            "fields": "source_capture_key",
+            "reference": {
+              "resource": "source_captures",
+              "fields": "source_capture_key"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "results_rounds",
+      "path": "results_rounds.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "quoteChar": "\""
+      },
+      "rowCount": 272,
+      "schema": {
+        "fields": [
+          {
+            "name": "round_key",
+            "type": "string",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "series_key",
+            "type": "string"
+          },
+          {
+            "name": "round_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "final_placing",
+                "intermediate_final_exit",
+                "no_decision",
+                "standard"
+              ]
+            }
+          },
+          {
+            "name": "label",
+            "type": "string"
+          },
+          {
+            "name": "deciding_week_key",
+            "type": "string"
+          },
+          {
+            "name": "decided_at_episode_key",
+            "type": "string"
+          },
+          {
+            "name": "week_keys",
+            "type": "string"
+          },
+          {
+            "name": "elimination_mechanism_actual",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "lowest_combined_points_stated",
+                "lowest_public_vote",
+                "none",
+                "public_vote_final_placing",
+                "ranking_points_dance_off",
+                "ranking_points_no_dance_off",
+                "special_single_show"
+              ]
+            }
+          },
+          {
+            "name": "exit_count",
+            "type": "integer"
+          },
+          {
+            "name": "at_risk_group_size_actual",
+            "type": "integer"
+          },
+          {
+            "name": "dance_off_status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "cancelled_injury",
+                "cancelled_scoring_error",
+                "cancelled_withdrawal",
+                "held",
+                "not_applicable",
+                "not_held_by_format",
+                "not_in_format"
+              ]
+            }
+          },
+          {
+            "name": "vote_direction",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "eliminate",
+                "save"
+              ]
+            }
+          },
+          {
+            "name": "casting_vote_slug",
+            "type": "string"
+          },
+          {
+            "name": "casting_vote_source_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "inherited",
+                "stated"
+              ]
+            }
+          },
+          {
+            "name": "casting_vote_used",
+            "type": "boolean",
+            "trueValues": [
+              "true"
+            ],
+            "falseValues": [
+              "false"
+            ]
+          },
+          {
+            "name": "casting_vote_inferred",
+            "type": "boolean",
+            "trueValues": [
+              "true"
+            ],
+            "falseValues": [
+              "false"
+            ]
+          },
+          {
+            "name": "votes_recorded",
+            "type": "boolean",
+            "trueValues": [
+              "true"
+            ],
+            "falseValues": [
+              "false"
+            ]
+          },
+          {
+            "name": "votes_carried_over",
+            "type": "boolean",
+            "trueValues": [
+              "true"
+            ],
+            "falseValues": [
+              "false"
+            ]
+          },
+          {
+            "name": "combined_reason",
+            "type": "string"
+          },
+          {
+            "name": "d_n_scoring_seats",
+            "type": "integer"
+          },
+          {
+            "name": "source_capture_key",
+            "type": "string"
+          },
+          {
+            "name": "source_locator",
+            "type": "string"
+          },
+          {
+            "name": "source_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "disputed",
+                "editorial",
+                "inferred",
+                "inherited",
+                "stated"
+              ]
+            }
+          },
+          {
+            "name": "note",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": "round_key",
+        "foreignKeys": [
+          {
+            "fields": "series_key",
+            "reference": {
+              "resource": "series",
+              "fields": "series_key"
+            }
+          },
+          {
+            "fields": "deciding_week_key",
+            "reference": {
+              "resource": "weeks",
+              "fields": "week_key"
+            }
+          },
+          {
+            "fields": "decided_at_episode_key",
+            "reference": {
+              "resource": "episodes",
+              "fields": "episode_key"
+            }
+          },
+          {
+            "fields": "casting_vote_slug",
+            "reference": {
+              "resource": "people",
+              "fields": "person_key"
+            }
+          },
+          {
+            "fields": "source_capture_key",
+            "reference": {
+              "resource": "source_captures",
+              "fields": "source_capture_key"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "results_round_weeks",
+      "path": "results_round_weeks.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "quoteChar": "\""
+      },
+      "rowCount": 293,
+      "schema": {
+        "fields": [
+          {
+            "name": "results_round_week_key",
+            "type": "string",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "round_key",
+            "type": "string"
+          },
+          {
+            "name": "week_key",
+            "type": "string"
+          },
+          {
+            "name": "seq",
+            "type": "integer"
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": "results_round_week_key",
+        "foreignKeys": [
+          {
+            "fields": "round_key",
+            "reference": {
+              "resource": "results_rounds",
+              "fields": "round_key"
+            }
+          },
+          {
+            "fields": "week_key",
+            "reference": {
+              "resource": "weeks",
+              "fields": "week_key"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "people",
+      "path": "people.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "quoteChar": "\""
+      },
+      "rowCount": 424,
+      "schema": {
+        "fields": [
+          {
+            "name": "person_key",
+            "type": "string",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "slug",
+            "type": "string"
+          },
+          {
+            "name": "person_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "act",
+                "person"
+              ]
+            }
+          },
+          {
+            "name": "identity_basis",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "unlinked_name",
+                "wikipedia_title"
+              ]
+            }
+          },
+          {
+            "name": "wiki_title",
+            "type": "string"
+          },
+          {
+            "name": "canonical_name",
+            "type": "string"
+          },
+          {
+            "name": "given_name",
+            "type": "string"
+          },
+          {
+            "name": "family_name",
+            "type": "string"
+          },
+          {
+            "name": "gender",
+            "type": "string"
+          },
+          {
+            "name": "source_capture_key",
+            "type": "string"
+          },
+          {
+            "name": "source_locator",
+            "type": "string"
+          },
+          {
+            "name": "source_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "disputed",
+                "editorial",
+                "inferred",
+                "inherited",
+                "stated"
+              ]
+            }
+          },
+          {
+            "name": "note",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": "person_key",
+        "foreignKeys": [
+          {
+            "fields": "source_capture_key",
+            "reference": {
+              "resource": "source_captures",
+              "fields": "source_capture_key"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "person_aliases",
+      "path": "person_aliases.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "quoteChar": "\""
+      },
+      "rowCount": 87,
+      "schema": {
+        "fields": [
+          {
+            "name": "person_alias_key",
+            "type": "string",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "person_key",
+            "type": "string"
+          },
+          {
+            "name": "alias",
+            "type": "string"
+          },
+          {
+            "name": "alias_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "display_name",
+                "former_name",
+                "vote_list_surname"
+              ]
+            }
+          },
+          {
+            "name": "context",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "any",
+                "vote_list"
+              ]
+            }
+          },
+          {
+            "name": "series_key",
+            "type": "string"
+          },
+          {
+            "name": "source_capture_key",
+            "type": "string"
+          },
+          {
+            "name": "source_locator",
+            "type": "string"
+          },
+          {
+            "name": "source_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "disputed",
+                "editorial",
+                "inferred",
+                "inherited",
+                "stated"
+              ]
+            }
+          },
+          {
+            "name": "note",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": "person_alias_key",
+        "foreignKeys": [
+          {
+            "fields": "person_key",
+            "reference": {
+              "resource": "people",
+              "fields": "person_key"
+            }
+          },
+          {
+            "fields": "series_key",
+            "reference": {
+              "resource": "series",
+              "fields": "series_key"
+            }
+          },
+          {
+            "fields": "source_capture_key",
+            "reference": {
+              "resource": "source_captures",
+              "fields": "source_capture_key"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "series_people",
+      "path": "series_people.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "quoteChar": "\""
+      },
+      "rowCount": 830,
+      "schema": {
+        "fields": [
+          {
+            "name": "series_person_key",
+            "type": "string",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "series_key",
+            "type": "string"
+          },
+          {
+            "name": "person_key",
+            "type": "string"
+          },
+          {
+            "name": "role",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "celebrity",
+                "judge",
+                "professional"
+              ]
+            }
+          },
+          {
+            "name": "roster_status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "competed",
+                "departed_pre_series",
+                "guest",
+                "left_mid_series",
+                "moved_to_other_role",
+                "paired_withdrew_pre_week1",
+                "partnered_mid_series",
+                "regular",
+                "substitute",
+                "troupe_only",
+                "unpartnered",
+                "withdrew_pre_launch"
+              ]
+            }
+          },
+          {
+            "name": "display_name_in_series",
+            "type": "string"
+          },
+          {
+            "name": "is_head_judge",
+            "type": "boolean",
+            "trueValues": [
+              "true"
+            ],
+            "falseValues": [
+              "false"
+            ]
+          },
+          {
+            "name": "replaces_person_key",
+            "type": "string"
+          },
+          {
+            "name": "replaced_by_person_key",
+            "type": "string"
+          },
+          {
+            "name": "paired_with_person_key",
+            "type": "string"
+          },
+          {
+            "name": "reason",
+            "type": "string"
+          },
+          {
+            "name": "reason_text",
+            "type": "string"
+          },
+          {
+            "name": "event_date",
+            "type": "date"
+          },
+          {
+            "name": "first_week_key",
+            "type": "string"
+          },
+          {
+            "name": "last_week_key",
+            "type": "string"
+          },
+          {
+            "name": "source_capture_key",
+            "type": "string"
+          },
+          {
+            "name": "source_locator",
+            "type": "string"
+          },
+          {
+            "name": "source_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "disputed",
+                "editorial",
+                "inferred",
+                "inherited",
+                "stated"
+              ]
+            }
+          },
+          {
+            "name": "note",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": "series_person_key",
+        "foreignKeys": [
+          {
+            "fields": "series_key",
+            "reference": {
+              "resource": "series",
+              "fields": "series_key"
+            }
+          },
+          {
+            "fields": "person_key",
+            "reference": {
+              "resource": "people",
+              "fields": "person_key"
+            }
+          },
+          {
+            "fields": "replaces_person_key",
+            "reference": {
+              "resource": "people",
+              "fields": "person_key"
+            }
+          },
+          {
+            "fields": "replaced_by_person_key",
+            "reference": {
+              "resource": "people",
+              "fields": "person_key"
+            }
+          },
+          {
+            "fields": "paired_with_person_key",
+            "reference": {
+              "resource": "people",
+              "fields": "person_key"
+            }
+          },
+          {
+            "fields": "first_week_key",
+            "reference": {
+              "resource": "weeks",
+              "fields": "week_key"
+            }
+          },
+          {
+            "fields": "last_week_key",
+            "reference": {
+              "resource": "weeks",
+              "fields": "week_key"
+            }
+          },
+          {
+            "fields": "source_capture_key",
+            "reference": {
+              "resource": "source_captures",
+              "fields": "source_capture_key"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "couples",
+      "path": "couples.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "quoteChar": "\""
+      },
+      "rowCount": 339,
+      "schema": {
+        "fields": [
+          {
+            "name": "couple_key",
+            "type": "string",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "series_key",
+            "type": "string"
+          },
+          {
+            "name": "celebrity_person_key",
+            "type": "string"
+          },
+          {
+            "name": "chart_label",
+            "type": "string"
+          },
+          {
+            "name": "celebrity_display_name",
+            "type": "string"
+          },
+          {
+            "name": "professional_display_name",
+            "type": "string"
+          },
+          {
+            "name": "couple_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mixed",
+                "same_sex"
+              ]
+            }
+          },
+          {
+            "name": "notability_text",
+            "type": "string"
+          },
+          {
+            "name": "final_placement",
+            "type": "integer"
+          },
+          {
+            "name": "place_is_shared",
+            "type": "boolean",
+            "trueValues": [
+              "true"
+            ],
+            "falseValues": [
+              "false"
+            ]
+          },
+          {
+            "name": "place_label_raw",
+            "type": "string"
+          },
+          {
+            "name": "exit_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "eliminated",
+                "finalist",
+                "in_competition",
+                "withdrew"
+              ]
+            }
+          },
+          {
+            "name": "exit_ordinal",
+            "type": "integer"
+          },
+          {
+            "name": "exit_ordinal_is_shared",
+            "type": "boolean",
+            "trueValues": [
+              "true"
+            ],
+            "falseValues": [
+              "false"
+            ]
+          },
+          {
+            "name": "exit_ordinal_text",
+            "type": "string"
+          },
+          {
+            "name": "exit_week_key",
+            "type": "string"
+          },
+          {
+            "name": "exit_round_key",
+            "type": "string"
+          },
+          {
+            "name": "exit_episode_key",
+            "type": "string"
+          },
+          {
+            "name": "exit_date",
+            "type": "date"
+          },
+          {
+            "name": "exit_date_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "announcement",
+                "combined_episode",
+                "performance_episode",
+                "results_episode",
+                "unknown"
+              ]
+            }
+          },
+          {
+            "name": "exit_timing",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "after_dancing_before_results",
+                "before_final",
+                "before_live_show",
+                "between_final_shows",
+                "during_live_show_before_dancing",
+                "during_results_show"
+              ]
+            }
+          },
+          {
+            "name": "exit_reason",
+            "type": "string"
+          },
+          {
+            "name": "exit_affected_party",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "both",
+                "celebrity",
+                "professional"
+              ]
+            }
+          },
+          {
+            "name": "status_raw",
+            "type": "string"
+          },
+          {
+            "name": "couples_table_order",
+            "type": "integer"
+          },
+          {
+            "name": "d_pro_slugs",
+            "type": "string"
+          },
+          {
+            "name": "d_reached_final",
+            "type": "boolean",
+            "trueValues": [
+              "true"
+            ],
+            "falseValues": [
+              "false"
+            ]
+          },
+          {
+            "name": "source_capture_key",
+            "type": "string"
+          },
+          {
+            "name": "source_locator",
+            "type": "string"
+          },
+          {
+            "name": "source_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "disputed",
+                "editorial",
+                "inferred",
+                "inherited",
+                "stated"
+              ]
+            }
+          },
+          {
+            "name": "note",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": "couple_key",
+        "foreignKeys": [
+          {
+            "fields": "series_key",
+            "reference": {
+              "resource": "series",
+              "fields": "series_key"
+            }
+          },
+          {
+            "fields": "celebrity_person_key",
+            "reference": {
+              "resource": "people",
+              "fields": "person_key"
+            }
+          },
+          {
+            "fields": "exit_week_key",
+            "reference": {
+              "resource": "weeks",
+              "fields": "week_key"
+            }
+          },
+          {
+            "fields": "exit_round_key",
+            "reference": {
+              "resource": "results_rounds",
+              "fields": "round_key"
+            }
+          },
+          {
+            "fields": "exit_episode_key",
+            "reference": {
+              "resource": "episodes",
+              "fields": "episode_key"
+            }
+          },
+          {
+            "fields": "source_capture_key",
+            "reference": {
+              "resource": "source_captures",
+              "fields": "source_capture_key"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "couple_partnerships",
+      "path": "couple_partnerships.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "quoteChar": "\""
+      },
+      "rowCount": 351,
+      "schema": {
+        "fields": [
+          {
+            "name": "couple_partnership_key",
+            "type": "string",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "couple_key",
+            "type": "string"
+          },
+          {
+            "name": "pro_person_key",
+            "type": "string"
+          },
+          {
+            "name": "week_from",
+            "type": "integer"
+          },
+          {
+            "name": "week_to",
+            "type": "integer"
+          },
+          {
+            "name": "partnership_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "original",
+                "pre_series_only",
+                "replacement_permanent",
+                "replacement_pre_week1",
+                "substitute_temporary"
+              ]
+            }
+          },
+          {
+            "name": "reason",
+            "type": "string"
+          },
+          {
+            "name": "reason_text",
+            "type": "string"
+          },
+          {
+            "name": "source_capture_key",
+            "type": "string"
+          },
+          {
+            "name": "source_locator",
+            "type": "string"
+          },
+          {
+            "name": "source_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "disputed",
+                "editorial",
+                "inferred",
+                "inherited",
+                "stated"
+              ]
+            }
+          },
+          {
+            "name": "note",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": "couple_partnership_key",
+        "foreignKeys": [
+          {
+            "fields": "couple_key",
+            "reference": {
+              "resource": "couples",
+              "fields": "couple_key"
+            }
+          },
+          {
+            "fields": "pro_person_key",
+            "reference": {
+              "resource": "people",
+              "fields": "person_key"
+            }
+          },
+          {
+            "fields": "source_capture_key",
+            "reference": {
+              "resource": "source_captures",
+              "fields": "source_capture_key"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "couple_labels",
+      "path": "couple_labels.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "quoteChar": "\""
+      },
+      "rowCount": 1027,
+      "schema": {
+        "fields": [
+          {
+            "name": "couple_label_key",
+            "type": "string",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "couple_key",
+            "type": "string"
+          },
+          {
+            "name": "label",
+            "type": "string"
+          },
+          {
+            "name": "context",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "average_chart",
+                "couples_table",
+                "dance_chart",
+                "scoring_chart",
+                "weekly"
+              ]
+            }
+          },
+          {
+            "name": "week_from",
+            "type": "integer"
+          },
+          {
+            "name": "week_to",
+            "type": "integer"
+          },
+          {
+            "name": "is_typo",
+            "type": "boolean",
+            "trueValues": [
+              "true"
+            ],
+            "falseValues": [
+              "false"
+            ]
+          },
+          {
+            "name": "source_capture_key",
+            "type": "string"
+          },
+          {
+            "name": "source_locator",
+            "type": "string"
+          },
+          {
+            "name": "source_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "disputed",
+                "editorial",
+                "inferred",
+                "inherited",
+                "stated"
+              ]
+            }
+          },
+          {
+            "name": "note",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": "couple_label_key",
+        "foreignKeys": [
+          {
+            "fields": "couple_key",
+            "reference": {
+              "resource": "couples",
+              "fields": "couple_key"
+            }
+          },
+          {
+            "fields": "source_capture_key",
+            "reference": {
+              "resource": "source_captures",
+              "fields": "source_capture_key"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "couple_weeks",
+      "path": "couple_weeks.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "quoteChar": "\""
+      },
+      "rowCount": 4195,
+      "schema": {
+        "fields": [
+          {
+            "name": "couple_week_key",
+            "type": "string",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "couple_key",
+            "type": "string"
+          },
+          {
+            "name": "week_key",
+            "type": "string"
+          },
+          {
+            "name": "series_key",
+            "type": "string"
+          },
+          {
+            "name": "series_number",
+            "type": "integer"
+          },
+          {
+            "name": "week_number",
+            "type": "integer"
+          },
+          {
+            "name": "round_stage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "final",
+                "quarter_final",
+                "regular",
+                "semi_final"
+              ]
+            }
+          },
+          {
+            "name": "participation_status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "absent_withdrawn",
+                "bye",
+                "competed",
+                "competed_unscored",
+                "exited",
+                "group_only",
+                "not_scheduled",
+                "pending"
+              ]
+            }
+          },
+          {
+            "name": "result_status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "bottom_three",
+                "bottom_two",
+                "carried_forward",
+                "eliminated",
+                "exempt",
+                "fourth",
+                "no_elimination",
+                "not_applicable",
+                "pending",
+                "runner_up",
+                "safe",
+                "third",
+                "winner",
+                "withdrew"
+              ]
+            }
+          },
+          {
+            "name": "results_round_key",
+            "type": "string"
+          },
+          {
+            "name": "at_risk",
+            "type": "boolean",
+            "trueValues": [
+              "true"
+            ],
+            "falseValues": [
+              "false"
+            ]
+          },
+          {
+            "name": "danced_off",
+            "type": "boolean",
+            "trueValues": [
+              "true"
+            ],
+            "falseValues": [
+              "false"
+            ]
+          },
+          {
+            "name": "bye_granted",
+            "type": "boolean",
+            "trueValues": [
+              "true"
+            ],
+            "falseValues": [
+              "false"
+            ]
+          },
+          {
+            "name": "absence_reason",
+            "type": "string"
+          },
+          {
+            "name": "affected_party",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "both",
+                "celebrity",
+                "professional"
+              ]
+            }
+          },
+          {
+            "name": "absence_scope",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "performance_only",
+                "results_show_only",
+                "whole_week"
+              ]
+            }
+          },
+          {
+            "name": "status_raw",
+            "type": "string"
+          },
+          {
+            "name": "d_pro_slug",
+            "type": "string"
+          },
+          {
+            "name": "d_partnership_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "original",
+                "pre_series_only",
+                "replacement_permanent",
+                "replacement_pre_week1",
+                "substitute_temporary"
+              ]
+            }
+          },
+          {
+            "name": "d_week_total",
+            "type": "integer"
+          },
+          {
+            "name": "d_is_highest_of_week",
+            "type": "boolean",
+            "trueValues": [
+              "true"
+            ],
+            "falseValues": [
+              "false"
+            ]
+          },
+          {
+            "name": "d_is_lowest_of_week",
+            "type": "boolean",
+            "trueValues": [
+              "true"
+            ],
+            "falseValues": [
+              "false"
+            ]
+          },
+          {
+            "name": "source_capture_key",
+            "type": "string"
+          },
+          {
+            "name": "source_locator",
+            "type": "string"
+          },
+          {
+            "name": "source_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "disputed",
+                "editorial",
+                "inferred",
+                "inherited",
+                "stated"
+              ]
+            }
+          },
+          {
+            "name": "note",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": "couple_week_key",
+        "foreignKeys": [
+          {
+            "fields": "couple_key",
+            "reference": {
+              "resource": "couples",
+              "fields": "couple_key"
+            }
+          },
+          {
+            "fields": "week_key",
+            "reference": {
+              "resource": "weeks",
+              "fields": "week_key"
+            }
+          },
+          {
+            "fields": "series_key",
+            "reference": {
+              "resource": "series",
+              "fields": "series_key"
+            }
+          },
+          {
+            "fields": "results_round_key",
+            "reference": {
+              "resource": "results_rounds",
+              "fields": "round_key"
+            }
+          },
+          {
+            "fields": "d_pro_slug",
+            "reference": {
+              "resource": "people",
+              "fields": "person_key"
+            }
+          },
+          {
+            "fields": "source_capture_key",
+            "reference": {
+              "resource": "source_captures",
+              "fields": "source_capture_key"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "performances",
+      "path": "performances.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "quoteChar": "\""
+      },
+      "rowCount": 2996,
+      "schema": {
+        "fields": [
+          {
+            "name": "performance_key",
+            "type": "string",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "episode_key",
+            "type": "string"
+          },
+          {
+            "name": "week_key",
+            "type": "string"
+          },
+          {
+            "name": "series_key",
+            "type": "string"
+          },
+          {
+            "name": "series_number",
+            "type": "integer"
+          },
+          {
+            "name": "week_number",
+            "type": "integer"
+          },
+          {
+            "name": "round_stage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "final",
+                "quarter_final",
+                "regular",
+                "semi_final"
+              ]
+            }
+          },
+          {
+            "name": "air_date",
+            "type": "date"
+          },
+          {
+            "name": "sequence_in_week",
+            "type": "integer"
+          },
+          {
+            "name": "performer_group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "couple",
+                "pro_group",
+                "troupe"
+              ]
+            }
+          },
+          {
+            "name": "couple_key",
+            "type": "string"
+          },
+          {
+            "name": "chart_label",
+            "type": "string"
+          },
+          {
+            "name": "performing_pro_slug",
+            "type": "string"
+          },
+          {
+            "name": "couple_label_raw",
+            "type": "string"
+          },
+          {
+            "name": "sequence_in_episode",
+            "type": "integer"
+          },
+          {
+            "name": "running_order",
+            "type": "integer"
+          },
+          {
+            "name": "d_perf_seq",
+            "type": "integer"
+          },
+          {
+            "name": "group_key",
+            "type": "string"
+          },
+          {
+            "name": "performance_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "fusion",
+                "group_points",
+                "group_scored",
+                "group_unscored",
+                "individual",
+                "instant",
+                "marathon",
+                "showdance"
+              ]
+            }
+          },
+          {
+            "name": "selection_role",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "group",
+                "instant",
+                "marathon",
+                "prescribed",
+                "repeat_favourite",
+                "repeat_favourite_ballroom",
+                "repeat_favourite_latin",
+                "repeat_highest",
+                "repeat_highest_ballroom",
+                "repeat_highest_latin",
+                "repeat_judges_choice",
+                "repeat_rechoreographed",
+                "same_song",
+                "showdance",
+                "unknown",
+                "unlearned"
+              ]
+            }
+          },
+          {
+            "name": "performance_status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "not_performed",
+                "performed",
+                "performed_partial",
+                "scheduled"
+              ]
+            }
+          },
+          {
+            "name": "scoring_mode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "awarded_points",
+                "judge_marks",
+                "judge_total_only",
+                "not_performed",
+                "pending",
+                "rank_points",
+                "unscored"
+              ]
+            }
+          },
+          {
+            "name": "stated_total",
+            "type": "integer"
+          },
+          {
+            "name": "n_marks_stated",
+            "type": "integer"
+          },
+          {
+            "name": "score_cell_raw",
+            "type": "string"
+          },
+          {
+            "name": "points_value",
+            "type": "integer"
+          },
+          {
+            "name": "dance_key",
+            "type": "string"
+          },
+          {
+            "name": "dance_secondary_key",
+            "type": "string"
+          },
+          {
+            "name": "dance_raw",
+            "type": "string"
+          },
+          {
+            "name": "theme_column_label",
+            "type": "string"
+          },
+          {
+            "name": "theme_reference_text",
+            "type": "string"
+          },
+          {
+            "name": "theme_reference_wiki_title",
+            "type": "string"
+          },
+          {
+            "name": "music_raw",
+            "type": "string"
+          },
+          {
+            "name": "d_total",
+            "type": "integer"
+          },
+          {
+            "name": "d_n_marks",
+            "type": "integer"
+          },
+          {
+            "name": "d_total_mismatch",
+            "type": "boolean",
+            "trueValues": [
+              "true"
+            ],
+            "falseValues": [
+              "false"
+            ]
+          },
+          {
+            "name": "d_scale_max",
+            "type": "integer"
+          },
+          {
+            "name": "d_total_40",
+            "type": "number"
+          },
+          {
+            "name": "d_is_highest_of_week",
+            "type": "boolean",
+            "trueValues": [
+              "true"
+            ],
+            "falseValues": [
+              "false"
+            ]
+          },
+          {
+            "name": "d_is_lowest_of_week",
+            "type": "boolean",
+            "trueValues": [
+              "true"
+            ],
+            "falseValues": [
+              "false"
+            ]
+          },
+          {
+            "name": "d_results_round_key",
+            "type": "string"
+          },
+          {
+            "name": "d_partnership_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "original",
+                "pre_series_only",
+                "replacement_permanent",
+                "replacement_pre_week1",
+                "substitute_temporary"
+              ]
+            }
+          },
+          {
+            "name": "source_capture_key",
+            "type": "string"
+          },
+          {
+            "name": "source_locator",
+            "type": "string"
+          },
+          {
+            "name": "source_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "disputed",
+                "editorial",
+                "inferred",
+                "inherited",
+                "stated"
+              ]
+            }
+          },
+          {
+            "name": "note",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": "performance_key",
+        "foreignKeys": [
+          {
+            "fields": "episode_key",
+            "reference": {
+              "resource": "episodes",
+              "fields": "episode_key"
+            }
+          },
+          {
+            "fields": "week_key",
+            "reference": {
+              "resource": "weeks",
+              "fields": "week_key"
+            }
+          },
+          {
+            "fields": "series_key",
+            "reference": {
+              "resource": "series",
+              "fields": "series_key"
+            }
+          },
+          {
+            "fields": "couple_key",
+            "reference": {
+              "resource": "couples",
+              "fields": "couple_key"
+            }
+          },
+          {
+            "fields": "performing_pro_slug",
+            "reference": {
+              "resource": "people",
+              "fields": "person_key"
+            }
+          },
+          {
+            "fields": "dance_key",
+            "reference": {
+              "resource": "dances",
+              "fields": "dance_key"
+            }
+          },
+          {
+            "fields": "dance_secondary_key",
+            "reference": {
+              "resource": "dances",
+              "fields": "dance_key"
+            }
+          },
+          {
+            "fields": "d_results_round_key",
+            "reference": {
+              "resource": "results_rounds",
+              "fields": "round_key"
+            }
+          },
+          {
+            "fields": "source_capture_key",
+            "reference": {
+              "resource": "source_captures",
+              "fields": "source_capture_key"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "performance_music",
+      "path": "performance_music.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "quoteChar": "\""
+      },
+      "rowCount": 3146,
+      "schema": {
+        "fields": [
+          {
+            "name": "performance_music_key",
+            "type": "string",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "performance_key",
+            "type": "string"
+          },
+          {
+            "name": "seq",
+            "type": "integer"
+          },
+          {
+            "name": "song_key",
+            "type": "string"
+          },
+          {
+            "name": "artist_key",
+            "type": "string"
+          },
+          {
+            "name": "source_work_text",
+            "type": "string"
+          },
+          {
+            "name": "source_work_wiki_title",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "source_capture_key",
+            "type": "string"
+          },
+          {
+            "name": "source_locator",
+            "type": "string"
+          },
+          {
+            "name": "source_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "disputed",
+                "editorial",
+                "inferred",
+                "inherited",
+                "stated"
+              ]
+            }
+          },
+          {
+            "name": "note",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": "performance_music_key",
+        "foreignKeys": [
+          {
+            "fields": "performance_key",
+            "reference": {
+              "resource": "performances",
+              "fields": "performance_key"
+            }
+          },
+          {
+            "fields": "song_key",
+            "reference": {
+              "resource": "songs",
+              "fields": "song_key"
+            }
+          },
+          {
+            "fields": "artist_key",
+            "reference": {
+              "resource": "artists",
+              "fields": "artist_key"
+            }
+          },
+          {
+            "fields": "source_capture_key",
+            "reference": {
+              "resource": "source_captures",
+              "fields": "source_capture_key"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "songs",
+      "path": "songs.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "quoteChar": "\""
+      },
+      "rowCount": 1835,
+      "schema": {
+        "fields": [
+          {
+            "name": "song_key",
+            "type": "string",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "title",
+            "type": "string"
+          },
+          {
+            "name": "wiki_title",
+            "type": "string"
+          },
+          {
+            "name": "source_capture_key",
+            "type": "string"
+          },
+          {
+            "name": "source_locator",
+            "type": "string"
+          },
+          {
+            "name": "source_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "disputed",
+                "editorial",
+                "inferred",
+                "inherited",
+                "stated"
+              ]
+            }
+          },
+          {
+            "name": "note",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": "song_key",
+        "foreignKeys": [
+          {
+            "fields": "source_capture_key",
+            "reference": {
+              "resource": "source_captures",
+              "fields": "source_capture_key"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "artists",
+      "path": "artists.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "quoteChar": "\""
+      },
+      "rowCount": 1041,
+      "schema": {
+        "fields": [
+          {
+            "name": "artist_key",
+            "type": "string",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "name",
+            "type": "string"
+          },
+          {
+            "name": "wiki_title",
+            "type": "string"
+          },
+          {
+            "name": "source_capture_key",
+            "type": "string"
+          },
+          {
+            "name": "source_locator",
+            "type": "string"
+          },
+          {
+            "name": "source_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "disputed",
+                "editorial",
+                "inferred",
+                "inherited",
+                "stated"
+              ]
+            }
+          },
+          {
+            "name": "note",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": "artist_key",
+        "foreignKeys": [
+          {
+            "fields": "source_capture_key",
+            "reference": {
+              "resource": "source_captures",
+              "fields": "source_capture_key"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "judge_marks",
+      "path": "judge_marks.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "quoteChar": "\""
+      },
+      "rowCount": 11265,
+      "schema": {
+        "fields": [
+          {
+            "name": "judge_mark_key",
+            "type": "string",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "performance_key",
+            "type": "string"
+          },
+          {
+            "name": "panel_seat_key",
+            "type": "string"
+          },
+          {
+            "name": "judge_slug",
+            "type": "string"
+          },
+          {
+            "name": "judge_name",
+            "type": "string"
+          },
+          {
+            "name": "seat_position",
+            "type": "integer"
+          },
+          {
+            "name": "panel_role",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "guest_additional",
+                "guest_replacement",
+                "head",
+                "regular"
+              ]
+            }
+          },
+          {
+            "name": "is_head_judge",
+            "type": "boolean",
+            "trueValues": [
+              "true"
+            ],
+            "falseValues": [
+              "false"
+            ]
+          },
+          {
+            "name": "mark",
+            "type": "integer"
+          },
+          {
+            "name": "episode_key",
+            "type": "string"
+          },
+          {
+            "name": "week_key",
+            "type": "string"
+          },
+          {
+            "name": "series_key",
+            "type": "string"
+          },
+          {
+            "name": "series_number",
+            "type": "integer"
+          },
+          {
+            "name": "week_number",
+            "type": "integer"
+          },
+          {
+            "name": "round_stage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "final",
+                "quarter_final",
+                "regular",
+                "semi_final"
+              ]
+            }
+          },
+          {
+            "name": "air_date",
+            "type": "date"
+          },
+          {
+            "name": "sequence_in_week",
+            "type": "integer"
+          },
+          {
+            "name": "running_order",
+            "type": "integer"
+          },
+          {
+            "name": "sequence_in_episode",
+            "type": "integer"
+          },
+          {
+            "name": "d_perf_seq",
+            "type": "integer"
+          },
+          {
+            "name": "couple_key",
+            "type": "string"
+          },
+          {
+            "name": "chart_label",
+            "type": "string"
+          },
+          {
+            "name": "performing_pro_slug",
+            "type": "string"
+          },
+          {
+            "name": "dance_key",
+            "type": "string"
+          },
+          {
+            "name": "performance_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "fusion",
+                "group_points",
+                "group_scored",
+                "group_unscored",
+                "individual",
+                "instant",
+                "marathon",
+                "showdance"
+              ]
+            }
+          },
+          {
+            "name": "scoring_mode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "awarded_points",
+                "judge_marks",
+                "judge_total_only",
+                "not_performed",
+                "pending",
+                "rank_points",
+                "unscored"
+              ]
+            }
+          },
+          {
+            "name": "d_scale_max",
+            "type": "integer"
+          },
+          {
+            "name": "source_capture_key",
+            "type": "string"
+          },
+          {
+            "name": "source_locator",
+            "type": "string"
+          },
+          {
+            "name": "source_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "disputed",
+                "editorial",
+                "inferred",
+                "inherited",
+                "stated"
+              ]
+            }
+          },
+          {
+            "name": "note",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": "judge_mark_key",
+        "foreignKeys": [
+          {
+            "fields": "performance_key",
+            "reference": {
+              "resource": "performances",
+              "fields": "performance_key"
+            }
+          },
+          {
+            "fields": "panel_seat_key",
+            "reference": {
+              "resource": "panel_seats",
+              "fields": "panel_seat_key"
+            }
+          },
+          {
+            "fields": "judge_slug",
+            "reference": {
+              "resource": "people",
+              "fields": "person_key"
+            }
+          },
+          {
+            "fields": "episode_key",
+            "reference": {
+              "resource": "episodes",
+              "fields": "episode_key"
+            }
+          },
+          {
+            "fields": "week_key",
+            "reference": {
+              "resource": "weeks",
+              "fields": "week_key"
+            }
+          },
+          {
+            "fields": "series_key",
+            "reference": {
+              "resource": "series",
+              "fields": "series_key"
+            }
+          },
+          {
+            "fields": "couple_key",
+            "reference": {
+              "resource": "couples",
+              "fields": "couple_key"
+            }
+          },
+          {
+            "fields": "performing_pro_slug",
+            "reference": {
+              "resource": "people",
+              "fields": "person_key"
+            }
+          },
+          {
+            "fields": "dance_key",
+            "reference": {
+              "resource": "dances",
+              "fields": "dance_key"
+            }
+          },
+          {
+            "fields": "source_capture_key",
+            "reference": {
+              "resource": "source_captures",
+              "fields": "source_capture_key"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "dance_off_votes",
+      "path": "dance_off_votes.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "quoteChar": "\""
+      },
+      "rowCount": 738,
+      "schema": {
+        "fields": [
+          {
+            "name": "dance_off_vote_key",
+            "type": "string",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "results_round_key",
+            "type": "string"
+          },
+          {
+            "name": "series_key",
+            "type": "string"
+          },
+          {
+            "name": "week_key",
+            "type": "string"
+          },
+          {
+            "name": "judge_slug",
+            "type": "string"
+          },
+          {
+            "name": "judge_label_raw",
+            "type": "string"
+          },
+          {
+            "name": "couple_key",
+            "type": "string"
+          },
+          {
+            "name": "vote_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "cast",
+                "hypothetical_not_cast"
+              ]
+            }
+          },
+          {
+            "name": "is_casting_vote_stated",
+            "type": "boolean",
+            "trueValues": [
+              "true"
+            ],
+            "falseValues": [
+              "false"
+            ]
+          },
+          {
+            "name": "list_position",
+            "type": "integer"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "vote_direction",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "eliminate",
+                "save"
+              ]
+            }
+          },
+          {
+            "name": "casting_vote_slug",
+            "type": "string"
+          },
+          {
+            "name": "d_is_casting_judge",
+            "type": "boolean",
+            "trueValues": [
+              "true"
+            ],
+            "falseValues": [
+              "false"
+            ]
+          },
+          {
+            "name": "source_capture_key",
+            "type": "string"
+          },
+          {
+            "name": "source_locator",
+            "type": "string"
+          },
+          {
+            "name": "source_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "disputed",
+                "editorial",
+                "inferred",
+                "inherited",
+                "stated"
+              ]
+            }
+          },
+          {
+            "name": "note",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": "dance_off_vote_key",
+        "foreignKeys": [
+          {
+            "fields": "results_round_key",
+            "reference": {
+              "resource": "results_rounds",
+              "fields": "round_key"
+            }
+          },
+          {
+            "fields": "series_key",
+            "reference": {
+              "resource": "series",
+              "fields": "series_key"
+            }
+          },
+          {
+            "fields": "week_key",
+            "reference": {
+              "resource": "weeks",
+              "fields": "week_key"
+            }
+          },
+          {
+            "fields": "judge_slug",
+            "reference": {
+              "resource": "people",
+              "fields": "person_key"
+            }
+          },
+          {
+            "fields": "couple_key",
+            "reference": {
+              "resource": "couples",
+              "fields": "couple_key"
+            }
+          },
+          {
+            "fields": "casting_vote_slug",
+            "reference": {
+              "resource": "people",
+              "fields": "person_key"
+            }
+          },
+          {
+            "fields": "source_capture_key",
+            "reference": {
+              "resource": "source_captures",
+              "fields": "source_capture_key"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "dances",
+      "path": "dances.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "quoteChar": "\""
+      },
+      "rowCount": 25,
+      "schema": {
+        "fields": [
+          {
+            "name": "dance_key",
+            "type": "string",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "name",
+            "type": "string"
+          },
+          {
+            "name": "dance_family",
+            "type": "string"
+          },
+          {
+            "name": "wiki_title",
+            "type": "string"
+          },
+          {
+            "name": "source_capture_key",
+            "type": "string"
+          },
+          {
+            "name": "source_locator",
+            "type": "string"
+          },
+          {
+            "name": "source_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "disputed",
+                "editorial",
+                "inferred",
+                "inherited",
+                "stated"
+              ]
+            }
+          },
+          {
+            "name": "note",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": "dance_key",
+        "foreignKeys": [
+          {
+            "fields": "source_capture_key",
+            "reference": {
+              "resource": "source_captures",
+              "fields": "source_capture_key"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "themes",
+      "path": "themes.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "quoteChar": "\""
+      },
+      "rowCount": 15,
+      "schema": {
+        "fields": [
+          {
+            "name": "theme_key",
+            "type": "string",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "name",
+            "type": "string"
+          },
+          {
+            "name": "theme_reference_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "bbc_programme",
+                "broadway_musical",
+                "country",
+                "film",
+                "icon",
+                "musical",
+                "none"
+              ]
+            }
+          },
+          {
+            "name": "is_location_theme",
+            "type": "boolean",
+            "trueValues": [
+              "true"
+            ],
+            "falseValues": [
+              "false"
+            ]
+          },
+          {
+            "name": "wiki_title",
+            "type": "string"
+          },
+          {
+            "name": "source_capture_key",
+            "type": "string"
+          },
+          {
+            "name": "source_locator",
+            "type": "string"
+          },
+          {
+            "name": "source_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "disputed",
+                "editorial",
+                "inferred",
+                "inherited",
+                "stated"
+              ]
+            }
+          },
+          {
+            "name": "note",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": "theme_key",
+        "foreignKeys": [
+          {
+            "fields": "source_capture_key",
+            "reference": {
+              "resource": "source_captures",
+              "fields": "source_capture_key"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "venues",
+      "path": "venues.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "quoteChar": "\""
+      },
+      "rowCount": 4,
+      "schema": {
+        "fields": [
+          {
+            "name": "venue_key",
+            "type": "string",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "name",
+            "type": "string"
+          },
+          {
+            "name": "city",
+            "type": "string"
+          },
+          {
+            "name": "wiki_title",
+            "type": "string"
+          },
+          {
+            "name": "source_capture_key",
+            "type": "string"
+          },
+          {
+            "name": "source_locator",
+            "type": "string"
+          },
+          {
+            "name": "source_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "disputed",
+                "editorial",
+                "inferred",
+                "inherited",
+                "stated"
+              ]
+            }
+          },
+          {
+            "name": "note",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": "venue_key",
+        "foreignKeys": [
+          {
+            "fields": "source_capture_key",
+            "reference": {
+              "resource": "source_captures",
+              "fields": "source_capture_key"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "source_captures",
+      "path": "source_captures.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "quoteChar": "\""
+      },
+      "rowCount": 48,
+      "schema": {
+        "fields": [
+          {
+            "name": "source_capture_key",
+            "type": "string",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "wiki_title",
+            "type": "string"
+          },
+          {
+            "name": "page_id",
+            "type": "integer"
+          },
+          {
+            "name": "revid",
+            "type": "integer"
+          },
+          {
+            "name": "parent_revid",
+            "type": "integer"
+          },
+          {
+            "name": "rev_timestamp",
+            "type": "datetime",
+            "format": "any"
+          },
+          {
+            "name": "captured_at",
+            "type": "datetime",
+            "format": "any"
+          },
+          {
+            "name": "sha1",
+            "type": "string"
+          },
+          {
+            "name": "format",
+            "type": "string"
+          },
+          {
+            "name": "file_path",
+            "type": "string"
+          },
+          {
+            "name": "parser_version",
+            "type": "string"
+          },
+          {
+            "name": "is_current",
+            "type": "boolean",
+            "trueValues": [
+              "true"
+            ],
+            "falseValues": [
+              "false"
+            ]
+          },
+          {
+            "name": "licence_note",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": "source_capture_key"
+      }
+    },
+    {
+      "name": "discrepancies",
+      "path": "discrepancies.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "quoteChar": "\""
+      },
+      "rowCount": 11,
+      "schema": {
+        "fields": [
+          {
+            "name": "discrepancy_key",
+            "type": "string",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "table_name",
+            "type": "string"
+          },
+          {
+            "name": "natural_key",
+            "type": "string"
+          },
+          {
+            "name": "field_name",
+            "type": "string"
+          },
+          {
+            "name": "value_a",
+            "type": "string"
+          },
+          {
+            "name": "source_capture_a_key",
+            "type": "string"
+          },
+          {
+            "name": "locator_a",
+            "type": "string"
+          },
+          {
+            "name": "value_b",
+            "type": "string"
+          },
+          {
+            "name": "value_b_origin",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "capture",
+                "editorial"
+              ]
+            }
+          },
+          {
+            "name": "source_capture_b_key",
+            "type": "string"
+          },
+          {
+            "name": "locator_b",
+            "type": "string"
+          },
+          {
+            "name": "resolution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "both_kept_unresolved",
+                "prefer_a",
+                "prefer_b"
+              ]
+            }
+          },
+          {
+            "name": "note",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": "discrepancy_key",
+        "foreignKeys": [
+          {
+            "fields": "source_capture_a_key",
+            "reference": {
+              "resource": "source_captures",
+              "fields": "source_capture_key"
+            }
+          },
+          {
+            "fields": "source_capture_b_key",
+            "reference": {
+              "resource": "source_captures",
+              "fields": "source_capture_key"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "chart_cells",
+      "path": "chart_cells.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "quoteChar": "\""
+      },
+      "rowCount": 4587,
+      "schema": {
+        "fields": [
+          {
+            "name": "chart_cell_key",
+            "type": "string",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "source_capture_key",
+            "type": "string"
+          },
+          {
+            "name": "chart_kind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "scoring"
+              ]
+            }
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "col_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_label_raw",
+            "type": "string"
+          },
+          {
+            "name": "couple_key",
+            "type": "string"
+          },
+          {
+            "name": "col_label_raw",
+            "type": "string"
+          },
+          {
+            "name": "cell_text_raw",
+            "type": "string"
+          },
+          {
+            "name": "bgcolor_norm",
+            "type": "string"
+          },
+          {
+            "name": "flags",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": "chart_cell_key",
+        "foreignKeys": [
+          {
+            "fields": "source_capture_key",
+            "reference": {
+              "resource": "source_captures",
+              "fields": "source_capture_key"
+            }
+          },
+          {
+            "fields": "couple_key",
+            "reference": {
+              "resource": "couples",
+              "fields": "couple_key"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "chart_legends",
+      "path": "chart_legends.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "header": true,
+        "quoteChar": "\""
+      },
+      "rowCount": 235,
+      "schema": {
+        "fields": [
+          {
+            "name": "source_capture_key",
+            "type": "string"
+          },
+          {
+            "name": "colour_norm",
+            "type": "string"
+          },
+          {
+            "name": "meaning_text",
+            "type": "string"
+          },
+          {
+            "name": "scope",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "scoring"
+              ]
+            }
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "foreignKeys": [
+          {
+            "fields": "source_capture_key",
+            "reference": {
+              "resource": "source_captures",
+              "fields": "source_capture_key"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

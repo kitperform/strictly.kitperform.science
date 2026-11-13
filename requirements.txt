@@ -1,3 +1,6 @@
 beautifulsoup4>=4.12
 lxml>=5
 pytest>=8
+pandas>=2.2
+pyarrow>=17        # optional: Parquet output of the package step
+frictionless>=5    # optional: make validate
