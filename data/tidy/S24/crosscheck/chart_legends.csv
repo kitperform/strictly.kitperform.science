@@ -1,4 +1,8 @@
 source_capture_key,colour_norm,meaning_text,scope
-enwiki:Strictly_Come_Dancing_series_24:r1384576516:parsoid_html,,↑ Week 6 had the bottom three couples competing,scoring
-enwiki:Strictly_Come_Dancing_series_24:r1384576516:parsoid_html,,"1 2 This couple was excused from competing due to illness or injury, and was granted a bye to the following week.",scoring
+enwiki:Strictly_Come_Dancing_series_24:r1384576516:parsoid_html,gold,Winners,scoring
+enwiki:Strictly_Come_Dancing_series_24:r1384576516:parsoid_html,silver,Co-runners-up,scoring
+enwiki:Strictly_Come_Dancing_series_24:r1384576516:parsoid_html,lightblue,Bottom two,scoring
+enwiki:Strictly_Come_Dancing_series_24:r1384576516:parsoid_html,#f4c7b8,Eliminated,scoring
+enwiki:Strictly_Come_Dancing_series_24:r1384576516:parsoid_html,#fff383,Excused from competition for the week,scoring
+enwiki:Strictly_Come_Dancing_series_24:r1384576516:parsoid_html,efn:n39,Week 6 had the bottom three couples competing,scoring
 enwiki:Strictly_Come_Dancing_series_24:r1384576516:parsoid_html,efn:OutSick,"This couple was excused from competing due to illness or injury, and was granted a bye to the following week.",scoring

@@ -40,8 +40,10 @@ def wiki_title_from_href(href):
 def person_slug(wiki_title: str, display: str | None = None) -> str:
     """Curated slug seed: the article title without any disambiguator."""
     base = wiki_title or display or ""
-    base = re.sub(r"\s*\(.*?\)\s*$", "", base)
-    return slugify(base)
+    stripped = re.sub(r"\s*\(.*?\)\s*$", "", base)
+    if " " not in stripped.strip() and stripped != base:
+        return slugify(base)  # a mononym keeps its disambiguator: 'Dev (DJ)' -> dev-dj
+    return slugify(stripped)
 
 
 def week_key(series_key: str, week: int) -> str:

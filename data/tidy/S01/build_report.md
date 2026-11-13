@@ -12,7 +12,7 @@
 | `results_rounds.csv` | 7 |
 | `results_round_weeks.csv` | 8 |
 | `people.csv` | 20 |
-| `person_aliases.csv` | 0 |
+| `person_aliases.csv` | 1 |
 | `series_people.csv` | 20 |
 | `couples.csv` | 8 |
 | `couple_partnerships.csv` | 8 |
@@ -30,7 +30,7 @@
 | `source_captures.csv` | 2 |
 | `discrepancies.csv` | 1 |
 | `crosscheck/chart_cells.csv` | 72 |
-| `crosscheck/chart_legends.csv` | 6 |
+| `crosscheck/chart_legends.csv` | 8 |
 
 ## Checks
 

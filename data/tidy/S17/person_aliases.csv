@@ -1,6 +1,6 @@
 person_alias_key,person_key,alias,alias_kind,context,series_key,source_capture_key,source_locator,source_kind,note
-dev|display_name|Dev Griffin|S17,dev,Dev Griffin,display_name,any,S17,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,section=Couples,stated,name as printed on this page
-emma-thynn-marchioness-of-bath|display_name|Emma Weymouth|S17,emma-thynn-marchioness-of-bath,Emma Weymouth,display_name,any,S17,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,section=Couples,stated,name as printed on this page
+dev-dj|any|Dev Griffin|S17,dev-dj,Dev Griffin,display_name,any,S17,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,section=Couples,stated,name as printed on this page
+emma-thynn-marchioness-of-bath|any|Emma Weymouth|S17,emma-thynn-marchioness-of-bath,Emma Weymouth,display_name,any,S17,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,section=Couples,stated,name as printed on this page
 craig-revel-horwood|vote_list|Revel Horwood|S17,craig-revel-horwood,Revel Horwood,vote_list_surname,vote_list,S17,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,Judges' votes lists,stated,
 motsi-mabuse|vote_list|Mabuse|S17,motsi-mabuse,Mabuse,vote_list_surname,vote_list,S17,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,Judges' votes lists,stated,
 bruno-tonioli|vote_list|Tonioli|S17,bruno-tonioli,Tonioli,vote_list_surname,vote_list,S17,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,Judges' votes lists,stated,

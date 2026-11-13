@@ -13,7 +13,7 @@ S21|scoring|0|10,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html
 S21|scoring|0|11,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,0,11,Ellie & Vito,S21-ellie-leach,11,36,,
 S21|scoring|0|12,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,0,12,Ellie & Vito,S21-ellie-leach,12,37+38=75,,
 S21|scoring|0|13,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,0,13,Ellie & Vito,S21-ellie-leach,11+12,111,,
-S21|scoring|0|14,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,0,14,Ellie & Vito,S21-ellie-leach,13,39+36+40=115‡,gold,double_dagger|italic
+S21|scoring|0|14,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,0,14,Ellie & Vito,S21-ellie-leach,13,39+36+40=115‡,gold,double_dagger|italic|efn:n24
 S21|scoring|1|0,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,1,0,Bobby & Dianne,S21-bobby-brazier,1,29,,
 S21|scoring|1|1,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,1,1,Bobby & Dianne,S21-bobby-brazier,2,29,,
 S21|scoring|1|2,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,1,2,Bobby & Dianne,S21-bobby-brazier,1+2,58,,
@@ -28,7 +28,7 @@ S21|scoring|1|10,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html
 S21|scoring|1|11,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,1,11,Bobby & Dianne,S21-bobby-brazier,11,34,,
 S21|scoring|1|12,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,1,12,Bobby & Dianne,S21-bobby-brazier,12,38+35=73,,
 S21|scoring|1|13,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,1,13,Bobby & Dianne,S21-bobby-brazier,11+12,107,lightblue,efn:Bottom2
-S21|scoring|1|14,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,1,14,Bobby & Dianne,S21-bobby-brazier,13,39+39+39=117,silver,
+S21|scoring|1|14,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,1,14,Bobby & Dianne,S21-bobby-brazier,13,39+39+39=117,silver,efn:2nd
 S21|scoring|2|0,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,2,0,Layton & Nikita,S21-layton-williams,1,29,,
 S21|scoring|2|1,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,2,1,Layton & Nikita,S21-layton-williams,2,36†,,dagger|bold
 S21|scoring|2|2,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,2,2,Layton & Nikita,S21-layton-williams,1+2,65†,,dagger|bold
@@ -43,7 +43,7 @@ S21|scoring|2|10,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html
 S21|scoring|2|11,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,2,11,Layton & Nikita,S21-layton-williams,11,40†,,dagger|bold
 S21|scoring|2|12,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,2,12,Layton & Nikita,S21-layton-williams,12,36+40=76†,,dagger|bold
 S21|scoring|2|13,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,2,13,Layton & Nikita,S21-layton-williams,11+12,116†,,dagger|bold
-S21|scoring|2|14,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,2,14,Layton & Nikita,S21-layton-williams,13,40+39+40=119†,silver,dagger|bold
+S21|scoring|2|14,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,2,14,Layton & Nikita,S21-layton-williams,13,40+39+40=119†,silver,dagger|bold|efn:2nd
 S21|scoring|3|0,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,3,0,Annabel & Johannes,S21-annabel-croft,1,28,,
 S21|scoring|3|1,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,3,1,Annabel & Johannes,S21-annabel-croft,2,22,,
 S21|scoring|3|2,enwiki:Strictly_Come_Dancing_series_21:r1368699595:parsoid_html,scoring,3,2,Annabel & Johannes,S21-annabel-croft,1+2,50,,

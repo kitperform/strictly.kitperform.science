@@ -69,3 +69,10 @@ def test_volumes_and_rules(t21):
     assert all(r["casting_vote_slug"] == "shirley-ballas" and r["casting_vote_source_kind"] == "inherited" for r in t21["results_rounds"] if r["round_kind"] == "standard")
     assert one(t21["format_rules"], "format_rule_key", "S21-FR")["rank_tie_policy"] == "unstated"
     assert one(t21["episodes"], "episode_key", "S21W09-P")["venue_key"] == "blackpool-tower-ballroom"
+
+
+def test_amy_dowden_unpartnered_a237(t21):
+    amy = one(t21["series_people"], "series_person_key", "S21-amy-dowden-professional")
+    assert amy["roster_status"] == "unpartnered" and amy["reason"] == "illness"
+    pm = [m for m in t21["performance_music"] if m["performance_key"] == "S21W05-P-adam-thomas-couples-choice"]
+    assert len(pm) == 3 and {m["artist_key"] for m in pm} == {"backstreet-boys"}  # 'All by Backstreet Boys' applies to every song

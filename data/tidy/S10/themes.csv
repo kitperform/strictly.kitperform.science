@@ -1,5 +1,5 @@
 theme_key,name,theme_reference_kind,is_location_theme,wiki_title,source_capture_key,source_locator,source_kind,note
-hollywood-week,Hollywood Week,none,false,,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,section=Week 3: Hollywood Week,stated,
+hollywood-week,Hollywood Week,film,false,,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,section=Week 3: Hollywood Week,stated,
 halloween-week,Halloween Week,none,false,,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,section=Week 4: Halloween Week,stated,
 wembley,Wembley,none,true,,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,section=Week 7: Wembley,stated,
 dance-fusion-week,Dance Fusion Week,none,false,,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,section=Week 10: Dance Fusion Week (Quarter-final),stated,

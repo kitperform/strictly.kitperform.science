@@ -207,17 +207,19 @@ class SeriesPage:
                 data.append({"text": raw, "flags": flags, "bg": gc["bg"], "efn": efn_names(c), "el": c})
             rows.append({"label": label, "place": place, "cells": data})
         legend = []
-        for li in sec.find_all("li"):
-            sw = li.find("span", class_=re.compile("legend-color"))
-            legend.append(((sw.get("style") if sw else None), cell_text(li)))
+        for d in sec.find_all("div", class_="legend"):
+            sw = d.find("span", class_=re.compile("legend-color"))
+            m = re.search(r"background(?:-color)?\s*:\s*([^;]+)", (sw.get("style") if sw else "") or "")
+            legend.append(((m.group(1).strip().lower() if m else None), cell_text(d)))
         notes = {}
         for ol in sec.find_all("ol", class_=re.compile("references")):
             for li in ol.find_all("li"):
                 nid = li.get("id") or ""
-                m = re.match(r"cite_note-([A-Za-z][A-Za-z0-9_]*)-\d+$", nid)
+                m = re.match(r"cite_note-(?:(.+?)-)?(\d+)$", nid)
                 txt = cell_text(li.find("span", class_="reference-text") or li)
+                txt = re.sub(r"^(?:↑\s*|(?:\d+\s+)+)", "", txt).strip()
                 if m:
-                    notes[m.group(1)] = txt
+                    notes[m.group(1) if m.group(1) and not m.group(1).isdigit() else f"n{m.group(2)}"] = txt
         head_text = " ".join(cell_text(p, br=" ") for p in sec.find_all("p", recursive=False))
         return {"col_labels": col_labels, "col_efn": col_efn, "rows": rows, "legend": legend, "notes": notes, "intro": head_text, "head0": [header_text(c) for c in head0]}
 
@@ -226,6 +228,26 @@ class SeriesPage:
         h = self.soup.find(lambda t: t.name in ("h2", "h3", "h4") and cell_text(t, br=" ") == heading_text)
         sec = h.find_parent("section") if h else None
         return [(t, w) for p in (sec.find_all("p", recursive=False) if sec is not None else []) for t, w, hh in links(p) if w]
+
+    def dance_chart_cells(self):
+        """{couple label: [(week label, cell text, background)]} from the Dance chart grid."""
+        sec = self.section("Dance_chart")
+        if sec is None:
+            return {}
+        table = sec.find("table")
+        if table is None:
+            return {}
+        grid = table_grid(table)
+        if len(grid) < 2:
+            return {}
+        two = all(c["is_header"] for c in grid[1])
+        heads = grid[1] if two else grid[0]
+        out = {}
+        for row in grid[2:] if two else grid[1:]:
+            if not row or all(c["is_header"] for c in row):
+                continue
+            out[row[0]["text"]] = [(header_text(heads[i]["el"]) if i < len(heads) else "", c["text"], c["bg"]) for i, c in enumerate(row) if i > 0]
+        return out
 
     def dance_chart_bullets(self):
         sec = self.section("Dance_chart")

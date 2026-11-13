@@ -99,5 +99,21 @@ def test_musicals_week_is_a_theme_column(t23):
 
 def test_volumes(t23):
     assert len(t23["couples"]) == 15 and len(t23["couple_weeks"]) == 15 * 13
-    assert len(t23["judge_marks"]) == 128 * 4 and len(t23["performances"]) == 134
+    assert len(t23["judge_marks"]) == 128 * 4 and len(t23["performances"]) == 137  # 134 danced + 3 planned routines never performed
     assert len([r for r in t23["series_people"] if r["roster_status"] == "unpartnered"]) == 5
+
+
+def test_pre_series_replacements_a247(t23):
+    nairn = one(t23["series_people"], "series_person_key", "S23-kristian-nairn-celebrity")
+    assert nairn["roster_status"] == "withdrew_pre_launch" and nairn["replaced_by_person_key"] == "lewis-cope" and nairn["reason"] == "medical_advice" and nairn["event_date"] == "2025-08-21"
+    dyer = one(t23["series_people"], "series_person_key", "S23-dani-dyer-celebrity")
+    assert dyer["roster_status"] == "paired_withdrew_pre_week1" and dyer["paired_with_person_key"] == "nikita-kuzmin" and dyer["replaced_by_person_key"] == "amber-davies" and dyer["reason"] == "injury"
+    assert one(t23["series_people"], "series_person_key", "S23-amber-davies-celebrity")["replaces_person_key"] == "dani-dyer"
+
+
+def test_planned_dances_never_performed_a244_a252(t23):
+    planned = {p["performance_key"]: p for p in t23["performances"] if p["performance_status"] == "not_performed"}
+    assert set(planned) == {"S23W03-P-stefan-dennis-waltz", "S23W05-P-stefan-dennis-planned", "S23W09-P-la-voix-samba"}
+    assert planned["S23W05-P-stefan-dennis-planned"]["dance_key"] == "" and planned["S23W05-P-stefan-dennis-planned"]["theme_reference_text"] == "Jon Bon Jovi"
+    assert planned["S23W09-P-la-voix-samba"]["music_raw"] == '"Love Is in the Air" — John Paul Young' and planned["S23W09-P-la-voix-samba"]["scoring_mode"] == "not_performed"
+    assert all(p["stated_total"] == "" for p in planned.values())

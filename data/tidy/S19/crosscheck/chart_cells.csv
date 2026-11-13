@@ -12,7 +12,7 @@ S19|scoring|0|9,enwiki:Strictly_Come_Dancing_series_19:r1374541341:parsoid_html,
 S19|scoring|0|10,enwiki:Strictly_Come_Dancing_series_19:r1374541341:parsoid_html,scoring,0,10,Rose & Giovanni,S19-rose-ayling-ellis,10,33,,
 S19|scoring|0|11,enwiki:Strictly_Come_Dancing_series_19:r1374541341:parsoid_html,scoring,0,11,Rose & Giovanni,S19-rose-ayling-ellis,11,39†,,dagger|bold
 S19|scoring|0|12,enwiki:Strictly_Come_Dancing_series_19:r1374541341:parsoid_html,scoring,0,12,Rose & Giovanni,S19-rose-ayling-ellis,12,39+40=79†,,dagger|bold
-S19|scoring|0|13,enwiki:Strictly_Come_Dancing_series_19:r1374541341:parsoid_html,scoring,0,13,Rose & Giovanni,S19-rose-ayling-ellis,13,39+40+40=119†,gold,dagger|bold
+S19|scoring|0|13,enwiki:Strictly_Come_Dancing_series_19:r1374541341:parsoid_html,scoring,0,13,Rose & Giovanni,S19-rose-ayling-ellis,13,39+40+40=119†,gold,dagger|bold|efn:n18
 S19|scoring|1|0,enwiki:Strictly_Come_Dancing_series_19:r1374541341:parsoid_html,scoring,1,0,John & Johannes,S19-john-whaite,1,30,,
 S19|scoring|1|1,enwiki:Strictly_Come_Dancing_series_19:r1374541341:parsoid_html,scoring,1,1,John & Johannes,S19-john-whaite,2,31,,
 S19|scoring|1|2,enwiki:Strictly_Come_Dancing_series_19:r1374541341:parsoid_html,scoring,1,2,John & Johannes,S19-john-whaite,1+2,61,,
@@ -26,7 +26,7 @@ S19|scoring|1|9,enwiki:Strictly_Come_Dancing_series_19:r1374541341:parsoid_html,
 S19|scoring|1|10,enwiki:Strictly_Come_Dancing_series_19:r1374541341:parsoid_html,scoring,1,10,John & Johannes,S19-john-whaite,10,39†,,dagger|bold
 S19|scoring|1|11,enwiki:Strictly_Come_Dancing_series_19:r1374541341:parsoid_html,scoring,1,11,John & Johannes,S19-john-whaite,11,32,,
 S19|scoring|1|12,enwiki:Strictly_Come_Dancing_series_19:r1374541341:parsoid_html,scoring,1,12,John & Johannes,S19-john-whaite,12,39+39=78,lightblue,efn:Bottom2
-S19|scoring|1|13,enwiki:Strictly_Come_Dancing_series_19:r1374541341:parsoid_html,scoring,1,13,John & Johannes,S19-john-whaite,13,39+40+40=119†,silver,dagger|bold
+S19|scoring|1|13,enwiki:Strictly_Come_Dancing_series_19:r1374541341:parsoid_html,scoring,1,13,John & Johannes,S19-john-whaite,13,39+40+40=119†,silver,dagger|bold|efn:2nd
 S19|scoring|2|0,enwiki:Strictly_Come_Dancing_series_19:r1374541341:parsoid_html,scoring,2,0,AJ & Kai,S19-aj-odudu,1,34†,,dagger|bold
 S19|scoring|2|1,enwiki:Strictly_Come_Dancing_series_19:r1374541341:parsoid_html,scoring,2,1,AJ & Kai,S19-aj-odudu,2,31,,
 S19|scoring|2|2,enwiki:Strictly_Come_Dancing_series_19:r1374541341:parsoid_html,scoring,2,2,AJ & Kai,S19-aj-odudu,1+2,65†,,dagger|bold

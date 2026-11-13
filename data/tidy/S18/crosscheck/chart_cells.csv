@@ -8,7 +8,7 @@ S18|scoring|0|5,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,
 S18|scoring|0|6,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,0,6,Bill & Oti,S18-bill-bailey,6,24,,
 S18|scoring|0|7,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,0,7,Bill & Oti,S18-bill-bailey,7,24,,
 S18|scoring|0|8,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,0,8,Bill & Oti,S18-bill-bailey,8,25+23=48,,
-S18|scoring|0|9,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,0,9,Bill & Oti,S18-bill-bailey,9,29+30+29=88†,gold,dagger|bold
+S18|scoring|0|9,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,0,9,Bill & Oti,S18-bill-bailey,9,29+30+29=88†,gold,dagger|bold|efn:n26
 S18|scoring|1|0,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,1,0,HRVY & Janette,S18-hrvy,1,25†,,dagger|bold
 S18|scoring|1|1,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,1,1,HRVY & Janette,S18-hrvy,2,24,,
 S18|scoring|1|2,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,1,2,HRVY & Janette,S18-hrvy,1+2,49†,,dagger|bold
@@ -18,7 +18,7 @@ S18|scoring|1|5,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,
 S18|scoring|1|6,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,1,6,HRVY & Janette,S18-hrvy,6,30†,,dagger|bold
 S18|scoring|1|7,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,1,7,HRVY & Janette,S18-hrvy,7,29†,,dagger|bold
 S18|scoring|1|8,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,1,8,HRVY & Janette,S18-hrvy,8,23+30=53,,
-S18|scoring|1|9,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,1,9,HRVY & Janette,S18-hrvy,9,29+29+30=88†,silver,dagger|bold
+S18|scoring|1|9,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,1,9,HRVY & Janette,S18-hrvy,9,29+29+30=88†,silver,dagger|bold|efn:2nd
 S18|scoring|2|0,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,2,0,Jamie & Karen,S18-jamie-laing,1,14,,
 S18|scoring|2|1,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,2,1,Jamie & Karen,S18-jamie-laing,2,17,,
 S18|scoring|2|2,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,2,2,Jamie & Karen,S18-jamie-laing,1+2,31,lightblue,efn:Bottom2
@@ -28,7 +28,7 @@ S18|scoring|2|5,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,
 S18|scoring|2|6,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,2,6,Jamie & Karen,S18-jamie-laing,6,24,lightblue,efn:Bottom2
 S18|scoring|2|7,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,2,7,Jamie & Karen,S18-jamie-laing,7,24,lightblue,efn:Bottom2
 S18|scoring|2|8,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,2,8,Jamie & Karen,S18-jamie-laing,8,24+24=48,lightblue,efn:Bottom2
-S18|scoring|2|9,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,2,9,Jamie & Karen,S18-jamie-laing,9,26+29+29=84‡,silver,double_dagger|italic
+S18|scoring|2|9,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,2,9,Jamie & Karen,S18-jamie-laing,9,26+29+29=84‡,silver,double_dagger|italic|efn:2nd
 S18|scoring|3|0,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,3,0,Maisie & Gorka,S18-maisie-smith,1,24,,
 S18|scoring|3|1,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,3,1,Maisie & Gorka,S18-maisie-smith,2,25†,,dagger|bold
 S18|scoring|3|2,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,3,2,Maisie & Gorka,S18-maisie-smith,1+2,49†,,dagger|bold
@@ -38,7 +38,7 @@ S18|scoring|3|5,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,
 S18|scoring|3|6,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,3,6,Maisie & Gorka,S18-maisie-smith,6,29,,
 S18|scoring|3|7,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,3,7,Maisie & Gorka,S18-maisie-smith,7,28,,
 S18|scoring|3|8,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,3,8,Maisie & Gorka,S18-maisie-smith,8,30+29=59†,,dagger|bold
-S18|scoring|3|9,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,3,9,Maisie & Gorka,S18-maisie-smith,9,29+30+29=88†,silver,dagger|bold
+S18|scoring|3|9,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,3,9,Maisie & Gorka,S18-maisie-smith,9,29+30+29=88†,silver,dagger|bold|efn:2nd
 S18|scoring|4|0,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,4,0,Ranvir & Giovanni,S18-ranvir-singh,1,21,,
 S18|scoring|4|1,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,4,1,Ranvir & Giovanni,S18-ranvir-singh,2,21,,
 S18|scoring|4|2,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,4,2,Ranvir & Giovanni,S18-ranvir-singh,1+2,42,,
@@ -93,7 +93,7 @@ S18|scoring|9|0,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,
 S18|scoring|9|1,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,9,1,Nicola & Katya,S18-nicola-adams,2,24,,
 S18|scoring|9|2,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,9,2,Nicola & Katya,S18-nicola-adams,1+2,45,,
 S18|scoring|9|3,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,9,3,Nicola & Katya,S18-nicola-adams,3,19,lightblue,efn:Bottom2
-S18|scoring|9|4,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,9,4,Nicola & Katya,S18-nicola-adams,4,,lightgreen,
+S18|scoring|9|4,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,9,4,Nicola & Katya,S18-nicola-adams,4,,lightgreen,efn:n30
 S18|scoring|9|5,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,9,5,Nicola & Katya,S18-nicola-adams,5,,darkgray,rowspan_copy
 S18|scoring|9|6,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,9,6,Nicola & Katya,S18-nicola-adams,6,,darkgray,rowspan_copy
 S18|scoring|9|7,enwiki:Strictly_Come_Dancing_series_18:r1380702306:parsoid_html,scoring,9,7,Nicola & Katya,S18-nicola-adams,7,,darkgray,rowspan_copy

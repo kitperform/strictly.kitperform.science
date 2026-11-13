@@ -7,7 +7,7 @@ S01|scoring|0|4,enwiki:Strictly_Come_Dancing_series_1:r1380451131:parsoid_html,s
 S01|scoring|0|5,enwiki:Strictly_Come_Dancing_series_1:r1380451131:parsoid_html,scoring,0,5,Natasha & Brendan,S01-natasha-kaplinsky,5,37†,,dagger|bold
 S01|scoring|0|6,enwiki:Strictly_Come_Dancing_series_1:r1380451131:parsoid_html,scoring,0,6,Natasha & Brendan,S01-natasha-kaplinsky,6,31+36=67†,,dagger|bold
 S01|scoring|0|7,enwiki:Strictly_Come_Dancing_series_1:r1380451131:parsoid_html,scoring,0,7,Natasha & Brendan,S01-natasha-kaplinsky,7,36+35=71†,,dagger|bold
-S01|scoring|0|8,enwiki:Strictly_Come_Dancing_series_1:r1380451131:parsoid_html,scoring,0,8,Natasha & Brendan,S01-natasha-kaplinsky,8,36+31+35=102†,gold,dagger|bold
+S01|scoring|0|8,enwiki:Strictly_Come_Dancing_series_1:r1380451131:parsoid_html,scoring,0,8,Natasha & Brendan,S01-natasha-kaplinsky,8,36+31+35=102†,gold,dagger|bold|efn:n4
 S01|scoring|1|0,enwiki:Strictly_Come_Dancing_series_1:r1380451131:parsoid_html,scoring,1,0,Christopher & Hanna,S01-christopher-parker,1,19,,
 S01|scoring|1|1,enwiki:Strictly_Come_Dancing_series_1:r1380451131:parsoid_html,scoring,1,1,Christopher & Hanna,S01-christopher-parker,2,23,,
 S01|scoring|1|2,enwiki:Strictly_Come_Dancing_series_1:r1380451131:parsoid_html,scoring,1,2,Christopher & Hanna,S01-christopher-parker,1+2,42,,
@@ -16,7 +16,7 @@ S01|scoring|1|4,enwiki:Strictly_Come_Dancing_series_1:r1380451131:parsoid_html,s
 S01|scoring|1|5,enwiki:Strictly_Come_Dancing_series_1:r1380451131:parsoid_html,scoring,1,5,Christopher & Hanna,S01-christopher-parker,5,15‡,,double_dagger|italic
 S01|scoring|1|6,enwiki:Strictly_Come_Dancing_series_1:r1380451131:parsoid_html,scoring,1,6,Christopher & Hanna,S01-christopher-parker,6,22+15=37‡,,double_dagger|italic
 S01|scoring|1|7,enwiki:Strictly_Come_Dancing_series_1:r1380451131:parsoid_html,scoring,1,7,Christopher & Hanna,S01-christopher-parker,7,21+16=37‡,lightblue,double_dagger|italic|efn:Bottom2
-S01|scoring|1|8,enwiki:Strictly_Come_Dancing_series_1:r1380451131:parsoid_html,scoring,1,8,Christopher & Hanna,S01-christopher-parker,8,24+17+22=63‡,silver,double_dagger|italic
+S01|scoring|1|8,enwiki:Strictly_Come_Dancing_series_1:r1380451131:parsoid_html,scoring,1,8,Christopher & Hanna,S01-christopher-parker,8,24+17+22=63‡,silver,double_dagger|italic|efn:n5
 S01|scoring|2|0,enwiki:Strictly_Come_Dancing_series_1:r1380451131:parsoid_html,scoring,2,0,Lesley & Anton,S01-lesley-garrett,1,29†,,dagger|bold
 S01|scoring|2|1,enwiki:Strictly_Come_Dancing_series_1:r1380451131:parsoid_html,scoring,2,1,Lesley & Anton,S01-lesley-garrett,2,27,,
 S01|scoring|2|2,enwiki:Strictly_Come_Dancing_series_1:r1380451131:parsoid_html,scoring,2,2,Lesley & Anton,S01-lesley-garrett,1+2,56,,

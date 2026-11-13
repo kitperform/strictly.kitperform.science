@@ -48,9 +48,9 @@ def efn_names(el):
     for sup in el.find_all("sup"):
         for a in sup.find_all("a"):
             href = a.get("href", "")
-            m = re.search(r"#cite_note-([A-Za-z][A-Za-z0-9_]*)-\d+$", href)
+            m = re.search(r"#cite_note-(?:(.+?)-)?(\d+)$", href)
             if m:
-                names.append(m.group(1))
+                names.append(m.group(1) if m.group(1) and not m.group(1).isdigit() else f"n{m.group(2)}")
     return names
 
 

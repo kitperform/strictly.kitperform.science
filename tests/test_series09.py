@@ -27,7 +27,8 @@ def one(rows, col, value):
 
 def test_checks_pass(t9):
     assert not [c for c in t9["_report"]["checks"] if not c[1]]
-    assert not t9["_report"]["unresolved"] and not t9["discrepancies"]
+    assert not t9["_report"]["unresolved"]
+    assert {d["discrepancy_key"] for d in t9["discrepancies"]} == {"ResultsRound|S09R12a|elimination_mechanism_actual|1"}  # Show 1 mechanism is disputed (A077)
 
 
 def test_no_dance_off_series_a096(t9):

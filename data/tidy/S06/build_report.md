@@ -30,7 +30,7 @@
 | `source_captures.csv` | 2 |
 | `discrepancies.csv` | 4 |
 | `crosscheck/chart_cells.csv` | 240 |
-| `crosscheck/chart_legends.csv` | 5 |
+| `crosscheck/chart_legends.csv` | 8 |
 
 ## Checks
 

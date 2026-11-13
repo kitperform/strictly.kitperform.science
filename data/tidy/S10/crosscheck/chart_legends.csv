@@ -1,7 +1,10 @@
 source_capture_key,colour_norm,meaning_text,scope
-enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,,↑ This couple finished in first place.,scoring
-enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,,"1 2 3 4 5 6 7 8 9 10 This couple was in the bottom two, but was not eliminated.",scoring
-enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,,1 2 This couple finished in second place.,scoring
-enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,,1 2 3 4 5 6 7 8 9 10 11 This couple was eliminated.,scoring
+enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,gold,Winners,scoring
+enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,silver,Runners-up,scoring
+enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,#d1c571,Fourth place,scoring
+enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,lightblue,Bottom two,scoring
+enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,#f4c7b8,Eliminated,scoring
+enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,efn:n9,This couple finished in first place.,scoring
 enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,efn:Bottom2,"This couple was in the bottom two, but was not eliminated.",scoring
+enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,efn:2nd,This couple finished in second place.,scoring
 enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,efn:Elim,This couple was eliminated.,scoring

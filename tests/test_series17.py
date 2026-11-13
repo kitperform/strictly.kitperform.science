@@ -67,7 +67,7 @@ def test_stated_casting_votes_a183_a178(t17):
 def test_will_bayley_a181_a184(t17):
     assert one(t17["couple_weeks"], "couple_week_key", "S17W06-will-bayley")["absence_reason"] == "injury"
     c = one(t17["couples"], "couple_key", "S17-will-bayley")
-    assert c["exit_week_key"] == "S17W07" and c["exit_timing"] == "before_live_show" and c["exit_reason"] == "unspecified" and c["final_placement"] == 10
+    assert c["exit_week_key"] == "S17W07" and c["exit_timing"] == "before_live_show" and c["exit_reason"] == "injury" and c["final_placement"] == 10  # knee injury, stated in the lead
     assert one(t17["results_rounds"], "round_key", "S17R07")["exit_count"] == 1
 
 

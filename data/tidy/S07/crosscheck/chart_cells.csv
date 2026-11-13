@@ -12,7 +12,7 @@ S07|scoring|0|9,enwiki:Strictly_Come_Dancing_series_7:r1383617305:parsoid_html,s
 S07|scoring|0|10,enwiki:Strictly_Come_Dancing_series_7:r1383617305:parsoid_html,scoring,0,10,Chris & Ola,S07-chris-hollins,11,34+7=41,,
 S07|scoring|0|11,enwiki:Strictly_Come_Dancing_series_7:r1383617305:parsoid_html,scoring,0,11,Chris & Ola,S07-chris-hollins,12,41+39=80,,
 S07|scoring|0|12,enwiki:Strictly_Come_Dancing_series_7:r1383617305:parsoid_html,scoring,0,12,Chris & Ola,S07-chris-hollins,13,38+42=80‡,,double_dagger|italic
-S07|scoring|0|13,enwiki:Strictly_Come_Dancing_series_7:r1383617305:parsoid_html,scoring,0,13,Chris & Ola,S07-chris-hollins,14,46+44+50+46=186‡,gold,double_dagger|italic
+S07|scoring|0|13,enwiki:Strictly_Come_Dancing_series_7:r1383617305:parsoid_html,scoring,0,13,Chris & Ola,S07-chris-hollins,14,46+44+50+46=186‡,gold,double_dagger|italic|efn:n7
 S07|scoring|1|0,enwiki:Strictly_Come_Dancing_series_7:r1383617305:parsoid_html,scoring,1,0,Ricky W. & Natalie,S07-ricky-whittle,1,—N/a,"var(--background-color-interactive, #ececec)",
 S07|scoring|1|1,enwiki:Strictly_Come_Dancing_series_7:r1383617305:parsoid_html,scoring,1,1,Ricky W. & Natalie,S07-ricky-whittle,2,33+32=65†,,dagger|bold
 S07|scoring|1|2,enwiki:Strictly_Come_Dancing_series_7:r1383617305:parsoid_html,scoring,1,2,Ricky W. & Natalie,S07-ricky-whittle,3,35†,,dagger|bold
@@ -26,7 +26,7 @@ S07|scoring|1|9,enwiki:Strictly_Come_Dancing_series_7:r1383617305:parsoid_html,s
 S07|scoring|1|10,enwiki:Strictly_Come_Dancing_series_7:r1383617305:parsoid_html,scoring,1,10,Ricky W. & Natalie,S07-ricky-whittle,11,31+9=40,lightblue,efn:Bottom2
 S07|scoring|1|11,enwiki:Strictly_Come_Dancing_series_7:r1383617305:parsoid_html,scoring,1,11,Ricky W. & Natalie,S07-ricky-whittle,12,48+47=95†,lightblue,dagger|bold|efn:Bottom2
 S07|scoring|1|12,enwiki:Strictly_Come_Dancing_series_7:r1383617305:parsoid_html,scoring,1,12,Ricky W. & Natalie,S07-ricky-whittle,13,47+49=96†,,dagger|bold
-S07|scoring|1|13,enwiki:Strictly_Come_Dancing_series_7:r1383617305:parsoid_html,scoring,1,13,Ricky W. & Natalie,S07-ricky-whittle,14,50+43+48+49=190†,silver,dagger|bold
+S07|scoring|1|13,enwiki:Strictly_Come_Dancing_series_7:r1383617305:parsoid_html,scoring,1,13,Ricky W. & Natalie,S07-ricky-whittle,14,50+43+48+49=190†,silver,dagger|bold|efn:n9
 S07|scoring|2|0,enwiki:Strictly_Come_Dancing_series_7:r1383617305:parsoid_html,scoring,2,0,Ali & Brian,S07-ali-bastian,1,30+30=60†,,dagger|bold
 S07|scoring|2|1,enwiki:Strictly_Come_Dancing_series_7:r1383617305:parsoid_html,scoring,2,1,Ali & Brian,S07-ali-bastian,2,—N/a,"var(--background-color-interactive, #ececec)",
 S07|scoring|2|2,enwiki:Strictly_Come_Dancing_series_7:r1383617305:parsoid_html,scoring,2,2,Ali & Brian,S07-ali-bastian,3,32,,
@@ -92,7 +92,7 @@ S07|scoring|6|5,enwiki:Strictly_Come_Dancing_series_7:r1383617305:parsoid_html,s
 S07|scoring|6|6,enwiki:Strictly_Come_Dancing_series_7:r1383617305:parsoid_html,scoring,6,6,Jade & Ian,S07-jade-johnson,7,35,,
 S07|scoring|6|7,enwiki:Strictly_Come_Dancing_series_7:r1383617305:parsoid_html,scoring,6,7,Jade & Ian,S07-jade-johnson,8,33,,
 S07|scoring|6|8,enwiki:Strictly_Come_Dancing_series_7:r1383617305:parsoid_html,scoring,6,8,Jade & Ian,S07-jade-johnson,9,,fff383,efn:OutSick
-S07|scoring|6|9,enwiki:Strictly_Come_Dancing_series_7:r1383617305:parsoid_html,scoring,6,9,Jade & Ian,S07-jade-johnson,10,,lightgreen,
+S07|scoring|6|9,enwiki:Strictly_Come_Dancing_series_7:r1383617305:parsoid_html,scoring,6,9,Jade & Ian,S07-jade-johnson,10,,lightgreen,efn:n12
 S07|scoring|6|10,enwiki:Strictly_Come_Dancing_series_7:r1383617305:parsoid_html,scoring,6,10,Jade & Ian,S07-jade-johnson,11,,darkgrey,rowspan_copy
 S07|scoring|6|11,enwiki:Strictly_Come_Dancing_series_7:r1383617305:parsoid_html,scoring,6,11,Jade & Ian,S07-jade-johnson,12,,darkgrey,rowspan_copy
 S07|scoring|6|12,enwiki:Strictly_Come_Dancing_series_7:r1383617305:parsoid_html,scoring,6,12,Jade & Ian,S07-jade-johnson,13,,darkgrey,rowspan_copy

@@ -73,3 +73,9 @@ def test_labels_and_aliases(t15):
 
 def test_week_one_launch_subsection_ignored_a168(t15):
     assert len(t15["weeks"]) == 13 and one(t15["weeks"], "week_key", "S15W01")["heading_raw"] == "Week 1"
+
+
+def test_bruno_absent_week5_a180(t15):
+    seat = one(t15["panel_seats"], "panel_seat_key", "S15W05-P-jx1")
+    assert seat["judge_slug"] == "bruno-tonioli" and seat["panel_role"] == "absent" and seat["absence_reason"] == "scheduling_conflict" and seat["source_kind"] == "stated"
+    assert one(t15["episodes"], "episode_key", "S15W05-P")["scale_max_stated"] == 30

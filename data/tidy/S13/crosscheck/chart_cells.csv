@@ -13,7 +13,7 @@ S13|scoring|0|10,enwiki:Strictly_Come_Dancing_series_13:r1379239613:parsoid_html
 S13|scoring|0|11,enwiki:Strictly_Come_Dancing_series_13:r1379239613:parsoid_html,scoring,0,11,Jay & Aliona,S13-jay-mcguiness,11,39†,,dagger|bold
 S13|scoring|0|12,enwiki:Strictly_Come_Dancing_series_13:r1379239613:parsoid_html,scoring,0,12,Jay & Aliona,S13-jay-mcguiness,12,34+37=71,,
 S13|scoring|0|13,enwiki:Strictly_Come_Dancing_series_13:r1379239613:parsoid_html,scoring,0,13,Jay & Aliona,S13-jay-mcguiness,13,36+35=71,,
-S13|scoring|0|14,enwiki:Strictly_Come_Dancing_series_13:r1379239613:parsoid_html,scoring,0,14,Jay & Aliona,S13-jay-mcguiness,13,+39=110‡,gold,double_dagger|italic
+S13|scoring|0|14,enwiki:Strictly_Come_Dancing_series_13:r1379239613:parsoid_html,scoring,0,14,Jay & Aliona,S13-jay-mcguiness,13,+39=110‡,gold,double_dagger|italic|efn:n6
 S13|scoring|1|0,enwiki:Strictly_Come_Dancing_series_13:r1379239613:parsoid_html,scoring,1,0,Georgia & Giovanni,S13-georgia-may-foote,1,27,,
 S13|scoring|1|1,enwiki:Strictly_Come_Dancing_series_13:r1379239613:parsoid_html,scoring,1,1,Georgia & Giovanni,S13-georgia-may-foote,2,25,,
 S13|scoring|1|2,enwiki:Strictly_Come_Dancing_series_13:r1379239613:parsoid_html,scoring,1,2,Georgia & Giovanni,S13-georgia-may-foote,1+2,52,,
@@ -28,7 +28,7 @@ S13|scoring|1|10,enwiki:Strictly_Come_Dancing_series_13:r1379239613:parsoid_html
 S13|scoring|1|11,enwiki:Strictly_Come_Dancing_series_13:r1379239613:parsoid_html,scoring,1,11,Georgia & Giovanni,S13-georgia-may-foote,11,36,lightblue,efn:Bottom2
 S13|scoring|1|12,enwiki:Strictly_Come_Dancing_series_13:r1379239613:parsoid_html,scoring,1,12,Georgia & Giovanni,S13-georgia-may-foote,12,33+38=71,,
 S13|scoring|1|13,enwiki:Strictly_Come_Dancing_series_13:r1379239613:parsoid_html,scoring,1,13,Georgia & Giovanni,S13-georgia-may-foote,13,36+36=72,,
-S13|scoring|1|14,enwiki:Strictly_Come_Dancing_series_13:r1379239613:parsoid_html,scoring,1,14,Georgia & Giovanni,S13-georgia-may-foote,13,+40=112,silver,
+S13|scoring|1|14,enwiki:Strictly_Come_Dancing_series_13:r1379239613:parsoid_html,scoring,1,14,Georgia & Giovanni,S13-georgia-may-foote,13,+40=112,silver,efn:2nd
 S13|scoring|2|0,enwiki:Strictly_Come_Dancing_series_13:r1379239613:parsoid_html,scoring,2,0,Kellie & Kevin,S13-kellie-bright,1,27,,
 S13|scoring|2|1,enwiki:Strictly_Come_Dancing_series_13:r1379239613:parsoid_html,scoring,2,1,Kellie & Kevin,S13-kellie-bright,2,27,,
 S13|scoring|2|2,enwiki:Strictly_Come_Dancing_series_13:r1379239613:parsoid_html,scoring,2,2,Kellie & Kevin,S13-kellie-bright,1+2,54,,
@@ -43,7 +43,7 @@ S13|scoring|2|10,enwiki:Strictly_Come_Dancing_series_13:r1379239613:parsoid_html
 S13|scoring|2|11,enwiki:Strictly_Come_Dancing_series_13:r1379239613:parsoid_html,scoring,2,11,Kellie & Kevin,S13-kellie-bright,11,36,,
 S13|scoring|2|12,enwiki:Strictly_Come_Dancing_series_13:r1379239613:parsoid_html,scoring,2,12,Kellie & Kevin,S13-kellie-bright,12,34+39=73†,,dagger|bold
 S13|scoring|2|13,enwiki:Strictly_Come_Dancing_series_13:r1379239613:parsoid_html,scoring,2,13,Kellie & Kevin,S13-kellie-bright,13,40+40=80†,,dagger|bold
-S13|scoring|2|14,enwiki:Strictly_Come_Dancing_series_13:r1379239613:parsoid_html,scoring,2,14,Kellie & Kevin,S13-kellie-bright,13,+39=119†,silver,dagger|bold
+S13|scoring|2|14,enwiki:Strictly_Come_Dancing_series_13:r1379239613:parsoid_html,scoring,2,14,Kellie & Kevin,S13-kellie-bright,13,+39=119†,silver,dagger|bold|efn:2nd
 S13|scoring|3|0,enwiki:Strictly_Come_Dancing_series_13:r1379239613:parsoid_html,scoring,3,0,Katie & Anton,S13-katie-derham,1,26,,
 S13|scoring|3|1,enwiki:Strictly_Come_Dancing_series_13:r1379239613:parsoid_html,scoring,3,1,Katie & Anton,S13-katie-derham,2,28,,
 S13|scoring|3|2,enwiki:Strictly_Come_Dancing_series_13:r1379239613:parsoid_html,scoring,3,2,Katie & Anton,S13-katie-derham,1+2,54,,

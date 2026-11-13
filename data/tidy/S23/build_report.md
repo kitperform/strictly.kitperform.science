@@ -11,17 +11,17 @@
 | `panel_seats.csv` | 53 |
 | `results_rounds.csv` | 11 |
 | `results_round_weeks.csv` | 13 |
-| `people.csv` | 40 |
+| `people.csv` | 42 |
 | `person_aliases.csv` | 4 |
-| `series_people.csv` | 40 |
+| `series_people.csv` | 42 |
 | `couples.csv` | 15 |
 | `couple_partnerships.csv` | 15 |
 | `couple_labels.csv` | 45 |
 | `couple_weeks.csv` | 195 |
-| `performances.csv` | 134 |
-| `performance_music.csv` | 150 |
+| `performances.csv` | 137 |
+| `performance_music.csv` | 151 |
 | `songs.csv` | 136 |
-| `artists.csv` | 102 |
+| `artists.csv` | 103 |
 | `judge_marks.csv` | 512 |
 | `dance_off_votes.csv` | 40 |
 | `dances.csv` | 16 |
@@ -30,7 +30,7 @@
 | `source_captures.csv` | 2 |
 | `discrepancies.csv` | 0 |
 | `crosscheck/chart_cells.csv` | 228 |
-| `crosscheck/chart_legends.csv` | 0 |
+| `crosscheck/chart_legends.csv` | 6 |
 
 ## Checks
 

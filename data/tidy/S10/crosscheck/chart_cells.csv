@@ -12,7 +12,7 @@ S10|scoring|0|9,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,
 S10|scoring|0|10,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,scoring,0,10,Louis & Flavia,S10-louis-smith,10,37,,
 S10|scoring|0|11,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,scoring,0,11,Louis & Flavia,S10-louis-smith,11,31+38=69,,
 S10|scoring|0|12,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,scoring,0,12,Louis & Flavia,S10-louis-smith,12,39+40=79†,,dagger|bold
-S10|scoring|0|13,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,scoring,0,13,Louis & Flavia,S10-louis-smith,12,+39=118‡,gold,double_dagger|italic
+S10|scoring|0|13,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,scoring,0,13,Louis & Flavia,S10-louis-smith,12,+39=118‡,gold,double_dagger|italic|efn:n9
 S10|scoring|1|0,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,scoring,1,0,Denise & James,S10-denise-van-outen,1,25,,
 S10|scoring|1|1,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,scoring,1,1,Denise & James,S10-denise-van-outen,2,32†,,dagger|bold
 S10|scoring|1|2,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,scoring,1,2,Denise & James,S10-denise-van-outen,1+2,57†,,dagger|bold
@@ -26,7 +26,7 @@ S10|scoring|1|9,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,
 S10|scoring|1|10,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,scoring,1,10,Denise & James,S10-denise-van-outen,10,35,lightblue,efn:Bottom2
 S10|scoring|1|11,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,scoring,1,11,Denise & James,S10-denise-van-outen,11,39+38=77,lightblue,efn:Bottom2
 S10|scoring|1|12,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,scoring,1,12,Denise & James,S10-denise-van-outen,12,39+40=79†,,dagger|bold
-S10|scoring|1|13,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,scoring,1,13,Denise & James,S10-denise-van-outen,12,+40=119†,silver,dagger|bold
+S10|scoring|1|13,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,scoring,1,13,Denise & James,S10-denise-van-outen,12,+40=119†,silver,dagger|bold|efn:2nd
 S10|scoring|2|0,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,scoring,2,0,Kimberley & Pasha,S10-kimberley-walsh,1,28,,
 S10|scoring|2|1,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,scoring,2,1,Kimberley & Pasha,S10-kimberley-walsh,2,26,,
 S10|scoring|2|2,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,scoring,2,2,Kimberley & Pasha,S10-kimberley-walsh,1+2,54,,
@@ -40,7 +40,7 @@ S10|scoring|2|9,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,
 S10|scoring|2|10,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,scoring,2,10,Kimberley & Pasha,S10-kimberley-walsh,10,40†,,dagger|bold
 S10|scoring|2|11,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,scoring,2,11,Kimberley & Pasha,S10-kimberley-walsh,11,38+40=78†,,dagger|bold
 S10|scoring|2|12,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,scoring,2,12,Kimberley & Pasha,S10-kimberley-walsh,12,39+39=78,,
-S10|scoring|2|13,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,scoring,2,13,Kimberley & Pasha,S10-kimberley-walsh,12,+40=118‡,silver,double_dagger|italic
+S10|scoring|2|13,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,scoring,2,13,Kimberley & Pasha,S10-kimberley-walsh,12,+40=118‡,silver,double_dagger|italic|efn:2nd
 S10|scoring|3|0,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,scoring,3,0,Dani & Vincent,S10-dani-harmer,1,21,,
 S10|scoring|3|1,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,scoring,3,1,Dani & Vincent,S10-dani-harmer,2,27,,
 S10|scoring|3|2,enwiki:Strictly_Come_Dancing_series_10:r1377712633:parsoid_html,scoring,3,2,Dani & Vincent,S10-dani-harmer,1+2,48,,

@@ -71,7 +71,9 @@ Every series from 1 to 24 builds with all integrity checks passing. Known limits
 - couple-less routines (professional group numbers, the series 8 troupe) and the Christmas and charity specials are not loaded, by decision;
 - presenter and musical-guest appearances are not loaded (the schema exists; see the data model's open questions);
 - a few derived columns listed in the data model (`d_tally_class`, `d_round_total`, `uuid`) are not yet emitted;
-- pre-series professional departures stated only in prose (for example Kevin Clifton leaving before series 18) have no roster rows yet;
+- pre-series departures get roster rows only when the page names a replacement in the same or the next sentence (Nairn → Cope, Dyer → Davies, Laing → Fletcher, Windsor → Whiddon, Slater → Garnis, Lowe → Vilani); a departure with no named replacement (for example Kevin Clifton leaving before series 18) has no row yet;
+- a planned routine is loaded as a `not_performed` performance only when the week prose says the couple "was due to dance" it (series 23 Stefan Dennis, La Voix); music in those rows is not split into songs;
+- exit and absence reasons come from a keyword vocabulary over the prose (`reason_from`); a sentence that names two causes keeps the more specific one (medical advice over illness, injury over illness);
 - each new series needs rows in `curated/series_meta.csv`, `series_panels.csv` and `format_rules.csv`.
 
 ## Local setup

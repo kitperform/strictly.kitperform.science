@@ -19,9 +19,9 @@
 | `couple_labels.csv` | 45 |
 | `couple_weeks.csv` | 195 |
 | `performances.csv` | 149 |
-| `performance_music.csv` | 160 |
+| `performance_music.csv` | 162 |
 | `songs.csv` | 136 |
-| `artists.csv` | 110 |
+| `artists.csv` | 112 |
 | `judge_marks.csv` | 556 |
 | `dance_off_votes.csv` | 43 |
 | `dances.csv` | 15 |
@@ -30,7 +30,7 @@
 | `source_captures.csv` | 2 |
 | `discrepancies.csv` | 0 |
 | `crosscheck/chart_cells.csv` | 210 |
-| `crosscheck/chart_legends.csv` | 7 |
+| `crosscheck/chart_legends.csv` | 9 |
 
 ## Checks
 

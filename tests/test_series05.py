@@ -27,7 +27,9 @@ def one(rows, col, value):
 
 def test_checks_pass(t5):
     assert not [c for c in t5["_report"]["checks"] if not c[1]]
-    assert not t5["_report"]["unresolved"] and not t5["discrepancies"] and not t5["_report"]["warnings"]
+    assert not t5["_report"]["unresolved"] and not t5["_report"]["warnings"]
+    assert {d["discrepancy_key"] for d in t5["discrepancies"]} == {"CoupleWeek|S05W01-kate-garraway|participation_status|1"}
+    assert one(t5["couple_weeks"], "couple_week_key", "S05W01-kate-garraway")["participation_status"] == "not_scheduled"
 
 
 def test_preview_and_sunday_results_a038_a039(t5):
@@ -64,7 +66,7 @@ def test_kelly_brook_a037(t5):
 
 def test_final_four_routines_a036(t5):
     alesha = [p for p in t5["performances"] if p["couple_key"] == "S05-alesha-dixon" and p["week_key"] == "S05W12"]
-    assert [p["selection_role"] for p in alesha] == ["repeat_favourite_ballroom", "repeat_favourite_latin", "unlearned", "showdance"]
+    assert [p["selection_role"] for p in alesha] == ["repeat_favourite_ballroom", "repeat_favourite_latin", "same_song", "showdance"]
     assert alesha[3]["scoring_mode"] == "unscored" and alesha[3]["stated_total"] == ""
     assert one(t5["couple_weeks"], "couple_week_key", "S05W12-alesha-dixon")["d_week_total"] == 112
     assert one(t5["couples"], "couple_key", "S05-alesha-dixon")["final_placement"] == 1

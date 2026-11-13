@@ -12,7 +12,7 @@ S17|scoring|0|9,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,
 S17|scoring|0|10,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,0,10,Kelvin & Oti,S17-kelvin-fletcher,10,38†,,dagger|bold
 S17|scoring|0|11,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,0,11,Kelvin & Oti,S17-kelvin-fletcher,11,39,,
 S17|scoring|0|12,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,0,12,Kelvin & Oti,S17-kelvin-fletcher,12,40+37=77†,,dagger|bold
-S17|scoring|0|13,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,0,13,Kelvin & Oti,S17-kelvin-fletcher,13,39+40+39=118,gold,
+S17|scoring|0|13,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,0,13,Kelvin & Oti,S17-kelvin-fletcher,13,39+40+39=118,gold,efn:n18
 S17|scoring|1|0,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,1,0,Emma B. & Anton,S17-emma-barton,1,23,,
 S17|scoring|1|1,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,1,1,Emma B. & Anton,S17-emma-barton,2,24,,
 S17|scoring|1|2,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,1,2,Emma B. & Anton,S17-emma-barton,1+2,47,,
@@ -26,7 +26,7 @@ S17|scoring|1|9,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,
 S17|scoring|1|10,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,1,10,Emma B. & Anton,S17-emma-barton,10,29,,
 S17|scoring|1|11,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,1,11,Emma B. & Anton,S17-emma-barton,11,39,,
 S17|scoring|1|12,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,1,12,Emma B. & Anton,S17-emma-barton,12,31+36=67,,
-S17|scoring|1|13,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,1,13,Emma B. & Anton,S17-emma-barton,13,39+38+39=116‡,silver,double_dagger|italic
+S17|scoring|1|13,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,1,13,Emma B. & Anton,S17-emma-barton,13,39+38+39=116‡,silver,double_dagger|italic|efn:2nd
 S17|scoring|2|0,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,2,0,Karim & Amy,S17-karim-zeroual,1,31,,
 S17|scoring|2|1,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,2,1,Karim & Amy,S17-karim-zeroual,2,32†,,dagger|bold
 S17|scoring|2|2,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,2,2,Karim & Amy,S17-karim-zeroual,1+2,63†,,dagger|bold
@@ -40,7 +40,7 @@ S17|scoring|2|9,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,
 S17|scoring|2|10,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,2,10,Karim & Amy,S17-karim-zeroual,10,38†,lightblue,dagger|bold|efn:Bottom2
 S17|scoring|2|11,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,2,11,Karim & Amy,S17-karim-zeroual,11,40†,,dagger|bold
 S17|scoring|2|12,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,2,12,Karim & Amy,S17-karim-zeroual,12,36+38=74,lightblue,efn:Bottom2
-S17|scoring|2|13,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,2,13,Karim & Amy,S17-karim-zeroual,13,40+39+40=119†,silver,dagger|bold
+S17|scoring|2|13,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,2,13,Karim & Amy,S17-karim-zeroual,13,40+39+40=119†,silver,dagger|bold|efn:2nd
 S17|scoring|3|0,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,3,0,Chris & Karen,S17-chris-ramsey,1,13,,
 S17|scoring|3|1,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,3,1,Chris & Karen,S17-chris-ramsey,2,26,,
 S17|scoring|3|2,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,3,2,Chris & Karen,S17-chris-ramsey,1+2,39,,
@@ -132,7 +132,7 @@ S17|scoring|9|3,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,
 S17|scoring|9|4,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,9,4,Will & Janette,S17-will-bayley,4,24,,
 S17|scoring|9|5,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,9,5,Will & Janette,S17-will-bayley,5,32,,
 S17|scoring|9|6,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,9,6,Will & Janette,S17-will-bayley,6,,fff383,efn:Sick
-S17|scoring|9|7,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,9,7,Will & Janette,S17-will-bayley,7,,lightgreen,
+S17|scoring|9|7,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,9,7,Will & Janette,S17-will-bayley,7,,lightgreen,efn:n23
 S17|scoring|9|8,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,9,8,Will & Janette,S17-will-bayley,8,,darkgray,rowspan_copy
 S17|scoring|9|9,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,9,9,Will & Janette,S17-will-bayley,9,,darkgray,rowspan_copy
 S17|scoring|9|10,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,9,10,Will & Janette,S17-will-bayley,10,,darkgray,rowspan_copy
@@ -167,20 +167,20 @@ S17|scoring|11|10,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_htm
 S17|scoring|11|11,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,11,11,David & Nadiya,S17-david-james,11,,darkgray,rowspan_copy
 S17|scoring|11|12,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,11,12,David & Nadiya,S17-david-james,12,,darkgray,rowspan_copy
 S17|scoring|11|13,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,11,13,David & Nadiya,S17-david-james,13,,darkgray,rowspan_copy
-S17|scoring|12|0,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,12,0,Dev & Dianne,S17-dev,1,30,,
-S17|scoring|12|1,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,12,1,Dev & Dianne,S17-dev,2,27,,
-S17|scoring|12|2,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,12,2,Dev & Dianne,S17-dev,1+2,57,,
-S17|scoring|12|3,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,12,3,Dev & Dianne,S17-dev,3,36,,
-S17|scoring|12|4,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,12,4,Dev & Dianne,S17-dev,4,27,f4c7b8,efn:Elim
-S17|scoring|12|5,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,12,5,Dev & Dianne,S17-dev,5,,darkgray,
-S17|scoring|12|6,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,12,6,Dev & Dianne,S17-dev,6,,darkgray,rowspan_copy
-S17|scoring|12|7,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,12,7,Dev & Dianne,S17-dev,7,,darkgray,rowspan_copy
-S17|scoring|12|8,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,12,8,Dev & Dianne,S17-dev,8,,darkgray,rowspan_copy
-S17|scoring|12|9,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,12,9,Dev & Dianne,S17-dev,9,,darkgray,rowspan_copy
-S17|scoring|12|10,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,12,10,Dev & Dianne,S17-dev,10,,darkgray,rowspan_copy
-S17|scoring|12|11,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,12,11,Dev & Dianne,S17-dev,11,,darkgray,rowspan_copy
-S17|scoring|12|12,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,12,12,Dev & Dianne,S17-dev,12,,darkgray,rowspan_copy
-S17|scoring|12|13,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,12,13,Dev & Dianne,S17-dev,13,,darkgray,rowspan_copy
+S17|scoring|12|0,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,12,0,Dev & Dianne,S17-dev-dj,1,30,,
+S17|scoring|12|1,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,12,1,Dev & Dianne,S17-dev-dj,2,27,,
+S17|scoring|12|2,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,12,2,Dev & Dianne,S17-dev-dj,1+2,57,,
+S17|scoring|12|3,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,12,3,Dev & Dianne,S17-dev-dj,3,36,,
+S17|scoring|12|4,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,12,4,Dev & Dianne,S17-dev-dj,4,27,f4c7b8,efn:Elim
+S17|scoring|12|5,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,12,5,Dev & Dianne,S17-dev-dj,5,,darkgray,
+S17|scoring|12|6,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,12,6,Dev & Dianne,S17-dev-dj,6,,darkgray,rowspan_copy
+S17|scoring|12|7,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,12,7,Dev & Dianne,S17-dev-dj,7,,darkgray,rowspan_copy
+S17|scoring|12|8,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,12,8,Dev & Dianne,S17-dev-dj,8,,darkgray,rowspan_copy
+S17|scoring|12|9,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,12,9,Dev & Dianne,S17-dev-dj,9,,darkgray,rowspan_copy
+S17|scoring|12|10,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,12,10,Dev & Dianne,S17-dev-dj,10,,darkgray,rowspan_copy
+S17|scoring|12|11,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,12,11,Dev & Dianne,S17-dev-dj,11,,darkgray,rowspan_copy
+S17|scoring|12|12,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,12,12,Dev & Dianne,S17-dev-dj,12,,darkgray,rowspan_copy
+S17|scoring|12|13,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,12,13,Dev & Dianne,S17-dev-dj,13,,darkgray,rowspan_copy
 S17|scoring|13|0,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,13,0,Anneka & Kevin,S17-anneka-rice,1,14,,
 S17|scoring|13|1,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,13,1,Anneka & Kevin,S17-anneka-rice,2,19,,
 S17|scoring|13|2,enwiki:Strictly_Come_Dancing_series_17:r1379095924:parsoid_html,scoring,13,2,Anneka & Kevin,S17-anneka-rice,1+2,33,,

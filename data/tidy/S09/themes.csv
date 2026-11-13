@@ -1,5 +1,5 @@
 theme_key,name,theme_reference_kind,is_location_theme,wiki_title,source_capture_key,source_locator,source_kind,note
-broadway-night,Broadway Night,none,false,,enwiki:Strictly_Come_Dancing_series_9:r1383264459:parsoid_html,section=Week 3: Broadway Night,stated,
+broadway-night,Broadway Night,broadway_musical,false,,enwiki:Strictly_Come_Dancing_series_9:r1383264459:parsoid_html,section=Week 3: Broadway Night,stated,
 halloween-night,Halloween Night,none,false,,enwiki:Strictly_Come_Dancing_series_9:r1383264459:parsoid_html,section=Week 5: Halloween Night,stated,
 best-of-britain-week,Best of Britain Week,none,true,,enwiki:Strictly_Come_Dancing_series_9:r1383264459:parsoid_html,section=Week 8: Best of Britain Week,stated,
 movie-night,Movie Night,film,false,,enwiki:Strictly_Come_Dancing_series_9:r1383264459:parsoid_html,section=Week 10: Movie Night (Quarter-final),stated,

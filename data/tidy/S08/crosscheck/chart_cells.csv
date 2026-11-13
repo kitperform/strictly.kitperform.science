@@ -12,7 +12,7 @@ S08|scoring|0|9,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,s
 S08|scoring|0|10,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,scoring,0,10,Kara & Artem,S08-kara-tointon,10,38,,
 S08|scoring|0|11,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,scoring,0,11,Kara & Artem,S08-kara-tointon,11,39+5+39=83†,,dagger|bold
 S08|scoring|0|12,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,scoring,0,12,Kara & Artem,S08-kara-tointon,12,39+36=75,,
-S08|scoring|0|13,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,scoring,0,13,Kara & Artem,S08-kara-tointon,12,+38+37=150†,gold,dagger|bold
+S08|scoring|0|13,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,scoring,0,13,Kara & Artem,S08-kara-tointon,12,+38+37=150†,gold,dagger|bold|efn:n5
 S08|scoring|1|0,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,scoring,1,0,Matt & Aliona,S08-matt-baker,1,31†,,dagger|bold
 S08|scoring|1|1,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,scoring,1,1,Matt & Aliona,S08-matt-baker,2,31,,
 S08|scoring|1|2,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,scoring,1,2,Matt & Aliona,S08-matt-baker,1+2,62,,
@@ -26,7 +26,7 @@ S08|scoring|1|9,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,s
 S08|scoring|1|10,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,scoring,1,10,Matt & Aliona,S08-matt-baker,10,35,,
 S08|scoring|1|11,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,scoring,1,11,Matt & Aliona,S08-matt-baker,11,28+4+38=70,,
 S08|scoring|1|12,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,scoring,1,12,Matt & Aliona,S08-matt-baker,12,38+34=72‡,,double_dagger|italic
-S08|scoring|1|13,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,scoring,1,13,Matt & Aliona,S08-matt-baker,12,+35+37=144‡,silver,double_dagger|italic
+S08|scoring|1|13,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,scoring,1,13,Matt & Aliona,S08-matt-baker,12,+35+37=144‡,silver,double_dagger|italic|efn:n6
 S08|scoring|2|0,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,scoring,2,0,Pamela & James,S08-pamela-stephenson,1,31†,,dagger|bold
 S08|scoring|2|1,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,scoring,2,1,Pamela & James,S08-pamela-stephenson,2,32†,,dagger|bold
 S08|scoring|2|2,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,scoring,2,2,Pamela & James,S08-pamela-stephenson,1+2,63†,,dagger|bold
@@ -39,7 +39,7 @@ S08|scoring|2|8,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,s
 S08|scoring|2|9,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,scoring,2,9,Pamela & James,S08-pamela-stephenson,9,38†,,dagger|bold
 S08|scoring|2|10,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,scoring,2,10,Pamela & James,S08-pamela-stephenson,10,40†,,dagger|bold
 S08|scoring|2|11,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,scoring,2,11,Pamela & James,S08-pamela-stephenson,11,35+3+40=78,,
-S08|scoring|2|12,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,scoring,2,12,Pamela & James,S08-pamela-stephenson,12,40+37=77†,tan,dagger|bold
+S08|scoring|2|12,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,scoring,2,12,Pamela & James,S08-pamela-stephenson,12,40+37=77†,tan,dagger|bold|efn:n7
 S08|scoring|2|13,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,scoring,2,13,Pamela & James,S08-pamela-stephenson,12,,darkgrey,
 S08|scoring|3|0,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,scoring,3,0,Scott & Natalie,S08-scott-maslen,1,29,,
 S08|scoring|3|1,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,scoring,3,1,Scott & Natalie,S08-scott-maslen,2,32†,,dagger|bold

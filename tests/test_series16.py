@@ -73,3 +73,8 @@ def test_final_and_couples_choice_a172_a176(t16):
     assert {d["dance_key"] for d in t16["dances"]} >= {"contemporary", "theatre-jazz", "street-commercial"}
     assert one(t16["couples"], "chart_label", "Dr. Ranj & Janette")["celebrity_display_name"] == "Dr. Ranj Singh"
     assert len(t16["performances"]) == 149 and len(t16["judge_marks"]) == 568
+
+
+def test_unpartnered_pros_named_by_surname_a177(t16):
+    un = {r["person_key"] for r in t16["series_people"] if r["role"] == "professional" and r["roster_status"] == "unpartnered"}
+    assert un == {"luba-mushtuk", "johannes-radebe"}

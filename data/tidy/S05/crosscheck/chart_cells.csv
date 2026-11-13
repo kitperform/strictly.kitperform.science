@@ -10,7 +10,7 @@ S05|scoring|0|7,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,s
 S05|scoring|0|8,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,scoring,0,8,Alesha & Matthew,S05-alesha-dixon,9,38+36=74†,,dagger|bold
 S05|scoring|0|9,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,scoring,0,9,Alesha & Matthew,S05-alesha-dixon,10,38+36=74,lightblue,efn:Bottom2
 S05|scoring|0|10,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,scoring,0,10,Alesha & Matthew,S05-alesha-dixon,11,38+38=76†,,dagger|bold
-S05|scoring|0|11,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,scoring,0,11,Alesha & Matthew,S05-alesha-dixon,12,39+38+35=112†,gold,dagger|bold
+S05|scoring|0|11,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,scoring,0,11,Alesha & Matthew,S05-alesha-dixon,12,39+38+35=112†,gold,dagger|bold|efn:n3
 S05|scoring|1|0,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,scoring,1,0,Matt & Flavia,S05-matt-di-angelo,1,23,,
 S05|scoring|1|1,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,scoring,1,1,Matt & Flavia,S05-matt-di-angelo,2,—N/a,"var(--background-color-interactive, #ececec)",
 S05|scoring|1|2,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,scoring,1,2,Matt & Flavia,S05-matt-di-angelo,3,30,,
@@ -22,7 +22,7 @@ S05|scoring|1|7,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,s
 S05|scoring|1|8,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,scoring,1,8,Matt & Flavia,S05-matt-di-angelo,9,32+33=65,,
 S05|scoring|1|9,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,scoring,1,9,Matt & Flavia,S05-matt-di-angelo,10,26+29=55‡,,double_dagger|italic
 S05|scoring|1|10,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,scoring,1,10,Matt & Flavia,S05-matt-di-angelo,11,35+40=75,lightblue,efn:Bottom2
-S05|scoring|1|11,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,scoring,1,11,Matt & Flavia,S05-matt-di-angelo,12,36+39+35=110‡,silver,double_dagger|italic
+S05|scoring|1|11,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,scoring,1,11,Matt & Flavia,S05-matt-di-angelo,12,36+39+35=110‡,silver,double_dagger|italic|efn:n4
 S05|scoring|2|0,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,scoring,2,0,Gethin & Camilla,S05-gethin-jones,1,22,,
 S05|scoring|2|1,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,scoring,2,1,Gethin & Camilla,S05-gethin-jones,2,—N/a,"var(--background-color-interactive, #ececec)",
 S05|scoring|2|2,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,scoring,2,2,Gethin & Camilla,S05-gethin-jones,3,29,,
@@ -67,7 +67,7 @@ S05|scoring|5|4,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,s
 S05|scoring|5|5,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,scoring,5,5,Kelly & Brendan,S05-kelly-brook,6,36†,,dagger|bold
 S05|scoring|5|6,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,scoring,5,6,Kelly & Brendan,S05-kelly-brook,7,36,,
 S05|scoring|5|7,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,scoring,5,7,Kelly & Brendan,S05-kelly-brook,8,29,lightblue,efn:Bottom2
-S05|scoring|5|8,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,scoring,5,8,Kelly & Brendan,S05-kelly-brook,9,,lightgreen,
+S05|scoring|5|8,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,scoring,5,8,Kelly & Brendan,S05-kelly-brook,9,,lightgreen,efn:n6
 S05|scoring|5|9,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,scoring,5,9,Kelly & Brendan,S05-kelly-brook,10,,darkgray,rowspan_copy
 S05|scoring|5|10,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,scoring,5,10,Kelly & Brendan,S05-kelly-brook,11,,darkgray,rowspan_copy
 S05|scoring|5|11,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,scoring,5,11,Kelly & Brendan,S05-kelly-brook,12,,darkgray,rowspan_copy

@@ -28,9 +28,9 @@
 | `themes.csv` | 4 |
 | `venues.csv` | 3 |
 | `source_captures.csv` | 2 |
-| `discrepancies.csv` | 0 |
+| `discrepancies.csv` | 1 |
 | `crosscheck/chart_cells.csv` | 196 |
-| `crosscheck/chart_legends.csv` | 7 |
+| `crosscheck/chart_legends.csv` | 10 |
 
 ## Checks
 

@@ -12,7 +12,7 @@ S16|scoring|0|9,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,
 S16|scoring|0|10,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,scoring,0,10,Stacey & Kevin,S16-stacey-dooley,10,39+4=43,,
 S16|scoring|0|11,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,scoring,0,11,Stacey & Kevin,S16-stacey-dooley,11,38,,
 S16|scoring|0|12,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,scoring,0,12,Stacey & Kevin,S16-stacey-dooley,12,39+36=75,,
-S16|scoring|0|13,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,scoring,0,13,Stacey & Kevin,S16-stacey-dooley,13,39+36+39=114‡,gold,double_dagger|italic
+S16|scoring|0|13,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,scoring,0,13,Stacey & Kevin,S16-stacey-dooley,13,39+36+39=114‡,gold,double_dagger|italic|efn:n12
 S16|scoring|1|0,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,scoring,1,0,Ashley & Pasha,S16-ashley-roberts,1,29†,,dagger|bold
 S16|scoring|1|1,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,scoring,1,1,Ashley & Pasha,S16-ashley-roberts,2,32†,,dagger|bold
 S16|scoring|1|2,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,scoring,1,2,Ashley & Pasha,S16-ashley-roberts,1+2,61†,,dagger|bold
@@ -26,7 +26,7 @@ S16|scoring|1|9,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,
 S16|scoring|1|10,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,scoring,1,10,Ashley & Pasha,S16-ashley-roberts,10,36+7=43,lightblue,efn:Bottom2
 S16|scoring|1|11,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,scoring,1,11,Ashley & Pasha,S16-ashley-roberts,11,38,lightblue,efn:Bottom2
 S16|scoring|1|12,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,scoring,1,12,Ashley & Pasha,S16-ashley-roberts,12,36+40=76†,lightblue,dagger|bold|efn:Bottom2
-S16|scoring|1|13,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,scoring,1,13,Ashley & Pasha,S16-ashley-roberts,13,40+40+40=120†,silver,dagger|bold
+S16|scoring|1|13,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,scoring,1,13,Ashley & Pasha,S16-ashley-roberts,13,40+40+40=120†,silver,dagger|bold|efn:2nd
 S16|scoring|2|0,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,scoring,2,0,Faye & Giovanni,S16-faye-tozer,1,29†,,dagger|bold
 S16|scoring|2|1,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,scoring,2,1,Faye & Giovanni,S16-faye-tozer,2,31,,
 S16|scoring|2|2,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,scoring,2,2,Faye & Giovanni,S16-faye-tozer,1+2,60,,
@@ -40,7 +40,7 @@ S16|scoring|2|9,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,
 S16|scoring|2|10,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,scoring,2,10,Faye & Giovanni,S16-faye-tozer,10,39+6=45†,,dagger|bold
 S16|scoring|2|11,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,scoring,2,11,Faye & Giovanni,S16-faye-tozer,11,40†,,dagger|bold
 S16|scoring|2|12,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,scoring,2,12,Faye & Giovanni,S16-faye-tozer,12,37+39=76†,,dagger|bold
-S16|scoring|2|13,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,scoring,2,13,Faye & Giovanni,S16-faye-tozer,13,40+40+40=120†,silver,dagger|bold
+S16|scoring|2|13,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,scoring,2,13,Faye & Giovanni,S16-faye-tozer,13,40+40+40=120†,silver,dagger|bold|efn:2nd
 S16|scoring|3|0,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,scoring,3,0,Joe & Dianne,S16-joe-sugg,1,27,,
 S16|scoring|3|1,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,scoring,3,1,Joe & Dianne,S16-joe-sugg,2,31,,
 S16|scoring|3|2,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,scoring,3,2,Joe & Dianne,S16-joe-sugg,1+2,58,,
@@ -54,7 +54,7 @@ S16|scoring|3|9,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,
 S16|scoring|3|10,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,scoring,3,10,Joe & Dianne,S16-joe-sugg,10,35+5=40,,
 S16|scoring|3|11,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,scoring,3,11,Joe & Dianne,S16-joe-sugg,11,36,,
 S16|scoring|3|12,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,scoring,3,12,Joe & Dianne,S16-joe-sugg,12,29+30=59,,
-S16|scoring|3|13,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,scoring,3,13,Joe & Dianne,S16-joe-sugg,13,39+39+38=116,silver,
+S16|scoring|3|13,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,scoring,3,13,Joe & Dianne,S16-joe-sugg,13,39+39+38=116,silver,efn:2nd
 S16|scoring|4|0,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,scoring,4,0,Lauren & AJ,S16-lauren-steadman,1,25,,
 S16|scoring|4|1,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,scoring,4,1,Lauren & AJ,S16-lauren-steadman,2,22,,
 S16|scoring|4|2,enwiki:Strictly_Come_Dancing_series_16:r1379239525:parsoid_html,scoring,4,2,Lauren & AJ,S16-lauren-steadman,1+2,47,,

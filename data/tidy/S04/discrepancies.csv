@@ -1,1 +1,2 @@
 discrepancy_key,table_name,natural_key,field_name,value_a,source_capture_a_key,locator_a,value_b,value_b_origin,source_capture_b_key,locator_b,resolution,note
+CoupleWeek|S04W02-jimmy-tarbuck|participation_status|1,CoupleWeek,S04W02-jimmy-tarbuck,participation_status,not_scheduled,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,section=Dance chart; row=Jimmy & Flavia; col=2,group_only,capture,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,section=Week 2; prose,prefer_a,"table encoding beats generic prose (rule W2, A034/A030)"

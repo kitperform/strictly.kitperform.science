@@ -27,7 +27,8 @@ def one(rows, col, value):
 
 def test_checks_pass(t20):
     assert not [c for c in t20["_report"]["checks"] if not c[1]]
-    assert not t20["_report"]["unresolved"] and not t20["discrepancies"] and not t20["_report"]["warnings"]
+    assert not t20["_report"]["unresolved"] and not t20["_report"]["warnings"]
+    assert {d["discrepancy_key"] for d in t20["discrepancies"]} == {"Couple|S20-kym-marsh|exit_date|1", "Couple|S20-will-mellor|exit_date|1"}  # Couples-table date vs results broadcast (A004)
 
 
 def test_tony_adams_cancelled_dance_off_a226(t20):

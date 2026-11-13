@@ -13,7 +13,7 @@ S11|scoring|0|10,enwiki:Strictly_Come_Dancing_series_11:r1377712722:parsoid_html
 S11|scoring|0|11,enwiki:Strictly_Come_Dancing_series_11:r1377712722:parsoid_html,scoring,0,11,Abbey & Aljaž,S11-abbey-clancy,11,37+3=40,,
 S11|scoring|0|12,enwiki:Strictly_Come_Dancing_series_11:r1377712722:parsoid_html,scoring,0,12,Abbey & Aljaž,S11-abbey-clancy,12,39+39=78†,,dagger|bold
 S11|scoring|0|13,enwiki:Strictly_Come_Dancing_series_11:r1377712722:parsoid_html,scoring,0,13,Abbey & Aljaž,S11-abbey-clancy,13,40+38=78,,
-S11|scoring|0|14,enwiki:Strictly_Come_Dancing_series_11:r1377712722:parsoid_html,scoring,0,14,Abbey & Aljaž,S11-abbey-clancy,13,+38=116,gold,
+S11|scoring|0|14,enwiki:Strictly_Come_Dancing_series_11:r1377712722:parsoid_html,scoring,0,14,Abbey & Aljaž,S11-abbey-clancy,13,+38=116,gold,efn:n10
 S11|scoring|1|0,enwiki:Strictly_Come_Dancing_series_11:r1377712722:parsoid_html,scoring,1,0,Natalie & Artem,S11-natalie-gumede,1,31,,
 S11|scoring|1|1,enwiki:Strictly_Come_Dancing_series_11:r1377712722:parsoid_html,scoring,1,1,Natalie & Artem,S11-natalie-gumede,2,34,,
 S11|scoring|1|2,enwiki:Strictly_Come_Dancing_series_11:r1377712722:parsoid_html,scoring,1,2,Natalie & Artem,S11-natalie-gumede,1+2,65†,,dagger|bold
@@ -28,7 +28,7 @@ S11|scoring|1|10,enwiki:Strictly_Come_Dancing_series_11:r1377712722:parsoid_html
 S11|scoring|1|11,enwiki:Strictly_Come_Dancing_series_11:r1377712722:parsoid_html,scoring,1,11,Natalie & Artem,S11-natalie-gumede,11,35+6=41†,,dagger|bold
 S11|scoring|1|12,enwiki:Strictly_Come_Dancing_series_11:r1377712722:parsoid_html,scoring,1,12,Natalie & Artem,S11-natalie-gumede,12,40+38=78†,lightblue,dagger|bold|efn:Bottom2
 S11|scoring|1|13,enwiki:Strictly_Come_Dancing_series_11:r1377712722:parsoid_html,scoring,1,13,Natalie & Artem,S11-natalie-gumede,13,39+40=79†,,dagger|bold
-S11|scoring|1|14,enwiki:Strictly_Come_Dancing_series_11:r1377712722:parsoid_html,scoring,1,14,Natalie & Artem,S11-natalie-gumede,13,+40=119†,silver,dagger|bold
+S11|scoring|1|14,enwiki:Strictly_Come_Dancing_series_11:r1377712722:parsoid_html,scoring,1,14,Natalie & Artem,S11-natalie-gumede,13,+40=119†,silver,dagger|bold|efn:2nd
 S11|scoring|2|0,enwiki:Strictly_Come_Dancing_series_11:r1377712722:parsoid_html,scoring,2,0,Susanna & Kevin,S11-susanna-reid,1,28,,
 S11|scoring|2|1,enwiki:Strictly_Come_Dancing_series_11:r1377712722:parsoid_html,scoring,2,1,Susanna & Kevin,S11-susanna-reid,2,31,,
 S11|scoring|2|2,enwiki:Strictly_Come_Dancing_series_11:r1377712722:parsoid_html,scoring,2,2,Susanna & Kevin,S11-susanna-reid,1+2,59,,
@@ -43,7 +43,7 @@ S11|scoring|2|10,enwiki:Strictly_Come_Dancing_series_11:r1377712722:parsoid_html
 S11|scoring|2|11,enwiki:Strictly_Come_Dancing_series_11:r1377712722:parsoid_html,scoring,2,11,Susanna & Kevin,S11-susanna-reid,11,32+1=33‡,,double_dagger|italic
 S11|scoring|2|12,enwiki:Strictly_Come_Dancing_series_11:r1377712722:parsoid_html,scoring,2,12,Susanna & Kevin,S11-susanna-reid,12,38+32=70,,
 S11|scoring|2|13,enwiki:Strictly_Come_Dancing_series_11:r1377712722:parsoid_html,scoring,2,13,Susanna & Kevin,S11-susanna-reid,13,37+36=73‡,,double_dagger|italic
-S11|scoring|2|14,enwiki:Strictly_Come_Dancing_series_11:r1377712722:parsoid_html,scoring,2,14,Susanna & Kevin,S11-susanna-reid,13,+39=112‡,silver,double_dagger|italic
+S11|scoring|2|14,enwiki:Strictly_Come_Dancing_series_11:r1377712722:parsoid_html,scoring,2,14,Susanna & Kevin,S11-susanna-reid,13,+39=112‡,silver,double_dagger|italic|efn:2nd
 S11|scoring|3|0,enwiki:Strictly_Come_Dancing_series_11:r1377712722:parsoid_html,scoring,3,0,Sophie & Brendan,S11-sophie-ellis-bextor,1,28,,
 S11|scoring|3|1,enwiki:Strictly_Come_Dancing_series_11:r1377712722:parsoid_html,scoring,3,1,Sophie & Brendan,S11-sophie-ellis-bextor,2,36†,,dagger|bold
 S11|scoring|3|2,enwiki:Strictly_Come_Dancing_series_11:r1377712722:parsoid_html,scoring,3,2,Sophie & Brendan,S11-sophie-ellis-bextor,1+2,64,,

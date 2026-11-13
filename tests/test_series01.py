@@ -47,7 +47,7 @@ def test_week_one_and_two_combined_a001(t1):
 
 def test_week_five_date_conflict_a004(t1):
     ep = one(t1["episodes"], "episode_key", "S01W05-P")
-    assert ep["air_date"] == "2004-06-12" and ep["air_date_source"] == "couples_table" and ep["source_kind"] == "disputed" and ep["episode_kind"] == "performance_and_results"
+    assert ep["air_date"] == "2004-06-12" and ep["air_date_source"] == "couples_table" and ep["source_kind"] == "editorial" and ep["episode_kind"] == "performance_and_results"
     d = one(t1["discrepancies"], "natural_key", "S01W05-P")
     assert d["value_a"] == "2004-06-12" and d["value_b"] == "2004-06-13" and d["resolution"] == "prefer_a"
     claire = one(t1["couples"], "couple_key", "S01-claire-sweeney")

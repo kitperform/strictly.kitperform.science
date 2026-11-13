@@ -12,7 +12,7 @@ S20|scoring|0|9,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,
 S20|scoring|0|10,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,0,10,Hamza & Jowita,S20-hamza-yassin,10,37,,
 S20|scoring|0|11,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,0,11,Hamza & Jowita,S20-hamza-yassin,11,36,,
 S20|scoring|0|12,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,0,12,Hamza & Jowita,S20-hamza-yassin,12,39+37=76†,,dagger|bold
-S20|scoring|0|13,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,0,13,Hamza & Jowita,S20-hamza-yassin,13,39+34+40=113‡,gold,double_dagger|italic
+S20|scoring|0|13,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,0,13,Hamza & Jowita,S20-hamza-yassin,13,39+34+40=113‡,gold,double_dagger|italic|efn:n22
 S20|scoring|1|0,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,1,0,Fleur & Vito,S20-fleur-east,1,29,,
 S20|scoring|1|1,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,1,1,Fleur & Vito,S20-fleur-east,2,28,,
 S20|scoring|1|2,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,1,2,Fleur & Vito,S20-fleur-east,1+2,57,,
@@ -26,7 +26,7 @@ S20|scoring|1|9,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,
 S20|scoring|1|10,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,1,10,Fleur & Vito,S20-fleur-east,10,35,lightblue,efn:Bottom2
 S20|scoring|1|11,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,1,11,Fleur & Vito,S20-fleur-east,11,38,,
 S20|scoring|1|12,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,1,12,Fleur & Vito,S20-fleur-east,12,35+39=74,lightblue,efn:Bottom2
-S20|scoring|1|13,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,1,13,Fleur & Vito,S20-fleur-east,13,40+39+40=119†,silver,dagger|bold
+S20|scoring|1|13,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,1,13,Fleur & Vito,S20-fleur-east,13,40+39+40=119†,silver,dagger|bold|efn:2nd
 S20|scoring|2|0,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,2,0,Helen & Gorka,S20-helen-skelton,1,26,,
 S20|scoring|2|1,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,2,1,Helen & Gorka,S20-helen-skelton,2,27,,
 S20|scoring|2|2,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,2,2,Helen & Gorka,S20-helen-skelton,1+2,53,,
@@ -40,7 +40,7 @@ S20|scoring|2|9,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,
 S20|scoring|2|10,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,2,10,Helen & Gorka,S20-helen-skelton,10,29,,
 S20|scoring|2|11,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,2,11,Helen & Gorka,S20-helen-skelton,11,39†,,dagger|bold
 S20|scoring|2|12,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,2,12,Helen & Gorka,S20-helen-skelton,12,35+37=72,,
-S20|scoring|2|13,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,2,13,Helen & Gorka,S20-helen-skelton,13,39+37+40=116,silver,
+S20|scoring|2|13,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,2,13,Helen & Gorka,S20-helen-skelton,13,39+37+40=116,silver,efn:2nd
 S20|scoring|3|0,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,3,0,Molly & Carlos,S20-molly-rainford,1,31,,
 S20|scoring|3|1,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,3,1,Molly & Carlos,S20-molly-rainford,2,34†,,dagger|bold
 S20|scoring|3|2,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,3,2,Molly & Carlos,S20-molly-rainford,1+2,65†,,dagger|bold
@@ -54,7 +54,7 @@ S20|scoring|3|9,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,
 S20|scoring|3|10,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,3,10,Molly & Carlos,S20-molly-rainford,10,35,,
 S20|scoring|3|11,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,3,11,Molly & Carlos,S20-molly-rainford,11,38,lightblue,efn:Bottom2
 S20|scoring|3|12,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,3,12,Molly & Carlos,S20-molly-rainford,12,36+39=75,,
-S20|scoring|3|13,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,3,13,Molly & Carlos,S20-molly-rainford,13,39+37+39=115,silver,
+S20|scoring|3|13,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,3,13,Molly & Carlos,S20-molly-rainford,13,39+37+39=115,silver,efn:2nd
 S20|scoring|4|0,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,4,0,Will & Nancy,S20-will-mellor,1,34†,,dagger|bold
 S20|scoring|4|1,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,4,1,Will & Nancy,S20-will-mellor,2,26,,
 S20|scoring|4|2,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,4,2,Will & Nancy,S20-will-mellor,1+2,60,,
@@ -119,7 +119,7 @@ S20|scoring|8|4,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,
 S20|scoring|8|5,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,8,5,Tony & Katya,S20-tony-adams,5,19‡,,double_dagger|italic
 S20|scoring|8|6,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,8,6,Tony & Katya,S20-tony-adams,6,31,,
 S20|scoring|8|7,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,8,7,Tony & Katya,S20-tony-adams,7,21‡,,double_dagger|italic
-S20|scoring|8|8,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,8,8,Tony & Katya,S20-tony-adams,8,24‡,lightgreen,double_dagger|italic
+S20|scoring|8|8,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,8,8,Tony & Katya,S20-tony-adams,8,24‡,lightgreen,double_dagger|italic|efn:n27
 S20|scoring|8|9,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,8,9,Tony & Katya,S20-tony-adams,9,,darkgray,
 S20|scoring|8|10,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,8,10,Tony & Katya,S20-tony-adams,10,,darkgray,rowspan_copy
 S20|scoring|8|11,enwiki:Strictly_Come_Dancing_series_20:r1383932199:parsoid_html,scoring,8,11,Tony & Katya,S20-tony-adams,11,,darkgray,rowspan_copy

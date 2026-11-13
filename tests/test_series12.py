@@ -81,3 +81,9 @@ def test_waltz_marathon_and_country_week_a120_a123(t12):
 def test_volumes(t12):
     assert len(t12["performances"]) == 147 and len(t12["judge_marks"]) == 578 and len(t12["panel_seats"]) == 61
     assert len([p for p in t12["performances"] if p["episode_key"] == "S12W01-N1"]) == 6
+
+
+def test_guest_judge_scale_footnote_a122(t12):
+    assert one(t12["episodes"], "episode_key", "S12W03-P")["scale_max_stated"] == 50
+    windsor = one(t12["series_people"], "series_person_key", "S12-robin-windsor-professional")
+    assert windsor["roster_status"] == "withdrew_pre_launch" and windsor["replaced_by_person_key"] == "trent-whiddon" and windsor["reason"] == "injury"

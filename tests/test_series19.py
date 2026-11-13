@@ -57,8 +57,9 @@ def test_guest_judge_replaces_mabuse_a203(t19):
 
 def test_withdrawals_a208_a205(t19):
     robert = one(t19["couples"], "couple_key", "S19-robert-webb")
-    assert robert["exit_kind"] == "withdrew" and robert["exit_week_key"] == "S19W04" and robert["exit_timing"] == "before_live_show" and robert["exit_reason"] == "illness" and robert["final_placement"] == 13
+    assert robert["exit_kind"] == "withdrew" and robert["exit_week_key"] == "S19W04" and robert["exit_timing"] == "before_live_show" and robert["exit_reason"] == "medical_advice" and robert["final_placement"] == 13
     assert one(t19["couple_weeks"], "couple_week_key", "S19W04-robert-webb")["absence_reason"] == "illness"
+    assert one(t19["couple_weeks"], "couple_week_key", "S19W04-robert-webb")["bye_granted"] == "false"  # the bye that week was Ugo Monye's
     assert one(t19["results_rounds"], "round_key", "S19R04")["exit_count"] == 1  # Greg & Karen still eliminated
     aj = one(t19["couples"], "couple_key", "S19-aj-odudu")
     assert aj["exit_week_key"] == "S19W13" and aj["exit_timing"] == "before_final" and aj["exit_reason"] == "injury" and aj["final_placement"] == 3 and aj["exit_round_key"] == ""

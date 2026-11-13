@@ -10,7 +10,7 @@ S04|scoring|0|7,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,s
 S04|scoring|0|8,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,0,8,Mark & Karen,S04-mark-ramprakash,9,28+36=64,,
 S04|scoring|0|9,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,0,9,Mark & Karen,S04-mark-ramprakash,10,36+27=63,,
 S04|scoring|0|10,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,0,10,Mark & Karen,S04-mark-ramprakash,11,34+39=73†,,dagger|bold
-S04|scoring|0|11,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,0,11,Mark & Karen,S04-mark-ramprakash,12,34+40+36=110†,gold,dagger|bold
+S04|scoring|0|11,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,0,11,Mark & Karen,S04-mark-ramprakash,12,34+40+36=110†,gold,dagger|bold|efn:n1
 S04|scoring|1|0,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,1,0,Matt & Lilia,S04-matt-dawson,1,19,,
 S04|scoring|1|1,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,1,1,Matt & Lilia,S04-matt-dawson,2,—N/a,"var(--background-color-interactive, #ececec)",
 S04|scoring|1|2,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,1,2,Matt & Lilia,S04-matt-dawson,3,30,,
@@ -22,7 +22,7 @@ S04|scoring|1|7,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,s
 S04|scoring|1|8,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,1,8,Matt & Lilia,S04-matt-dawson,9,34+27=61‡,,double_dagger|italic
 S04|scoring|1|9,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,1,9,Matt & Lilia,S04-matt-dawson,10,29+32=61,,
 S04|scoring|1|10,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,1,10,Matt & Lilia,S04-matt-dawson,11,35+30=65‡,,double_dagger|italic
-S04|scoring|1|11,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,1,11,Matt & Lilia,S04-matt-dawson,12,38+31+36=105‡,silver,double_dagger|italic
+S04|scoring|1|11,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,1,11,Matt & Lilia,S04-matt-dawson,12,38+31+36=105‡,silver,double_dagger|italic|efn:n2
 S04|scoring|2|0,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,2,0,Emma & Darren,S04-emma-bunton,1,—N/a,"var(--background-color-interactive, #ececec)",
 S04|scoring|2|1,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,2,1,Emma & Darren,S04-emma-bunton,2,33†,,dagger|bold
 S04|scoring|2|2,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,2,2,Emma & Darren,S04-emma-bunton,3,33,,
@@ -133,7 +133,7 @@ S04|scoring|10|10,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html
 S04|scoring|10|11,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,10,11,DJ Spoony & Ola,S04-dj-spoony,12,,darkgray,rowspan_copy
 S04|scoring|11|0,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,11,0,Jimmy & Flavia,S04-jimmy-tarbuck,1,17,lightblue,efn:Bottom2
 S04|scoring|11|1,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,11,1,Jimmy & Flavia,S04-jimmy-tarbuck,2,—N/a,"var(--background-color-interactive, #ececec)",
-S04|scoring|11|2,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,11,2,Jimmy & Flavia,S04-jimmy-tarbuck,3,,lightgreen,
+S04|scoring|11|2,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,11,2,Jimmy & Flavia,S04-jimmy-tarbuck,3,,lightgreen,efn:n5
 S04|scoring|11|3,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,11,3,Jimmy & Flavia,S04-jimmy-tarbuck,4,,darkgray,rowspan_copy
 S04|scoring|11|4,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,11,4,Jimmy & Flavia,S04-jimmy-tarbuck,5,,darkgray,rowspan_copy
 S04|scoring|11|5,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,11,5,Jimmy & Flavia,S04-jimmy-tarbuck,6,,darkgray,rowspan_copy

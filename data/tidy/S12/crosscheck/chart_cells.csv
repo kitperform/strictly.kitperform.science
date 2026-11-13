@@ -13,7 +13,7 @@ S12|scoring|0|10,enwiki:Strictly_Come_Dancing_series_12:r1383618843:parsoid_html
 S12|scoring|0|11,enwiki:Strictly_Come_Dancing_series_12:r1383618843:parsoid_html,scoring,0,11,Caroline & Pasha,S12-caroline-flack,11,39+3=42†,,dagger|bold
 S12|scoring|0|12,enwiki:Strictly_Come_Dancing_series_12:r1383618843:parsoid_html,scoring,0,12,Caroline & Pasha,S12-caroline-flack,12,35+40=75†,,dagger|bold
 S12|scoring|0|13,enwiki:Strictly_Come_Dancing_series_12:r1383618843:parsoid_html,scoring,0,13,Caroline & Pasha,S12-caroline-flack,13,40+40=80†,,dagger|bold
-S12|scoring|0|14,enwiki:Strictly_Come_Dancing_series_12:r1383618843:parsoid_html,scoring,0,14,Caroline & Pasha,S12-caroline-flack,13,+40=120†,gold,dagger|bold
+S12|scoring|0|14,enwiki:Strictly_Come_Dancing_series_12:r1383618843:parsoid_html,scoring,0,14,Caroline & Pasha,S12-caroline-flack,13,+40=120†,gold,dagger|bold|efn:n17
 S12|scoring|1|0,enwiki:Strictly_Come_Dancing_series_12:r1383618843:parsoid_html,scoring,1,0,Frankie & Kevin,S12-frankie-bridge,1,30†,,dagger|bold
 S12|scoring|1|1,enwiki:Strictly_Come_Dancing_series_12:r1383618843:parsoid_html,scoring,1,1,Frankie & Kevin,S12-frankie-bridge,2,30,,
 S12|scoring|1|2,enwiki:Strictly_Come_Dancing_series_12:r1383618843:parsoid_html,scoring,1,2,Frankie & Kevin,S12-frankie-bridge,1+2,60,,
@@ -28,7 +28,7 @@ S12|scoring|1|10,enwiki:Strictly_Come_Dancing_series_12:r1383618843:parsoid_html
 S12|scoring|1|11,enwiki:Strictly_Come_Dancing_series_12:r1383618843:parsoid_html,scoring,1,11,Frankie & Kevin,S12-frankie-bridge,11,34+5=39,,
 S12|scoring|1|12,enwiki:Strictly_Come_Dancing_series_12:r1383618843:parsoid_html,scoring,1,12,Frankie & Kevin,S12-frankie-bridge,12,34+38=72,,
 S12|scoring|1|13,enwiki:Strictly_Come_Dancing_series_12:r1383618843:parsoid_html,scoring,1,13,Frankie & Kevin,S12-frankie-bridge,13,39+38=77,,
-S12|scoring|1|14,enwiki:Strictly_Come_Dancing_series_12:r1383618843:parsoid_html,scoring,1,14,Frankie & Kevin,S12-frankie-bridge,13,+39=116‡,silver,double_dagger|italic
+S12|scoring|1|14,enwiki:Strictly_Come_Dancing_series_12:r1383618843:parsoid_html,scoring,1,14,Frankie & Kevin,S12-frankie-bridge,13,+39=116‡,silver,double_dagger|italic|efn:2nd
 S12|scoring|2|0,enwiki:Strictly_Come_Dancing_series_12:r1383618843:parsoid_html,scoring,2,0,Simon & Kristina,S12-simon-webbe,1,27,,
 S12|scoring|2|1,enwiki:Strictly_Come_Dancing_series_12:r1383618843:parsoid_html,scoring,2,1,Simon & Kristina,S12-simon-webbe,2,26,,
 S12|scoring|2|2,enwiki:Strictly_Come_Dancing_series_12:r1383618843:parsoid_html,scoring,2,2,Simon & Kristina,S12-simon-webbe,1+2,53,,
@@ -43,7 +43,7 @@ S12|scoring|2|10,enwiki:Strictly_Come_Dancing_series_12:r1383618843:parsoid_html
 S12|scoring|2|11,enwiki:Strictly_Come_Dancing_series_12:r1383618843:parsoid_html,scoring,2,11,Simon & Kristina,S12-simon-webbe,11,35+4=39,lightblue,efn:Bottom2
 S12|scoring|2|12,enwiki:Strictly_Come_Dancing_series_12:r1383618843:parsoid_html,scoring,2,12,Simon & Kristina,S12-simon-webbe,12,30+38=68,,
 S12|scoring|2|13,enwiki:Strictly_Come_Dancing_series_12:r1383618843:parsoid_html,scoring,2,13,Simon & Kristina,S12-simon-webbe,13,39+39=78,,
-S12|scoring|2|14,enwiki:Strictly_Come_Dancing_series_12:r1383618843:parsoid_html,scoring,2,14,Simon & Kristina,S12-simon-webbe,13,+40=118,silver,
+S12|scoring|2|14,enwiki:Strictly_Come_Dancing_series_12:r1383618843:parsoid_html,scoring,2,14,Simon & Kristina,S12-simon-webbe,13,+40=118,silver,efn:2nd
 S12|scoring|3|0,enwiki:Strictly_Come_Dancing_series_12:r1383618843:parsoid_html,scoring,3,0,Mark & Karen,S12-mark-wright,1,24,,
 S12|scoring|3|1,enwiki:Strictly_Come_Dancing_series_12:r1383618843:parsoid_html,scoring,3,1,Mark & Karen,S12-mark-wright,2,27,,
 S12|scoring|3|2,enwiki:Strictly_Come_Dancing_series_12:r1383618843:parsoid_html,scoring,3,2,Mark & Karen,S12-mark-wright,1+2,51,,

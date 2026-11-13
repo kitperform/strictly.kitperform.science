@@ -1,1 +1,2 @@
 discrepancy_key,table_name,natural_key,field_name,value_a,source_capture_a_key,locator_a,value_b,value_b_origin,source_capture_b_key,locator_b,resolution,note
+CoupleWeek|S05W01-kate-garraway|participation_status|1,CoupleWeek,S05W01-kate-garraway,participation_status,not_scheduled,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,section=Dance chart; row=Kate & Anton; col=1,group_only,capture,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,section=Week 1; prose,prefer_a,"table encoding beats generic prose (rule W2, A034/A030)"

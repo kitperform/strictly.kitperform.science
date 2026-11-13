@@ -12,7 +12,7 @@ S15|scoring|0|9,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,
 S15|scoring|0|10,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,scoring,0,10,Joe & Katya,S15-joe-mcfadden,10,38+6=44†,,dagger|bold
 S15|scoring|0|11,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,scoring,0,11,Joe & Katya,S15-joe-mcfadden,11,37,,
 S15|scoring|0|12,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,scoring,0,12,Joe & Katya,S15-joe-mcfadden,12,35+35=70,,
-S15|scoring|0|13,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,scoring,0,13,Joe & Katya,S15-joe-mcfadden,13,39+39+40=118,gold,
+S15|scoring|0|13,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,scoring,0,13,Joe & Katya,S15-joe-mcfadden,13,39+39+40=118,gold,efn:n8
 S15|scoring|1|0,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,scoring,1,0,Alexandra & Gorka,S15-alexandra-burke,1,24,,
 S15|scoring|1|1,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,scoring,1,1,Alexandra & Gorka,S15-alexandra-burke,2,36†,,dagger|bold
 S15|scoring|1|2,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,scoring,1,2,Alexandra & Gorka,S15-alexandra-burke,1+2,60,,
@@ -26,7 +26,7 @@ S15|scoring|1|9,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,
 S15|scoring|1|10,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,scoring,1,10,Alexandra & Gorka,S15-alexandra-burke,10,32+7=39,lightblue,efn:Bottom2
 S15|scoring|1|11,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,scoring,1,11,Alexandra & Gorka,S15-alexandra-burke,11,39†,lightblue,dagger|bold|efn:Bottom2
 S15|scoring|1|12,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,scoring,1,12,Alexandra & Gorka,S15-alexandra-burke,12,39+40=79†,,dagger|bold
-S15|scoring|1|13,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,scoring,1,13,Alexandra & Gorka,S15-alexandra-burke,13,40+39+40=119†,silver,dagger|bold
+S15|scoring|1|13,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,scoring,1,13,Alexandra & Gorka,S15-alexandra-burke,13,40+39+40=119†,silver,dagger|bold|efn:2nd
 S15|scoring|2|0,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,scoring,2,0,Debbie & Giovanni,S15-debbie-mcgee,1,30,,
 S15|scoring|2|1,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,scoring,2,1,Debbie & Giovanni,S15-debbie-mcgee,2,34,,
 S15|scoring|2|2,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,scoring,2,2,Debbie & Giovanni,S15-debbie-mcgee,1+2,64†,,dagger|bold
@@ -40,7 +40,7 @@ S15|scoring|2|9,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,
 S15|scoring|2|10,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,scoring,2,10,Debbie & Giovanni,S15-debbie-mcgee,10,38+5=43,,
 S15|scoring|2|11,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,scoring,2,11,Debbie & Giovanni,S15-debbie-mcgee,11,39†,,dagger|bold
 S15|scoring|2|12,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,scoring,2,12,Debbie & Giovanni,S15-debbie-mcgee,12,34+36=70,,
-S15|scoring|2|13,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,scoring,2,13,Debbie & Giovanni,S15-debbie-mcgee,13,39+38+40=117,silver,
+S15|scoring|2|13,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,scoring,2,13,Debbie & Giovanni,S15-debbie-mcgee,13,39+38+40=117,silver,efn:2nd
 S15|scoring|3|0,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,scoring,3,0,Gemma & Aljaž,S15-gemma-atkinson,1,20,,
 S15|scoring|3|1,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,scoring,3,1,Gemma & Aljaž,S15-gemma-atkinson,2,26,,
 S15|scoring|3|2,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,scoring,3,2,Gemma & Aljaž,S15-gemma-atkinson,1+2,46,,
@@ -54,7 +54,7 @@ S15|scoring|3|9,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,
 S15|scoring|3|10,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,scoring,3,10,Gemma & Aljaž,S15-gemma-atkinson,10,25+3=28,,
 S15|scoring|3|11,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,scoring,3,11,Gemma & Aljaž,S15-gemma-atkinson,11,29‡,,double_dagger|italic
 S15|scoring|3|12,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,scoring,3,12,Gemma & Aljaž,S15-gemma-atkinson,12,30+32=62,lightblue,efn:Bottom2
-S15|scoring|3|13,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,scoring,3,13,Gemma & Aljaž,S15-gemma-atkinson,13,38+37+39=114‡,silver,double_dagger|italic
+S15|scoring|3|13,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,scoring,3,13,Gemma & Aljaž,S15-gemma-atkinson,13,38+37+39=114‡,silver,double_dagger|italic|efn:2nd
 S15|scoring|4|0,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,scoring,4,0,Mollie & AJ,S15-mollie-king,1,23,,
 S15|scoring|4|1,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,scoring,4,1,Mollie & AJ,S15-mollie-king,2,25,,
 S15|scoring|4|2,enwiki:Strictly_Come_Dancing_series_15:r1383930392:parsoid_html,scoring,4,2,Mollie & AJ,S15-mollie-king,1+2,48,,
