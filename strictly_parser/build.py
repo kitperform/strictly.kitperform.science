@@ -708,6 +708,7 @@ class Build:
         self.carry_votes_weeks = set()
         self.chart_only_carry = set()
         self.intermediate_rounds = {}
+        self.nonshow_week = Counter()
         self.dance_bullets = self.page.dance_chart_bullets()
         self.dances_seen = {}
         for wk, h in sorted(self.headings.items()):
@@ -742,6 +743,8 @@ class Build:
             labels = [l for l, _ in h["tables"] if l]
             if any(re.match(r"^Show [12]", l) for l in labels) and "S1" not in self.week_eps.get(wk, {}):
                 self.rekey_two_show_week(wk, h)
+            elif any(re.match(r"^Night [12]", l) for l in labels) and "N1" not in self.week_eps.get(wk, {}) and "P" in self.week_eps.get(wk, {}):
+                self.rekey_two_show_week(wk, h, night=True)
             multi_codes = [c for c in ("N1", "N2", "S1", "S2") if c in self.week_eps.get(wk, {})]
             for ti, (label, table) in enumerate(h["tables"]):
                 code = "P"
@@ -773,26 +776,29 @@ class Build:
                         "replaces_slug": "", "absence_reason": "", "vote_label": "", **self.prov("curated/series_panels.csv", r["source_kind"], r["note"])})
         self.check("weeks with tables", len(self.week_has_scores) > 0, f"{sorted(self.week_has_scores)}")
 
-    def rekey_two_show_week(self, wk, h):
-        """Ratings rows 'Week N' / 'Week N results' for a week whose tables are 'Show 1' / 'Show 2' are the two shows (rule E2)."""
+    def rekey_two_show_week(self, wk, h, night=False):
+        """Ratings rows 'Week N' / 'Week N results' for a week whose tables are 'Show 1' / 'Show 2' (or 'Night 1' / 'Night 2') are the two broadcasts (rule E2)."""
         codes = self.week_eps[wk]
-        mapping = [("P", "S1", "show1", "performance"), ("R", "S2", "show2", "performance_and_results")]
+        mapping = [("P", "N1", "night1", "performance"), ("R", "N2", "night2", "performance_and_results")] if night else \
+                  [("P", "S1", "show1", "performance"), ("R", "S2", "show2", "performance_and_results")]
         for old, new, sub, kind in mapping:
             if old in codes:
                 okey = codes.pop(old)
                 nkey = f"{week_key(self.skey, wk)}-{new}"
                 row = self.episodes.pop(okey)
                 row.update({"episode_key": nkey, "sub_label": sub, "episode_kind": kind, "source_kind": "inferred",
-                            "note": "rule E2: the week's tables are 'Show 1' and 'Show 2'; the Ratings rows are the two shows"})
+                            "note": "rule E2: the week's tables are two nights; the Ratings rows are the two broadcasts" if night else
+                                    "rule E2: the week's tables are 'Show 1' and 'Show 2'; the Ratings rows are the two shows"})
                 self.episodes[nkey] = row
                 codes[new] = nkey
-        if "S2" not in codes:
-            nkey = f"{week_key(self.skey, wk)}-S2"
-            base = self.episodes[codes["S1"]]
-            self.episodes[nkey] = {**base, "episode_key": nkey, "sub_label": "show2", "episode_kind": "performance_and_results", "sequence_in_week": 2,
+        second = "N2" if night else "S2"
+        if second not in codes:
+            nkey = f"{week_key(self.skey, wk)}-{second}"
+            base = self.episodes[codes["N1" if night else "S1"]]
+            self.episodes[nkey] = {**base, "episode_key": nkey, "sub_label": "night2" if night else "show2", "episode_kind": "performance_and_results", "sequence_in_week": 2,
                                    "label_raw": "", "listed_in_ratings": "false", "rating_millions": "", "rank_bbc_one": "", "rank_all_uk": "", "share_pct": "",
-                                   **self.prov(f"section={h['heading']}", "inferred", "rule E2: second show of the final with no Ratings row")}
-            codes["S2"] = nkey
+                                   **self.prov(f"section={h['heading']}", "inferred", "rule E2: second broadcast of the week with no Ratings row")}
+            codes[second] = nkey
 
     def parse_week_table(self, wk, h, ekey, table):
         wkk = week_key(self.skey, wk)
@@ -834,8 +840,9 @@ class Build:
             seq_by_couple[ckey] += 1
             self.week_rows[wk].add(ckey)
             dance_probe = cells["dance"]["text"] if "dance" in cells else ""
-            if not re.search(r"showdance|show dance", dance_probe, re.I):
+            if not re.search(r"showdance|show dance|^Group\b", dance_probe, re.I):
                 nonshow_by_couple[ckey] += 1
+                self.nonshow_week[(wk, ckey)] += 1
             score_txt = cells["scores"]["text"] if "scores" in cells else ""
             dance_txt = cells["dance"]["text"].replace(" | ", " ") if "dance" in cells else ""
             music_txt = cells["music"]["text"] if "music" in cells else ""
@@ -848,6 +855,9 @@ class Build:
             dance_key, dance2_key, kind = "", "", "individual"
             if dance_txt:
                 dance_core = re.sub(r"\s*\((?:[^()]*(?:marathon|-thon|athon)[^()]*)\)\s*$", "", dance_txt, flags=re.I).strip()
+                is_group = bool(re.match(r"^Group\b", dance_core, re.I))
+                if is_group:
+                    dance_core = re.sub(r"^Group\s+", "", dance_core, flags=re.I)
                 if dance_core.lower() in self.dance_lookup or not re.search(r"\s(&|and)\s|/", dance_core):
                     parts = [dance_core]  # a known style such as 'Street/Commercial' is one dance, not a fusion
                 else:
@@ -859,6 +869,8 @@ class Build:
                     kind = "showdance"
                 if re.search(r"-?a-?thon|marathon", dance_txt, re.I):
                     kind = "marathon"
+                if is_group:
+                    kind = "group"
             else:
                 self.warn(f"week {wk} {label}: music but no dance stated; keyed -tbd (expected re-key)")
             suffix = dance_key or f"tbd{seq_by_couple[ckey]}"
@@ -878,10 +890,14 @@ class Build:
                 mode, status = "unscored", "performed"
             elif re.fullmatch(r"\d+", score_txt):
                 points, status = int(score_txt), "performed"
-                if kind != "marathon" and re.search(r"instant dance", self.weeks[wk]["dance_brief_raw"] + " " + " ".join(p for p, _ in h["paragraphs"]), re.I):
+                if kind == "group":
+                    kind, mode = "group_points", "awarded_points"
+                elif kind != "marathon" and re.search(r"instant dance", self.weeks[wk]["dance_brief_raw"] + " " + " ".join(p for p, _ in h["paragraphs"]), re.I):
                     kind, mode = "instant", "rank_points"
                 else:
                     mode = "rank_points" if kind == "marathon" else "awarded_points"
+            if kind == "group":
+                kind = "group_scored" if marks else "group_unscored"
             elif score_txt == "" and ep_aired and self.week_has_scores.get(wk):
                 mode, status = "unscored", "performed"
             if ep_aired:
@@ -891,14 +907,19 @@ class Build:
             theme_links = links(row[roles.index("theme")]["el"]) if theme_col and "theme" in roles else []
             perf = {
                 "performance_key": pkey, "episode_key": ekey, "week_key": wkk, "series_key": self.skey, "performer_group": "couple", "couple_key": ckey,
-                "performing_pro_slug": pro, "couple_label_raw": label, "sequence_in_episode": seq_by_couple[ckey], "running_order": running if kind != "marathon" else "",
-                "group_key": f"{ekey}-G1" if kind in ("instant", "marathon") else "", "performance_kind": kind,
-                "selection_role": self.selection_role(kind, wk, h, nonshow_by_couple[ckey], table_label),
+                "performing_pro_slug": pro, "couple_label_raw": label, "sequence_in_episode": seq_by_couple[ckey],
+                "running_order": running if kind not in ("marathon", "group_points", "group_scored", "group_unscored") else "",
+                "group_key": f"{ekey}-G1" if kind in ("instant", "marathon", "group_points", "group_scored", "group_unscored") else "", "performance_kind": kind,
+                "selection_role": self.selection_role(kind, wk, h, nonshow_by_couple[ckey], table_label, self.nonshow_week[(wk, ckey)]),
                 "performance_status": status, "scoring_mode": mode, "stated_total": total, "n_marks_stated": nmarks, "score_cell_raw": score_txt,
                 "points_value": points, "dance_key": dance_key, "dance_secondary_key": dance2_key, "dance_raw": dance_txt,
                 "theme_reference_text": theme_text, "theme_reference_wiki_title": next((w for t, w, hh in theme_links if w), ""), "theme_column_label": theme_col or "",
                 "music_raw": music_txt, "_marks": marks,
                 **self.prov(f"section={h['heading']}; table row={label}" + (f" ({dance_txt})" if dance_txt else ""))}
+            partial = self.sentence_about(wk, self.couples_by_key[ckey]["celebrity_display_name"], r"(?:only )?(?:performed|danced|completed) (?:only )?(?:half|part) of")
+            if partial and status == "performed":
+                perf["performance_status"] = "performed_partial"
+                perf["note"] = "performed only part of the routine (week prose); scored on what the judges saw"
             self.T["performances"].append(perf)
             for i, mk in enumerate(marks, 1):
                 self.T["judge_marks"].append({
@@ -942,7 +963,8 @@ class Build:
 
     ROLE_PHRASES = (("chosen by the judges", "repeat_judges_choice"), ("judges' pick", "repeat_judges_choice"), ("judges' choice", "repeat_judges_choice"),
                     ("judges choice", "repeat_judges_choice"), ("favourite", "repeat_favourite"), ("favorite", "repeat_favourite"),
-                    ("unlearned dance", "unlearned"), ("new dance", "unlearned"), ("highest-scoring", "repeat_highest"), ("highest scoring", "repeat_highest"))
+                    ("unlearned dance", "unlearned"), ("new dance", "unlearned"), ("highest-scoring ballroom", "repeat_highest_ballroom"),
+                    ("highest-scoring latin", "repeat_highest_latin"), ("highest-scoring", "repeat_highest"), ("highest scoring", "repeat_highest"))
 
     def roles_in(self, text):
         """Non-showdance selection roles named in a dance-chart bullet or prose, in the order they appear."""
@@ -950,29 +972,34 @@ class Build:
         order = []
         for phrase, role in self.ROLE_PHRASES:
             i = text.find(phrase)
-            if i >= 0 and role not in [r for _, r in order]:
+            if i >= 0 and role not in [r for _, r in order] and not any(i == j for j, _ in order):
                 order.append((i, role))
         return [r for _, r in sorted(order)]
 
-    def selection_role(self, kind, wk, h, seq, table_label=None):
+    def selection_role(self, kind, wk, h, seq, table_label=None, seq_week=None):
         if kind in ("showdance", "marathon", "instant"):
             return kind
+        if kind.startswith("group"):
+            return "group"
         if self.weeks[wk]["round_stage"] == "final":
             # the showdance is recognised by name; the other routines take the remaining roles in the order the
-            # Dance chart bullet for this week (and show) lists them, falling back to the week prose
-            order = []
+            # Dance chart bullet lists them: a bullet for this show counts routines per show, a week bullet counts across the week
+            order, per_show = [], False
             for b in self.dance_bullets:
                 m = re.match(r"^Weeks?\s+(\d+)\s*(?:\(([^)]*)\))?\s*:\s*(.*)$", b)
-                if m and int(m.group(1)) == wk and (not table_label or not m.group(2) or m.group(2).strip().lower() == table_label.strip().lower()):
-                    if table_label and m.group(2) and m.group(2).strip().lower() != table_label.strip().lower():
-                        continue
+                if not m or int(m.group(1)) != wk:
+                    continue
+                sub = (m.group(2) or "").strip().lower()
+                if table_label and sub == table_label.strip().lower():
+                    order, per_show = self.roles_in(m.group(3)), True
+                    break
+                if not re.match(r"^(show|night) \d", sub):
                     order = self.roles_in(m.group(3))
-                    if table_label is None or (m.group(2) or "").strip().lower() == table_label.strip().lower():
-                        break
             if not order:
                 order = self.roles_in(" ".join(p for p, _ in h["paragraphs"]))
-            if seq - 1 < len(order):
-                return order[seq - 1]
+            n = seq if per_show or seq_week is None else seq_week
+            if n - 1 < len(order):
+                return order[n - 1]
             return "unknown"
         return "unlearned"
 
@@ -1119,7 +1146,9 @@ class Build:
                 used = "false" if t2[target] > others else "true"
             inferred = "true" if pivotal_ran and not any(v["is_casting_vote_stated"] == "true" for v in vote_rows) else "false"
         decided_at = self.week_eps[wk].get("R") or self.week_eps[wk].get("S2") or self.week_eps[wk].get("N2") or self.week_eps[wk].get("P")
-        dance_off = "held" if votes else ("not_in_format" if self.effective_rule(wk, "dance_off_used") != "true" else "held")
+        series_uses = next((r["dance_off_used"] for r in self.T["format_rules"] if not r["week_key"] and r["dance_off_used"] != ""), "")
+        dance_off = "held" if votes else ("not_in_format" if self.effective_rule(wk, "dance_off_used") != "true" and series_uses != "true"
+                                          else "not_held_by_format" if self.effective_rule(wk, "dance_off_used") != "true" else "held")
         is_final = self.weeks[wk]["round_stage"] == "final"
         mechanism = self.effective_rule(wk, "elimination_mechanism")
         withdrawn = [c for c, (t, bg) in results.items() if RESULT_MAP.get(t.lower()) == "withdrew"]
@@ -1300,7 +1329,14 @@ class Build:
                         colour = self.chart_colours.get((cell["bg"] or "").lower().replace("background:", "").strip()) if cell else None
                         bye_prose = self.bye_notes.get(wk, "")
                         named_in_bye = bool(bye_prose) and (couple["celebrity_display_name"].split(" ")[0] in bye_prose)
-                        if colour and colour["result_status"] == "withdrew":
+                        if cell and re.fullmatch(r"[—–-]?\s*N/?a", cell["text"].strip(), re.I):
+                            prose_w = " ".join(p for p, _ in self.headings[wk]["paragraphs"])
+                            grp = re.search(r"did not (?:compete|perform)[^.]*group", prose_w, re.I)
+                            part, res, kind = ("group_only" if grp else "not_scheduled"), "exempt", "stated"
+                            raw = cell["text"]
+                            locator = f"section=Scoring chart; row={couple['chart_label']}; col={wk}"
+                            note = "not scheduled this week (N/a cell); the non-competing couples danced an unscored group routine" if grp else "not scheduled this week (N/a cell)"
+                        elif colour and colour["result_status"] == "withdrew":
                             part, res, kind = "absent_withdrawn", "withdrew", "stated"
                             raw = next((self.chart_notes[n] for n in efn if n in self.chart_notes), colour["note"] if colour else "")
                             bye = named_in_bye
