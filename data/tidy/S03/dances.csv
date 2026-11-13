@@ -1,0 +1,13 @@
+dance_key,name,dance_family,wiki_title,source_capture_key,source_locator,source_kind,note
+cha-cha-cha,Cha-cha-cha,latin,Cha-cha-cha,enwiki:Strictly_Come_Dancing_series_3:r1382666534:parsoid_html,section=Week 1; Dance column,editorial,family from curated/dances.csv
+waltz,Waltz,ballroom,Waltz,enwiki:Strictly_Come_Dancing_series_3:r1382666534:parsoid_html,section=Week 1; Dance column,editorial,family from curated/dances.csv
+quickstep,Quickstep,ballroom,Quickstep,enwiki:Strictly_Come_Dancing_series_3:r1382666534:parsoid_html,section=Week 2; Dance column,editorial,family from curated/dances.csv
+rumba,Rumba,latin,Rumba,enwiki:Strictly_Come_Dancing_series_3:r1382666534:parsoid_html,section=Week 2; Dance column,editorial,family from curated/dances.csv
+jive,Jive,latin,Jive,enwiki:Strictly_Come_Dancing_series_3:r1382666534:parsoid_html,section=Week 3; Dance column,editorial,family from curated/dances.csv
+tango,Tango,ballroom,Tango,enwiki:Strictly_Come_Dancing_series_3:r1382666534:parsoid_html,section=Week 3; Dance column,editorial,family from curated/dances.csv
+paso-doble,Paso doble,latin,Paso doble,enwiki:Strictly_Come_Dancing_series_3:r1382666534:parsoid_html,section=Week 4; Dance column,editorial,family from curated/dances.csv
+foxtrot,Foxtrot,ballroom,Foxtrot,enwiki:Strictly_Come_Dancing_series_3:r1382666534:parsoid_html,section=Week 4; Dance column,editorial,family from curated/dances.csv
+viennese-waltz,Viennese waltz,ballroom,Viennese waltz,enwiki:Strictly_Come_Dancing_series_3:r1382666534:parsoid_html,section=Week 5; Dance column,editorial,family from curated/dances.csv
+samba,Samba,latin,Samba,enwiki:Strictly_Come_Dancing_series_3:r1382666534:parsoid_html,section=Week 5; Dance column,editorial,family from curated/dances.csv
+american-smooth,American Smooth,ballroom,American Smooth,enwiki:Strictly_Come_Dancing_series_3:r1382666534:parsoid_html,section=Week 8; Dance column,editorial,family from curated/dances.csv
+showdance,Showdance,showdance,,enwiki:Strictly_Come_Dancing_series_3:r1382666534:parsoid_html,section=Week 10; Dance column,editorial,family from curated/dances.csv

@@ -917,7 +917,7 @@ class Build:
                 "performing_pro_slug": pro, "couple_label_raw": label, "sequence_in_episode": seq_by_couple[ckey],
                 "running_order": running if kind not in ("marathon", "group_points", "group_scored", "group_unscored") else "",
                 "group_key": f"{ekey}-G1" if kind in ("instant", "marathon", "group_points", "group_scored", "group_unscored") else "", "performance_kind": kind,
-                "selection_role": self.selection_role(kind, wk, h, nonshow_by_couple[ckey], table_label, self.nonshow_week[(wk, ckey)]),
+                "selection_role": self.selection_role(kind, wk, h, nonshow_by_couple[ckey], table_label, self.nonshow_week[(wk, ckey)], dance_key),
                 "performance_status": status, "scoring_mode": mode, "stated_total": total, "n_marks_stated": nmarks, "score_cell_raw": score_txt,
                 "points_value": points, "dance_key": dance_key, "dance_secondary_key": dance2_key, "dance_raw": dance_txt,
                 "theme_reference_text": theme_text, "theme_reference_wiki_title": next((w for t, w, hh in theme_links if w), ""), "theme_column_label": theme_col or "",
@@ -945,7 +945,7 @@ class Build:
         p_hit = any(tok in sentence for tok in (pro[0], pro[-1]) if len(tok) > 2)
         if p_hit and not c_hit:
             return "professional"
-        if p_hit and c_hit and re.search(rf"{re.escape(pro[-1])}[^.]*?(tested positive|injur|ill)", sentence):
+        if p_hit and c_hit and re.search(rf"{re.escape(pro[-1])}[^.]*?\b(tested positive|injur\w*|ill|illness|unwell|sick)\b", sentence):
             return "professional"
         return "celebrity"
 
@@ -974,6 +974,15 @@ class Build:
                     ("unlearned dance", "unlearned"), ("new dance", "unlearned"), ("highest-scoring ballroom", "repeat_highest_ballroom"),
                     ("highest-scoring latin", "repeat_highest_latin"), ("highest-scoring", "repeat_highest"), ("highest scoring", "repeat_highest"))
 
+    @staticmethod
+    def weeks_in(spec):
+        wks = set()
+        for part in re.split(r",|\band\b", spec):
+            rm = re.match(r"\s*(\d+)\s*(?:[–-]\s*(\d+))?\s*$", part)
+            if rm:
+                wks.update(range(int(rm.group(1)), int(rm.group(2) or rm.group(1)) + 1))
+        return wks
+
     def roles_in(self, text):
         """Non-showdance selection roles named in a dance-chart bullet or prose, in the order they appear."""
         text = text.lower()
@@ -984,11 +993,26 @@ class Build:
                 order.append((i, role))
         return [r for _, r in sorted(order)]
 
-    def selection_role(self, kind, wk, h, seq, table_label=None, seq_week=None):
+    def selection_role(self, kind, wk, h, seq, table_label=None, seq_week=None, dance_key=""):
         if kind in ("showdance", "marathon", "instant"):
             return kind
         if kind.startswith("group"):
             return "group"
+        if self.weeks[wk]["round_stage"] != "final":
+            bullet = next((b for b in self.dance_bullets if (m := re.match(r"^Weeks?\s+([\d–\-,\s]+(?:and\s+[\d–\-,\s]+)*?)\s*(?:\([^)]*\))?\s*:\s*(.*)$", b))
+                           and wk in self.weeks_in(m.group(1))), "")
+            text = re.sub(r"^Weeks?[^:]*:\s*", "", bullet).lower()
+            text = re.sub(r"\([^)]*\)", "", text)  # '(cha-cha-cha or waltz)' lists choices, not prescriptions
+            dance_name = next((d["name"].lower() for d in self.T["dances"] if d["dance_key"] == dance_key), "")
+            if dance_name and dance_name in text and re.search(r"\s(&|and)\s", text) and "unlearned" in text.replace(dance_name, ""):
+                return "prescribed"
+            if dance_name and dance_name in text and re.search(r"\s(&|and)\s", text) and ("re-choreographed" in text or "judges' choice" in text):
+                return "prescribed"
+            if re.search(r"re-choreographed", text):
+                return "repeat_rechoreographed"
+            if dance_name and dance_name not in text and re.search(r"judges' choice|chosen by the judges", text) and re.search(r"\s(&|and)\s", text):
+                return "repeat_judges_choice"
+            return "unlearned"
         if self.weeks[wk]["round_stage"] == "final":
             # the showdance is recognised by name; the other routines take the remaining roles in the order the
             # Dance chart bullet lists them: a bullet for this show counts routines per show, a week bullet counts across the week
@@ -1172,6 +1196,8 @@ class Build:
                 used = "false" if t2[target] > others else "true"
             inferred = "true" if pivotal_ran and not any(v["is_casting_vote_stated"] == "true" for v in vote_rows) else "false"
         decided_at = self.week_eps[wk].get("R") or self.week_eps[wk].get("S2") or self.week_eps[wk].get("N2") or self.week_eps[wk].get("P")
+        if not votes and self.effective_rule(wk, "dance_off_used") != "true":
+            direction, holder = "", None
         series_uses = next((r["dance_off_used"] for r in self.T["format_rules"] if not r["week_key"] and r["dance_off_used"] != ""), "")
         dance_off = "held" if votes else ("not_in_format" if self.effective_rule(wk, "dance_off_used") != "true" and series_uses != "true"
                                           else "not_held_by_format" if self.effective_rule(wk, "dance_off_used") != "true" else "held")
@@ -1179,7 +1205,8 @@ class Build:
         mechanism = self.effective_rule(wk, "elimination_mechanism")
         withdrawn = [c for c, (t, bg) in results.items() if RESULT_MAP.get(t.lower()) == "withdrew"]
         round_note = ""
-        intermediate = [c for c, (t, bg) in results.items() if RESULT_MAP.get(t.lower()) in ("third", "fourth")]
+        two_show = len(h["tables"]) > 1
+        intermediate = [c for c, (t, bg) in results.items() if RESULT_MAP.get(t.lower()) in ("third", "fourth")] if two_show else []
         if is_final and intermediate:
             a_key = f"{self.skey}R{wk:02d}a"
             s1 = self.week_eps[wk].get("S1", "")
@@ -1287,6 +1314,14 @@ class Build:
             self.T["chart_legends"].append({"source_capture_key": self.capture_key, "colour_norm": f"efn:{name}", "meaning_text": text, "scope": "scoring"})
         self.chart_cols = sc["col_labels"]
         self.chart_notes = sc["notes"]
+        for col, efns in zip(sc["col_labels"], sc.get("col_efn", [])):
+            for n in efns:
+                m = re.search(r"(\d{2})-point scale", sc["notes"].get(n, ""))
+                if m and col.isdigit():
+                    for code, ekey in self.week_eps.get(int(col), {}).items():
+                        if self.episodes[ekey]["episode_kind"] != "results":
+                            self.episodes[ekey]["scale_max_stated"] = int(m.group(1))
+                            self.episodes[ekey]["note"] = (self.episodes[ekey]["note"] + "; " if self.episodes[ekey]["note"] else "") + f"scale stated by the Scoring chart footnote {n}"
         # a chart cell listing a total for a routine whose weekly cell is empty: load the chart's total as judge_total_only, disputed (A048)
         for ckey, row in self.chart_rows.items():
             for ci, cell in enumerate(row["cells"]):
@@ -1451,6 +1486,24 @@ class Build:
                     "bye_granted": str(bye).lower(), "absence_reason": reason, "affected_party": party, "absence_scope": scope, "status_raw": raw,
                     "d_pro_slug": pro, "d_partnership_kind": pship["partnership_kind"],
                     **self.prov(locator, kind, note)})
+        # group_unscored routines for the couples who did not compete in a split week (section 6.19, rule W2)
+        for wk, h in self.headings.items():
+            prose = " ".join(p for p, _ in h["paragraphs"])
+            gm = re.search(r"performed a group ([\w' \-]+?)(?: dance)? that was not scored", prose, re.I)
+            if not gm:
+                continue
+            dkey = self.dance_key(gm.group(1).strip(), wk)
+            wkk = week_key(self.skey, wk)
+            for cw in self.T["couple_weeks"]:
+                if cw["week_key"] == wkk and cw["participation_status"] == "group_only":
+                    ckey = cw["couple_key"]
+                    self.T["performances"].append({
+                        "performance_key": f"{wkk}-{ckey.split('-', 1)[1]}-{dkey}", "episode_key": "", "week_key": wkk, "series_key": self.skey, "performer_group": "couple",
+                        "couple_key": ckey, "performing_pro_slug": self.partnership_at(ckey, wk)["pro_person_key"], "couple_label_raw": "", "sequence_in_episode": 1,
+                        "running_order": "", "group_key": f"{wkk}-G1", "performance_kind": "group_unscored", "selection_role": "group", "performance_status": "performed",
+                        "scoring_mode": "unscored", "stated_total": "", "n_marks_stated": "", "score_cell_raw": "", "points_value": "", "dance_key": dkey, "dance_secondary_key": "",
+                        "dance_raw": gm.group(1).strip(), "theme_reference_text": "", "theme_reference_wiki_title": "", "theme_column_label": "", "music_raw": "", "_marks": [],
+                        **self.prov(f"section={h['heading']}; prose", "stated", "unscored group routine by the couples who did not compete this week")})
         # week lifecycle
         for wk, w in self.weeks.items():
             if self.week_has_scores.get(wk):
@@ -1548,17 +1601,19 @@ class Build:
     # ------------------------------------------------------------ derived columns
     def derived(self):
         ep_date = {e["episode_key"]: (e["air_date"] or "9999-12-31", e["sequence_in_week"] or 0) for e in self.episodes.values()}
-        perfs = sorted(self.T["performances"], key=lambda p: (ep_date[p["episode_key"]], p["running_order"] or 999, p["sequence_in_episode"]))
+        def week_first_date(wkk):
+            return min((ep_date[k] for k in self.week_eps.get(int(wkk[-2:]), {}).values()), default=("9999-12-31", 0))
+        perfs = sorted(self.T["performances"], key=lambda p: (ep_date.get(p["episode_key"]) or week_first_date(p["week_key"]), p["running_order"] or 999, p["sequence_in_episode"]))
         for i, p in enumerate(perfs, 1):
             p["d_perf_seq"] = i
             p["d_total"] = sum(p["_marks"]) if p["_marks"] else ""
             p["d_n_marks"] = len(p["_marks"]) if p["_marks"] else ""
             p["d_total_mismatch"] = "true" if p["_marks"] and sum(p["_marks"]) != p["stated_total"] else "false"
-            p["d_scale_max"] = 10 * len(self.seats_for_episode(p["episode_key"]))
+            p["d_scale_max"] = 10 * len(self.seats_for_episode(p["episode_key"])) if p["episode_key"] else ""
             p["d_total_40"] = round(p["stated_total"] * 40 / p["d_scale_max"], 2) if p["stated_total"] != "" and p["d_scale_max"] else ""
-            p["d_results_round_key"] = self.perf_rounds.get(int(p["week_key"][-2:]), "")
+            p["d_results_round_key"] = self.perf_rounds.get(int(p["week_key"][-2:]), "") if p["performance_kind"] != "group_unscored" else ""
             p["d_partnership_kind"] = self.partnership_at(p["couple_key"], int(p["week_key"][-2:]))["partnership_kind"]
-            p["air_date"] = self.episodes[p["episode_key"]]["air_date"]
+            p["air_date"] = self.episodes[p["episode_key"]]["air_date"] if p["episode_key"] else ""
             p["series_number"], p["week_number"] = self.n, int(p["week_key"][-2:])
             p["round_stage"] = self.weeks[p["week_number"]]["round_stage"]
         # highest/lowest of week by stated total
@@ -1602,12 +1657,14 @@ class Build:
                        "d_scale_max": p["d_scale_max"]})
         for p in perfs:
             p["chart_label"] = self.couples_by_key[p["couple_key"]]["chart_label"]
-            p["sequence_in_week"] = self.episodes[p["episode_key"]]["sequence_in_week"]
+            p["sequence_in_week"] = self.episodes[p["episode_key"]]["sequence_in_week"] if p["episode_key"] else ""
             p.pop("_marks", None)
         for v in self.T["dance_off_votes"]:
             v["d_is_casting_judge"] = "true" if v["judge_slug"] == v["casting_vote_slug"] else "false"
         for r in self.T["results_rounds"]:
-            r["d_n_scoring_seats"] = len(self.seats_for_episode(self.week_eps.get(int(r["deciding_week_key"][-2:]), {}).get("P", "")))
+            codes = self.week_eps.get(int(r["deciding_week_key"][-2:]), {})
+            ekey = next((codes[c] for c in ("P", "S1", "N1", "S2", "N2") if c in codes), "")
+            r["d_n_scoring_seats"] = len([s for s in self.T["panel_seats"] if s["episode_key"] == ekey and s["is_scoring"] == "true"]) or len(self.seats_for_episode(ekey))
         # person aliases: vote-list surnames
         for slug, label in self.vote_labels.items():
             if label != self.people[slug]["family_name"] or True:

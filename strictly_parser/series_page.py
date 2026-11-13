@@ -180,6 +180,7 @@ class SeriesPage:
         head0 = [c["el"] for c in grid[0]]
         two_header_rows = len(grid) > 1 and all(c["is_header"] for c in grid[1])
         col_labels = [header_text(c["el"]) for c in grid[1][2:]] if two_header_rows else [header_text(c["el"]) for c in grid[0][2:]]
+        col_efn = [efn_names(c["el"]) for c in (grid[1][2:] if two_header_rows else grid[0][2:])]
         rows = []
         for grow in grid[2:] if two_header_rows else grid[1:]:
             if not grow or all(c["is_header"] for c in grow):
@@ -218,7 +219,7 @@ class SeriesPage:
                 if m:
                     notes[m.group(1)] = txt
         head_text = " ".join(cell_text(p, br=" ") for p in sec.find_all("p", recursive=False))
-        return {"col_labels": col_labels, "rows": rows, "legend": legend, "notes": notes, "intro": head_text, "head0": [header_text(c) for c in head0]}
+        return {"col_labels": col_labels, "col_efn": col_efn, "rows": rows, "legend": legend, "notes": notes, "intro": head_text, "head0": [header_text(c) for c in head0]}
 
     def section_links(self, heading_text):
         """All (text, wiki title) links in the paragraphs of the section with this heading."""

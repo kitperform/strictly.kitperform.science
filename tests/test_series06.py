@@ -90,4 +90,8 @@ def test_people_and_volumes_a032_a053(t6):
     assert one(t6["couples"], "chart_label", "Tom & Camilla")["professional_display_name"] == "Camilla Sacre-Dallerup"
     seats = sorted((s for s in t6["panel_seats"] if s["episode_key"] == "S06W01-P"), key=lambda s: s["seat_position"])
     assert [s["judge_slug"] for s in seats] == ["craig-revel-horwood", "arlene-phillips", "len-goodman", "bruno-tonioli"]
-    assert len(t6["couples"]) == 16 and len(t6["weeks"]) == 14 and len(t6["performances"]) == 120 and len(t6["judge_marks"]) == 464
+    assert len(t6["couples"]) == 16 and len(t6["weeks"]) == 14 and len(t6["judge_marks"]) == 464
+    assert len([p for p in t6["performances"] if p["episode_key"]]) == 120 and len([p for p in t6["performances"] if p["performance_kind"] == "group_unscored"]) == 28
+    lisa13 = [p for p in t6["performances"] if p["couple_key"] == "S06-lisa-snowdon" and p["week_key"] == "S06W13"]
+    assert [p["selection_role"] for p in lisa13] == ["prescribed", "repeat_rechoreographed"]  # Argentine tango & one re-choreographed routine (A047)
+    assert one(t6["couples"], "couple_key", "S06-john-sergeant")["exit_affected_party"] == "celebrity"

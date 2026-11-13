@@ -1,0 +1,11 @@
+week_key,series_key,week_number,round_stage,theme_key,heading_raw,dance_brief_raw,lifecycle_status,source_capture_key,source_locator,source_kind,note
+S03W01,S03,1,regular,,Week 1,One unlearned dance (cha-cha-cha or waltz),results_in,enwiki:Strictly_Come_Dancing_series_3:r1382666534:parsoid_html,section=Week 1,stated,
+S03W02,S03,2,regular,,Week 2,One unlearned dance (quickstep or rumba),results_in,enwiki:Strictly_Come_Dancing_series_3:r1382666534:parsoid_html,section=Week 2,stated,
+S03W03,S03,3,regular,,Week 3,One unlearned dance (jive or tango),results_in,enwiki:Strictly_Come_Dancing_series_3:r1382666534:parsoid_html,section=Week 3,stated,
+S03W04,S03,4,regular,,Week 4,One unlearned dance (foxtrot or paso doble),results_in,enwiki:Strictly_Come_Dancing_series_3:r1382666534:parsoid_html,section=Week 4,stated,
+S03W05,S03,5,regular,,Week 5,One unlearned dance (samba or Viennese waltz),results_in,enwiki:Strictly_Come_Dancing_series_3:r1382666534:parsoid_html,section=Week 5,stated,
+S03W06,S03,6,regular,,Week 6,One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_3:r1382666534:parsoid_html,section=Week 6,stated,
+S03W07,S03,7,regular,,Week 7,One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_3:r1382666534:parsoid_html,section=Week 7,stated,
+S03W08,S03,8,quarter_final,,Week 8: Quarterfinal,One unlearned dance & American Smooth,results_in,enwiki:Strictly_Come_Dancing_series_3:r1382666534:parsoid_html,section=Week 8: Quarterfinal,stated,
+S03W09,S03,9,semi_final,,Week 9: Semifinal,Two unlearned dances,results_in,enwiki:Strictly_Come_Dancing_series_3:r1382666534:parsoid_html,section=Week 9: Semifinal,stated,
+S03W10,S03,10,final,,Week 10: Final,"Favourite ballroom dance, favourite Latin dance & showdance",results_in,enwiki:Strictly_Come_Dancing_series_3:r1382666534:parsoid_html,section=Week 10: Final,stated,

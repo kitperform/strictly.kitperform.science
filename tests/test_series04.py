@@ -33,7 +33,9 @@ def test_checks_pass(t4):
 def test_split_launch_a027(t4):
     fr = {r["format_rule_key"]: r for r in t4["format_rules"]}
     assert fr["S04W01-FR"]["field_subset"] == "half_a" and fr["S04W02-FR"]["field_subset"] == "half_b"
-    assert len([p for p in t4["performances"] if p["week_key"] == "S04W01"]) == 7
+    assert len([p for p in t4["performances"] if p["week_key"] == "S04W01" and p["episode_key"]]) == 7
+    mambo = [p for p in t4["performances"] if p["week_key"] == "S04W01" and p["performance_kind"] == "group_unscored"]
+    assert len(mambo) == 7 and all(p["dance_key"] == "mambo" and p["episode_key"] == "" and p["group_key"] == "S04W01-G1" for p in mambo)
     carol1 = one(t4["couple_weeks"], "couple_week_key", "S04W01-carol-smillie")
     assert carol1["participation_status"] == "group_only" and carol1["result_status"] == "exempt" and carol1["results_round_key"] == ""
     assert one(t4["couple_weeks"], "couple_week_key", "S04W02-matt-dawson")["participation_status"] == "group_only"

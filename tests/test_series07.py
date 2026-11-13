@@ -38,7 +38,8 @@ def test_half_field_opening_weeks_a055_a056(t7):
     assert one(t7["couples"], "couple_key", "S07-martina-hingis")["exit_week_key"] == "S07W01"
     ricky = one(t7["couple_weeks"], "couple_week_key", "S07W01-ricky-whittle")
     assert ricky["participation_status"] == "group_only" and ricky["result_status"] == "exempt" and ricky["results_round_key"] == ""
-    assert not [p for p in t7["performances"] if p["couple_key"] == "S07-ricky-whittle" and p["week_key"] == "S07W01"]
+    grp = [p for p in t7["performances"] if p["couple_key"] == "S07-ricky-whittle" and p["week_key"] == "S07W01"]
+    assert [(p["performance_kind"], p["dance_key"], p["episode_key"]) for p in grp] == [("group_unscored", "merengue", "")]
     assert len([p for p in t7["performances"] if p["couple_key"] == "S07-rav-wilding" and p["week_key"] == "S07W01"]) == 2
     assert one(t7["format_rules"], "format_rule_key", "S07W01-FR")["field_subset"] == "half_a"
     assert one(t7["format_rules"], "format_rule_key", "S07W02-FR")["field_subset"] == "half_b"
@@ -98,4 +99,9 @@ def test_labels_and_volumes_a070(t7):
     assert one(t7["couples"], "chart_label", "Natalie & Vincent")["couple_key"] == "S07-natalie-cassidy"
     assert one(t7["couples"], "chart_label", "Zöe & James")["celebrity_display_name"] == "Zöe Lucker"
     assert len(t7["couples"]) == 16 and len(t7["weeks"]) == 14 and len(t7["couple_weeks"]) == 16 * 14
-    assert len(t7["performances"]) == 146 and len(t7["judge_marks"]) == 586
+    assert len([p for p in t7["performances"] if p["episode_key"]]) == 146 and len(t7["judge_marks"]) == 586
+    eps = {e["episode_key"]: e for e in t7["episodes"]}
+    assert eps["S07W12-P"]["scale_max_stated"] == 50 and eps["S07W11-P"]["scale_max_stated"] == ""
+    assert one(t7["results_rounds"], "round_key", "S07R14")["d_n_scoring_seats"] == 5
+    semi = [p for p in t7["performances"] if p["couple_key"] == "S07-chris-hollins" and p["week_key"] == "S07W13"]
+    assert sorted(p["selection_role"] for p in semi) == ["prescribed", "repeat_judges_choice"]
