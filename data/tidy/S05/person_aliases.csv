@@ -1,0 +1,6 @@
+person_alias_key,person_key,alias,alias_kind,context,series_key,source_capture_key,source_locator,source_kind,note
+penny-lancaster|display_name|Penny Lancaster-Stewart|S05,penny-lancaster,Penny Lancaster-Stewart,display_name,any,S05,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,section=Couples,stated,name as printed on this page
+craig-revel-horwood|vote_list|Horwood|S05,craig-revel-horwood,Horwood,vote_list_surname,vote_list,S05,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,Judges' votes lists,stated,
+arlene-phillips|vote_list|Phillips|S05,arlene-phillips,Phillips,vote_list_surname,vote_list,S05,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,Judges' votes lists,stated,
+bruno-tonioli|vote_list|Tonioli|S05,bruno-tonioli,Tonioli,vote_list_surname,vote_list,S05,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,Judges' votes lists,stated,
+len-goodman|vote_list|Goodman|S05,len-goodman,Goodman,vote_list_surname,vote_list,S05,enwiki:Strictly_Come_Dancing_series_5:r1383616473:parsoid_html,Judges' votes lists,stated,

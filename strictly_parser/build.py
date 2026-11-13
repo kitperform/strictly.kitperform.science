@@ -18,7 +18,7 @@ from .series_page import SeriesPage
 MONTHS = {m: i for i, m in enumerate(["January", "February", "March", "April", "May", "June", "July",
                                       "August", "September", "October", "November", "December"], 1)}
 SCORE_RE = re.compile(r"^(\d+)\s*\(\s*((?:\d+\s*,\s*)*\d+)\s*\)$")
-RATINGS_LABEL_RE = re.compile(r"^(?:(Launch show)|Week (\d+))(?:\s*\((Night|Show)\s*(\d)\))?(\s+results)?$")
+RATINGS_LABEL_RE = re.compile(r"^(?:(Launch show|Preview|Launch)|Week (\d+))(?:\s*\((Night|Show)\s*(\d)\))?(\s+results)?$")
 STATUS_RE = re.compile(r"^(Eliminated (\d+)(?:st|nd|rd|th)(?:\s*&\s*(\d+)(?:st|nd|rd|th))?|Withdrew|Winners?|Runners?-up|Co-runners-up|Third place|Fourth place|Participating)(?:\s*\|?\s*on (\d{1,2} \w+ \d{4}))?", re.I)
 ORDINAL_RE = re.compile(r"^(\d+)(?:st|nd|rd|th)$")
 DATE_RE = re.compile(r"(\d{1,2}) (\w+)(?: (\d{4}))?")
@@ -183,12 +183,13 @@ class Build:
         for seq, r in enumerate(ratings_rows, 1):
             m = RATINGS_LABEL_RE.match(r["label"])
             if not m:
-                if not re.match(r"^(Series|Average)", r["label"]):
+                if not re.match(r"^(Series|Average|Overall)", r["label"]):
                     self.warn(f"Ratings row label not understood: {r['label']!r}")
                 continue
             date = parse_date(r["date_text"], self.year)
             if m.group(1):
-                key, kind, wk, code, sub = f"{self.skey}-L", "launch", None, "L", "none"
+                is_preview = m.group(1).lower() == "preview"
+                key, kind, wk, code, sub = (f"{self.skey}-PV", "preview", None, "PV", "none") if is_preview else (f"{self.skey}-L", "launch", None, "L", "none")
                 launch_date = date
             else:
                 wk = int(m.group(2))
