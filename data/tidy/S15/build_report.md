@@ -12,7 +12,7 @@
 | `results_rounds.csv` | 12 |
 | `results_round_weeks.csv` | 13 |
 | `people.csv` | 34 |
-| `person_aliases.csv` | 5 |
+| `person_aliases.csv` | 6 |
 | `series_people.csv` | 34 |
 | `couples.csv` | 15 |
 | `couple_partnerships.csv` | 15 |

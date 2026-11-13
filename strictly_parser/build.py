@@ -88,7 +88,7 @@ class Build:
                        **self.prov("curated/person_aliases.csv", "editorial", cur["note"])}
                 self.people[slug] = row
                 self.T["people"].append(row)
-            alias = (title or display or "").strip()
+            alias = (display if display and self.alias_curated.get(display) else title or display or "").strip()
             akey = f"{slug}|any|{alias}|any"
             if alias and alias != cur["canonical_name"] and not any(a["person_alias_key"] == akey for a in self.T["person_aliases"]):
                 self.T["person_aliases"].append({"person_alias_key": akey, "person_key": slug, "alias": alias, "alias_kind": cur["alias_kind"], "context": "any",
@@ -114,6 +114,11 @@ class Build:
                    "family_name": " ".join(toks[1:]) if len(toks) > 1 else "", "gender": "", **self.prov(locator)}
             self.people[slug] = row
             self.T["people"].append(row)
+        if title and display and display.strip() and display.strip().lower() != self.people[slug]["canonical_name"].lower() and not display.strip().startswith("Dr"):
+            akey = f"{slug}|display_name|{display.strip()}|{self.skey}"
+            if not any(a["person_alias_key"] == akey for a in self.T["person_aliases"]):
+                self.T["person_aliases"].append({"person_alias_key": akey, "person_key": slug, "alias": display.strip(), "alias_kind": "display_name", "context": "any",
+                                                 "series_key": self.skey, **self.prov(locator, "stated", "name as printed on this page")})
         return slug
 
     # ------------------------------------------------------------ run
@@ -708,6 +713,7 @@ class Build:
         self.carry_votes_weeks = set()
         self.chart_only_carry = set()
         self.intermediate_rounds = {}
+        self.scoring_error_weeks = set()
         self.nonshow_week = Counter()
         self.dance_bullets = self.page.dance_chart_bullets()
         self.dances_seen = {}
@@ -962,7 +968,8 @@ class Build:
         return {"pro_person_key": "", "partnership_kind": ""}
 
     ROLE_PHRASES = (("chosen by the judges", "repeat_judges_choice"), ("judges' pick", "repeat_judges_choice"), ("judges' choice", "repeat_judges_choice"),
-                    ("judges choice", "repeat_judges_choice"), ("favourite", "repeat_favourite"), ("favorite", "repeat_favourite"),
+                    ("judges choice", "repeat_judges_choice"), ("favourite ballroom", "repeat_favourite_ballroom"), ("favourite latin", "repeat_favourite_latin"),
+                    ("favourite", "repeat_favourite"), ("favorite", "repeat_favourite"),
                     ("unlearned dance", "unlearned"), ("new dance", "unlearned"), ("highest-scoring ballroom", "repeat_highest_ballroom"),
                     ("highest-scoring latin", "repeat_highest_latin"), ("highest-scoring", "repeat_highest"), ("highest scoring", "repeat_highest"))
 
@@ -1081,6 +1088,19 @@ class Build:
         results = self.week_results.get(wk, {})
         eliminated = [c for c, (t, bg) in results.items() if RESULT_MAP.get(t.lower()) == "eliminated"]
         at_risk = [c for c, (t, bg) in results.items() if RESULT_MAP.get(t.lower()) in ("bottom_two", "bottom_three", "eliminated")]
+        prose_all0 = " ".join(p for p, _ in h["paragraphs"])
+        if not votes and not eliminated and wk in self.no_elimination_weeks and re.search(r"scoring system|scoring error|issue with the scor", prose_all0, re.I):
+            rkey = f"{self.skey}R{wk:02d}"
+            self.T["results_rounds"].append({
+                "round_key": rkey, "series_key": self.skey, "round_kind": "no_decision", "label": str(wk), "deciding_week_key": wkk,
+                "decided_at_episode_key": self.week_eps[wk].get("R") or self.week_eps[wk].get("P", ""), "week_keys": wkk, "elimination_mechanism_actual": "none",
+                "exit_count": 0, "at_risk_group_size_actual": "", "dance_off_status": "cancelled_scoring_error", "vote_direction": "", "casting_vote_slug": "",
+                "casting_vote_used": "", "casting_vote_inferred": "false", "votes_recorded": "false", "votes_carried_over": "", "combined_reason": "single_week",
+                "casting_vote_source_kind": "", **self.prov(f"section={h['heading']}; prose", "stated", "no elimination after a scoring-system issue (A046)")})
+            self.T["results_round_weeks"].append({"results_round_week_key": f"{rkey}|{wkk}", "round_key": rkey, "week_key": wkk, "seq": 1})
+            self.week_rounds[wk] = rkey
+            self.scoring_error_weeks.add(wk)
+            return
         if not votes and not eliminated and not any(t for t, _ in results.values()):
             return  # no decision evidenced yet (pending week, or carry-over week)
         if not votes and not eliminated and wk in self.no_elimination_weeks:
@@ -1092,7 +1112,12 @@ class Build:
                 combined_from = a
         if combined_from:
             rkey, label, weeks = f"{self.skey}R{combined_from:02d}-{wk:02d}", f"{combined_from}+{wk}", list(range(combined_from, wk + 1))
-            reason = "opening_weeks_format" if combined_from == 1 else "withdrawal_carry_over"
+            reason = "opening_weeks_format" if combined_from == 1 else "vote_rollover_final" if self.weeks[wk]["round_stage"] == "final" else \
+                     "scoring_error_carry_over" if combined_from in self.scoring_error_weeks else "withdrawal_carry_over"
+            if combined_from in self.scoring_error_weeks and re.search(r"votes? (?:cast )?(?:were |was )?carried", self.page.soup.get_text(" "), re.I):
+                self.carry_votes_weeks.add(combined_from)
+                self.carry_weeks.add(combined_from)
+                self.chart_only_carry.discard(combined_from)
         else:
             rkey, label, weeks, reason = f"{self.skey}R{wk:02d}", str(wk), [wk], "single_week"
         direction = h["votes_direction"] or self.effective_rule(wk, "vote_direction")
@@ -1177,10 +1202,14 @@ class Build:
                     "locator_b": "series 11 and 12 pages describe the equivalent exit as the lowest public vote", "resolution": "both_kept_unresolved", "note": fr["note"]})
             self.T["results_round_weeks"].append({"results_round_week_key": f"{a_key}|{wkk}", "round_key": a_key, "week_key": wkk, "seq": 1})
             self.intermediate_rounds[wk] = (a_key, set(intermediate))
+        final_exits = []
         if is_final and not eliminated:
             mechanism, dance_off, direction, holder, at_risk = "public_vote_final_placing", "not_applicable", "", None, []
             if intermediate:
                 rkey, label = f"{self.skey}R{wk:02d}b", h["tables"][-1][0] or "Show 2"
+            else:
+                # third/fourth placings count as exits; the Couples table placing is authoritative where a Result cell is mislabelled (A049)
+                final_exits = [c for c in results if RESULT_MAP.get(results[c][0].lower()) in ("third", "fourth") or self.couples_by_key[c]["final_placement"] in (3, 4)]
         elif not votes and not eliminated and withdrawn:
             # a bottom-two couple withdrew before the dance-off could take place (A226)
             mechanism, dance_off, direction = "none", "cancelled_withdrawal", ""
@@ -1196,7 +1225,7 @@ class Build:
         self.T["results_rounds"].append({
             "round_key": rkey, "series_key": self.skey, "round_kind": "final_placing" if is_final else "standard", "label": label,
             "deciding_week_key": wkk, "decided_at_episode_key": decided_at or "", "week_keys": "|".join(week_key(self.skey, w) for w in weeks),
-            "elimination_mechanism_actual": mechanism, "exit_count": len(eliminated),
+            "elimination_mechanism_actual": mechanism, "exit_count": len(eliminated) + len(final_exits),
             "at_risk_group_size_actual": len(at_risk) if (at_risk and len(at_risk) > len(eliminated)) else "", "dance_off_status": dance_off, "vote_direction": direction,
             "casting_vote_slug": holder or "", "casting_vote_used": used, "casting_vote_inferred": inferred, "votes_recorded": "true" if votes else "false",
             "votes_carried_over": ("true" if combined_from in self.carry_votes_weeks else "" if combined_from in self.chart_only_carry else "false") if (combined_from and combined_from in self.carry_weeks) else "", "combined_reason": reason,
@@ -1257,6 +1286,30 @@ class Build:
             self.T["chart_legends"].append({"source_capture_key": self.capture_key, "colour_norm": f"efn:{name}", "meaning_text": text, "scope": "scoring"})
         self.chart_cols = sc["col_labels"]
         self.chart_notes = sc["notes"]
+        # a chart cell listing a total for a routine whose weekly cell is empty: load the chart's total as judge_total_only, disputed (A048)
+        for ckey, row in self.chart_rows.items():
+            for ci, cell in enumerate(row["cells"]):
+                col = self.chart_cols[ci] if ci < len(self.chart_cols) else ""
+                txt = cell["text"].replace("†", "").replace("‡", "").strip().lstrip("+")
+                if not re.fullmatch(r"\d+(?:\+\d+)+=\d+", txt) or not col.isdigit():
+                    continue
+                parts = [int(x) for x in txt.split("=")[0].split("+")]
+                wkk = week_key(self.skey, int(col))
+                perfs = [p for p in self.T["performances"] if p["couple_key"] == ckey and p["week_key"] == wkk]
+                perfs.sort(key=lambda p: (p["episode_key"], p["sequence_in_episode"]))
+                unscored = [p for p in perfs if p["scoring_mode"] == "unscored" and p["score_cell_raw"] == ""]
+                if len(parts) != len(perfs) or not unscored:
+                    continue
+                if all(p["stated_total"] == parts[i] for i, p in enumerate(perfs) if p["scoring_mode"] == "judge_marks"):
+                    for i, p in enumerate(perfs):
+                        if p in unscored:
+                            p.update({"stated_total": parts[i], "scoring_mode": "judge_total_only", "source_kind": "disputed",
+                                      "note": "total taken from the Scoring chart; the weekly table's score cell is empty (A048)"})
+                            self.T["discrepancies"].append({
+                                "discrepancy_key": f"Performance|{p['performance_key']}|stated_total|1", "table_name": "Performance", "natural_key": p["performance_key"],
+                                "field_name": "stated_total", "value_a": parts[i], "source_capture_a_key": self.capture_key, "locator_a": f"section=Scoring chart; row={row['label']}; col={col}",
+                                "value_b": "", "value_b_origin": "capture", "source_capture_b_key": self.capture_key, "locator_b": f"section=Week {col}; table row; col=Scores (empty)",
+                                "resolution": "prefer_a", "note": "the live chart totals a routine the weekly table leaves unscored; loaded as judge_total_only per open question 1"})
         # cross-check: chart totals vs weekly totals
         last_index = {}
         for ci, col in enumerate(self.chart_cols):
@@ -1303,6 +1356,8 @@ class Build:
                             raw, bg = self.week_results[wk][ckey]
                             res = RESULT_MAP.get(raw.lower(), "pending" if raw == "" else raw.lower())
                             locator += f"; table row; col=Result"
+                        elif wk in self.scoring_error_weeks:
+                            res, kind, note = "no_elimination", "stated", "no elimination after a scoring-system issue; scores and votes rolled into the next week (A046)"
                         elif wk in self.carry_weeks:
                             res, kind, note = "carried_forward", "inferred", ("no Result column; the Scoring chart carries a combined column (A170)" if wk in self.chart_only_carry else "no Result column; prose says scores carried over")
                         elif wk in self.no_elimination_weeks:
@@ -1312,7 +1367,7 @@ class Build:
                         rk = self.week_rounds.get(wk, "")
                         if wk in self.intermediate_rounds and ckey in self.intermediate_rounds[wk][1]:
                             rk = self.intermediate_rounds[wk][0]
-                        if wk in self.carry_weeks:
+                        if wk in self.carry_weeks and wk not in self.scoring_error_weeks:
                             rk = ""
                         bottom_announced = any(RESULT_MAP.get(t.lower()) in ("bottom_two", "bottom_three") for t, _ in self.week_results.get(wk, {}).values())
                         at_risk = res in ("bottom_two", "bottom_three") or (res == "eliminated" and bottom_announced)
@@ -1329,7 +1384,7 @@ class Build:
                         colour = self.chart_colours.get((cell["bg"] or "").lower().replace("background:", "").strip()) if cell else None
                         bye_prose = self.bye_notes.get(wk, "")
                         named_in_bye = bool(bye_prose) and (couple["celebrity_display_name"].split(" ")[0] in bye_prose)
-                        if cell and re.fullmatch(r"[—–-]?\s*N/?a", cell["text"].strip(), re.I):
+                        if cell and re.fullmatch(r"[—–-]+\s*(?:N/?a)?|N/?a", cell["text"].strip(), re.I):
                             prose_w = " ".join(p for p, _ in self.headings[wk]["paragraphs"])
                             grp = re.search(r"did not (?:compete|perform)[^.]*group", prose_w, re.I)
                             part, res, kind = ("group_only" if grp else "not_scheduled"), "exempt", "stated"
@@ -1362,6 +1417,21 @@ class Build:
                             self.warn(f"week {wk} {ckey}: no weekly row and no bye footnote")
                 else:
                     kind, note = "inferred", "week not yet scored on the captured page"
+                if part == "competed" and self.weeks[wk]["round_stage"] == "final" and couple["final_placement"] != "" and res in ("winner", "runner_up", "third", "fourth"):
+                    placing = {1: "winner", 2: "runner_up", 3: "third", 4: "fourth"}.get(couple["final_placement"])
+                    if placing and placing != res:
+                        self.T["discrepancies"].append({
+                            "discrepancy_key": f"CoupleWeek|{wkk}-{ckey.split('-', 1)[1]}|result_status|1", "table_name": "CoupleWeek", "natural_key": f"{wkk}-{ckey.split('-', 1)[1]}",
+                            "field_name": "result_status", "value_a": placing, "source_capture_a_key": self.capture_key, "locator_a": f"section=Couples; row={couple['celebrity_display_name']}; col=Status",
+                            "value_b": res, "value_b_origin": "capture", "source_capture_b_key": self.capture_key, "locator_b": f"section=Week {wk}; table row; col=Result",
+                            "resolution": "prefer_a", "note": "the weekly Result cell disagrees with the Couples table placing; the Couples table is preferred (A049)"})
+                        res, kind = placing, "disputed"
+                        note = (note + "; " if note else "") + "placing taken from the Couples table; the Result cell says otherwise"
+                if part == "competed":
+                    wperfs = [p for p in self.T["performances"] if p["couple_key"] == ckey and p["week_key"] == wkk]
+                    if wperfs and not any(p["scoring_mode"] in ("judge_marks", "judge_total_only") for p in wperfs):
+                        part = "competed_unscored"
+                        note = (note + "; " if note else "") + "every routine this week was unscored (rule W3)"
                 pship = self.partnership_at(ckey, wk)
                 pro = pship["pro_person_key"]
                 if part == "competed" and pship.get("partnership_kind") == "substitute_temporary" and not reason:

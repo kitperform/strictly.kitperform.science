@@ -1,0 +1,6 @@
+person_alias_key,person_key,alias,alias_kind,context,series_key,source_capture_key,source_locator,source_kind,note
+christine-lampard|any|Christine Bleakley|any,christine-lampard,Christine Bleakley,former_name,any,,enwiki:Strictly_Come_Dancing_series_6:r1384547354:parsoid_html,section=Couples,stated,name as printed on this page; resolved through curated/person_aliases.csv
+craig-revel-horwood|vote_list|Horwood|S06,craig-revel-horwood,Horwood,vote_list_surname,vote_list,S06,enwiki:Strictly_Come_Dancing_series_6:r1384547354:parsoid_html,Judges' votes lists,stated,
+arlene-phillips|vote_list|Phillips|S06,arlene-phillips,Phillips,vote_list_surname,vote_list,S06,enwiki:Strictly_Come_Dancing_series_6:r1384547354:parsoid_html,Judges' votes lists,stated,
+bruno-tonioli|vote_list|Tonioli|S06,bruno-tonioli,Tonioli,vote_list_surname,vote_list,S06,enwiki:Strictly_Come_Dancing_series_6:r1384547354:parsoid_html,Judges' votes lists,stated,
+len-goodman|vote_list|Goodman|S06,len-goodman,Goodman,vote_list_surname,vote_list,S06,enwiki:Strictly_Come_Dancing_series_6:r1384547354:parsoid_html,Judges' votes lists,stated,
