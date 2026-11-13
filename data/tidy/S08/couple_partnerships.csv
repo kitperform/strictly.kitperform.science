@@ -1,0 +1,17 @@
+couple_partnership_key,couple_key,pro_person_key,week_from,week_to,partnership_kind,reason,reason_text,source_capture_key,source_locator,source_kind,note
+S08-goldie-P1,S08-goldie,kristina-rihanoff,1,2,original,,,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,section=Couples; row=Goldie; col=Professional partner,stated,
+S08-paul-daniels-P1,S08-paul-daniels,ola-jordan,1,3,original,,,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,section=Couples; row=Paul Daniels; col=Professional partner,stated,
+S08-peter-shilton-P1,S08-peter-shilton,erin-boag,1,4,original,,,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,section=Couples; row=Peter Shilton; col=Professional partner,stated,
+S08-tina-o-brien-P1,S08-tina-o-brien,jared-murillo,1,5,original,,,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,section=Couples; row=Tina O'Brien; col=Professional partner,stated,
+S08-jimi-mistry-P1,S08-jimi-mistry,flavia-cacace,1,6,original,,,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,section=Couples; row=Jimi Mistry; col=Professional partner,stated,
+S08-michelle-williams-P1,S08-michelle-williams,brendan-cole,1,3,original,,,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,section=Couples; row=Michelle Williams; col=Professional partner,stated,
+S08-michelle-williams-P2,S08-michelle-williams,ian-waite,4,4,substitute_temporary,bereavement,from the Couples cell range and the page prose,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,section=Couples; row=Michelle Williams; col=Professional partner,stated,
+S08-michelle-williams-P3,S08-michelle-williams,brendan-cole,5,7,original,,original professional returned,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,section=Couples; row=Michelle Williams; col=Professional partner,inferred,"rule P1: the stated stand-in range ended, so the original professional resumed"
+S08-felicity-kendal-P1,S08-felicity-kendal,vincent-simone,1,8,original,,,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,section=Couples; row=Felicity Kendal; col=Professional partner,stated,
+S08-patsy-kensit-P1,S08-patsy-kensit,robin-windsor,1,9,original,,,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,section=Couples; row=Patsy Kensit; col=Professional partner,stated,
+S08-ann-widdecombe-P1,S08-ann-widdecombe,anton-du-beke,1,10,original,,,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,section=Couples; row=Ann Widdecombe; col=Professional partner,stated,
+S08-gavin-henson-P1,S08-gavin-henson,katya-virshilas,1,11,original,,,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,section=Couples; row=Gavin Henson; col=Professional partner,stated,
+S08-scott-maslen-P1,S08-scott-maslen,natalie-lowe,1,11,original,,,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,section=Couples; row=Scott Maslen; col=Professional partner,stated,
+S08-pamela-stephenson-P1,S08-pamela-stephenson,james-jordan,1,12,original,,,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,section=Couples; row=Pamela Stephenson; col=Professional partner,stated,
+S08-matt-baker-P1,S08-matt-baker,aliona-vilani,1,12,original,,,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,section=Couples; row=Matt Baker; col=Professional partner,stated,
+S08-kara-tointon-P1,S08-kara-tointon,artem-chigvintsev,1,12,original,,,enwiki:Strictly_Come_Dancing_series_8:r1377712244:parsoid_html,section=Couples; row=Kara Tointon; col=Professional partner,stated,

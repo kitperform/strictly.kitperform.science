@@ -559,7 +559,7 @@ class Build:
                 prev_slug = slug
                 continue
             # later professional: split the range at the week whose prose confirms a permanent change
-            perm_week, temp_reason, perm_reason = None, "", ""
+            perm_week, temp_reason, perm_reason, temp_from_page = None, "", "", False
             for wk in range(int(w_from), int(w_to) + 1 if w_to != "" else int(w_from) + 1):
                 prose = " ".join(p for p, _ in self.headings.get(wk, {"paragraphs": []})["paragraphs"])
                 old_sur = self.people[prev_slug]["family_name"] or self.people[prev_slug]["canonical_name"]
@@ -570,6 +570,14 @@ class Build:
                         perm_reason = self.reason_from(s)
                     elif re.search(r"unable to perform|instead|stood in|stand in|replaced for", s, re.I) and not temp_reason:
                         temp_reason = self.reason_from(s)
+            if perm_week is None and not temp_reason:
+                page_text = self.page.soup.get_text(" ")
+                new_sur = pr["name"].split(" ")[-1]
+                sent = next((s for s in re.split(r"(?<=\.)\s+", page_text) if new_sur in s and re.search(r"filled in|stood in|stand in|substitut|danced with|performed with|instead", s, re.I)
+                             and (self.people[prev_slug]["family_name"] in s or self.people[prev_slug]["canonical_name"] in s)), "")
+                if sent:
+                    temp_reason = self.reason_from(sent)
+                    temp_from_page = True
             if perm_week is not None and perm_week > int(w_from):
                 n += 1
                 self.T["couple_partnerships"].append({
@@ -586,7 +594,8 @@ class Build:
                 n += 1
                 self.T["couple_partnerships"].append({
                     "couple_partnership_key": f"{ckey}-P{n}", "couple_key": ckey, "pro_person_key": slug, "week_from": int(w_from), "week_to": w_to,
-                    "partnership_kind": kind, "reason": (perm_reason or temp_reason) or "unspecified", "reason_text": "from the Couples cell range and the week prose",
+                    "partnership_kind": kind, "reason": (perm_reason or temp_reason) or "unspecified",
+                    "reason_text": "from the Couples cell range and the page prose" if temp_from_page else "from the Couples cell range and the week prose",
                     "_fixed_to": w_to != "", **self.prov(loc, "stated" if perm_week is not None or temp_reason else "inferred",
                                                            "" if perm_week is not None or temp_reason else "kind not stated in prose; defaulted to substitute_temporary")})
             # roster consequences (section 3.10)
@@ -933,7 +942,7 @@ class Build:
 
     ROLE_PHRASES = (("chosen by the judges", "repeat_judges_choice"), ("judges' pick", "repeat_judges_choice"), ("judges' choice", "repeat_judges_choice"),
                     ("judges choice", "repeat_judges_choice"), ("favourite", "repeat_favourite"), ("favorite", "repeat_favourite"),
-                    ("unlearned dance", "unlearned"), ("new dance", "unlearned"))
+                    ("unlearned dance", "unlearned"), ("new dance", "unlearned"), ("highest-scoring", "repeat_highest"), ("highest scoring", "repeat_highest"))
 
     def roles_in(self, text):
         """Non-showdance selection roles named in a dance-chart bullet or prose, in the order they appear."""
@@ -1128,8 +1137,15 @@ class Build:
                 "elimination_mechanism_actual": a_mech, "exit_count": len(intermediate), "at_risk_group_size_actual": "", "dance_off_status": "not_applicable",
                 "vote_direction": "", "casting_vote_slug": "", "casting_vote_used": "", "casting_vote_inferred": "false", "votes_recorded": "false",
                 "votes_carried_over": "", "combined_reason": "single_week", "casting_vote_source_kind": "",
-                **self.prov(f"section={h['heading']}; Show 1 Result column and prose", "stated" if fr or re.search(r"lowest public vote|fewest public votes|lowest combined", prose_all, re.I) else "inferred",
-                            "intermediate exit between the two shows of the final")})
+                **self.prov(f"section={h['heading']}; Show 1 Result column and prose",
+                            (fr["source_kind"] if fr and fr["source_kind"] in ("stated", "disputed", "inferred") else "stated") if fr or re.search(r"lowest public vote|fewest public votes|lowest combined", prose_all, re.I) else "inferred",
+                            "intermediate exit between the two shows of the final" + (f"; {fr['note']}" if fr and fr["source_kind"] == "disputed" else ""))})
+            if fr and fr["source_kind"] == "disputed":
+                self.T["discrepancies"].append({
+                    "discrepancy_key": f"ResultsRound|{a_key}|elimination_mechanism_actual|1", "table_name": "ResultsRound", "natural_key": a_key,
+                    "field_name": "elimination_mechanism_actual", "value_a": a_mech, "source_capture_a_key": self.capture_key,
+                    "locator_a": f"section={h['heading']}; prose", "value_b": "lowest_public_vote", "value_b_origin": "editorial", "source_capture_b_key": "",
+                    "locator_b": "series 11 and 12 pages describe the equivalent exit as the lowest public vote", "resolution": "both_kept_unresolved", "note": fr["note"]})
             self.T["results_round_weeks"].append({"results_round_week_key": f"{a_key}|{wkk}", "round_key": a_key, "week_key": wkk, "seq": 1})
             self.intermediate_rounds[wk] = (a_key, set(intermediate))
         if is_final and not eliminated:
@@ -1232,7 +1248,8 @@ class Build:
                         "source_capture_a_key": self.capture_key, "locator_a": f"section=Scoring chart; row={row['label']}; col={col}", "value_b": expected,
                         "value_b_origin": "derived", "source_capture_b_key": "", "locator_b": "sum of Performance.stated_total in the weekly tables",
                         "resolution": "both_kept_unresolved", "note": ""})
-        self.check("scoring chart totals equal weekly totals", not self.T["discrepancies"], f"{len(self.T['discrepancies'])} discrepancies")
+        chart_disc = [d for d in self.T["discrepancies"] if d["table_name"] == "CoupleWeek"]
+        self.check("scoring chart totals equal weekly totals", not chart_disc, f"{len(chart_disc)} discrepancies")
 
     # ------------------------------------------------------------ couple weeks
     def couple_weeks(self):

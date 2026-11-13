@@ -15,8 +15,8 @@ Part of the [Kit Perform](https://github.com/kitperform) family of performance-a
 - `scripts/fetch-wikipedia.sh` (HTML) and `scripts/fetch-wikitext.py` (wikitext + manifest, optional `--parsoid N`) — reproducible fetchers
 - `strictly_parser/` — the Phase 0 parser: turns a captured series page into the tidy CSV dataset defined in `docs/data-model-v2.md` section 10
 - `curated/` — small hand-maintained tables for facts the page does not state (head judge, format rules, label typos, dance families); see `curated/README.md`
-- `data/tidy/S09/` to `data/tidy/S24/` — the parser's output per series: one CSV per table plus `build_report.md` with the integrity checks
-- `tests/` — pytest acceptance tests pinning known facts of series 9 to 24 (withdrawals, byes, instant dances, rotating casting votes, the triple dance-off, carried-over weeks, finals)
+- `data/tidy/S08/` to `data/tidy/S24/` — the parser's output per series: one CSV per table plus `build_report.md` with the integrity checks
+- `tests/` — pytest acceptance tests pinning known facts of series 8 to 24 (withdrawals, byes, instant dances, rotating casting votes, the triple dance-off, carried-over weeks, finals)
 - `prototypes/` — parser prototypes that established the approach (`prototypes/README.md`)
 - `scraping-evaluation.ipynb`, `four-tens-experimentation.ipynb` — early Jupyter experiments (merged in from the former `strictly-jupyter` fork)
 
@@ -60,7 +60,7 @@ The project is in early-stage discovery.
 ```sh
 python3 -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
-python -m strictly_parser 24          # writes data/tidy/S24/*.csv and build_report.md (9 to 23 likewise)
+python -m strictly_parser 24          # writes data/tidy/S24/*.csv and build_report.md (8 to 23 likewise)
 python -m pytest -q tests             # acceptance tests against the series 24 capture
 ```
 
