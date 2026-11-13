@@ -1,0 +1,13 @@
+week_key,series_key,week_number,round_stage,theme_key,heading_raw,dance_brief_raw,lifecycle_status,source_capture_key,source_locator,source_kind,note
+S04W01,S04,1,regular,,Week 1,One unlearned dance (cha-cha-cha or waltz); group mambo,results_in,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,section=Week 1,stated,
+S04W02,S04,2,regular,,Week 2,One unlearned dance (quickstep or rumba); group swing dance,results_in,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,section=Week 2,stated,
+S04W03,S04,3,regular,,Week 3,One unlearned dance (jive or tango),results_in,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,section=Week 3,stated,
+S04W04,S04,4,regular,,Week 4,One unlearned dance (foxtrot or paso doble),results_in,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,section=Week 4,stated,
+S04W05,S04,5,regular,,Week 5,One unlearned dance (salsa or Viennese waltz),results_in,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,section=Week 5,stated,
+S04W06,S04,6,regular,,Week 6,One unlearned dance (American Smooth or samba),results_in,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,section=Week 6,stated,
+S04W07,S04,7,regular,,Week 7,One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,section=Week 7,stated,
+S04W08,S04,8,regular,,Week 8,One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,section=Week 8,stated,
+S04W09,S04,9,regular,,Week 9,Two unlearned dances,results_in,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,section=Week 9,stated,
+S04W10,S04,10,quarter_final,,Week 10: Quarterfinal,Two unlearned dances,results_in,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,section=Week 10: Quarterfinal,stated,
+S04W11,S04,11,semi_final,,Week 11: Semifinal,One unlearned dance & Argentine tango,results_in,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,section=Week 11: Semifinal,stated,
+S04W12,S04,12,final,,Week 12: Final,"Favourite ballroom dance, favourite Latin dance, one new dance & showdance",results_in,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,section=Week 12: Final,stated,

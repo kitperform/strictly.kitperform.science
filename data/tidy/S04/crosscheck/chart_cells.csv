@@ -1,0 +1,169 @@
+chart_cell_key,source_capture_key,chart_kind,row_index,col_index,row_label_raw,couple_key,col_label_raw,cell_text_raw,bgcolor_norm,flags
+S04|scoring|0|0,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,0,0,Mark & Karen,S04-mark-ramprakash,1,27†,,dagger|bold
+S04|scoring|0|1,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,0,1,Mark & Karen,S04-mark-ramprakash,2,—N/a,"var(--background-color-interactive, #ececec)",
+S04|scoring|0|2,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,0,2,Mark & Karen,S04-mark-ramprakash,3,32,,
+S04|scoring|0|3,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,0,3,Mark & Karen,S04-mark-ramprakash,4,35†,,dagger|bold
+S04|scoring|0|4,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,0,4,Mark & Karen,S04-mark-ramprakash,5,36†,,dagger|bold
+S04|scoring|0|5,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,0,5,Mark & Karen,S04-mark-ramprakash,6,33,,
+S04|scoring|0|6,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,0,6,Mark & Karen,S04-mark-ramprakash,7,27,,
+S04|scoring|0|7,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,0,7,Mark & Karen,S04-mark-ramprakash,8,36†,,dagger|bold
+S04|scoring|0|8,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,0,8,Mark & Karen,S04-mark-ramprakash,9,28+36=64,,
+S04|scoring|0|9,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,0,9,Mark & Karen,S04-mark-ramprakash,10,36+27=63,,
+S04|scoring|0|10,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,0,10,Mark & Karen,S04-mark-ramprakash,11,34+39=73†,,dagger|bold
+S04|scoring|0|11,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,0,11,Mark & Karen,S04-mark-ramprakash,12,34+40+36=110†,gold,dagger|bold
+S04|scoring|1|0,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,1,0,Matt & Lilia,S04-matt-dawson,1,19,,
+S04|scoring|1|1,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,1,1,Matt & Lilia,S04-matt-dawson,2,—N/a,"var(--background-color-interactive, #ececec)",
+S04|scoring|1|2,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,1,2,Matt & Lilia,S04-matt-dawson,3,30,,
+S04|scoring|1|3,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,1,3,Matt & Lilia,S04-matt-dawson,4,28,,
+S04|scoring|1|4,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,1,4,Matt & Lilia,S04-matt-dawson,5,25,,
+S04|scoring|1|5,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,1,5,Matt & Lilia,S04-matt-dawson,6,34,,
+S04|scoring|1|6,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,1,6,Matt & Lilia,S04-matt-dawson,7,37†,,dagger|bold
+S04|scoring|1|7,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,1,7,Matt & Lilia,S04-matt-dawson,8,28,,
+S04|scoring|1|8,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,1,8,Matt & Lilia,S04-matt-dawson,9,34+27=61‡,,double_dagger|italic
+S04|scoring|1|9,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,1,9,Matt & Lilia,S04-matt-dawson,10,29+32=61,,
+S04|scoring|1|10,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,1,10,Matt & Lilia,S04-matt-dawson,11,35+30=65‡,,double_dagger|italic
+S04|scoring|1|11,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,1,11,Matt & Lilia,S04-matt-dawson,12,38+31+36=105‡,silver,double_dagger|italic
+S04|scoring|2|0,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,2,0,Emma & Darren,S04-emma-bunton,1,—N/a,"var(--background-color-interactive, #ececec)",
+S04|scoring|2|1,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,2,1,Emma & Darren,S04-emma-bunton,2,33†,,dagger|bold
+S04|scoring|2|2,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,2,2,Emma & Darren,S04-emma-bunton,3,33,,
+S04|scoring|2|3,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,2,3,Emma & Darren,S04-emma-bunton,4,30,,
+S04|scoring|2|4,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,2,4,Emma & Darren,S04-emma-bunton,5,34,,
+S04|scoring|2|5,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,2,5,Emma & Darren,S04-emma-bunton,6,36†,,dagger|bold
+S04|scoring|2|6,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,2,6,Emma & Darren,S04-emma-bunton,7,30,lightblue,efn:Bottom2
+S04|scoring|2|7,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,2,7,Emma & Darren,S04-emma-bunton,8,34,,
+S04|scoring|2|8,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,2,8,Emma & Darren,S04-emma-bunton,9,37+37=74†,lightblue,dagger|bold|efn:Bottom2
+S04|scoring|2|9,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,2,9,Emma & Darren,S04-emma-bunton,10,35+34=69†,lightblue,dagger|bold|efn:Bottom2
+S04|scoring|2|10,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,2,10,Emma & Darren,S04-emma-bunton,11,36+33=69,#f4c7b8,efn:Elim
+S04|scoring|2|11,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,2,11,Emma & Darren,S04-emma-bunton,12,,darkgray,
+S04|scoring|3|0,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,3,0,Louisa & Vincent,S04-louisa-lytton,1,—N/a,"var(--background-color-interactive, #ececec)",
+S04|scoring|3|1,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,3,1,Louisa & Vincent,S04-louisa-lytton,2,28,,
+S04|scoring|3|2,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,3,2,Louisa & Vincent,S04-louisa-lytton,3,36†,,dagger|bold
+S04|scoring|3|3,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,3,3,Louisa & Vincent,S04-louisa-lytton,4,26,,
+S04|scoring|3|4,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,3,4,Louisa & Vincent,S04-louisa-lytton,5,29,,
+S04|scoring|3|5,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,3,5,Louisa & Vincent,S04-louisa-lytton,6,32,,
+S04|scoring|3|6,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,3,6,Louisa & Vincent,S04-louisa-lytton,7,35,,
+S04|scoring|3|7,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,3,7,Louisa & Vincent,S04-louisa-lytton,8,34,,
+S04|scoring|3|8,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,3,8,Louisa & Vincent,S04-louisa-lytton,9,33+36=69,,
+S04|scoring|3|9,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,3,9,Louisa & Vincent,S04-louisa-lytton,10,31+28=59‡,#f4c7b8,double_dagger|italic|efn:Elim
+S04|scoring|3|10,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,3,10,Louisa & Vincent,S04-louisa-lytton,11,,darkgray,
+S04|scoring|3|11,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,3,11,Louisa & Vincent,S04-louisa-lytton,12,,darkgray,rowspan_copy
+S04|scoring|4|0,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,4,0,Carol & Matthew,S04-carol-smillie,1,—N/a,"var(--background-color-interactive, #ececec)",
+S04|scoring|4|1,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,4,1,Carol & Matthew,S04-carol-smillie,2,25,,
+S04|scoring|4|2,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,4,2,Carol & Matthew,S04-carol-smillie,3,27,,
+S04|scoring|4|3,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,4,3,Carol & Matthew,S04-carol-smillie,4,29,,
+S04|scoring|4|4,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,4,4,Carol & Matthew,S04-carol-smillie,5,29,,
+S04|scoring|4|5,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,4,5,Carol & Matthew,S04-carol-smillie,6,27,,
+S04|scoring|4|6,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,4,6,Carol & Matthew,S04-carol-smillie,7,30,,
+S04|scoring|4|7,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,4,7,Carol & Matthew,S04-carol-smillie,8,30,lightblue,efn:Bottom2
+S04|scoring|4|8,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,4,8,Carol & Matthew,S04-carol-smillie,9,34+34=68,#f4c7b8,efn:Elim
+S04|scoring|4|9,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,4,9,Carol & Matthew,S04-carol-smillie,10,,darkgray,
+S04|scoring|4|10,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,4,10,Carol & Matthew,S04-carol-smillie,11,,darkgray,rowspan_copy
+S04|scoring|4|11,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,4,11,Carol & Matthew,S04-carol-smillie,12,,darkgray,rowspan_copy
+S04|scoring|5|0,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,5,0,Claire & Brendan,S04-claire-king,1,—N/a,"var(--background-color-interactive, #ececec)",
+S04|scoring|5|1,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,5,1,Claire & Brendan,S04-claire-king,2,21,,
+S04|scoring|5|2,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,5,2,Claire & Brendan,S04-claire-king,3,22,,
+S04|scoring|5|3,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,5,3,Claire & Brendan,S04-claire-king,4,24,,
+S04|scoring|5|4,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,5,4,Claire & Brendan,S04-claire-king,5,21‡,lightblue,double_dagger|italic|efn:Bottom2
+S04|scoring|5|5,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,5,5,Claire & Brendan,S04-claire-king,6,32,lightblue,efn:Bottom2
+S04|scoring|5|6,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,5,6,Claire & Brendan,S04-claire-king,7,29,,
+S04|scoring|5|7,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,5,7,Claire & Brendan,S04-claire-king,8,25‡,#f4c7b8,double_dagger|italic|efn:Elim
+S04|scoring|5|8,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,5,8,Claire & Brendan,S04-claire-king,9,,darkgray,
+S04|scoring|5|9,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,5,9,Claire & Brendan,S04-claire-king,10,,darkgray,rowspan_copy
+S04|scoring|5|10,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,5,10,Claire & Brendan,S04-claire-king,11,,darkgray,rowspan_copy
+S04|scoring|5|11,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,5,11,Claire & Brendan,S04-claire-king,12,,darkgray,rowspan_copy
+S04|scoring|6|0,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,6,0,Peter & Erin,S04-peter-schmeichel,1,25,,
+S04|scoring|6|1,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,6,1,Peter & Erin,S04-peter-schmeichel,2,—N/a,"var(--background-color-interactive, #ececec)",
+S04|scoring|6|2,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,6,2,Peter & Erin,S04-peter-schmeichel,3,31,,
+S04|scoring|6|3,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,6,3,Peter & Erin,S04-peter-schmeichel,4,19‡,,double_dagger|italic
+S04|scoring|6|4,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,6,4,Peter & Erin,S04-peter-schmeichel,5,28,,
+S04|scoring|6|5,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,6,5,Peter & Erin,S04-peter-schmeichel,6,19‡,,double_dagger|italic
+S04|scoring|6|6,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,6,6,Peter & Erin,S04-peter-schmeichel,7,26‡,#f4c7b8,double_dagger|italic|efn:Elim
+S04|scoring|6|7,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,6,7,Peter & Erin,S04-peter-schmeichel,8,,darkgray,
+S04|scoring|6|8,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,6,8,Peter & Erin,S04-peter-schmeichel,9,,darkgray,rowspan_copy
+S04|scoring|6|9,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,6,9,Peter & Erin,S04-peter-schmeichel,10,,darkgray,rowspan_copy
+S04|scoring|6|10,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,6,10,Peter & Erin,S04-peter-schmeichel,11,,darkgray,rowspan_copy
+S04|scoring|6|11,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,6,11,Peter & Erin,S04-peter-schmeichel,12,,darkgray,rowspan_copy
+S04|scoring|7|0,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,7,0,Ray & Camilla,S04-ray-fearon,1,27†,,dagger|bold
+S04|scoring|7|1,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,7,1,Ray & Camilla,S04-ray-fearon,2,—N/a,"var(--background-color-interactive, #ececec)",
+S04|scoring|7|2,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,7,2,Ray & Camilla,S04-ray-fearon,3,29,,
+S04|scoring|7|3,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,7,3,Ray & Camilla,S04-ray-fearon,4,30,,
+S04|scoring|7|4,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,7,4,Ray & Camilla,S04-ray-fearon,5,35,,
+S04|scoring|7|5,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,7,5,Ray & Camilla,S04-ray-fearon,6,26,#f4c7b8,efn:Elim
+S04|scoring|7|6,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,7,6,Ray & Camilla,S04-ray-fearon,7,,darkgray,
+S04|scoring|7|7,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,7,7,Ray & Camilla,S04-ray-fearon,8,,darkgray,rowspan_copy
+S04|scoring|7|8,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,7,8,Ray & Camilla,S04-ray-fearon,9,,darkgray,rowspan_copy
+S04|scoring|7|9,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,7,9,Ray & Camilla,S04-ray-fearon,10,,darkgray,rowspan_copy
+S04|scoring|7|10,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,7,10,Ray & Camilla,S04-ray-fearon,11,,darkgray,rowspan_copy
+S04|scoring|7|11,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,7,11,Ray & Camilla,S04-ray-fearon,12,,darkgray,rowspan_copy
+S04|scoring|8|0,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,8,0,Jan & Anton,S04-jan-ravens,1,—N/a,"var(--background-color-interactive, #ececec)",
+S04|scoring|8|1,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,8,1,Jan & Anton,S04-jan-ravens,2,24,,
+S04|scoring|8|2,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,8,2,Jan & Anton,S04-jan-ravens,3,18‡,,double_dagger|italic
+S04|scoring|8|3,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,8,3,Jan & Anton,S04-jan-ravens,4,24,lightblue,efn:Bottom2
+S04|scoring|8|4,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,8,4,Jan & Anton,S04-jan-ravens,5,25,#f4c7b8,efn:Elim
+S04|scoring|8|5,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,8,5,Jan & Anton,S04-jan-ravens,6,,darkgray,
+S04|scoring|8|6,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,8,6,Jan & Anton,S04-jan-ravens,7,,darkgray,rowspan_copy
+S04|scoring|8|7,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,8,7,Jan & Anton,S04-jan-ravens,8,,darkgray,rowspan_copy
+S04|scoring|8|8,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,8,8,Jan & Anton,S04-jan-ravens,9,,darkgray,rowspan_copy
+S04|scoring|8|9,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,8,9,Jan & Anton,S04-jan-ravens,10,,darkgray,rowspan_copy
+S04|scoring|8|10,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,8,10,Jan & Anton,S04-jan-ravens,11,,darkgray,rowspan_copy
+S04|scoring|8|11,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,8,11,Jan & Anton,S04-jan-ravens,12,,darkgray,rowspan_copy
+S04|scoring|9|0,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,9,0,Georgina & James,S04-georgina-bouzova,1,—N/a,"var(--background-color-interactive, #ececec)",
+S04|scoring|9|1,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,9,1,Georgina & James,S04-georgina-bouzova,2,14‡,lightblue,double_dagger|italic|efn:Bottom2
+S04|scoring|9|2,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,9,2,Georgina & James,S04-georgina-bouzova,3,18‡,lightblue,double_dagger|italic|efn:Bottom2
+S04|scoring|9|3,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,9,3,Georgina & James,S04-georgina-bouzova,4,26,#f4c7b8,efn:Elim
+S04|scoring|9|4,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,9,4,Georgina & James,S04-georgina-bouzova,5,,darkgray,
+S04|scoring|9|5,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,9,5,Georgina & James,S04-georgina-bouzova,6,,darkgray,rowspan_copy
+S04|scoring|9|6,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,9,6,Georgina & James,S04-georgina-bouzova,7,,darkgray,rowspan_copy
+S04|scoring|9|7,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,9,7,Georgina & James,S04-georgina-bouzova,8,,darkgray,rowspan_copy
+S04|scoring|9|8,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,9,8,Georgina & James,S04-georgina-bouzova,9,,darkgray,rowspan_copy
+S04|scoring|9|9,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,9,9,Georgina & James,S04-georgina-bouzova,10,,darkgray,rowspan_copy
+S04|scoring|9|10,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,9,10,Georgina & James,S04-georgina-bouzova,11,,darkgray,rowspan_copy
+S04|scoring|9|11,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,9,11,Georgina & James,S04-georgina-bouzova,12,,darkgray,rowspan_copy
+S04|scoring|10|0,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,10,0,DJ Spoony & Ola,S04-dj-spoony,1,27†,,dagger|bold
+S04|scoring|10|1,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,10,1,DJ Spoony & Ola,S04-dj-spoony,2,—N/a,"var(--background-color-interactive, #ececec)",
+S04|scoring|10|2,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,10,2,DJ Spoony & Ola,S04-dj-spoony,3,27,#f4c7b8,efn:Elim
+S04|scoring|10|3,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,10,3,DJ Spoony & Ola,S04-dj-spoony,4,,darkgray,
+S04|scoring|10|4,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,10,4,DJ Spoony & Ola,S04-dj-spoony,5,,darkgray,rowspan_copy
+S04|scoring|10|5,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,10,5,DJ Spoony & Ola,S04-dj-spoony,6,,darkgray,rowspan_copy
+S04|scoring|10|6,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,10,6,DJ Spoony & Ola,S04-dj-spoony,7,,darkgray,rowspan_copy
+S04|scoring|10|7,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,10,7,DJ Spoony & Ola,S04-dj-spoony,8,,darkgray,rowspan_copy
+S04|scoring|10|8,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,10,8,DJ Spoony & Ola,S04-dj-spoony,9,,darkgray,rowspan_copy
+S04|scoring|10|9,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,10,9,DJ Spoony & Ola,S04-dj-spoony,10,,darkgray,rowspan_copy
+S04|scoring|10|10,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,10,10,DJ Spoony & Ola,S04-dj-spoony,11,,darkgray,rowspan_copy
+S04|scoring|10|11,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,10,11,DJ Spoony & Ola,S04-dj-spoony,12,,darkgray,rowspan_copy
+S04|scoring|11|0,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,11,0,Jimmy & Flavia,S04-jimmy-tarbuck,1,17,lightblue,efn:Bottom2
+S04|scoring|11|1,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,11,1,Jimmy & Flavia,S04-jimmy-tarbuck,2,—N/a,"var(--background-color-interactive, #ececec)",
+S04|scoring|11|2,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,11,2,Jimmy & Flavia,S04-jimmy-tarbuck,3,,lightgreen,
+S04|scoring|11|3,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,11,3,Jimmy & Flavia,S04-jimmy-tarbuck,4,,darkgray,rowspan_copy
+S04|scoring|11|4,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,11,4,Jimmy & Flavia,S04-jimmy-tarbuck,5,,darkgray,rowspan_copy
+S04|scoring|11|5,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,11,5,Jimmy & Flavia,S04-jimmy-tarbuck,6,,darkgray,rowspan_copy
+S04|scoring|11|6,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,11,6,Jimmy & Flavia,S04-jimmy-tarbuck,7,,darkgray,rowspan_copy
+S04|scoring|11|7,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,11,7,Jimmy & Flavia,S04-jimmy-tarbuck,8,,darkgray,rowspan_copy
+S04|scoring|11|8,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,11,8,Jimmy & Flavia,S04-jimmy-tarbuck,9,,darkgray,rowspan_copy
+S04|scoring|11|9,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,11,9,Jimmy & Flavia,S04-jimmy-tarbuck,10,,darkgray,rowspan_copy
+S04|scoring|11|10,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,11,10,Jimmy & Flavia,S04-jimmy-tarbuck,11,,darkgray,rowspan_copy
+S04|scoring|11|11,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,11,11,Jimmy & Flavia,S04-jimmy-tarbuck,12,,darkgray,rowspan_copy
+S04|scoring|12|0,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,12,0,Mica & Ian,S04-mica-paris,1,—N/a,"var(--background-color-interactive, #ececec)",
+S04|scoring|12|1,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,12,1,Mica & Ian,S04-mica-paris,2,20,#f4c7b8,efn:Elim
+S04|scoring|12|2,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,12,2,Mica & Ian,S04-mica-paris,3,,darkgray,
+S04|scoring|12|3,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,12,3,Mica & Ian,S04-mica-paris,4,,darkgray,rowspan_copy
+S04|scoring|12|4,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,12,4,Mica & Ian,S04-mica-paris,5,,darkgray,rowspan_copy
+S04|scoring|12|5,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,12,5,Mica & Ian,S04-mica-paris,6,,darkgray,rowspan_copy
+S04|scoring|12|6,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,12,6,Mica & Ian,S04-mica-paris,7,,darkgray,rowspan_copy
+S04|scoring|12|7,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,12,7,Mica & Ian,S04-mica-paris,8,,darkgray,rowspan_copy
+S04|scoring|12|8,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,12,8,Mica & Ian,S04-mica-paris,9,,darkgray,rowspan_copy
+S04|scoring|12|9,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,12,9,Mica & Ian,S04-mica-paris,10,,darkgray,rowspan_copy
+S04|scoring|12|10,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,12,10,Mica & Ian,S04-mica-paris,11,,darkgray,rowspan_copy
+S04|scoring|12|11,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,12,11,Mica & Ian,S04-mica-paris,12,,darkgray,rowspan_copy
+S04|scoring|13|0,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,13,0,Nicholas & Nicole,S04-nicholas-owen,1,14‡,#f4c7b8,double_dagger|italic|efn:Elim
+S04|scoring|13|1,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,13,1,Nicholas & Nicole,S04-nicholas-owen,2,,darkgray,
+S04|scoring|13|2,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,13,2,Nicholas & Nicole,S04-nicholas-owen,3,,darkgray,rowspan_copy
+S04|scoring|13|3,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,13,3,Nicholas & Nicole,S04-nicholas-owen,4,,darkgray,rowspan_copy
+S04|scoring|13|4,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,13,4,Nicholas & Nicole,S04-nicholas-owen,5,,darkgray,rowspan_copy
+S04|scoring|13|5,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,13,5,Nicholas & Nicole,S04-nicholas-owen,6,,darkgray,rowspan_copy
+S04|scoring|13|6,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,13,6,Nicholas & Nicole,S04-nicholas-owen,7,,darkgray,rowspan_copy
+S04|scoring|13|7,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,13,7,Nicholas & Nicole,S04-nicholas-owen,8,,darkgray,rowspan_copy
+S04|scoring|13|8,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,13,8,Nicholas & Nicole,S04-nicholas-owen,9,,darkgray,rowspan_copy
+S04|scoring|13|9,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,13,9,Nicholas & Nicole,S04-nicholas-owen,10,,darkgray,rowspan_copy
+S04|scoring|13|10,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,13,10,Nicholas & Nicole,S04-nicholas-owen,11,,darkgray,rowspan_copy
+S04|scoring|13|11,enwiki:Strictly_Come_Dancing_series_4:r1383442782:parsoid_html,scoring,13,11,Nicholas & Nicole,S04-nicholas-owen,12,,darkgray,rowspan_copy

@@ -624,7 +624,7 @@ class Build:
             return "injury"
         if re.search(r"\bill\b|ill health|illness|sick|unwell|virus|infection|collaps|faint|food poisoning", text, re.I):
             return "illness"
-        if re.search(r"medical (?:reasons|advice|grounds)|health reasons|health grounds", text, re.I):
+        if re.search(r"medical (?:reasons|advice|grounds)|health reasons|health grounds|advice of (?:his|her|their) doctor|doctor'?s? advice|doctors?' orders", text, re.I):
             return "medical_advice"
         if re.search(r"personal reasons|personal grounds|family reasons", text, re.I):
             return "personal"
