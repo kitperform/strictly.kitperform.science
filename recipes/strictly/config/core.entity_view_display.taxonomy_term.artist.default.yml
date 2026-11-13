@@ -1,0 +1,38 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.field.taxonomy_term.artist.field_key
+  - field.field.taxonomy_term.artist.field_wiki_title
+  - taxonomy.vocabulary.artist
+  module:
+  - text
+id: taxonomy_term.artist.default
+targetEntityType: taxonomy_term
+bundle: artist
+mode: default
+content:
+  field_key:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 0
+    region: content
+  field_wiki_title:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 1
+    region: content
+  description:
+    type: text_default
+    label: hidden
+    settings: {}
+    third_party_settings: {}
+    weight: -1
+    region: content
+hidden: {}

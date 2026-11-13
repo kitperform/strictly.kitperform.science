@@ -95,7 +95,13 @@ jm[(jm.judge_slug == "craig-revel-horwood") & (jm["mark"] == 10)].sort_values(["
 
 ## Drupal recipe
 
-`recipes/strictly/` is a Drupal 11 recipe generated from the dataset schema by `scripts/generate_drupal_recipe.py` (`make recipe`): 20 node content types (one per table, natural key in `field_key`), 14 vocabularies (dance, theme, venue, artist and the open-ended enumerations), entity references wherever the package declares a foreign key, and 34 Migrate migrations in the group `strictly` that load `data/package/*.csv` idempotently (`drush migrate:import --group=strictly --update` after each rebuild). Core JSON:API is installed read-only, so every table is at `/jsonapi/node/<bundle>` with no code.
+`recipes/strictly/` is a Drupal 11 recipe generated from the dataset schema by `scripts/generate_drupal_recipe.py` (`make recipe`). It sets up a complete, browsable site, not just the data layer:
+
+- 20 node content types (one per table, natural key in `field_key`), 14 vocabularies (dance, theme, venue, artist and the open-ended enumerations), and entity references wherever the package declares a foreign key;
+- 34 Migrate migrations in the group `strictly` that load `data/package/*.csv` idempotently (`drush migrate:import --group=strictly --update` after each rebuild);
+- a view display and a form display per content type, so every field of a record is shown on its page and editable in the admin UI;
+- a table View per content type at `/data/<bundle>` (sortable columns, exposed filters on series, week, marks and every enumeration, a free-text search on the title) with a CSV download of the filtered rows under the table whose columns and values match the package CSV exactly, and a landing page at `/data` (the front page) listing the tables with their row counts;
+- Olivero as the front-end theme, Claro and the toolbar for administration, Field UI and Views UI, the standard admin content listing, and core JSON:API read-only at `/jsonapi/node/<bundle>`.
 
 Run it locally with DDEV (the repository root is the DDEV project root, so the container sees the dataset at `/var/www/html/data/package`):
 
@@ -103,6 +109,7 @@ Run it locally with DDEV (the repository root is the DDEV project root, so the c
 scripts/drupal-local.sh setup    # ddev config + start, composer create-project drupal/recommended-project, drush site:install
 scripts/drupal-local.sh apply    # drush recipe recipes/strictly, then the full migration (a few minutes)
 scripts/drupal-local.sh status   # node counts per bundle, migrate:status
+scripts/drupal-local.sh reapply  # after `make recipe`: import the regenerated config into the existing site
 ```
 
 The site is then at https://strictly.ddev.site (admin / admin), the data at e.g. `/jsonapi/node/judge_mark?filter[field_mark]=10&filter[field_d_judge_slug]=craig-revel-horwood&sort=field_series_number,field_week_number,field_d_perf_seq&page[limit]=1&include=field_performance` (Craig's first 10: S02W08, Jill & Darren, jive; pass `-g` to curl so it leaves the square brackets alone). The composer project lives in `drupal/` and is not committed; `.ddev/config.yaml` is.

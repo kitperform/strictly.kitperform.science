@@ -4,6 +4,7 @@
 #   scripts/drupal-local.sh setup     # ddev config + start, composer create-project, contrib modules, drush site:install
 #   scripts/drupal-local.sh apply     # drush recipe recipes/strictly, then migrate the whole dataset (data/package)
 #   scripts/drupal-local.sh update    # re-run the migrations with --update after a dataset rebuild
+#   scripts/drupal-local.sh reapply   # import regenerated recipe config into an existing site (drush config:import --partial)
 #   scripts/drupal-local.sh status    # node counts per bundle and the migrate status table
 #   scripts/drupal-local.sh reset     # drop the site database and site:install again (recipe must be re-applied)
 #
@@ -23,7 +24,7 @@ case "${1:-}" in
     if [ ! -f drupal/composer.json ]; then
       ddev composer create-project drupal/recommended-project:^11.2 --no-interaction
     fi
-    ddev composer require --no-interaction -W drush/drush:^13 drupal/migrate_plus:^6 drupal/migrate_tools:^6 drupal/migrate_source_csv:^3
+    ddev composer require --no-interaction -W drush/drush:^13 drupal/migrate_plus:^6 drupal/migrate_tools:^6 drupal/migrate_source_csv:^3 drupal/views_data_export:^1.10
     ddev drush site:install minimal -y --account-pass=admin --site-name="Strictly Come Dancing results"
     echo "Drupal is up: $(ddev describe -j | python3 -c 'import json,sys; print(json.load(sys.stdin)["raw"]["primary_url"])')  (admin / admin)"
     ;;
@@ -32,6 +33,10 @@ case "${1:-}" in
     ddev drush cache:rebuild
     ddev drush migrate:import --group=strictly
     "$0" status
+    ;;
+  reapply)   # push regenerated recipe config (displays, views, fields) onto a site that already has the recipe
+    ddev drush config:import --partial --source=/var/www/html/recipes/strictly/config -y
+    ddev drush cache:rebuild
     ;;
   update)
     ddev drush cache:rebuild
@@ -48,5 +53,5 @@ case "${1:-}" in
     ddev drush site:install minimal -y --account-pass=admin --site-name="Strictly Come Dancing results"
     ;;
   *)
-    sed -n '2,12p' "$0"; exit 1 ;;
+    sed -n '2,13p' "$0"; exit 1 ;;
 esac

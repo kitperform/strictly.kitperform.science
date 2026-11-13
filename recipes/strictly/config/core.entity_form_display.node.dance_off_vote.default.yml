@@ -1,0 +1,199 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.field.node.dance_off_vote.field_casting_vote_judge
+  - field.field.node.dance_off_vote.field_couple
+  - field.field.node.dance_off_vote.field_d_is_casting_judge
+  - field.field.node.dance_off_vote.field_is_casting_vote_stated
+  - field.field.node.dance_off_vote.field_judge
+  - field.field.node.dance_off_vote.field_judge_label_raw
+  - field.field.node.dance_off_vote.field_key
+  - field.field.node.dance_off_vote.field_list_position
+  - field.field.node.dance_off_vote.field_note
+  - field.field.node.dance_off_vote.field_raw_text
+  - field.field.node.dance_off_vote.field_results_round
+  - field.field.node.dance_off_vote.field_series
+  - field.field.node.dance_off_vote.field_source_capture
+  - field.field.node.dance_off_vote.field_source_kind
+  - field.field.node.dance_off_vote.field_source_locator
+  - field.field.node.dance_off_vote.field_vote_direction
+  - field.field.node.dance_off_vote.field_vote_kind
+  - field.field.node.dance_off_vote.field_week
+  - node.type.dance_off_vote
+  module:
+  - options
+id: node.dance_off_vote.default
+targetEntityType: node
+bundle: dance_off_vote
+mode: default
+content:
+  field_key:
+    type: string_textfield
+    weight: 0
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_results_round:
+    type: entity_reference_autocomplete
+    weight: 1
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_series:
+    type: entity_reference_autocomplete
+    weight: 2
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_week:
+    type: entity_reference_autocomplete
+    weight: 3
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_judge:
+    type: entity_reference_autocomplete
+    weight: 4
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_judge_label_raw:
+    type: string_textfield
+    weight: 5
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_couple:
+    type: entity_reference_autocomplete
+    weight: 6
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_vote_kind:
+    type: options_select
+    weight: 7
+    region: content
+    settings: {}
+    third_party_settings: {}
+  field_is_casting_vote_stated:
+    type: boolean_checkbox
+    weight: 8
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {}
+  field_list_position:
+    type: number
+    weight: 9
+    region: content
+    settings:
+      placeholder: ''
+    third_party_settings: {}
+  field_raw_text:
+    type: string_textarea
+    weight: 10
+    region: content
+    settings:
+      rows: 5
+      placeholder: ''
+    third_party_settings: {}
+  field_vote_direction:
+    type: options_select
+    weight: 11
+    region: content
+    settings: {}
+    third_party_settings: {}
+  field_casting_vote_judge:
+    type: entity_reference_autocomplete
+    weight: 12
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_d_is_casting_judge:
+    type: boolean_checkbox
+    weight: 13
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {}
+  field_source_capture:
+    type: entity_reference_autocomplete
+    weight: 14
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_source_locator:
+    type: string_textarea
+    weight: 15
+    region: content
+    settings:
+      rows: 5
+      placeholder: ''
+    third_party_settings: {}
+  field_source_kind:
+    type: options_select
+    weight: 16
+    region: content
+    settings: {}
+    third_party_settings: {}
+  field_note:
+    type: string_textarea
+    weight: 17
+    region: content
+    settings:
+      rows: 5
+      placeholder: ''
+    third_party_settings: {}
+  title:
+    type: string_textfield
+    weight: -5
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  status:
+    type: boolean_checkbox
+    weight: 200
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {}
+hidden:
+  created: true
+  promote: true
+  sticky: true
+  uid: true

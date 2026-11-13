@@ -1,0 +1,47 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.field.taxonomy_term.dance.field_dance_family
+  - field.field.taxonomy_term.dance.field_key
+  - field.field.taxonomy_term.dance.field_wiki_title
+  - taxonomy.vocabulary.dance
+  module:
+  - text
+id: taxonomy_term.dance.default
+targetEntityType: taxonomy_term
+bundle: dance
+mode: default
+content:
+  field_key:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 0
+    region: content
+  field_dance_family:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 1
+    region: content
+  field_wiki_title:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 2
+    region: content
+  description:
+    type: text_default
+    label: hidden
+    settings: {}
+    third_party_settings: {}
+    weight: -1
+    region: content
+hidden: {}

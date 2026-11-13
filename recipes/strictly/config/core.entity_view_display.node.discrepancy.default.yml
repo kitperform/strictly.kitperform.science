@@ -1,0 +1,126 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.field.node.discrepancy.field_field_name
+  - field.field.node.discrepancy.field_key
+  - field.field.node.discrepancy.field_locator_a
+  - field.field.node.discrepancy.field_locator_b
+  - field.field.node.discrepancy.field_natural_key
+  - field.field.node.discrepancy.field_note
+  - field.field.node.discrepancy.field_resolution
+  - field.field.node.discrepancy.field_source_capture_a
+  - field.field.node.discrepancy.field_source_capture_b
+  - field.field.node.discrepancy.field_table_name
+  - field.field.node.discrepancy.field_value_a
+  - field.field.node.discrepancy.field_value_b
+  - field.field.node.discrepancy.field_value_b_origin
+  - node.type.discrepancy
+  module:
+  - options
+id: node.discrepancy.default
+targetEntityType: node
+bundle: discrepancy
+mode: default
+content:
+  field_key:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 0
+    region: content
+  field_table_name:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 1
+    region: content
+  field_natural_key:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 2
+    region: content
+  field_field_name:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 3
+    region: content
+  field_value_a:
+    type: basic_string
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 4
+    region: content
+  field_source_capture_a:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 5
+    region: content
+  field_locator_a:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 6
+    region: content
+  field_value_b:
+    type: basic_string
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 7
+    region: content
+  field_value_b_origin:
+    type: list_default
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 8
+    region: content
+  field_source_capture_b:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 9
+    region: content
+  field_locator_b:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 10
+    region: content
+  field_resolution:
+    type: list_default
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 11
+    region: content
+  field_note:
+    type: basic_string
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 12
+    region: content
+hidden:
+  links: true

@@ -1,0 +1,29 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.field.taxonomy_term.absence_reason.field_key
+  - taxonomy.vocabulary.absence_reason
+  module:
+  - text
+id: taxonomy_term.absence_reason.default
+targetEntityType: taxonomy_term
+bundle: absence_reason
+mode: default
+content:
+  field_key:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 0
+    region: content
+  description:
+    type: text_default
+    label: hidden
+    settings: {}
+    third_party_settings: {}
+    weight: -1
+    region: content
+hidden: {}

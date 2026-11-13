@@ -1,0 +1,141 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.field.node.source_capture.field_captured_at
+  - field.field.node.source_capture.field_file_path
+  - field.field.node.source_capture.field_format
+  - field.field.node.source_capture.field_is_current
+  - field.field.node.source_capture.field_key
+  - field.field.node.source_capture.field_licence_note
+  - field.field.node.source_capture.field_page_id
+  - field.field.node.source_capture.field_parent_revid
+  - field.field.node.source_capture.field_parser_version
+  - field.field.node.source_capture.field_rev_timestamp
+  - field.field.node.source_capture.field_revid
+  - field.field.node.source_capture.field_sha1
+  - field.field.node.source_capture.field_wiki_title
+  - node.type.source_capture
+  module:
+  - datetime
+id: node.source_capture.default
+targetEntityType: node
+bundle: source_capture
+mode: default
+content:
+  field_key:
+    type: string_textfield
+    weight: 0
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_wiki_title:
+    type: string_textfield
+    weight: 1
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_page_id:
+    type: number
+    weight: 2
+    region: content
+    settings:
+      placeholder: ''
+    third_party_settings: {}
+  field_revid:
+    type: number
+    weight: 3
+    region: content
+    settings:
+      placeholder: ''
+    third_party_settings: {}
+  field_parent_revid:
+    type: number
+    weight: 4
+    region: content
+    settings:
+      placeholder: ''
+    third_party_settings: {}
+  field_rev_timestamp:
+    type: datetime_default
+    weight: 5
+    region: content
+    settings: {}
+    third_party_settings: {}
+  field_captured_at:
+    type: datetime_default
+    weight: 6
+    region: content
+    settings: {}
+    third_party_settings: {}
+  field_sha1:
+    type: string_textfield
+    weight: 7
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_format:
+    type: string_textfield
+    weight: 8
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_file_path:
+    type: string_textfield
+    weight: 9
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_parser_version:
+    type: string_textfield
+    weight: 10
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_is_current:
+    type: boolean_checkbox
+    weight: 11
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {}
+  field_licence_note:
+    type: string_textfield
+    weight: 12
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  title:
+    type: string_textfield
+    weight: -5
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  status:
+    type: boolean_checkbox
+    weight: 200
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {}
+hidden:
+  created: true
+  promote: true
+  sticky: true
+  uid: true

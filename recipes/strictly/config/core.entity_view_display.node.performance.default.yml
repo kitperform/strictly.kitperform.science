@@ -1,0 +1,442 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.field.node.performance.field_air_date
+  - field.field.node.performance.field_chart_label
+  - field.field.node.performance.field_couple
+  - field.field.node.performance.field_couple_label_raw
+  - field.field.node.performance.field_d_is_highest_of_week
+  - field.field.node.performance.field_d_is_lowest_of_week
+  - field.field.node.performance.field_d_n_marks
+  - field.field.node.performance.field_d_partnership_kind
+  - field.field.node.performance.field_d_perf_seq
+  - field.field.node.performance.field_d_results_round
+  - field.field.node.performance.field_d_scale_max
+  - field.field.node.performance.field_d_total
+  - field.field.node.performance.field_d_total_40
+  - field.field.node.performance.field_d_total_mismatch
+  - field.field.node.performance.field_dance
+  - field.field.node.performance.field_dance_raw
+  - field.field.node.performance.field_dance_secondary
+  - field.field.node.performance.field_episode
+  - field.field.node.performance.field_group_key
+  - field.field.node.performance.field_key
+  - field.field.node.performance.field_music_raw
+  - field.field.node.performance.field_n_marks_stated
+  - field.field.node.performance.field_note
+  - field.field.node.performance.field_performance_kind
+  - field.field.node.performance.field_performance_status
+  - field.field.node.performance.field_performer_group
+  - field.field.node.performance.field_performing_pro
+  - field.field.node.performance.field_points_value
+  - field.field.node.performance.field_round_stage
+  - field.field.node.performance.field_running_order
+  - field.field.node.performance.field_score_cell_raw
+  - field.field.node.performance.field_scoring_mode
+  - field.field.node.performance.field_selection_role
+  - field.field.node.performance.field_sequence_in_episode
+  - field.field.node.performance.field_sequence_in_week
+  - field.field.node.performance.field_series
+  - field.field.node.performance.field_series_number
+  - field.field.node.performance.field_source_capture
+  - field.field.node.performance.field_source_kind
+  - field.field.node.performance.field_source_locator
+  - field.field.node.performance.field_stated_total
+  - field.field.node.performance.field_theme_column_label
+  - field.field.node.performance.field_theme_ref_wiki_title
+  - field.field.node.performance.field_theme_reference_text
+  - field.field.node.performance.field_week
+  - field.field.node.performance.field_week_number
+  - node.type.performance
+  module:
+  - datetime
+  - options
+id: node.performance.default
+targetEntityType: node
+bundle: performance
+mode: default
+content:
+  field_key:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 0
+    region: content
+  field_episode:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 1
+    region: content
+  field_week:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 2
+    region: content
+  field_series:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 3
+    region: content
+  field_series_number:
+    type: number_integer
+    label: inline
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 4
+    region: content
+  field_week_number:
+    type: number_integer
+    label: inline
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 5
+    region: content
+  field_round_stage:
+    type: list_default
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 6
+    region: content
+  field_air_date:
+    type: datetime_default
+    label: inline
+    settings:
+      timezone_override: ''
+      format_type: html_date
+    third_party_settings: {}
+    weight: 7
+    region: content
+  field_sequence_in_week:
+    type: number_integer
+    label: inline
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 8
+    region: content
+  field_performer_group:
+    type: list_default
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 9
+    region: content
+  field_couple:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 10
+    region: content
+  field_chart_label:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 11
+    region: content
+  field_performing_pro:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 12
+    region: content
+  field_couple_label_raw:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 13
+    region: content
+  field_sequence_in_episode:
+    type: number_integer
+    label: inline
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 14
+    region: content
+  field_running_order:
+    type: number_integer
+    label: inline
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 15
+    region: content
+  field_d_perf_seq:
+    type: number_integer
+    label: inline
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 16
+    region: content
+  field_group_key:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 17
+    region: content
+  field_performance_kind:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 18
+    region: content
+  field_selection_role:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 19
+    region: content
+  field_performance_status:
+    type: list_default
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 20
+    region: content
+  field_scoring_mode:
+    type: list_default
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 21
+    region: content
+  field_stated_total:
+    type: number_integer
+    label: inline
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 22
+    region: content
+  field_n_marks_stated:
+    type: number_integer
+    label: inline
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 23
+    region: content
+  field_score_cell_raw:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 24
+    region: content
+  field_points_value:
+    type: number_integer
+    label: inline
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 25
+    region: content
+  field_dance:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 26
+    region: content
+  field_dance_secondary:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 27
+    region: content
+  field_dance_raw:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 28
+    region: content
+  field_theme_column_label:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 29
+    region: content
+  field_theme_reference_text:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 30
+    region: content
+  field_theme_ref_wiki_title:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 31
+    region: content
+  field_music_raw:
+    type: basic_string
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 32
+    region: content
+  field_d_total:
+    type: number_integer
+    label: inline
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 33
+    region: content
+  field_d_n_marks:
+    type: number_integer
+    label: inline
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 34
+    region: content
+  field_d_total_mismatch:
+    type: boolean
+    label: inline
+    settings:
+      format: default
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {}
+    weight: 35
+    region: content
+  field_d_scale_max:
+    type: number_integer
+    label: inline
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 36
+    region: content
+  field_d_total_40:
+    type: number_decimal
+    label: inline
+    settings:
+      thousand_separator: ''
+      decimal_separator: .
+      scale: 2
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 37
+    region: content
+  field_d_is_highest_of_week:
+    type: boolean
+    label: inline
+    settings:
+      format: default
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {}
+    weight: 38
+    region: content
+  field_d_is_lowest_of_week:
+    type: boolean
+    label: inline
+    settings:
+      format: default
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {}
+    weight: 39
+    region: content
+  field_d_results_round:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 40
+    region: content
+  field_d_partnership_kind:
+    type: list_default
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 41
+    region: content
+  field_source_capture:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 42
+    region: content
+  field_source_locator:
+    type: basic_string
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 43
+    region: content
+  field_source_kind:
+    type: list_default
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 44
+    region: content
+  field_note:
+    type: basic_string
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 45
+    region: content
+hidden:
+  links: true

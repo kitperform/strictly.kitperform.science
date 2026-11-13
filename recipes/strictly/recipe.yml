@@ -1,6 +1,10 @@
 name: Strictly Come Dancing results
 description: Content types, vocabularies and Migrate migrations for the strictly.kitperform.science dataset (every judge mark, performance, results round and roster row from series 1 onwards).
-type: Content type
+type: Site
+recipes:
+- core/recipes/core_recommended_admin_theme
+- core/recipes/core_recommended_front_end_theme
+- core/recipes/administrator_role
 install:
 - node
 - taxonomy
@@ -15,7 +19,23 @@ install:
 - migrate_plus
 - migrate_tools
 - migrate_source_csv
+- block
+- toolbar
+- field_ui
+- views_ui
+- config
+- rest
+- csv_serialization
+- views_data_export
 config:
+  strict: false
+  import:
+    node:
+    - views.view.content
+    taxonomy:
+    - views.view.taxonomy_term
+    user:
+    - views.view.user_admin_people
   actions:
     user.role.anonymous:
       grantPermissions:
@@ -23,3 +43,9 @@ config:
     user.role.authenticated:
       grantPermissions:
       - access content
+    node.settings:
+      simpleConfigUpdate:
+        use_admin_theme: true
+    system.site:
+      simpleConfigUpdate:
+        page.front: /data

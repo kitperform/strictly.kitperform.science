@@ -1,0 +1,235 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.field.node.results_round.field_at_risk_size_actual
+  - field.field.node.results_round.field_casting_vote_inferred
+  - field.field.node.results_round.field_casting_vote_judge
+  - field.field.node.results_round.field_casting_vote_src_kind
+  - field.field.node.results_round.field_casting_vote_used
+  - field.field.node.results_round.field_combined_reason
+  - field.field.node.results_round.field_d_n_scoring_seats
+  - field.field.node.results_round.field_dance_off_status
+  - field.field.node.results_round.field_decided_at_episode
+  - field.field.node.results_round.field_deciding_week
+  - field.field.node.results_round.field_exit_count
+  - field.field.node.results_round.field_key
+  - field.field.node.results_round.field_label
+  - field.field.node.results_round.field_mechanism_actual
+  - field.field.node.results_round.field_note
+  - field.field.node.results_round.field_round_kind
+  - field.field.node.results_round.field_series
+  - field.field.node.results_round.field_source_capture
+  - field.field.node.results_round.field_source_kind
+  - field.field.node.results_round.field_source_locator
+  - field.field.node.results_round.field_vote_direction
+  - field.field.node.results_round.field_votes_carried_over
+  - field.field.node.results_round.field_votes_recorded
+  - field.field.node.results_round.field_weeks
+  - node.type.results_round
+  module:
+  - options
+id: node.results_round.default
+targetEntityType: node
+bundle: results_round
+mode: default
+content:
+  field_key:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 0
+    region: content
+  field_series:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 1
+    region: content
+  field_round_kind:
+    type: list_default
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 2
+    region: content
+  field_label:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 3
+    region: content
+  field_deciding_week:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 4
+    region: content
+  field_decided_at_episode:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 5
+    region: content
+  field_weeks:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 6
+    region: content
+  field_mechanism_actual:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 7
+    region: content
+  field_exit_count:
+    type: number_integer
+    label: inline
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 8
+    region: content
+  field_at_risk_size_actual:
+    type: number_integer
+    label: inline
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 9
+    region: content
+  field_dance_off_status:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 10
+    region: content
+  field_vote_direction:
+    type: list_default
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 11
+    region: content
+  field_casting_vote_judge:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 12
+    region: content
+  field_casting_vote_src_kind:
+    type: list_default
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 13
+    region: content
+  field_casting_vote_used:
+    type: boolean
+    label: inline
+    settings:
+      format: default
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {}
+    weight: 14
+    region: content
+  field_casting_vote_inferred:
+    type: boolean
+    label: inline
+    settings:
+      format: default
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {}
+    weight: 15
+    region: content
+  field_votes_recorded:
+    type: boolean
+    label: inline
+    settings:
+      format: default
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {}
+    weight: 16
+    region: content
+  field_votes_carried_over:
+    type: boolean
+    label: inline
+    settings:
+      format: default
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {}
+    weight: 17
+    region: content
+  field_combined_reason:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 18
+    region: content
+  field_d_n_scoring_seats:
+    type: number_integer
+    label: inline
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 19
+    region: content
+  field_source_capture:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 20
+    region: content
+  field_source_locator:
+    type: basic_string
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 21
+    region: content
+  field_source_kind:
+    type: list_default
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 22
+    region: content
+  field_note:
+    type: basic_string
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 23
+    region: content
+hidden:
+  links: true

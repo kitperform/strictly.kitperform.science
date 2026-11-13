@@ -1,0 +1,128 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.field.node.couple_label.field_couple
+  - field.field.node.couple_label.field_couple_label_context
+  - field.field.node.couple_label.field_is_typo
+  - field.field.node.couple_label.field_key
+  - field.field.node.couple_label.field_label
+  - field.field.node.couple_label.field_note
+  - field.field.node.couple_label.field_source_capture
+  - field.field.node.couple_label.field_source_kind
+  - field.field.node.couple_label.field_source_locator
+  - field.field.node.couple_label.field_week_from
+  - field.field.node.couple_label.field_week_to
+  - node.type.couple_label
+  module:
+  - options
+id: node.couple_label.default
+targetEntityType: node
+bundle: couple_label
+mode: default
+content:
+  field_key:
+    type: string_textfield
+    weight: 0
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_couple:
+    type: entity_reference_autocomplete
+    weight: 1
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_label:
+    type: string_textfield
+    weight: 2
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_couple_label_context:
+    type: options_select
+    weight: 3
+    region: content
+    settings: {}
+    third_party_settings: {}
+  field_week_from:
+    type: number
+    weight: 4
+    region: content
+    settings:
+      placeholder: ''
+    third_party_settings: {}
+  field_week_to:
+    type: number
+    weight: 5
+    region: content
+    settings:
+      placeholder: ''
+    third_party_settings: {}
+  field_is_typo:
+    type: boolean_checkbox
+    weight: 6
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {}
+  field_source_capture:
+    type: entity_reference_autocomplete
+    weight: 7
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_source_locator:
+    type: string_textarea
+    weight: 8
+    region: content
+    settings:
+      rows: 5
+      placeholder: ''
+    third_party_settings: {}
+  field_source_kind:
+    type: options_select
+    weight: 9
+    region: content
+    settings: {}
+    third_party_settings: {}
+  field_note:
+    type: string_textarea
+    weight: 10
+    region: content
+    settings:
+      rows: 5
+      placeholder: ''
+    third_party_settings: {}
+  title:
+    type: string_textfield
+    weight: -5
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  status:
+    type: boolean_checkbox
+    weight: 200
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {}
+hidden:
+  created: true
+  promote: true
+  sticky: true
+  uid: true

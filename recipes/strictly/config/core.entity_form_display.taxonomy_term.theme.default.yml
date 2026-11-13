@@ -1,0 +1,72 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.field.taxonomy_term.theme.field_is_location_theme
+  - field.field.taxonomy_term.theme.field_key
+  - field.field.taxonomy_term.theme.field_theme_reference_kind
+  - field.field.taxonomy_term.theme.field_wiki_title
+  - taxonomy.vocabulary.theme
+  module:
+  - text
+id: taxonomy_term.theme.default
+targetEntityType: taxonomy_term
+bundle: theme
+mode: default
+content:
+  field_key:
+    type: string_textfield
+    weight: 0
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_theme_reference_kind:
+    type: string_textfield
+    weight: 1
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_is_location_theme:
+    type: boolean_checkbox
+    weight: 2
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {}
+  field_wiki_title:
+    type: string_textfield
+    weight: 3
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  name:
+    type: string_textfield
+    weight: -5
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  description:
+    type: text_textarea
+    weight: -4
+    region: content
+    settings:
+      rows: 5
+      placeholder: ''
+    third_party_settings: {}
+  status:
+    type: boolean_checkbox
+    weight: 200
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {}
+hidden:
+  path: true

@@ -1,0 +1,297 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.field.node.couple.field_celebrity
+  - field.field.node.couple.field_celebrity_display_name
+  - field.field.node.couple.field_chart_label
+  - field.field.node.couple.field_couple_kind
+  - field.field.node.couple.field_couples_table_order
+  - field.field.node.couple.field_d_professionals
+  - field.field.node.couple.field_d_reached_final
+  - field.field.node.couple.field_exit_affected_party
+  - field.field.node.couple.field_exit_date
+  - field.field.node.couple.field_exit_date_kind
+  - field.field.node.couple.field_exit_episode
+  - field.field.node.couple.field_exit_kind
+  - field.field.node.couple.field_exit_ordinal
+  - field.field.node.couple.field_exit_ordinal_is_shared
+  - field.field.node.couple.field_exit_ordinal_text
+  - field.field.node.couple.field_exit_reason
+  - field.field.node.couple.field_exit_round
+  - field.field.node.couple.field_exit_timing
+  - field.field.node.couple.field_exit_week
+  - field.field.node.couple.field_final_placement
+  - field.field.node.couple.field_key
+  - field.field.node.couple.field_notability_text
+  - field.field.node.couple.field_note
+  - field.field.node.couple.field_place_is_shared
+  - field.field.node.couple.field_place_label_raw
+  - field.field.node.couple.field_pro_display_name
+  - field.field.node.couple.field_series
+  - field.field.node.couple.field_source_capture
+  - field.field.node.couple.field_source_kind
+  - field.field.node.couple.field_source_locator
+  - field.field.node.couple.field_status_raw
+  - node.type.couple
+  module:
+  - datetime
+  - options
+id: node.couple.default
+targetEntityType: node
+bundle: couple
+mode: default
+content:
+  field_key:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 0
+    region: content
+  field_series:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 1
+    region: content
+  field_celebrity:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 2
+    region: content
+  field_chart_label:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 3
+    region: content
+  field_celebrity_display_name:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 4
+    region: content
+  field_pro_display_name:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 5
+    region: content
+  field_couple_kind:
+    type: list_default
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 6
+    region: content
+  field_notability_text:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 7
+    region: content
+  field_final_placement:
+    type: number_integer
+    label: inline
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 8
+    region: content
+  field_place_is_shared:
+    type: boolean
+    label: inline
+    settings:
+      format: default
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {}
+    weight: 9
+    region: content
+  field_place_label_raw:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 10
+    region: content
+  field_exit_kind:
+    type: list_default
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 11
+    region: content
+  field_exit_ordinal:
+    type: number_integer
+    label: inline
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 12
+    region: content
+  field_exit_ordinal_is_shared:
+    type: boolean
+    label: inline
+    settings:
+      format: default
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {}
+    weight: 13
+    region: content
+  field_exit_ordinal_text:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 14
+    region: content
+  field_exit_week:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 15
+    region: content
+  field_exit_round:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 16
+    region: content
+  field_exit_episode:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 17
+    region: content
+  field_exit_date:
+    type: datetime_default
+    label: inline
+    settings:
+      timezone_override: ''
+      format_type: html_date
+    third_party_settings: {}
+    weight: 18
+    region: content
+  field_exit_date_kind:
+    type: list_default
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 19
+    region: content
+  field_exit_timing:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 20
+    region: content
+  field_exit_reason:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 21
+    region: content
+  field_exit_affected_party:
+    type: list_default
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 22
+    region: content
+  field_status_raw:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 23
+    region: content
+  field_couples_table_order:
+    type: number_integer
+    label: inline
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 24
+    region: content
+  field_d_professionals:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 25
+    region: content
+  field_d_reached_final:
+    type: boolean
+    label: inline
+    settings:
+      format: default
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {}
+    weight: 26
+    region: content
+  field_source_capture:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 27
+    region: content
+  field_source_locator:
+    type: basic_string
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 28
+    region: content
+  field_source_kind:
+    type: list_default
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 29
+    region: content
+  field_note:
+    type: basic_string
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 30
+    region: content
+hidden:
+  links: true

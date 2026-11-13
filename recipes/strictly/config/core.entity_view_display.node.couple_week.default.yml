@@ -1,0 +1,254 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.field.node.couple_week.field_absence_reason
+  - field.field.node.couple_week.field_absence_scope
+  - field.field.node.couple_week.field_affected_party
+  - field.field.node.couple_week.field_at_risk
+  - field.field.node.couple_week.field_bye_granted
+  - field.field.node.couple_week.field_couple
+  - field.field.node.couple_week.field_d_is_highest_of_week
+  - field.field.node.couple_week.field_d_is_lowest_of_week
+  - field.field.node.couple_week.field_d_partnership_kind
+  - field.field.node.couple_week.field_d_pro
+  - field.field.node.couple_week.field_d_week_total
+  - field.field.node.couple_week.field_danced_off
+  - field.field.node.couple_week.field_key
+  - field.field.node.couple_week.field_note
+  - field.field.node.couple_week.field_participation_status
+  - field.field.node.couple_week.field_result_status
+  - field.field.node.couple_week.field_results_round
+  - field.field.node.couple_week.field_round_stage
+  - field.field.node.couple_week.field_series
+  - field.field.node.couple_week.field_series_number
+  - field.field.node.couple_week.field_source_capture
+  - field.field.node.couple_week.field_source_kind
+  - field.field.node.couple_week.field_source_locator
+  - field.field.node.couple_week.field_status_raw
+  - field.field.node.couple_week.field_week
+  - field.field.node.couple_week.field_week_number
+  - node.type.couple_week
+  module:
+  - options
+id: node.couple_week.default
+targetEntityType: node
+bundle: couple_week
+mode: default
+content:
+  field_key:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 0
+    region: content
+  field_couple:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 1
+    region: content
+  field_week:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 2
+    region: content
+  field_series:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 3
+    region: content
+  field_series_number:
+    type: number_integer
+    label: inline
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 4
+    region: content
+  field_week_number:
+    type: number_integer
+    label: inline
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 5
+    region: content
+  field_round_stage:
+    type: list_default
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 6
+    region: content
+  field_participation_status:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 7
+    region: content
+  field_result_status:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 8
+    region: content
+  field_results_round:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 9
+    region: content
+  field_at_risk:
+    type: boolean
+    label: inline
+    settings:
+      format: default
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {}
+    weight: 10
+    region: content
+  field_danced_off:
+    type: boolean
+    label: inline
+    settings:
+      format: default
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {}
+    weight: 11
+    region: content
+  field_bye_granted:
+    type: boolean
+    label: inline
+    settings:
+      format: default
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {}
+    weight: 12
+    region: content
+  field_absence_reason:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 13
+    region: content
+  field_affected_party:
+    type: list_default
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 14
+    region: content
+  field_absence_scope:
+    type: list_default
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 15
+    region: content
+  field_status_raw:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 16
+    region: content
+  field_d_pro:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 17
+    region: content
+  field_d_partnership_kind:
+    type: list_default
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 18
+    region: content
+  field_d_week_total:
+    type: number_integer
+    label: inline
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 19
+    region: content
+  field_d_is_highest_of_week:
+    type: boolean
+    label: inline
+    settings:
+      format: default
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {}
+    weight: 20
+    region: content
+  field_d_is_lowest_of_week:
+    type: boolean
+    label: inline
+    settings:
+      format: default
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {}
+    weight: 21
+    region: content
+  field_source_capture:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 22
+    region: content
+  field_source_locator:
+    type: basic_string
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 23
+    region: content
+  field_source_kind:
+    type: list_default
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 24
+    region: content
+  field_note:
+    type: basic_string
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 25
+    region: content
+hidden:
+  links: true

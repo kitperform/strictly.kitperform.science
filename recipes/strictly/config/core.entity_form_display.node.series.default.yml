@@ -1,0 +1,207 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.field.node.series.field_couples_count_stated
+  - field.field.node.series.field_final_date
+  - field.field.node.series.field_first_live_date
+  - field.field.node.series.field_home_venue
+  - field.field.node.series.field_infobox_first_aired
+  - field.field.node.series.field_infobox_last_aired
+  - field.field.node.series.field_infobox_num_episodes
+  - field.field.node.series.field_key
+  - field.field.node.series.field_label
+  - field.field.node.series.field_launch_date
+  - field.field.node.series.field_note
+  - field.field.node.series.field_parent_series
+  - field.field.node.series.field_series_kind
+  - field.field.node.series.field_series_number
+  - field.field.node.series.field_series_status
+  - field.field.node.series.field_source_capture
+  - field.field.node.series.field_source_kind
+  - field.field.node.series.field_source_locator
+  - field.field.node.series.field_weeks_count_stated
+  - field.field.node.series.field_wiki_title
+  - field.field.node.series.field_year_start
+  - node.type.series
+  module:
+  - datetime
+  - options
+id: node.series.default
+targetEntityType: node
+bundle: series
+mode: default
+content:
+  field_key:
+    type: string_textfield
+    weight: 0
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_series_kind:
+    type: options_select
+    weight: 1
+    region: content
+    settings: {}
+    third_party_settings: {}
+  field_series_number:
+    type: number
+    weight: 2
+    region: content
+    settings:
+      placeholder: ''
+    third_party_settings: {}
+  field_parent_series:
+    type: entity_reference_autocomplete
+    weight: 3
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_label:
+    type: string_textfield
+    weight: 4
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_wiki_title:
+    type: string_textfield
+    weight: 5
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_year_start:
+    type: number
+    weight: 6
+    region: content
+    settings:
+      placeholder: ''
+    third_party_settings: {}
+  field_launch_date:
+    type: datetime_default
+    weight: 7
+    region: content
+    settings: {}
+    third_party_settings: {}
+  field_first_live_date:
+    type: datetime_default
+    weight: 8
+    region: content
+    settings: {}
+    third_party_settings: {}
+  field_final_date:
+    type: datetime_default
+    weight: 9
+    region: content
+    settings: {}
+    third_party_settings: {}
+  field_infobox_first_aired:
+    type: datetime_default
+    weight: 10
+    region: content
+    settings: {}
+    third_party_settings: {}
+  field_infobox_last_aired:
+    type: datetime_default
+    weight: 11
+    region: content
+    settings: {}
+    third_party_settings: {}
+  field_infobox_num_episodes:
+    type: number
+    weight: 12
+    region: content
+    settings:
+      placeholder: ''
+    third_party_settings: {}
+  field_home_venue:
+    type: entity_reference_autocomplete
+    weight: 13
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_series_status:
+    type: options_select
+    weight: 14
+    region: content
+    settings: {}
+    third_party_settings: {}
+  field_couples_count_stated:
+    type: number
+    weight: 15
+    region: content
+    settings:
+      placeholder: ''
+    third_party_settings: {}
+  field_weeks_count_stated:
+    type: number
+    weight: 16
+    region: content
+    settings:
+      placeholder: ''
+    third_party_settings: {}
+  field_source_capture:
+    type: entity_reference_autocomplete
+    weight: 17
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_source_locator:
+    type: string_textarea
+    weight: 18
+    region: content
+    settings:
+      rows: 5
+      placeholder: ''
+    third_party_settings: {}
+  field_source_kind:
+    type: options_select
+    weight: 19
+    region: content
+    settings: {}
+    third_party_settings: {}
+  field_note:
+    type: string_textarea
+    weight: 20
+    region: content
+    settings:
+      rows: 5
+      placeholder: ''
+    third_party_settings: {}
+  title:
+    type: string_textfield
+    weight: -5
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  status:
+    type: boolean_checkbox
+    weight: 200
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {}
+hidden:
+  created: true
+  promote: true
+  sticky: true
+  uid: true

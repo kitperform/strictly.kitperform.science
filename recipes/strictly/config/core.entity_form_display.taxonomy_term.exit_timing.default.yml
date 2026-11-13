@@ -1,0 +1,46 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.field.taxonomy_term.exit_timing.field_key
+  - taxonomy.vocabulary.exit_timing
+  module:
+  - text
+id: taxonomy_term.exit_timing.default
+targetEntityType: taxonomy_term
+bundle: exit_timing
+mode: default
+content:
+  field_key:
+    type: string_textfield
+    weight: 0
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  name:
+    type: string_textfield
+    weight: -5
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  description:
+    type: text_textarea
+    weight: -4
+    region: content
+    settings:
+      rows: 5
+      placeholder: ''
+    third_party_settings: {}
+  status:
+    type: boolean_checkbox
+    weight: 200
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {}
+hidden:
+  path: true

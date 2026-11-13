@@ -1,0 +1,74 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.field.node.song.field_key
+  - field.field.node.song.field_note
+  - field.field.node.song.field_source_capture
+  - field.field.node.song.field_source_kind
+  - field.field.node.song.field_source_locator
+  - field.field.node.song.field_title
+  - field.field.node.song.field_wiki_title
+  - node.type.song
+  module:
+  - options
+id: node.song.default
+targetEntityType: node
+bundle: song
+mode: default
+content:
+  field_key:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 0
+    region: content
+  field_title:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 1
+    region: content
+  field_wiki_title:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 2
+    region: content
+  field_source_capture:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 3
+    region: content
+  field_source_locator:
+    type: basic_string
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 4
+    region: content
+  field_source_kind:
+    type: list_default
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 5
+    region: content
+  field_note:
+    type: basic_string
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 6
+    region: content
+hidden:
+  links: true

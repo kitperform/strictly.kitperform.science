@@ -1,0 +1,266 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.field.node.couple_week.field_absence_reason
+  - field.field.node.couple_week.field_absence_scope
+  - field.field.node.couple_week.field_affected_party
+  - field.field.node.couple_week.field_at_risk
+  - field.field.node.couple_week.field_bye_granted
+  - field.field.node.couple_week.field_couple
+  - field.field.node.couple_week.field_d_is_highest_of_week
+  - field.field.node.couple_week.field_d_is_lowest_of_week
+  - field.field.node.couple_week.field_d_partnership_kind
+  - field.field.node.couple_week.field_d_pro
+  - field.field.node.couple_week.field_d_week_total
+  - field.field.node.couple_week.field_danced_off
+  - field.field.node.couple_week.field_key
+  - field.field.node.couple_week.field_note
+  - field.field.node.couple_week.field_participation_status
+  - field.field.node.couple_week.field_result_status
+  - field.field.node.couple_week.field_results_round
+  - field.field.node.couple_week.field_round_stage
+  - field.field.node.couple_week.field_series
+  - field.field.node.couple_week.field_series_number
+  - field.field.node.couple_week.field_source_capture
+  - field.field.node.couple_week.field_source_kind
+  - field.field.node.couple_week.field_source_locator
+  - field.field.node.couple_week.field_status_raw
+  - field.field.node.couple_week.field_week
+  - field.field.node.couple_week.field_week_number
+  - node.type.couple_week
+  module:
+  - options
+id: node.couple_week.default
+targetEntityType: node
+bundle: couple_week
+mode: default
+content:
+  field_key:
+    type: string_textfield
+    weight: 0
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_couple:
+    type: entity_reference_autocomplete
+    weight: 1
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_week:
+    type: entity_reference_autocomplete
+    weight: 2
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_series:
+    type: entity_reference_autocomplete
+    weight: 3
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_series_number:
+    type: number
+    weight: 4
+    region: content
+    settings:
+      placeholder: ''
+    third_party_settings: {}
+  field_week_number:
+    type: number
+    weight: 5
+    region: content
+    settings:
+      placeholder: ''
+    third_party_settings: {}
+  field_round_stage:
+    type: options_select
+    weight: 6
+    region: content
+    settings: {}
+    third_party_settings: {}
+  field_participation_status:
+    type: entity_reference_autocomplete
+    weight: 7
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_result_status:
+    type: entity_reference_autocomplete
+    weight: 8
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_results_round:
+    type: entity_reference_autocomplete
+    weight: 9
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_at_risk:
+    type: boolean_checkbox
+    weight: 10
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {}
+  field_danced_off:
+    type: boolean_checkbox
+    weight: 11
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {}
+  field_bye_granted:
+    type: boolean_checkbox
+    weight: 12
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {}
+  field_absence_reason:
+    type: entity_reference_autocomplete
+    weight: 13
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_affected_party:
+    type: options_select
+    weight: 14
+    region: content
+    settings: {}
+    third_party_settings: {}
+  field_absence_scope:
+    type: options_select
+    weight: 15
+    region: content
+    settings: {}
+    third_party_settings: {}
+  field_status_raw:
+    type: string_textfield
+    weight: 16
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_d_pro:
+    type: entity_reference_autocomplete
+    weight: 17
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_d_partnership_kind:
+    type: options_select
+    weight: 18
+    region: content
+    settings: {}
+    third_party_settings: {}
+  field_d_week_total:
+    type: number
+    weight: 19
+    region: content
+    settings:
+      placeholder: ''
+    third_party_settings: {}
+  field_d_is_highest_of_week:
+    type: boolean_checkbox
+    weight: 20
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {}
+  field_d_is_lowest_of_week:
+    type: boolean_checkbox
+    weight: 21
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {}
+  field_source_capture:
+    type: entity_reference_autocomplete
+    weight: 22
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  field_source_locator:
+    type: string_textarea
+    weight: 23
+    region: content
+    settings:
+      rows: 5
+      placeholder: ''
+    third_party_settings: {}
+  field_source_kind:
+    type: options_select
+    weight: 24
+    region: content
+    settings: {}
+    third_party_settings: {}
+  field_note:
+    type: string_textarea
+    weight: 25
+    region: content
+    settings:
+      rows: 5
+      placeholder: ''
+    third_party_settings: {}
+  title:
+    type: string_textfield
+    weight: -5
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {}
+  status:
+    type: boolean_checkbox
+    weight: 200
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {}
+hidden:
+  created: true
+  promote: true
+  sticky: true
+  uid: true

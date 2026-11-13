@@ -1,0 +1,209 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.field.node.series.field_couples_count_stated
+  - field.field.node.series.field_final_date
+  - field.field.node.series.field_first_live_date
+  - field.field.node.series.field_home_venue
+  - field.field.node.series.field_infobox_first_aired
+  - field.field.node.series.field_infobox_last_aired
+  - field.field.node.series.field_infobox_num_episodes
+  - field.field.node.series.field_key
+  - field.field.node.series.field_label
+  - field.field.node.series.field_launch_date
+  - field.field.node.series.field_note
+  - field.field.node.series.field_parent_series
+  - field.field.node.series.field_series_kind
+  - field.field.node.series.field_series_number
+  - field.field.node.series.field_series_status
+  - field.field.node.series.field_source_capture
+  - field.field.node.series.field_source_kind
+  - field.field.node.series.field_source_locator
+  - field.field.node.series.field_weeks_count_stated
+  - field.field.node.series.field_wiki_title
+  - field.field.node.series.field_year_start
+  - node.type.series
+  module:
+  - datetime
+  - options
+id: node.series.default
+targetEntityType: node
+bundle: series
+mode: default
+content:
+  field_key:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 0
+    region: content
+  field_series_kind:
+    type: list_default
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 1
+    region: content
+  field_series_number:
+    type: number_integer
+    label: inline
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 2
+    region: content
+  field_parent_series:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 3
+    region: content
+  field_label:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 4
+    region: content
+  field_wiki_title:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 5
+    region: content
+  field_year_start:
+    type: number_integer
+    label: inline
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 6
+    region: content
+  field_launch_date:
+    type: datetime_default
+    label: inline
+    settings:
+      timezone_override: ''
+      format_type: html_date
+    third_party_settings: {}
+    weight: 7
+    region: content
+  field_first_live_date:
+    type: datetime_default
+    label: inline
+    settings:
+      timezone_override: ''
+      format_type: html_date
+    third_party_settings: {}
+    weight: 8
+    region: content
+  field_final_date:
+    type: datetime_default
+    label: inline
+    settings:
+      timezone_override: ''
+      format_type: html_date
+    third_party_settings: {}
+    weight: 9
+    region: content
+  field_infobox_first_aired:
+    type: datetime_default
+    label: inline
+    settings:
+      timezone_override: ''
+      format_type: html_date
+    third_party_settings: {}
+    weight: 10
+    region: content
+  field_infobox_last_aired:
+    type: datetime_default
+    label: inline
+    settings:
+      timezone_override: ''
+      format_type: html_date
+    third_party_settings: {}
+    weight: 11
+    region: content
+  field_infobox_num_episodes:
+    type: number_integer
+    label: inline
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 12
+    region: content
+  field_home_venue:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 13
+    region: content
+  field_series_status:
+    type: list_default
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 14
+    region: content
+  field_couples_count_stated:
+    type: number_integer
+    label: inline
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 15
+    region: content
+  field_weeks_count_stated:
+    type: number_integer
+    label: inline
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 16
+    region: content
+  field_source_capture:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 17
+    region: content
+  field_source_locator:
+    type: basic_string
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 18
+    region: content
+  field_source_kind:
+    type: list_default
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 19
+    region: content
+  field_note:
+    type: basic_string
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 20
+    region: content
+hidden:
+  links: true

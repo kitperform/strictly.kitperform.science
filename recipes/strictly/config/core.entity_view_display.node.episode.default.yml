@@ -1,0 +1,239 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.field.node.episode.field_air_date
+  - field.field.node.episode.field_air_date_source
+  - field.field.node.episode.field_charity_beneficiary
+  - field.field.node.episode.field_episode_kind
+  - field.field.node.episode.field_episode_status
+  - field.field.node.episode.field_key
+  - field.field.node.episode.field_label_raw
+  - field.field.node.episode.field_listed_in_ratings
+  - field.field.node.episode.field_note
+  - field.field.node.episode.field_original_air_date
+  - field.field.node.episode.field_rank_all_uk
+  - field.field.node.episode.field_rank_bbc_one
+  - field.field.node.episode.field_rating_millions
+  - field.field.node.episode.field_reschedule_reason_text
+  - field.field.node.episode.field_scale_max_stated
+  - field.field.node.episode.field_sequence_in_week
+  - field.field.node.episode.field_series
+  - field.field.node.episode.field_share_pct
+  - field.field.node.episode.field_source_capture
+  - field.field.node.episode.field_source_kind
+  - field.field.node.episode.field_source_locator
+  - field.field.node.episode.field_sub_label
+  - field.field.node.episode.field_venue
+  - field.field.node.episode.field_week
+  - node.type.episode
+  module:
+  - datetime
+  - options
+id: node.episode.default
+targetEntityType: node
+bundle: episode
+mode: default
+content:
+  field_key:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 0
+    region: content
+  field_series:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 1
+    region: content
+  field_week:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 2
+    region: content
+  field_episode_kind:
+    type: list_default
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 3
+    region: content
+  field_sub_label:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 4
+    region: content
+  field_sequence_in_week:
+    type: number_integer
+    label: inline
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 5
+    region: content
+  field_label_raw:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 6
+    region: content
+  field_listed_in_ratings:
+    type: boolean
+    label: inline
+    settings:
+      format: default
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {}
+    weight: 7
+    region: content
+  field_air_date:
+    type: datetime_default
+    label: inline
+    settings:
+      timezone_override: ''
+      format_type: html_date
+    third_party_settings: {}
+    weight: 8
+    region: content
+  field_air_date_source:
+    type: list_default
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 9
+    region: content
+  field_original_air_date:
+    type: datetime_default
+    label: inline
+    settings:
+      timezone_override: ''
+      format_type: html_date
+    third_party_settings: {}
+    weight: 10
+    region: content
+  field_reschedule_reason_text:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 11
+    region: content
+  field_episode_status:
+    type: list_default
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 12
+    region: content
+  field_venue:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 13
+    region: content
+  field_charity_beneficiary:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 14
+    region: content
+  field_scale_max_stated:
+    type: number_integer
+    label: inline
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 15
+    region: content
+  field_rating_millions:
+    type: number_decimal
+    label: inline
+    settings:
+      thousand_separator: ''
+      decimal_separator: .
+      scale: 2
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 16
+    region: content
+  field_rank_bbc_one:
+    type: number_integer
+    label: inline
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 17
+    region: content
+  field_rank_all_uk:
+    type: number_integer
+    label: inline
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 18
+    region: content
+  field_share_pct:
+    type: number_decimal
+    label: inline
+    settings:
+      thousand_separator: ''
+      decimal_separator: .
+      scale: 2
+      prefix_suffix: true
+    third_party_settings: {}
+    weight: 19
+    region: content
+  field_source_capture:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {}
+    weight: 20
+    region: content
+  field_source_locator:
+    type: basic_string
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 21
+    region: content
+  field_source_kind:
+    type: list_default
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 22
+    region: content
+  field_note:
+    type: basic_string
+    label: inline
+    settings: {}
+    third_party_settings: {}
+    weight: 23
+    region: content
+hidden:
+  links: true

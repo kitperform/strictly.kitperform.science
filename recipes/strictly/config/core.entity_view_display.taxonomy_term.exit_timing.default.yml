@@ -1,0 +1,29 @@
+langcode: en
+status: true
+dependencies:
+  config:
+  - field.field.taxonomy_term.exit_timing.field_key
+  - taxonomy.vocabulary.exit_timing
+  module:
+  - text
+id: taxonomy_term.exit_timing.default
+targetEntityType: taxonomy_term
+bundle: exit_timing
+mode: default
+content:
+  field_key:
+    type: string
+    label: inline
+    settings:
+      link_to_entity: false
+    third_party_settings: {}
+    weight: 0
+    region: content
+  description:
+    type: text_default
+    label: hidden
+    settings: {}
+    third_party_settings: {}
+    weight: -1
+    region: content
+hidden: {}
