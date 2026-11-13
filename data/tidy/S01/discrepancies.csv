@@ -1,0 +1,2 @@
+discrepancy_key,table_name,natural_key,field_name,value_a,source_capture_a_key,locator_a,value_b,value_b_origin,source_capture_b_key,locator_b,resolution,note
+Episode|S01W05-P|air_date|1,Episode,S01W05-P,air_date,2004-06-12,enwiki:Strictly_Come_Dancing_series_1:r1380451131:parsoid_html,section=Couples; row=Claire Sweeney; col=Status,2004-06-13,capture,enwiki:Strictly_Come_Dancing_series_1:r1380451131:parsoid_html,section=Ratings; row=Week 5,prefer_a,"page-internal date conflict; the Couples-table date is preferred (A004, open question 15)"

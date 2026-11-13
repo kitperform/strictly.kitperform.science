@@ -15,8 +15,8 @@ Part of the [Kit Perform](https://github.com/kitperform) family of performance-a
 - `scripts/fetch-wikipedia.sh` (HTML) and `scripts/fetch-wikitext.py` (wikitext + manifest, optional `--parsoid N`) — reproducible fetchers
 - `strictly_parser/` — the Phase 0 parser: turns a captured series page into the tidy CSV dataset defined in `docs/data-model-v2.md` section 10
 - `curated/` — small hand-maintained tables for facts the page does not state (head judge, format rules, label typos, dance families); see `curated/README.md`
-- `data/tidy/S02/` to `data/tidy/S24/` — the parser's output per series: one CSV per table plus `build_report.md` with the integrity checks
-- `tests/` — pytest acceptance tests pinning known facts of series 2 to 24 (withdrawals, byes, instant dances, rotating casting votes, the triple dance-off, carried-over weeks, finals)
+- `data/tidy/S01/` to `data/tidy/S24/` — the parser's output per series: one CSV per table plus `build_report.md` with the integrity checks
+- `tests/` — pytest acceptance tests pinning known facts of every series, 1 to 24 (withdrawals, byes, instant dances, rotating casting votes, the triple dance-off, carried-over weeks, finals)
 - `prototypes/` — parser prototypes that established the approach (`prototypes/README.md`)
 - `scraping-evaluation.ipynb`, `four-tens-experimentation.ipynb` — early Jupyter experiments (merged in from the former `strictly-jupyter` fork)
 
@@ -60,17 +60,18 @@ The project is in early-stage discovery.
 ```sh
 python3 -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
-python -m strictly_parser 24          # writes data/tidy/S24/*.csv and build_report.md (2 to 23 likewise)
+python -m strictly_parser 24          # writes data/tidy/S24/*.csv and build_report.md (any series 1 to 23 likewise)
 python -m pytest -q tests             # acceptance tests against the series 24 capture
 ```
 
 The parser reads `data/wikipedia/parsoid/series_24.parsoid.html` (fetched at the revision recorded in `data/wikipedia/wikitext/MANIFEST.csv`) and the tables in `curated/`. It exits non-zero if any integrity check in the report fails. Re-fetch with `scripts/fetch-wikitext.py 24 --parsoid 24` and re-run to pick up a new week.
 
-Known limits before series 1 to 23 can be built (from the code review of the Phase 0 parser):
+Every series from 1 to 24 builds with all integrity checks passing. Known limits of the current dataset:
 
-- per-week judge-order overrides drive seats, marks, absent and replacement rows and the scoring scale, including three-judge and five-judge weeks;
-- marathons, instant dances, 'Group ...' rows and the unscored group routines of non-competing couples have a `group_key`; couple-less (professional or troupe) routines are not loaded, by decision;
-- legacy (non-Parsoid) HTML has no `<section>` wrappers, so series 1 to 21 need Parsoid re-captures at their manifest revisions (`scripts/fetch-wikitext.py N --parsoid N`) or a sibling-walking fallback;
+- couple-less routines (professional group numbers, the series 8 troupe) and the Christmas and charity specials are not loaded, by decision;
+- presenter and musical-guest appearances are not loaded (the schema exists; see the data model's open questions);
+- a few derived columns listed in the data model (`d_tally_class`, `d_round_total`, `uuid`) are not yet emitted;
+- pre-series professional departures stated only in prose (for example Kevin Clifton leaving before series 18) have no roster rows yet;
 - each new series needs rows in `curated/series_meta.csv`, `series_panels.csv` and `format_rules.csv`.
 
 ## Local setup

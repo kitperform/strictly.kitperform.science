@@ -45,7 +45,8 @@ def parse_date(text, year_hint, start_month=9):
         return None
     if year:
         return dt.date(int(year), month, day)
-    y = year_hint if month >= start_month else year_hint + 1
+    # no series crosses a year end; a preview or launch show may fall a month or two before the first live show
+    y = year_hint if month >= start_month - 3 else year_hint + 1
     return dt.date(y, month, day)
 
 
@@ -173,6 +174,8 @@ class Build:
         release = ib.get("Original release", "")
         years = re.findall(r"\b(20\d\d|19\d\d)\b", release)
         self.year = int(years[0]) if years else self.rev_date.year
+        iso0 = re.findall(r"\d{4}-(\d{2})-\d{2}", release)
+        self.start_month = int(iso0[0]) if iso0 else 9
         self.weeks = {}          # number -> week dict
         self.episodes = {}       # episode_key -> row
         self.week_eps = defaultdict(dict)  # week -> {code: episode_key}
@@ -186,7 +189,7 @@ class Build:
                 if not re.match(r"^(Series|Average|Overall)", r["label"]):
                     self.warn(f"Ratings row label not understood: {r['label']!r}")
                 continue
-            date = parse_date(r["date_text"], self.year)
+            date = parse_date(r["date_text"], self.year, self.start_month)
             if m.group(1):
                 is_preview = m.group(1).lower() == "preview"
                 key, kind, wk, code, sub = (f"{self.skey}-PV", "preview", None, "PV", "none") if is_preview else (f"{self.skey}-L", "launch", None, "L", "none")
@@ -838,6 +841,11 @@ class Build:
             if cc is None:
                 continue
             label = cc["text"]
+            if " | " in label and not cc["spanned"]:
+                members = [self.resolve_couple(part, "weekly", wk) for part in label.split(" | ") if part.strip()]
+                if members and all(members):
+                    self.group_row(wk, h, ekey, cells, roles, members, label)
+                    continue
             ckey = self.resolve_couple(label, "weekly", wk)
             if not ckey:
                 continue
@@ -1036,6 +1044,30 @@ class Build:
                 return order[n - 1]
             return "unknown"
         return "unlearned"
+
+    def group_row(self, wk, h, ekey, cells, roles, members, label):
+        """A weekly-table row whose header lists several couples: a group routine shared by them (A003)."""
+        wkk = week_key(self.skey, wk)
+        dance_txt = cells["dance"]["text"].replace(" | ", " ") if "dance" in cells else ""
+        dance_core = re.sub(r"^Group\s+", "", dance_txt, flags=re.I).strip()
+        dkey = self.dance_key(dance_core, wk) if dance_core else ""
+        score_txt = cells["scores"]["text"] if "scores" in cells else ""
+        music_txt = cells["music"]["text"] if "music" in cells else ""
+        sm = SCORE_RE.match(score_txt)
+        kind = "group_scored" if sm else "group_unscored"
+        for ckey in members:
+            self.week_rows[wk].add(ckey)
+            perf = {
+                "performance_key": f"{ekey}-{ckey.split('-', 1)[1]}-{dkey or 'group'}", "episode_key": ekey, "week_key": wkk, "series_key": self.skey, "performer_group": "couple",
+                "couple_key": ckey, "performing_pro_slug": self.partnership_at(ckey, wk)["pro_person_key"], "couple_label_raw": label, "sequence_in_episode": 1 + sum(1 for p in self.T["performances"] if p["couple_key"] == ckey and p["episode_key"] == ekey),
+                "running_order": "", "group_key": f"{ekey}-G1", "performance_kind": kind, "selection_role": "group", "performance_status": "performed",
+                "scoring_mode": "judge_marks" if sm else "unscored", "stated_total": int(sm.group(1)) if sm else "", "n_marks_stated": len(sm.group(2).split(",")) if sm else "",
+                "score_cell_raw": score_txt, "points_value": "", "dance_key": dkey, "dance_secondary_key": "", "dance_raw": dance_txt, "theme_reference_text": "",
+                "theme_reference_wiki_title": "", "theme_column_label": "", "music_raw": music_txt, "_marks": [int(x) for x in re.split(r"\s*,\s*", sm.group(2))] if sm else [],
+                **self.prov(f"section={h['heading']}; table row={label[:40]}", "stated", "group routine listed against several couples in one row")}
+            self.T["performances"].append(perf)
+            if music_txt and "music" in cells:
+                self.parse_music(perf, cells["music"]["el"], music_txt, h["heading"], label[:40])
 
     def dance_key(self, text, wk):
         t = text.strip()
@@ -1492,12 +1524,18 @@ class Build:
         for wk, h in self.headings.items():
             prose = " ".join(p for p, _ in h["paragraphs"])
             gm = re.search(r"performed a group ([\w' \-]+?)(?: dance)? that was not scored", prose, re.I)
+            all_couples = False
+            if not gm:
+                gm = re.search(r"(?:and then|then) (?:performed )?a group ([\w' \-]+?)(?: dance)?(?=[.,;]| that| in| for)", prose, re.I)
+                all_couples = bool(gm)
             if not gm:
                 continue
             dkey = self.dance_key(gm.group(1).strip(), wk)
             wkk = week_key(self.skey, wk)
+            if all_couples and any(p["week_key"] == wkk and p["dance_key"] == dkey for p in self.T["performances"]):
+                continue  # the group routine is already in the weekly table
             for cw in self.T["couple_weeks"]:
-                if cw["week_key"] == wkk and cw["participation_status"] == "group_only":
+                if cw["week_key"] == wkk and (cw["participation_status"] == "group_only" or (all_couples and cw["participation_status"] == "competed")):
                     ckey = cw["couple_key"]
                     self.T["performances"].append({
                         "performance_key": f"{wkk}-{ckey.split('-', 1)[1]}-{dkey}", "episode_key": "", "week_key": wkk, "series_key": self.skey, "performer_group": "couple",
@@ -1505,7 +1543,7 @@ class Build:
                         "running_order": "", "group_key": f"{wkk}-G1", "performance_kind": "group_unscored", "selection_role": "group", "performance_status": "performed",
                         "scoring_mode": "unscored", "stated_total": "", "n_marks_stated": "", "score_cell_raw": "", "points_value": "", "dance_key": dkey, "dance_secondary_key": "",
                         "dance_raw": gm.group(1).strip(), "theme_reference_text": "", "theme_reference_wiki_title": "", "theme_column_label": "", "music_raw": "", "_marks": [],
-                        **self.prov(f"section={h['heading']}; prose", "stated", "unscored group routine by the couples who did not compete this week")})
+                        **self.prov(f"section={h['heading']}; prose", "stated", "unscored group routine danced by every competing couple (A003)" if all_couples else "unscored group routine by the couples who did not compete this week")})
         # week lifecycle
         for wk, w in self.weeks.items():
             if self.week_has_scores.get(wk):
@@ -1551,7 +1589,7 @@ class Build:
                 return int(e["week_key"][-2:])
         # rule E1: exit date with no Ratings row -> the week whose performance date precedes it by at most a day
         for ekey, e in self.episodes.items():
-            if e["week_key"] and e["air_date"] and 0 <= (d - dt.date.fromisoformat(e["air_date"])).days <= 1:
+            if e["week_key"] and e["air_date"] and abs((d - dt.date.fromisoformat(e["air_date"])).days) <= 1:
                 return int(e["week_key"][-2:])
         self.warn(f"{couple['couple_key']}: exit date {d} matches no episode")
         return None
@@ -1559,6 +1597,17 @@ class Build:
     def finish_couples(self):
         for ckey, c in self.couples_by_key.items():
             wk = c["_exit_week"]
+            if wk and c["exit_kind"] == "eliminated" and c["exit_date"] and len(self.week_eps.get(wk, {})) == 1:
+                ekey = next(iter(self.week_eps[wk].values()))
+                ep = self.episodes[ekey]
+                if ep["air_date"] and ep["air_date"] != c["exit_date"] and ep["air_date_source"] == "ratings_table":
+                    self.T["discrepancies"].append({
+                        "discrepancy_key": f"Episode|{ekey}|air_date|1", "table_name": "Episode", "natural_key": ekey, "field_name": "air_date",
+                        "value_a": c["exit_date"], "source_capture_a_key": self.capture_key, "locator_a": f"section=Couples; row={c['celebrity_display_name']}; col=Status",
+                        "value_b": ep["air_date"], "value_b_origin": "capture", "source_capture_b_key": self.capture_key, "locator_b": f"section=Ratings; row={ep['label_raw']}",
+                        "resolution": "prefer_a", "note": "page-internal date conflict; the Couples-table date is preferred (A004, open question 15)"})
+                    ep.update({"air_date": c["exit_date"], "air_date_source": "couples_table", "source_kind": "disputed", "episode_kind": "performance_and_results",
+                               "note": (ep["note"] + "; " if ep["note"] else "") + "air date taken from the Couples table; the Ratings row disagrees (A004); results inside the show (rule E1)"})
             if wk:
                 c["exit_week_key"] = week_key(self.skey, wk)
                 if c["exit_kind"] in ("eliminated", "finalist"):
