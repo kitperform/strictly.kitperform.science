@@ -463,7 +463,7 @@ class Build:
                 "notability_text": r["notability"] or "", "final_placement": placement, "place_is_shared": "true" if head_is_shared(m) else "false",
                 "place_label_raw": place_label, "exit_kind": exit_kind, "exit_ordinal": ordinal if ordinal is not None else "",
                 "exit_ordinal_is_shared": "true" if ordinal2 else "false",
-                "exit_ordinal_text": re.sub(r"\s*on \d.*$", "", m.group(1)) if m and ordinal else "",
+                "exit_ordinal_text": re.sub(r"^Eliminated\s+", "", re.sub(r"\s*on \d.*$", "", m.group(1))) if m and ordinal else "",
                 "exit_week_key": "", "exit_round_key": "", "exit_episode_key": "", "exit_date": exit_date.isoformat() if exit_date else "",
                 "exit_date_kind": "", "exit_timing": "", "exit_reason": "", "exit_affected_party": "", "status_raw": r["status_text"],
                 "couples_table_order": i, "_exit_date": exit_date,
@@ -635,8 +635,9 @@ class Build:
                     "roster_status": "unpartnered", "display_name_in_series": new_name, "is_head_judge": "false", "replaces_person_key": "", "replaced_by_person_key": "",
                     "paired_with_person_key": "", "reason": "", "reason_text": "", "event_date": "", "first_week_key": week_key(self.skey, 1),
                     "last_week_key": week_key(self.skey, w_from - 1), **self.prov("section=Couples; professional partner cell", "inferred", "unpartnered until the stated take-over week")})
+            nth = 1 + sum(1 for r in self.T["series_people"] if r["person_key"] == new_slug and r["role"] == "professional")
             self.T["series_people"].append({
-                "series_person_key": f"{self.skey}-{new_slug}-professional-2", "series_key": self.skey, "person_key": new_slug, "role": "professional",
+                "series_person_key": f"{self.skey}-{new_slug}-professional-{nth}", "series_key": self.skey, "person_key": new_slug, "role": "professional",
                 "roster_status": "partnered_mid_series", "display_name_in_series": new_name, "is_head_judge": "false", "replaces_person_key": old_slug,
                 "replaced_by_person_key": "", "paired_with_person_key": "", "reason": reason or "", "reason_text": "", "event_date": "",
                 "first_week_key": week_key(self.skey, w_from), "last_week_key": week_key(self.skey, w_to) if w_to != "" else "",
@@ -807,6 +808,9 @@ class Build:
         for ri, row in enumerate(grid[1:], 1):
             if all(c["is_header"] for c in row):
                 continue
+            while len(row) > len(roles) and any(c["text"] == "" and not c["is_header"] for c in row[1:]):
+                row = [c for i, c in enumerate(row) if not (i == next(j for j, x in enumerate(row) if j > 0 and x["text"] == "" and not x["is_header"]))]
+                self.warn(f"week {wk}: a row had one more cell than the header; an empty cell was dropped (A088)")
             cells = dict(zip(roles, row))
             cc = cells.get("couple")
             if cc is None:
@@ -928,7 +932,8 @@ class Build:
         return {"pro_person_key": "", "partnership_kind": ""}
 
     ROLE_PHRASES = (("chosen by the judges", "repeat_judges_choice"), ("judges' pick", "repeat_judges_choice"), ("judges' choice", "repeat_judges_choice"),
-                    ("judges choice", "repeat_judges_choice"), ("favourite", "repeat_favourite"), ("favorite", "repeat_favourite"))
+                    ("judges choice", "repeat_judges_choice"), ("favourite", "repeat_favourite"), ("favorite", "repeat_favourite"),
+                    ("unlearned dance", "unlearned"), ("new dance", "unlearned"))
 
     def roles_in(self, text):
         """Non-showdance selection roles named in a dance-chart bullet or prose, in the order they appear."""
@@ -1147,7 +1152,7 @@ class Build:
             "round_key": rkey, "series_key": self.skey, "round_kind": "final_placing" if is_final else "standard", "label": label,
             "deciding_week_key": wkk, "decided_at_episode_key": decided_at or "", "week_keys": "|".join(week_key(self.skey, w) for w in weeks),
             "elimination_mechanism_actual": mechanism, "exit_count": len(eliminated),
-            "at_risk_group_size_actual": len(at_risk) if at_risk else "", "dance_off_status": dance_off, "vote_direction": direction,
+            "at_risk_group_size_actual": len(at_risk) if (at_risk and len(at_risk) > len(eliminated)) else "", "dance_off_status": dance_off, "vote_direction": direction,
             "casting_vote_slug": holder or "", "casting_vote_used": used, "casting_vote_inferred": inferred, "votes_recorded": "true" if votes else "false",
             "votes_carried_over": ("true" if combined_from in self.carry_votes_weeks else "" if combined_from in self.chart_only_carry else "false") if (combined_from and combined_from in self.carry_weeks) else "", "combined_reason": reason,
             "casting_vote_source_kind": holder_kind if holder else "",
@@ -1263,7 +1268,8 @@ class Build:
                             rk = self.intermediate_rounds[wk][0]
                         if wk in self.carry_weeks:
                             rk = ""
-                        at_risk = res in ("bottom_two", "bottom_three", "eliminated")
+                        bottom_announced = any(RESULT_MAP.get(t.lower()) in ("bottom_two", "bottom_three") for t, _ in self.week_results.get(wk, {}).values())
+                        at_risk = res in ("bottom_two", "bottom_three") or (res == "eliminated" and bottom_announced)
                         rnd = next((r for r in self.T["results_rounds"] if r["round_key"] == rk), None)
                         if res in ("bottom_two", "bottom_three", "eliminated") and rnd is not None and rnd["dance_off_status"].startswith("cancelled"):
                             note = "dance-off cancelled this week; the couple was at risk but did not dance off"
@@ -1335,6 +1341,9 @@ class Build:
                     p["week_to"] = end
                 elif p["couple_key"] == ckey and int(p["week_to"]) > end:
                     p["week_to"] = end
+        # an inferred return of the original professional after the couple's exit never happened
+        self.T["couple_partnerships"] = [p for p in self.T["couple_partnerships"]
+                                         if not (p["partnership_kind"] == "original" and p["source_kind"] == "inferred" and int(p["week_from"]) > int(p["week_to"]))]
         self.T["weeks"] = [self.weeks[w] for w in sorted(self.weeks)]
         self.T["episodes"] = [self.episodes[k] for k in sorted(self.episodes, key=lambda k: (self.episodes[k]["air_date"] or "9999", k))]
 
@@ -1506,7 +1515,8 @@ class Build:
         self.check("check 12: performance keys unique", max(keys.values(), default=0) == 1, "")
         for ckey in self.couples_by_key:
             rows = sorted((p for p in T["couple_partnerships"] if p["couple_key"] == ckey and p["partnership_kind"] != "pre_series_only"), key=lambda p: p["week_from"])
-            ok = rows and rows[0]["week_from"] == 1 and all(rows[i]["week_to"] + 1 == rows[i + 1]["week_from"] for i in range(len(rows) - 1))
+            ok = rows and rows[0]["week_from"] == 1 and all(int(p["week_from"]) <= int(p["week_to"]) for p in rows) \
+                and all(rows[i]["week_to"] + 1 == rows[i + 1]["week_from"] for i in range(len(rows) - 1))
             if not ok:
                 self.check(f"check 11: partnerships contiguous {ckey}", False, str(rows))
         self.check("check 11: partnerships contiguous", all(c[1] for c in self.report["checks"] if c[0].startswith("check 11")), "")

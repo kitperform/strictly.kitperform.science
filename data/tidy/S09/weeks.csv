@@ -1,0 +1,13 @@
+week_key,series_key,week_number,round_stage,theme_key,heading_raw,dance_brief_raw,lifecycle_status,source_capture_key,source_locator,source_kind,note
+S09W01,S09,1,regular,,Week 1,One unlearned dance (cha-cha-cha or waltz),results_in,enwiki:Strictly_Come_Dancing_series_9:r1383264459:parsoid_html,section=Week 1,stated,
+S09W02,S09,2,regular,,Week 2,One unlearned dance (foxtrot or salsa),results_in,enwiki:Strictly_Come_Dancing_series_9:r1383264459:parsoid_html,section=Week 2,stated,
+S09W03,S09,3,regular,broadway-night,Week 3: Broadway Night,One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_9:r1383264459:parsoid_html,section=Week 3: Broadway Night,stated,
+S09W04,S09,4,regular,,Week 4,One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_9:r1383264459:parsoid_html,section=Week 4,stated,
+S09W05,S09,5,regular,halloween-night,Week 5: Halloween Night,One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_9:r1383264459:parsoid_html,section=Week 5: Halloween Night,stated,
+S09W06,S09,6,regular,,Week 6,One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_9:r1383264459:parsoid_html,section=Week 6,stated,
+S09W07,S09,7,regular,,Week 7,One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_9:r1383264459:parsoid_html,section=Week 7,stated,
+S09W08,S09,8,regular,best-of-britain-week,Week 8: Best of Britain Week,One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_9:r1383264459:parsoid_html,section=Week 8: Best of Britain Week,stated,
+S09W09,S09,9,regular,,Week 9,One unlearned dance & swing dance marathon,results_in,enwiki:Strictly_Come_Dancing_series_9:r1383264459:parsoid_html,section=Week 9,stated,
+S09W10,S09,10,quarter_final,movie-night,Week 10: Movie Night (Quarter-final),One unlearned dance,results_in,enwiki:Strictly_Come_Dancing_series_9:r1383264459:parsoid_html,section=Week 10: Movie Night (Quarter-final),stated,
+S09W11,S09,11,semi_final,,Week 11: Semi-final,Two unlearned dances,results_in,enwiki:Strictly_Come_Dancing_series_9:r1383264459:parsoid_html,section=Week 11: Semi-final,stated,
+S09W12,S09,12,final,,Week 12: Final,One unlearned dance & favourite dance of the series,results_in,enwiki:Strictly_Come_Dancing_series_9:r1383264459:parsoid_html,section=Week 12: Final,stated,
