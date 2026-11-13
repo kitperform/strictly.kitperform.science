@@ -1,0 +1,9 @@
+week_key,series_key,week_number,round_stage,theme_key,heading_raw,dance_brief_raw,lifecycle_status,source_capture_key,source_locator,source_kind,note
+S02W01,S02,1,regular,,Week 1,One unlearned dance (cha-cha-cha or waltz),results_in,enwiki:Strictly_Come_Dancing_series_2:r1380013180:parsoid_html,section=Week 1,stated,
+S02W02,S02,2,regular,,Week 2,One unlearned dance (quickstep or rumba),results_in,enwiki:Strictly_Come_Dancing_series_2:r1380013180:parsoid_html,section=Week 2,stated,
+S02W03,S02,3,regular,,Week 3,One unlearned dance (jive or tango),results_in,enwiki:Strictly_Come_Dancing_series_2:r1380013180:parsoid_html,section=Week 3,stated,
+S02W04,S02,4,regular,,Week 4,One unlearned dance (foxtrot or paso doble),results_in,enwiki:Strictly_Come_Dancing_series_2:r1380013180:parsoid_html,section=Week 4,stated,
+S02W05,S02,5,regular,blackpool-week,Week 5: Blackpool Week,Samba,results_in,enwiki:Strictly_Come_Dancing_series_2:r1380013180:parsoid_html,section=Week 5: Blackpool Week,stated,
+S02W06,S02,6,quarter_final,,Week 6: Quarterfinal,Two unlearned dances,results_in,enwiki:Strictly_Come_Dancing_series_2:r1380013180:parsoid_html,section=Week 6: Quarterfinal,stated,
+S02W07,S02,7,semi_final,,Week 7: Semifinal,Two unlearned dances,results_in,enwiki:Strictly_Come_Dancing_series_2:r1380013180:parsoid_html,section=Week 7: Semifinal,stated,
+S02W08,S02,8,final,,Week 8: Final,"Favourite ballroom dance, favourite Latin dance & showdance",results_in,enwiki:Strictly_Come_Dancing_series_2:r1380013180:parsoid_html,section=Week 8: Final,stated,

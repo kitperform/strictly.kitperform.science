@@ -1004,6 +1004,8 @@ class Build:
             text = re.sub(r"^Weeks?[^:]*:\s*", "", bullet).lower()
             text = re.sub(r"\([^)]*\)", "", text)  # '(cha-cha-cha or waltz)' lists choices, not prescriptions
             dance_name = next((d["name"].lower() for d in self.T["dances"] if d["dance_key"] == dance_key), "")
+            if dance_name and text.strip() == dance_name:
+                return "prescribed"  # 'Week 5: Samba' - one dance prescribed for everyone (A016)
             if dance_name and dance_name in text and re.search(r"\s(&|and)\s", text) and "unlearned" in text.replace(dance_name, ""):
                 return "prescribed"
             if dance_name and dance_name in text and re.search(r"\s(&|and)\s", text) and ("re-choreographed" in text or "judges' choice" in text):
